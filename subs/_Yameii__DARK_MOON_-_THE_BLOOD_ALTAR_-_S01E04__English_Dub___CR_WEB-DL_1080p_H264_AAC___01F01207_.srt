@@ -1,0 +1,12 @@
+1
+00:01:54,080 --> 00:02:00,000
+<font face="Gandhi Sans" size="24"><b>{\an8}DARK MOON: THE BLOOD ALTAR</b></font>
+
+2
+00:02:02,040 --> 00:02:05,000
+<font face="Gandhi Sans" size="24"><b>{\an8}BLOOD MOON: NIGHT OF THE TOTAL ECLIPSE</b></font>
+
+3
+00:12:04,960 --> 00:12:12,960
+<font face="Gandhi Sans" size="24"><b>{\an8}DARK MOON: THE BLOOD ALTAR</b></font>
+
