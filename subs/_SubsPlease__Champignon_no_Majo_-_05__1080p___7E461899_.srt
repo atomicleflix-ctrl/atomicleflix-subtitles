@@ -1,0 +1,1319 @@
+1
+00:00:07,730 --> 00:00:09,510
+<font face="Roboto Medium" size="26">He still isn't awake yet?</font>
+
+2
+00:00:12,950 --> 00:00:15,360
+<font face="Roboto Medium" size="26">This whole thing is such a mess.</font>
+
+3
+00:00:15,610 --> 00:00:18,030
+<font face="Roboto Medium" size="26">I will raise this child by myself.</font>
+
+4
+00:00:18,030 --> 00:00:20,540
+<font face="Roboto Medium" size="26">I know that I can make 
+him into a magician.</font>
+
+5
+00:00:20,810 --> 00:00:25,550
+<font face="Roboto Medium" size="26">None of us have any idea when that boy 
+may transform into The End of All Things.</font>
+
+6
+00:00:26,210 --> 00:00:30,350
+<font face="Roboto Medium" size="26"><i>I believe in Luna. I believe in her.</i></font>
+
+7
+00:00:32,380 --> 00:00:34,140
+<font face="Roboto Medium" size="26">Oh, I meant to ask you.</font>
+
+8
+00:00:34,570 --> 00:00:37,760
+<font face="Roboto Medium" size="26">That Cat Witch that 
+appeared the other day.</font>
+
+9
+00:00:37,760 --> 00:00:39,410
+<font face="Roboto Medium" size="26">She was a friend of yours?</font>
+
+10
+00:02:18,380 --> 00:02:24,600
+<font face="Roboto Medium" size="26"><i>This story happened before the black 
+cat Sisi came to live in Luna's house.</i></font>
+
+11
+00:02:27,420 --> 00:02:30,000
+<font face="Roboto Medium" size="26">Look. Isn't that her?</font>
+
+12
+00:02:30,000 --> 00:02:32,470
+<font face="Roboto Medium" size="26">The one who moved to the forest</font>
+
+13
+00:02:30,560 --> 00:02:36,900
+<font face="Roboto Medium" size="26">{\an8}EPISODE 5: I CANNOT RETURN
+ TO THE CAT FOREST</font>
+
+14
+00:02:32,470 --> 00:02:35,010
+<font face="Roboto Medium" size="26">and got a special exemption 
+to become a black witch?</font>
+
+15
+00:02:35,500 --> 00:02:38,510
+<font face="Roboto Medium" size="26">The Champignon Witch, Luna?</font>
+
+16
+00:02:38,990 --> 00:02:45,680
+<font face="Roboto Medium" size="26">Ew, look! Everything she steps on or 
+touches really does grow mushrooms!</font>
+
+17
+00:02:45,680 --> 00:02:51,730
+<font face="Roboto Medium" size="26">Hey, Dorothy! If we're here to spy on 
+her, could you at least keep it down?</font>
+
+18
+00:02:51,730 --> 00:02:53,980
+<font face="Roboto Medium" size="26">Ew, that's so gross!</font>
+
+19
+00:02:53,980 --> 00:02:56,190
+<font face="Roboto Medium" size="26">Are you even listening to me, Dorothy?</font>
+
+20
+00:02:56,190 --> 00:02:59,870
+<font face="Roboto Medium" size="26">You don't have to tell me, Bat Magician.</font>
+
+21
+00:02:59,870 --> 00:03:03,160
+<font face="Roboto Medium" size="26">We're here as representatives 
+of the black witches</font>
+
+22
+00:03:03,160 --> 00:03:06,730
+<font face="Roboto Medium" size="26">to spy on the shady new girl.</font>
+
+23
+00:03:08,500 --> 00:03:11,750
+<font face="Roboto Medium" size="26">Hey, hey! A real weirdo moved in nearby!</font>
+
+24
+00:03:11,750 --> 00:03:14,730
+<font face="Roboto Medium" size="26">Imagine the nerve! Let's go find her!</font>
+
+25
+00:03:15,580 --> 00:03:18,780
+<font face="Roboto Medium" size="26">How are we representatives 
+when nobody asked us to come?</font>
+
+26
+00:03:19,210 --> 00:03:22,380
+<font face="Roboto Medium" size="26">How about you shut up, Mouse Magician!</font>
+
+27
+00:03:22,380 --> 00:03:23,690
+<font face="Roboto Medium" size="26">Hiss!</font>
+
+28
+00:03:23,530 --> 00:03:27,120
+<font face="Roboto Medium" size="26">{\an8}SECOND-RATE BULLY</font>
+
+29
+00:03:23,690 --> 00:03:25,020
+<font face="Roboto Medium" size="26"><i>I just wanna go home.</i></font>
+
+30
+00:03:24,620 --> 00:03:27,120
+<font face="Roboto Medium" size="26">{\an8}PICKS ON THE WEAK</font>
+
+31
+00:03:25,020 --> 00:03:27,140
+<font face="Roboto Medium" size="26"><i>You're the one who needs to shut up.</i></font>
+
+32
+00:03:27,140 --> 00:03:32,350
+<font face="Roboto Medium" size="26"><i>We use our magic to help 
+cleanse this poisoned world</i></font>
+
+33
+00:03:32,350 --> 00:03:34,360
+<font face="Roboto Medium" size="26"><i>and protect it from behind the scenes.</i></font>
+
+34
+00:03:34,870 --> 00:03:38,230
+<font face="Roboto Medium" size="26"><i>We are proud black witches 
+and black magicians.</i></font>
+
+35
+00:03:38,660 --> 00:03:39,690
+<font face="Roboto Medium" size="26">In training, you mean.</font>
+
+36
+00:03:39,690 --> 00:03:42,030
+<font face="Roboto Medium" size="26">We'll be official soon enough!</font>
+
+37
+00:03:42,030 --> 00:03:44,180
+<font face="Roboto Medium" size="26">But that Champignon Witch,</font>
+
+38
+00:03:44,180 --> 00:03:48,650
+<font face="Roboto Medium" size="26">I heard she became a black witch 
+with almost no real training.</font>
+
+39
+00:03:48,650 --> 00:03:50,800
+<font face="Roboto Medium" size="26">How was she able to pull that off?</font>
+
+40
+00:03:50,800 --> 00:03:52,290
+<font face="Roboto Medium" size="26">You're just jealous.</font>
+
+41
+00:03:52,290 --> 00:03:54,740
+<font face="Roboto Medium" size="26">It's way too fishy to be legit.</font>
+
+42
+00:03:54,740 --> 00:03:58,600
+<font face="Roboto Medium" size="26">And just look at that! She's 
+already noticed we're here!</font>
+
+43
+00:03:59,220 --> 00:04:03,100
+<font face="Roboto Medium" size="26">Dang it! All because you guys couldn't 
+keep your mouths shut! Get down!</font>
+
+44
+00:04:03,100 --> 00:04:06,260
+<font face="Roboto Medium" size="26">You're the one who's been 
+doing all the yapping.</font>
+
+45
+00:04:08,680 --> 00:04:11,740
+<font face="Roboto Medium" size="26">I wonder if all the rumors are true.</font>
+
+46
+00:04:11,740 --> 00:04:12,870
+<font face="Roboto Medium" size="26">Rumors?</font>
+
+47
+00:04:13,980 --> 00:04:17,300
+<font face="Roboto Medium" size="26">About her. That she used 
+to be a cursed youngling.</font>
+
+48
+00:04:17,300 --> 00:04:17,790
+<font face="Roboto Medium" size="26">Huh?</font>
+
+49
+00:04:17,790 --> 00:04:19,480
+<font face="Roboto Medium" size="26">Thanks to the magic she was born with,</font>
+
+50
+00:04:19,480 --> 00:04:22,030
+<font face="Roboto Medium" size="26">she didn't become The End of All Things.</font>
+
+51
+00:04:22,030 --> 00:04:23,820
+<font face="Roboto Medium" size="26"><i>She was a cursed youngling?</i></font>
+
+52
+00:04:24,330 --> 00:04:27,390
+<font face="Roboto Medium" size="26">It made her breath and body poisonous.</font>
+
+53
+00:04:27,390 --> 00:04:30,580
+<font face="Roboto Medium" size="26">The mushrooms she grows 
+are all poisonous, too.</font>
+
+54
+00:04:30,580 --> 00:04:36,510
+<font face="Roboto Medium" size="26">Ew! That's so nasty! Gross! 
+Why is she even here?!</font>
+
+55
+00:04:34,840 --> 00:04:36,510
+<font face="Roboto Medium" size="26">{\an8}Shh! Shh!</font>
+
+56
+00:04:36,510 --> 00:04:39,250
+<font face="Roboto Medium" size="26">{\an8}Mmfh! Mmph!</font>
+
+57
+00:04:38,220 --> 00:04:45,260
+<font face="Roboto Medium" size="26">Hey, our cover is so far blown, I 
+think she's started making tea for us.</font>
+
+58
+00:04:48,650 --> 00:04:54,150
+<font face="Roboto Medium" size="26"><i>This is a disaster. To think that such 
+a creepy girl is a black witch like us.</i></font>
+
+59
+00:04:54,150 --> 00:04:56,410
+<font face="Roboto Medium" size="26"><i>She's gonna give all of us 
+black witches a bad name!</i></font>
+
+60
+00:04:56,940 --> 00:05:02,230
+<font face="Roboto Medium" size="26"><i>We have nothing to do with her, but the 
+humans aren't gonna know the difference!</i></font>
+
+61
+00:05:03,400 --> 00:05:09,070
+<font face="Roboto Medium" size="26">Well, I heard our master, the Beast 
+Magician, is taking good care of her.</font>
+
+62
+00:05:09,320 --> 00:05:12,650
+<font face="Roboto Medium" size="26">Maybe we could also be... 
+uh, maybe not <i>friendly</i>,</font>
+
+63
+00:05:12,650 --> 00:05:15,340
+<font face="Roboto Medium" size="26">but why don't we back off 
+and give her some space?</font>
+
+64
+00:05:17,650 --> 00:05:19,210
+<font face="Roboto Medium" size="26">What did you just say?</font>
+
+65
+00:05:19,500 --> 00:05:21,960
+<font face="Roboto Medium" size="26">She gets tons of attention only 
+because she's such a pain in the neck,</font>
+
+66
+00:05:21,960 --> 00:05:23,900
+<font face="Roboto Medium" size="26">and gets private lessons from our master 
+when she's not even his apprentice?!</font>
+
+67
+00:05:23,900 --> 00:05:27,680
+<font face="Roboto Medium" size="26">She's backed our poor master into a corner
+ where he has to waste all his time</font>
+
+68
+00:05:27,680 --> 00:05:31,230
+<font face="Roboto Medium" size="26">rehabilitating this delinquent instead 
+of tutoring his top students?!</font>
+
+69
+00:05:31,230 --> 00:05:33,130
+<font face="Roboto Medium" size="26"><i>Jealousy, check. Resentment, check.</i></font>
+
+70
+00:05:33,130 --> 00:05:35,230
+<font face="Roboto Medium" size="26"><i>Talk about biased commentary.</i></font>
+
+71
+00:05:36,520 --> 00:05:40,730
+<font face="Roboto Medium" size="26">She's unbelievable. I'll never 
+forgive her for this, damn it!</font>
+
+72
+00:05:40,730 --> 00:05:44,170
+<font face="Roboto Medium" size="26">Why'd you have to bring 
+up the master, man?</font>
+
+73
+00:05:44,170 --> 00:05:45,010
+<font face="Roboto Medium" size="26">My bad.</font>
+
+74
+00:05:52,080 --> 00:05:56,170
+<font face="Roboto Medium" size="26">That's no way to serve tea to a guest! 
+Where the hell are your manners?</font>
+
+75
+00:05:56,580 --> 00:06:00,460
+<font face="Roboto Medium" size="26"><i>I'll bully her until she runs crying 
+from the black witch community!</i></font>
+
+76
+00:06:10,840 --> 00:06:11,790
+<font face="Roboto Medium" size="26"><i>Uh...</i></font>
+
+77
+00:06:12,590 --> 00:06:14,470
+<font face="Roboto Medium" size="26"><i>How did we end up in here?</i></font>
+
+78
+00:06:16,100 --> 00:06:19,600
+<font face="Roboto Medium" size="26"><i>You're the one who doesn't 
+have any manners.</i></font>
+
+79
+00:06:19,600 --> 00:06:24,900
+<font face="Roboto Medium" size="26">Isn't this great, Luna? I know you said 
+you wanted try a tea party for once,</font>
+
+80
+00:06:24,900 --> 00:06:28,520
+<font face="Roboto Medium" size="26">just like the one you read about 
+in that book the other day.</font>
+
+81
+00:06:29,410 --> 00:06:30,300
+<font face="Roboto Medium" size="26"><i>What?</i></font>
+
+82
+00:06:32,260 --> 00:06:35,730
+<font face="Roboto Medium" size="26"><i>Oops. I'm not gonna let something 
+like that make me lower my guard.</i></font>
+
+83
+00:06:37,420 --> 00:06:41,250
+<font face="Roboto Medium" size="26">You baked these with those 
+poison hands of yours, right?</font>
+
+84
+00:06:41,250 --> 00:06:44,330
+<font face="Roboto Medium" size="26">Scary! There's no way I could eat one.</font>
+
+85
+00:06:44,330 --> 00:06:46,380
+<font face="Roboto Medium" size="26"><i>Wow, she's terrible.</i></font>
+
+86
+00:06:46,380 --> 00:06:50,010
+<font face="Roboto Medium" size="26">Isn't this great, Luna? Finally, 
+a chance to talk to people!</font>
+
+87
+00:06:50,010 --> 00:06:51,630
+<font face="Roboto Medium" size="26">Come on, don't be shy.</font>
+
+88
+00:06:52,280 --> 00:06:54,070
+<font face="Roboto Medium" size="26"><i>Uh, what?</i></font>
+
+89
+00:06:54,070 --> 00:06:57,820
+<font face="Roboto Medium" size="26">Nobody was even willing to 
+get close to you before!</font>
+
+90
+00:06:58,920 --> 00:07:02,780
+<font face="Roboto Medium" size="26"><i>She must be so miserable she can't 
+even tell when she's being picked on.</i></font>
+
+91
+00:07:02,780 --> 00:07:07,900
+<font face="Roboto Medium" size="26">She didn't touch the cookies with her 
+bare hands, so they're okay to eat.</font>
+
+92
+00:07:08,350 --> 00:07:10,980
+<font face="Roboto Medium" size="26">We're even learning about 
+good manners today.</font>
+
+93
+00:07:13,530 --> 00:07:17,660
+<font face="Roboto Medium" size="26">Aren't you glad our first 
+guests are such nice people?</font>
+
+94
+00:07:17,660 --> 00:07:20,420
+<font face="Roboto Medium" size="26">This is such a wonderful day.</font>
+
+95
+00:07:20,840 --> 00:07:23,780
+<font face="Roboto Medium" size="26">You know, I could eat 
+this for you if you want.</font>
+
+96
+00:07:30,910 --> 00:07:33,330
+<font face="Roboto Medium" size="26"><i>The Cat Witch was perplexed.</i></font>
+
+97
+00:07:33,680 --> 00:07:36,680
+<font face="Roboto Medium" size="26"><i>You could say that her toxic 
+attitude had been washed away,</i></font>
+
+98
+00:07:36,970 --> 00:07:39,930
+<font face="Roboto Medium" size="26"><i>defenseless against this 
+sudden shower of goodwill.</i></font>
+
+99
+00:07:40,370 --> 00:07:43,160
+<font face="Roboto Medium" size="26"><i>The cruelty she was so used to flaunting</i></font>
+
+100
+00:07:43,160 --> 00:07:45,190
+<font face="Roboto Medium" size="26"><i>could not find suitable footing</i></font>
+
+101
+00:07:45,590 --> 00:07:50,190
+<font face="Roboto Medium" size="26"><i>in an atmosphere drenched with such 
+a profound sense of loneliness,</i></font>
+
+102
+00:07:50,600 --> 00:07:54,360
+<font face="Roboto Medium" size="26"><i>and that seemed to have 
+thrown her off her game...</i></font>
+
+103
+00:07:56,610 --> 00:08:00,200
+<font face="Roboto Medium" size="26"><i>especially because she had 
+never once associated herself</i></font>
+
+104
+00:08:00,200 --> 00:08:03,390
+<font face="Roboto Medium" size="26"><i>with the words "nice people" 
+before in her life.</i></font>
+
+105
+00:08:04,210 --> 00:08:06,940
+<font face="Roboto Medium" size="26">Here comes that black witch again.</font>
+
+106
+00:08:06,940 --> 00:08:09,920
+<font face="Roboto Medium" size="26">She goes around feeding all 
+those thieving stray cats.</font>
+
+107
+00:08:09,920 --> 00:08:12,070
+<font face="Roboto Medium" size="26">They're so noisy at night!</font>
+
+108
+00:08:12,070 --> 00:08:15,930
+<font face="Roboto Medium" size="26">She isn't even helping us 
+get rid of all the mice!</font>
+
+109
+00:08:16,860 --> 00:08:21,350
+<font face="Roboto Medium" size="26">That's all your fault, you know! 
+I had to cut back on the mousetraps</font>
+
+110
+00:08:21,350 --> 00:08:23,440
+<font face="Roboto Medium" size="26">with you around, so now I get blamed!</font>
+
+111
+00:08:23,440 --> 00:08:25,400
+<font face="Roboto Medium" size="26">Grr.</font>
+
+112
+00:08:26,110 --> 00:08:30,460
+<font face="Roboto Medium" size="26">What's he gonna do? It's not like 
+he can do his job without familiars.</font>
+
+113
+00:08:26,440 --> 00:08:27,990
+<font face="Roboto Medium" size="26">{\an8}Hiss!</font>
+
+114
+00:08:30,850 --> 00:08:35,690
+<font face="Roboto Medium" size="26">And we can't do our job gathering info 
+if we don't get along with the townsfolk.</font>
+
+115
+00:08:35,690 --> 00:08:37,180
+<font face="Roboto Medium" size="26">Thanks for being so considerate.</font>
+
+116
+00:08:37,910 --> 00:08:39,470
+<font face="Roboto Medium" size="26">It's hard enough here already,</font>
+
+117
+00:08:39,470 --> 00:08:42,960
+<font face="Roboto Medium" size="26">where black witches have 
+such a bad reputation.</font>
+
+118
+00:08:42,960 --> 00:08:44,060
+<font face="Roboto Medium" size="26">Hey. Isn't that...</font>
+
+119
+00:08:50,650 --> 00:08:54,220
+<font face="Roboto Medium" size="26">So you must be the mushroom 
+witch I keep hearing about.</font>
+
+120
+00:08:54,670 --> 00:08:57,030
+<font face="Roboto Medium" size="26">Recently I have noticed a suspi... uh,</font>
+
+121
+00:08:57,030 --> 00:09:00,220
+<font face="Roboto Medium" size="26">a very inquisitive-looking person
+ passing by the store.</font>
+
+122
+00:09:00,760 --> 00:09:03,780
+<font face="Roboto Medium" size="26">So you were friends with 
+the Cat Witch all along?</font>
+
+123
+00:09:04,420 --> 00:09:06,730
+<font face="Roboto Medium" size="26">I wouldn't say we're friends or anything.</font>
+
+124
+00:09:07,240 --> 00:09:09,730
+<font face="Roboto Medium" size="26">She is a little hard to 
+get along with, though.</font>
+
+125
+00:09:10,100 --> 00:09:12,180
+<font face="Roboto Medium" size="26">Has she been picking on you at all?</font>
+
+126
+00:09:12,690 --> 00:09:13,740
+<font face="Roboto Medium" size="26">Hiss!</font>
+
+127
+00:09:14,100 --> 00:09:17,440
+<font face="Roboto Medium" size="26">It's your own fault! Ow, ow, ouch!</font>
+
+128
+00:09:17,440 --> 00:09:19,320
+<font face="Roboto Medium" size="26">She isn't like that at all.</font>
+
+129
+00:09:20,260 --> 00:09:21,390
+<font face="Roboto Medium" size="26">She talks!</font>
+
+130
+00:09:21,390 --> 00:09:22,240
+<font face="Roboto Medium" size="26">Huh?</font>
+
+131
+00:09:22,570 --> 00:09:24,750
+<font face="Roboto Medium" size="26">She is a wonderful individual.</font>
+
+132
+00:09:25,310 --> 00:09:29,800
+<font face="Roboto Medium" size="26">Thanks to her, I finally got 
+to visit this bookstore today.</font>
+
+133
+00:09:30,150 --> 00:09:34,990
+<font face="Roboto Medium" size="26">She keeps doing nice things for me. 
+I think she is a very kind person.</font>
+
+134
+00:09:37,230 --> 00:09:42,590
+<font face="Roboto Medium" size="26">Huh. "Kind" isn't a word that comes 
+to mind when I think of the Cat Witch.</font>
+
+135
+00:09:44,020 --> 00:09:47,240
+<font face="Roboto Medium" size="26"><i>Starting around then, whenever the 
+Cat Witch was showered in compliments</i></font>
+
+136
+00:09:47,240 --> 00:09:50,230
+<font face="Roboto Medium" size="26"><i>such as "kind" or "nice,"</i></font>
+
+137
+00:09:50,760 --> 00:09:52,930
+<font face="Roboto Medium" size="26"><i>she'd get a blissful 
+expression on her face,</i></font>
+
+138
+00:09:52,930 --> 00:09:56,810
+<font face="Roboto Medium" size="26"><i>as if she was under some kind of spell.</i></font>
+
+139
+00:09:57,740 --> 00:10:00,860
+<font face="Roboto Medium" size="26"><i>In time, she started to visit 
+the mushroom house more often</i></font>
+
+140
+00:10:01,280 --> 00:10:05,070
+<font face="Roboto Medium" size="26"><i>in order to get another helping of 
+this new and still unfamiliar feeling.</i></font>
+
+141
+00:10:06,470 --> 00:10:10,540
+<font face="Roboto Medium" size="26">Luna, aren't you glad she's lending 
+you the book you wanted to read?</font>
+
+142
+00:10:11,000 --> 00:10:15,870
+<font face="Roboto Medium" size="26">The birds in town were singing, "the 
+Cat Witch has a twisted, evil soul,"</font>
+
+143
+00:10:15,870 --> 00:10:18,220
+<font face="Roboto Medium" size="26">but that isn't true at all, is it?</font>
+
+144
+00:10:18,220 --> 00:10:21,530
+<font face="Roboto Medium" size="26">She's a kind witch, and she's been 
+coming to visit us a bunch recently,</font>
+
+145
+00:10:21,530 --> 00:10:24,060
+<font face="Roboto Medium" size="26">so every day has been lots of fun.</font>
+
+146
+00:10:24,420 --> 00:10:26,980
+<font face="Roboto Medium" size="26"><i>It was as if these 
+unadulterated showers of praise</i></font>
+
+147
+00:10:26,980 --> 00:10:31,500
+<font face="Roboto Medium" size="26"><i>yanked the teeth out of 
+the witch's cruel bite.</i></font>
+
+148
+00:10:56,910 --> 00:11:01,430
+<font face="Roboto Medium" size="26">Sure, Luna has a poison body because 
+she was once a cursed youngling,</font>
+
+149
+00:11:01,430 --> 00:11:05,310
+<font face="Roboto Medium" size="26">but it's also because she absorbs 
+and cleans poison from the world.</font>
+
+150
+00:11:05,310 --> 00:11:06,430
+<font face="Roboto Medium" size="26">Did you know that?</font>
+
+151
+00:11:06,430 --> 00:11:11,440
+<font face="Roboto Medium" size="26">All these people who talk trash about 
+her don't even care. It's unbelievable!</font>
+
+152
+00:11:11,800 --> 00:11:15,440
+<font face="Roboto Medium" size="26">They're the worst! They don't
+even try to get to know her.</font>
+
+153
+00:11:15,440 --> 00:11:19,070
+<font face="Roboto Medium" size="26">She should try saying all 
+this to her old self.</font>
+
+154
+00:11:19,070 --> 00:11:22,580
+<font face="Roboto Medium" size="26">She's more likely to cast a spell 
+to forget her bad behavior.</font>
+
+155
+00:11:24,920 --> 00:11:29,210
+<font face="Roboto Medium" size="26">Before, all the trees and animals of this 
+black forest were contaminated with poison</font>
+
+156
+00:11:29,210 --> 00:11:32,130
+<font face="Roboto Medium" size="26">and it was home to all sorts 
+of pests and evil spirits.</font>
+
+157
+00:11:32,130 --> 00:11:34,000
+<font face="Roboto Medium" size="26">But once you moved here,</font>
+
+158
+00:11:34,000 --> 00:11:37,060
+<font face="Roboto Medium" size="26">it changed from a black forest 
+to a poison mushroom forest.</font>
+
+159
+00:11:37,060 --> 00:11:39,670
+<font face="Roboto Medium" size="26">I can feel safe letting 
+my cats play here now.</font>
+
+160
+00:11:40,290 --> 00:11:44,550
+<font face="Roboto Medium" size="26">Hey, it sounds kind of impersonal 
+when you call me "Miss Dorothy."</font>
+
+161
+00:11:44,550 --> 00:11:46,470
+<font face="Roboto Medium" size="26">Just call me "Dorothy" 
+as if I was your sister.</font>
+
+162
+00:11:46,780 --> 00:11:48,970
+<font face="Roboto Medium" size="26"><i>Well, that came out of nowhere.</i></font>
+
+163
+00:11:49,220 --> 00:11:55,440
+<font face="Roboto Medium" size="26">Um... Dor... Sis... Miss Witch? Um...</font>
+
+164
+00:11:55,440 --> 00:11:58,980
+<font face="Roboto Medium" size="26">Yeah, this is what happens with someone 
+who's not comfortable with people.</font>
+
+165
+00:11:59,420 --> 00:12:02,490
+<font face="Roboto Medium" size="26">Can you tell me why you decided 
+to become a cat witch?</font>
+
+166
+00:12:03,640 --> 00:12:07,390
+<font face="Roboto Medium" size="26">It's simple. Obviously 
+because I love cats so much!</font>
+
+167
+00:12:07,390 --> 00:12:09,720
+<font face="Roboto Medium" size="26">Wasn't it the same for you,
+ with mushrooms?</font>
+
+168
+00:12:11,210 --> 00:12:15,610
+<font face="Roboto Medium" size="26">This is such a nice place, 
+though. But did you know?</font>
+
+169
+00:12:15,610 --> 00:12:19,130
+<font face="Roboto Medium" size="26">They say there's also a legendary 
+cat forest that only cats live in.</font>
+
+170
+00:12:19,780 --> 00:12:24,510
+<font face="Roboto Medium" size="26">Sometimes, the more distinguished cat 
+witches even get invitations to visit.</font>
+
+171
+00:12:24,510 --> 00:12:26,010
+<font face="Roboto Medium" size="26"><i>A cat forest...</i></font>
+
+172
+00:12:26,710 --> 00:12:31,310
+<font face="Roboto Medium" size="26">I really want to go see it myself, but 
+I guess because I'm still inexperienced,</font>
+
+173
+00:12:31,310 --> 00:12:34,020
+<font face="Roboto Medium" size="26">the forest's chief won't
+ give me permission.</font>
+
+174
+00:12:34,410 --> 00:12:37,700
+<font face="Roboto Medium" size="26">Shucks, why am I not good enough?</font>
+
+175
+00:12:37,700 --> 00:12:41,790
+<font face="Roboto Medium" size="26">Dorothy? Not her. Furr-get it. 
+She's hiss-terically loud.</font>
+
+176
+00:12:41,790 --> 00:12:44,760
+<font face="Roboto Medium" size="26">She's a blabber-meowth. A real purr-oblem.</font>
+
+177
+00:12:43,370 --> 00:12:45,180
+<font face="Roboto Medium" size="26">{\an8}I see what you mean meow.</font>
+
+178
+00:12:45,180 --> 00:12:51,320
+<font face="Roboto Medium" size="26">But I can imagine what it's like 
+from what these guys have told me.</font>
+
+179
+00:12:51,320 --> 00:12:53,040
+<font face="Roboto Medium" size="26">Almost like I've been there before.</font>
+
+180
+00:12:53,610 --> 00:12:58,020
+<font face="Roboto Medium" size="26">In fact, I bet I used to live 
+there as a cat in a past life.</font>
+
+181
+00:12:58,020 --> 00:13:01,550
+<font face="Roboto Medium" size="26">Still, I hope I can visit
+ the cat forest soon.</font>
+
+182
+00:13:01,550 --> 00:13:03,190
+<font face="Roboto Medium" size="26">You know what my dream in life is?</font>
+
+183
+00:13:03,190 --> 00:13:08,770
+<font face="Roboto Medium" size="26">It's to put this silly, poisoned world 
+behind me, move to the cat forest</font>
+
+184
+00:13:08,770 --> 00:13:13,080
+<font face="Roboto Medium" size="26">where nobody hassles me and 
+I can be with the cats I love</font>
+
+185
+00:13:13,080 --> 00:13:16,060
+<font face="Roboto Medium" size="26">and live there happily ever after.</font>
+
+186
+00:13:16,770 --> 00:13:21,420
+<font face="Roboto Medium" size="26">Well, that was what I always wanted, 
+until I met this Champignon Witch,</font>
+
+187
+00:13:21,420 --> 00:13:24,890
+<font face="Roboto Medium" size="26">who fights so bravely to 
+rid the world of poison.</font>
+
+188
+00:13:25,380 --> 00:13:28,590
+<font face="Roboto Medium" size="26">Now that I've seen how pretty 
+the black forest has become,</font>
+
+189
+00:13:28,590 --> 00:13:31,200
+<font face="Roboto Medium" size="26">as your big sister and 
+senior as a black witch,</font>
+
+190
+00:13:31,200 --> 00:13:33,580
+<font face="Roboto Medium" size="26">I can see I still have 
+a lot of work to do.</font>
+
+191
+00:13:35,580 --> 00:13:39,460
+<font face="Roboto Medium" size="26">{\an8}That said, our job is actually espionage.</font>
+
+192
+00:13:36,050 --> 00:13:38,740
+<font face="Roboto Medium" size="26"><i>The cat forest. A homeland 
+she has not yet seen.</i></font>
+
+193
+00:13:39,460 --> 00:13:40,760
+<font face="Roboto Medium" size="26">{\an8}Espionage?</font>
+
+194
+00:13:39,460 --> 00:13:43,030
+<font face="Roboto Medium" size="26"><i>But she cannot return to 
+the cat forest just yet.</i></font>
+
+195
+00:13:40,760 --> 00:13:47,180
+<font face="Roboto Medium" size="26">{\an8}Cats aren't poisonous animals, so instead 
+of purifying like poison witches...</font>
+
+196
+00:13:49,240 --> 00:13:52,310
+<font face="Roboto Medium" size="26">Dorothy, the tabby who got 
+into the white witch's castle</font>
+
+197
+00:13:52,310 --> 00:13:54,180
+<font face="Roboto Medium" size="26">has been missing for two days meow!</font>
+
+198
+00:13:54,180 --> 00:13:55,800
+<font face="Roboto Medium" size="26">I bet mew they caught her!</font>
+
+199
+00:13:55,800 --> 00:13:57,740
+<font face="Roboto Medium" size="26">How many does that make meow?</font>
+
+200
+00:13:57,740 --> 00:13:58,940
+<font face="Roboto Medium" size="26">What meow?</font>
+
+201
+00:13:58,940 --> 00:14:00,810
+<font face="Roboto Medium" size="26">Now what do we mew?</font>
+
+202
+00:14:03,250 --> 00:14:07,820
+<font face="Roboto Medium" size="26">The tabby's dead fur sure! There's 
+no point trying to save him meow!</font>
+
+203
+00:14:07,820 --> 00:14:09,570
+<font face="Roboto Medium" size="26">We don't know for sure yet.</font>
+
+204
+00:14:09,570 --> 00:14:12,580
+<font face="Roboto Medium" size="26">But either way, if they 
+suspect us of spying now,</font>
+
+205
+00:14:12,580 --> 00:14:16,330
+<font face="Roboto Medium" size="26">all of the cats and I are 
+in danger of being purged!</font>
+
+206
+00:14:16,330 --> 00:14:21,640
+<font face="Roboto Medium" size="26">There's also several black witches in the 
+castle who are being unjustly detained!</font>
+
+207
+00:14:22,340 --> 00:14:24,970
+<font face="Roboto Medium" size="26">Sisi, you guys need to get away!</font>
+
+208
+00:14:24,970 --> 00:14:28,430
+<font face="Roboto Medium" size="26">Go tell the master and our 
+friends what's happening here!</font>
+
+209
+00:14:29,510 --> 00:14:32,320
+<font face="Roboto Medium" size="26">I'll use the confusion 
+to sneak into the castle,</font>
+
+210
+00:14:32,320 --> 00:14:37,180
+<font face="Roboto Medium" size="26">rescue the tabby and other cats, and give
+ the white witches a little surprise!</font>
+
+211
+00:14:39,020 --> 00:14:40,850
+<font face="Roboto Medium" size="26">No, Dorothy! It's too dangerous!</font>
+
+212
+00:14:40,850 --> 00:14:43,400
+<font face="Roboto Medium" size="26">I need to distract them 
+so everyone can get away.</font>
+
+213
+00:14:43,770 --> 00:14:47,470
+<font face="Roboto Medium" size="26">I'll be all right, Sisi. I'm not afraid.</font>
+
+214
+00:14:47,910 --> 00:14:49,860
+<font face="Roboto Medium" size="26">When I remember what she said...</font>
+
+215
+00:14:49,860 --> 00:14:51,400
+<font face="Roboto Medium" size="26"><i>She is a very kind person.</i></font>
+
+216
+00:14:51,400 --> 00:14:55,210
+<font face="Roboto Medium" size="26"><i>It makes me want to live up to
+ those words, and protect everyone I can.</i></font>
+
+217
+00:14:57,310 --> 00:14:59,620
+<font face="Roboto Medium" size="26"><i>I want to collect every bit
+ of this strange feeling,</i></font>
+
+218
+00:14:59,930 --> 00:15:03,560
+<font face="Roboto Medium" size="26"><i>and clutch it tight, close to my heart.</i></font>
+
+219
+00:15:04,460 --> 00:15:10,360
+<font face="Roboto Medium" size="26"><i>I don't want to return to the cat forest 
+until I've truly become that person.</i></font>
+
+220
+00:15:39,740 --> 00:15:43,590
+<font face="Roboto Medium" size="26">This is the town square where 
+Dorothy was executed the other day.</font>
+
+221
+00:15:45,000 --> 00:15:48,090
+<font face="Roboto Medium" size="26">Thank you for coming, Champignon Witch.</font>
+
+222
+00:15:48,680 --> 00:15:51,010
+<font face="Roboto Medium" size="26">Mouse Magician...</font>
+
+223
+00:15:51,010 --> 00:15:54,590
+<font face="Roboto Medium" size="26">Sorry to show up like this, 
+but I need to stay undercover.</font>
+
+224
+00:16:08,590 --> 00:16:12,610
+<font face="Roboto Medium" size="26"><i>The ground here is stained 
+with the Cat Witch's</i></font>
+
+225
+00:16:12,610 --> 00:16:18,060
+<font face="Roboto Medium" size="26"><i>grief mushroom, pain mushroom,
+ anger mushroom,</i></font>
+
+226
+00:16:18,790 --> 00:16:24,070
+<font face="Roboto Medium" size="26"><i>fear mushroom, misery mushroom, 
+solitude mushroom...</i></font>
+
+227
+00:16:24,620 --> 00:16:32,550
+<font face="Roboto Medium" size="26">Look, Sisi. All of Dorothy's pain is 
+growing into mushrooms to be cleansed.</font>
+
+228
+00:16:46,130 --> 00:16:47,910
+<font face="Roboto Medium" size="26">Kindness mushrooms?</font>
+
+229
+00:16:54,620 --> 00:16:57,960
+<font face="Roboto Medium" size="26">Oh, come on. Stop crying, okay?</font>
+
+230
+00:17:00,910 --> 00:17:02,120
+<font face="Roboto Medium" size="26">Bye now!</font>
+
+231
+00:17:08,420 --> 00:17:14,420
+<font face="Roboto Medium" size="26">Luna, these guys are saying that
+ the Cat Witch is in the cat forest now.</font>
+
+232
+00:17:27,830 --> 00:17:30,250
+<font face="Roboto Medium" size="26"><i>I believe in Luna.</i></font>
+
+233
+00:17:31,370 --> 00:17:32,610
+<font face="Roboto Medium" size="26"><i>I believe in her.</i></font>
+
+234
+00:17:47,110 --> 00:17:48,840
+<font face="Roboto Medium" size="26"><i>My darling Noah.</i></font>
+
+235
+00:17:55,390 --> 00:17:58,540
+<font face="Roboto Medium" size="26"><i>Please, hurry and die for me.</i></font>
+
+236
+00:18:00,470 --> 00:18:03,620
+<font face="Roboto Medium" size="26"><i>You will never be allowed 
+to be reborn again.</i></font>
+
+237
+00:18:05,980 --> 00:18:07,500
+<font face="Roboto Medium" size="26"><i>For the sake of this country,</i></font>
+
+238
+00:18:08,310 --> 00:18:11,690
+<font face="Roboto Medium" size="26"><i>indeed, for the sake of this world...</i></font>
+
+239
+00:18:24,420 --> 00:18:28,750
+<font face="Roboto Medium" size="26">You are the one who should 
+never have been born.</font>
+
+240
+00:18:29,400 --> 00:18:35,000
+<font face="Roboto Medium" size="26">Eliminating you is a duty
+ I inherited from my late sister,</font>
+
+241
+00:18:35,000 --> 00:18:36,380
+<font face="Roboto Medium" size="26">who left you in my hands.</font>
+
+242
+00:18:36,750 --> 00:18:42,210
+<font face="Roboto Medium" size="26">If it is any consolation, I shall 
+allow you to pass on in ignorance.</font>
+
+243
+00:18:45,480 --> 00:18:47,270
+<font face="Roboto Medium" size="26">Mother...</font>
+
+244
+00:18:51,340 --> 00:18:52,520
+<font face="Roboto Medium" size="26"><i>Why?</i></font>
+
+245
+00:18:53,550 --> 00:18:54,900
+<font face="Roboto Medium" size="26"><i>Why?</i></font>
+
+246
+00:19:05,830 --> 00:19:06,700
+<font face="Roboto Medium" size="26"><i>Who's there?</i></font>
+
+247
+00:19:08,410 --> 00:19:13,350
+<font face="Roboto Medium" size="26"><i>Somebody is draining my memories... 
+all of the agony from my body?</i></font>
+
+248
+00:19:14,440 --> 00:19:20,410
+<font face="Roboto Medium" size="26"><i>Painful memories, depressing 
+experiences, dark feelings,</i></font>
+
+249
+00:19:21,050 --> 00:19:26,680
+<font face="Roboto Medium" size="26"><i>whirlpools of uncertainty, constellations 
+of suffering, flashbacks of fear,</i></font>
+
+250
+00:19:27,170 --> 00:19:29,290
+<font face="Roboto Medium" size="26"><i>and everything illuminated within.</i></font>
+
+251
+00:19:30,110 --> 00:19:37,080
+<font face="Roboto Medium" size="26"><i>Wait, if you take all of that away, 
+I'll barely have any memories left.</i></font>
+
+252
+00:19:40,450 --> 00:19:43,110
+<font face="Roboto Medium" size="26"><i>I see. I suppose this shows</i></font>
+
+253
+00:19:43,950 --> 00:19:49,430
+<font face="Roboto Medium" size="26"><i>just how deeply my path in life 
+has been stained by sadness.</i></font>
+
+254
+00:19:50,920 --> 00:19:52,150
+<font face="Roboto Medium" size="26"><i>It's actually beautiful...</i></font>
+
+255
+00:19:53,960 --> 00:19:58,090
+<font face="Roboto Medium" size="26"><i>the light cast by the sadness 
+as it flows away from my body.</i></font>
+
+256
+00:20:00,340 --> 00:20:01,300
+<font face="Roboto Medium" size="26"><i>No, come back!</i></font>
+
+257
+00:20:10,460 --> 00:20:14,260
+<font face="Roboto Medium" size="26"><i>I cannot allow myself to forget 
+this one precious memory</i></font>
+
+258
+00:20:15,460 --> 00:20:17,110
+<font face="Roboto Medium" size="26"><i>of the promise I made</i></font>
+
+259
+00:20:18,230 --> 00:20:19,620
+<font face="Roboto Medium" size="26"><i>to my late mother.</i></font>
+
+260
+00:20:21,130 --> 00:20:24,810
+<font face="Roboto Medium" size="26">Noah, Noël, Emile...</font>
+
+261
+00:20:26,190 --> 00:20:29,290
+<font face="Roboto Medium" size="26">you have multiple names.</font>
+
+262
+00:20:31,160 --> 00:20:33,580
+<font face="Roboto Medium" size="26">He who is destined to be king</font>
+
+263
+00:20:33,990 --> 00:20:36,900
+<font face="Roboto Medium" size="26">must alternate between many 
+pseudonyms throughout his life.</font>
+
+264
+00:20:38,210 --> 00:20:42,070
+<font face="Roboto Medium" size="26">You absolutely must not reveal 
+your true name to anyone.</font>
+
+265
+00:20:43,160 --> 00:20:47,720
+<font face="Roboto Medium" size="26">Revealing your true name 
+would expose you to a curse.</font>
+
+266
+00:20:48,720 --> 00:20:53,460
+<font face="Roboto Medium" size="26">When a king reveals his true name, it 
+immediately compromises the throne.</font>
+
+267
+00:20:54,740 --> 00:20:59,300
+<font face="Roboto Medium" size="26">When the throne is unstable, it sends 
+the country into darkness and confusion.</font>
+
+268
+00:21:00,230 --> 00:21:04,030
+<font face="Roboto Medium" size="26">You must only recite your true 
+name silently, in your mind,</font>
+
+269
+00:21:04,680 --> 00:21:06,490
+<font face="Roboto Medium" size="26">when you need to use your magic.</font>
+
+270
+00:21:08,250 --> 00:21:11,180
+<font face="Roboto Medium" size="26">No matter the curse, if it 
+knows not your true name,</font>
+
+271
+00:21:11,710 --> 00:21:16,530
+<font face="Roboto Medium" size="26">it can never pose a mortal threat to you.</font>
+
+272
+00:21:17,260 --> 00:21:22,830
+<font face="Roboto Medium" size="26">This true name that I have given you is 
+one thing that you must never forget.</font>
+
+273
+00:21:23,760 --> 00:21:26,460
+<font face="Roboto Medium" size="26">Lock it tightly within your heart.</font>
+
+274
+00:21:27,820 --> 00:21:29,320
+<font face="Roboto Medium" size="26">Your name is...</font>
+
+275
+00:21:35,740 --> 00:21:39,020
+<font face="Roboto Medium" size="26">Luna! He just woke up!</font>
+
+276
+00:21:39,020 --> 00:21:42,650
+<font face="Roboto Medium" size="26">Hey, who are you? Hey, are you okay?</font>
+
+277
+00:21:43,420 --> 00:21:46,770
+<font face="Roboto Medium" size="26">Look, you know what you have to do, Luna.</font>
+
+278
+00:21:47,550 --> 00:21:50,760
+<font face="Roboto Medium" size="26"><i>What? This is my body?</i></font>
+
+279
+00:21:52,540 --> 00:21:55,320
+<font face="Roboto Medium" size="26"><i>Was it always this small?</i></font>
+
+280
+00:21:56,700 --> 00:22:00,900
+<font face="Roboto Medium" size="26"><i>What was I like before this?</i></font>
+
+281
+00:22:02,050 --> 00:22:07,710
+<font face="Roboto Medium" size="26">These first moments are crucial. If you 
+can't make this kid into a magician,</font>
+
+282
+00:22:08,380 --> 00:22:10,470
+<font face="Roboto Medium" size="26">he's going to be put down.</font>
+
+283
+00:22:11,880 --> 00:22:15,270
+<font face="Roboto Medium" size="26">So set your feelings aside 
+and don't cut him any slack.</font>
+
+284
+00:22:17,940 --> 00:22:20,660
+<font face="Roboto Medium" size="26">You. Tell us your name.</font>
+
+285
+00:22:23,940 --> 00:22:25,250
+<font face="Roboto Medium" size="26"><i>You must never forget</i></font>
+
+286
+00:22:26,450 --> 00:22:27,880
+<font face="Roboto Medium" size="26"><i>that your name is...</i></font>
+
+287
+00:22:33,180 --> 00:22:34,100
+<font face="Roboto Medium" size="26">{\an8}LIZEL</font>
+
+288
+00:22:33,330 --> 00:22:34,280
+<font face="Roboto Medium" size="26">Lizel.</font>
+
+289
+00:22:34,990 --> 00:22:38,120
+<font face="Roboto Medium" size="26">{\an8}TRANSLATION: MICHAEL ARNOLD</font>
+
+290
+00:22:38,290 --> 00:22:41,380
+<font face="Roboto Medium" size="26">{\an8}SUBTITLE TIMING: ANDY ELLIS
+EDITING: ELISABETH CRIST</font>
+
+291
+00:22:41,710 --> 00:22:46,090
+<font face="Roboto Medium" size="26">{\an8}QUALITY CHECK: GABRIELLA ALABANZA
+TRANSLATION CHECK: MICHELLE TYMON</font>
+
+292
+00:24:06,560 --> 00:24:10,250
+<font face="Roboto Medium" size="26">{\an8}NEXT TIME: THE FIRST DAY</font>
+
