@@ -1,0 +1,108 @@
+1
+00:01:53,130 --> 00:01:55,010
+<font face="Gandhi Sans" size="24"><b><font face="Impact"><font size="90"><b><font color="#d1082a">MF Ghost</font></b></font></font></b></font>
+
+2
+00:01:55,550 --> 00:01:56,150
+<font face="Gandhi Sans" size="24"><b><b><font face="Arial"><font color="#ff060f">m 0 0 l 100 0 100 100 0 100</font></font></b></b></font>
+
+3
+00:01:55,550 --> 00:01:59,970
+<font face="Gandhi Sans" size="24"><b><b><font face="Arial">Fireball</font></b></b></font>
+
+4
+00:05:37,270 --> 00:05:37,400
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="58"><font color="#2c272c">Katagiri Kanata</font></font></font></b></font>
+
+5
+00:05:37,400 --> 00:05:37,520
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="58"><font color="#2c272c">Katagiri Kanata</font></font></font></b></font>
+
+6
+00:05:37,520 --> 00:05:37,650
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="58"><font color="#2c272c">Katagiri Kanata</font></font></font></b></font>
+
+7
+00:05:37,650 --> 00:05:37,780
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="58"><font color="#2c272c">Katagiri Kanata</font></font></font></b></font>
+
+8
+00:05:37,780 --> 00:05:37,900
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="58"><font color="#2c272c">Katagiri Kanata</font></font></font></b></font>
+
+9
+00:05:37,900 --> 00:05:38,030
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="58"><font color="#2c272c">Katagiri Kanata</font></font></font></b></font>
+
+10
+00:05:38,030 --> 00:05:38,150
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="58"><font color="#2c272c">Katagiri Kanata</font></font></font></b></font>
+
+11
+00:05:38,150 --> 00:05:38,280
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="58"><font color="#2c272c">Katagiri Kanata</font></font></font></b></font>
+
+12
+00:05:38,280 --> 00:05:38,400
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="58"><font color="#2c272c">Katagiri Kanata</font></font></font></b></font>
+
+13
+00:05:38,400 --> 00:05:38,530
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="58"><font color="#2c272c">Katagiri Kanata</font></font></font></b></font>
+
+14
+00:05:38,530 --> 00:05:38,780
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="58"><font color="#2c272c">Katagiri Kanata</font></font></font></b></font>
+
+15
+00:07:35,260 --> 00:07:37,260
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="42"><font color="#2c272c">Aiba Shun</font></font></font></b></font>
+
+16
+00:14:24,340 --> 00:14:24,470
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="58"><font color="#2c272c">Katagiri Kanata</font></font></font></b></font>
+
+17
+00:14:24,470 --> 00:14:24,590
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="58"><font color="#2c272c">Katagiri Kanata</font></font></font></b></font>
+
+18
+00:14:24,590 --> 00:14:24,720
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="58"><font color="#2c272c">Katagiri Kanata</font></font></font></b></font>
+
+19
+00:14:24,720 --> 00:14:24,840
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="58"><font color="#2c272c">Katagiri Kanata</font></font></font></b></font>
+
+20
+00:14:24,840 --> 00:14:24,970
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="58"><font color="#2c272c">Katagiri Kanata</font></font></font></b></font>
+
+21
+00:14:24,970 --> 00:14:25,090
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="58"><font color="#2c272c">Katagiri Kanata</font></font></font></b></font>
+
+22
+00:14:25,090 --> 00:14:25,220
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="58"><font color="#2c272c">Katagiri Kanata</font></font></font></b></font>
+
+23
+00:14:25,220 --> 00:14:25,340
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="58"><font color="#2c272c">Katagiri Kanata</font></font></font></b></font>
+
+24
+00:14:25,340 --> 00:14:25,720
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="58"><font color="#2c272c">Katagiri Kanata</font></font></font></b></font>
+
+25
+00:14:25,720 --> 00:14:25,800
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="58"><font color="#2c272c">Katagiri Kanata</font></font></font></b></font>
+
+26
+00:14:25,800 --> 00:14:25,890
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="58"><font color="#2c272c">Katagiri Kanata</font></font></font></b></font>
+
+27
+00:14:25,890 --> 00:14:28,090
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="58"><font color="#2c272c">Katagiri Kanata</font></font></font></b></font>
+
