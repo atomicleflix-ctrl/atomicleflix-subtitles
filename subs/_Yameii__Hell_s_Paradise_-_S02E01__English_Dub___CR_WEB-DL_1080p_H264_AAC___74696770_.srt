@@ -1,0 +1,20 @@
+1
+00:00:14,990 --> 00:00:16,990
+<font face="Times New Roman" size="20"><b><font color="#7d4c27"><font size="15">Ohashi Inn</font></font></b></font>
+
+2
+00:04:20,530 --> 00:04:26,500
+<font face="Times New Roman" size="20"><b>Dawn and Confusion</b></font>
+
+3
+00:07:37,100 --> 00:07:42,230
+<font face="Times New Roman" size="20"><b>{\an7}<font size="13"><font color="#4b4b4b">Tameshi-itto-ryu Rank 3
+Yamada Asaemon
+<font size="26">\h\h\h\h\h\h\h\h\h\h\hJikka</font></font></font></b></font>
+
+4
+00:07:42,230 --> 00:07:44,490
+<font face="Times New Roman" size="20"><b>{\an1}<font size="13"><font color="#4b4b4b">Tameshi-itto-ryu Rank 2
+Yamada Asaemon
+<font size="26">\h\h\h\h\h\h\h\h\hShugen</font></font></font></b></font>
+
