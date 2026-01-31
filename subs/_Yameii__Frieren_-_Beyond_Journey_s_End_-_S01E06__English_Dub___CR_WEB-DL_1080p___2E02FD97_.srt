@@ -1,0 +1,226 @@
+1
+00:00:13,530 --> 00:00:16,030
+<font face="Trebuchet MS" size="24"><i>Like a fairy tale</i></font>
+
+2
+00:00:16,030 --> 00:00:18,450
+<font face="Trebuchet MS" size="24"><i>It's a sign the story has reached its end</i></font>
+
+3
+00:00:18,450 --> 00:00:21,370
+<font face="Trebuchet MS" size="24"><i>Like a single passage taken from</i></font>
+
+4
+00:00:21,370 --> 00:00:23,000
+<font face="Trebuchet MS" size="24"><i>A journey that was too long</i></font>
+
+5
+00:00:23,000 --> 00:00:25,330
+<font face="Trebuchet MS" size="24"><i>Of the evil that once cast a shadow</i></font>
+
+6
+00:00:25,330 --> 00:00:27,670
+<font face="Trebuchet MS" size="24"><i>Across this land</i></font>
+
+7
+00:00:27,670 --> 00:00:30,000
+<font face="Trebuchet MS" size="24"><i>And the memories of the short journey</i></font>
+
+8
+00:00:30,000 --> 00:00:32,460
+<font face="Trebuchet MS" size="24"><i>With the hero who defeated it</i></font>
+
+9
+00:00:33,260 --> 00:00:42,220
+<font size="24"><b>{\an8}<font size="25"><font face="Georgia"><font color="#fefcff">Beyond Journey's End</font></font></font></b></font>
+
+10
+00:00:42,470 --> 00:00:44,770
+<font face="Trebuchet MS" size="24"><i>The story ends</i></font>
+
+11
+00:00:44,770 --> 00:00:47,270
+<font face="Trebuchet MS" size="24"><i>And the hero goes to sleep</i></font>
+
+12
+00:00:47,270 --> 00:00:50,110
+<font face="Trebuchet MS" size="24"><i>Leaving this land with</i></font>
+
+13
+00:00:50,110 --> 00:00:51,780
+<font face="Trebuchet MS" size="24"><i>Days of peace and quiet</i></font>
+
+14
+00:00:51,780 --> 00:00:54,280
+<font face="Trebuchet MS" size="24"><i>The passage of time heartlessly</i></font>
+
+15
+00:00:54,280 --> 00:00:56,450
+<font face="Trebuchet MS" size="24"><i>Makes people forget</i></font>
+
+16
+00:00:56,450 --> 00:00:59,240
+<font face="Trebuchet MS" size="24"><i>Even the tracks left behind by his life</i></font>
+
+17
+00:00:59,240 --> 00:01:01,040
+<font face="Trebuchet MS" size="24"><i>Begin to rust</i></font>
+
+18
+00:01:01,040 --> 00:01:02,870
+<font face="Trebuchet MS" size="24"><i>Just the same</i></font>
+
+19
+00:01:02,870 --> 00:01:05,160
+<font face="Trebuchet MS" size="24"><i>Your words and wishes and courage</i></font>
+
+20
+00:01:05,160 --> 00:01:08,500
+<font face="Trebuchet MS" size="24"><i>Are still inside of me</i></font>
+
+21
+00:01:08,500 --> 00:01:10,380
+<font face="Trebuchet MS" size="24"><i>And they live on</i></font>
+
+22
+00:01:11,170 --> 00:01:12,920
+<font face="Trebuchet MS" size="24"><i>We chose the same path</i></font>
+
+23
+00:01:12,920 --> 00:01:15,050
+<font face="Trebuchet MS" size="24"><i>That's all it was supposed to be</i></font>
+
+24
+00:01:15,050 --> 00:01:16,590
+<font face="Trebuchet MS" size="24"><i>Why is it that at some point</i></font>
+
+25
+00:01:16,590 --> 00:01:20,850
+<font face="Trebuchet MS" size="24"><i>I wanted to understand the reason for</i></font>
+
+26
+00:01:20,850 --> 00:01:22,220
+<font face="Trebuchet MS" size="24"><i>The tears that fall down my cheeks</i></font>
+
+27
+00:01:22,220 --> 00:01:23,310
+<font face="Trebuchet MS" size="24"><i>Even now</i></font>
+
+28
+00:01:23,310 --> 00:01:25,680
+<font face="Trebuchet MS" size="24"><i>If I retrace the journey we walked together</i></font>
+
+29
+00:01:25,680 --> 00:01:29,230
+<font face="Trebuchet MS" size="24"><i>Even though you're not there</i></font>
+
+30
+00:01:29,230 --> 00:01:30,900
+<font face="Trebuchet MS" size="24"><i>I know I'll be able to find it</i></font>
+
+31
+00:01:42,990 --> 00:01:46,000
+<font face="Times New Roman">{\an7}<font color="#f7fffa">Episode 6: The Hero of the Village</font></font>
+
+32
+00:12:44,570 --> 00:12:49,990
+<font face="Times New Roman" size="12"><b>{\an9}28 years after the death of Himmel the Hero, in the fortress city of Waal,
+located in Riegel Canyon in the central lands</b></font>
+
+33
+00:22:49,960 --> 00:22:52,500
+<font face="Trebuchet MS" size="24"><i>And you alright</i></font>
+
+34
+00:22:53,030 --> 00:22:55,020
+<font face="Trebuchet MS" size="24"><i>Can you hear me</i></font>
+
+35
+00:22:55,810 --> 00:23:01,920
+<font face="Trebuchet MS" size="24"><i>Trailing along deserted train tracks</i></font>
+
+36
+00:23:01,920 --> 00:23:04,250
+<font face="Trebuchet MS" size="24"><i>Crying excessively</i></font>
+
+37
+00:23:04,810 --> 00:23:07,420
+<font face="Trebuchet MS" size="24"><i>Wanting you to smile</i></font>
+
+38
+00:23:07,420 --> 00:23:13,460
+<font face="Trebuchet MS" size="24"><i>I hold on to memories I'd like to keep fresh</i></font>
+
+39
+00:23:13,460 --> 00:23:17,150
+<font face="Trebuchet MS" size="24"><i>There's something I'd like to tell you</i></font>
+
+40
+00:23:17,150 --> 00:23:19,940
+<font face="Trebuchet MS" size="24"><i>With words more precious than a goodbye</i></font>
+
+41
+00:23:19,940 --> 00:23:25,610
+<font face="Trebuchet MS" size="24"><i>Unremarkable yet special</i></font>
+
+42
+00:23:25,610 --> 00:23:29,130
+<font face="Trebuchet MS" size="24"><i>See, things that couldn't have been</i></font>
+
+43
+00:23:29,130 --> 00:23:32,180
+<font face="Trebuchet MS" size="24"><i>Seen if it weren't for these eyes</i></font>
+
+44
+00:23:32,180 --> 00:23:36,940
+<font face="Trebuchet MS" size="24"><i>Why? They begin to overflow</i></font>
+
+45
+00:23:36,940 --> 00:23:43,040
+<font face="Trebuchet MS" size="24"><i>So, if I were to be born again</i></font>
+
+46
+00:23:43,040 --> 00:23:48,860
+<font face="Trebuchet MS" size="24"><i>I would surely choose this place once more</i></font>
+
+47
+00:23:48,860 --> 00:23:54,870
+<font face="Trebuchet MS" size="24"><i>So, if we were to meet again</i></font>
+
+48
+00:23:54,870 --> 00:24:00,630
+<font face="Trebuchet MS" size="24"><i>I'd never let you go, I'd choose the present</i></font>
+
+49
+00:24:00,630 --> 00:24:03,580
+<font face="Trebuchet MS" size="24"><i>Even if no promises were made</i></font>
+
+50
+00:24:03,580 --> 00:24:06,500
+<font face="Trebuchet MS" size="24"><i>Even if I'm lost in days of loneliness</i></font>
+
+51
+00:24:06,500 --> 00:24:12,700
+<font face="Trebuchet MS" size="24"><i>Those tears will be alright, 
+dawn will surely break</i></font>
+
+52
+00:24:12,700 --> 00:24:15,340
+<font face="Trebuchet MS" size="24"><i>I'm whispering our lullaby</i></font>
+
+53
+00:24:15,340 --> 00:24:19,260
+<font face="Trebuchet MS" size="24"><i>for you to come back home</i></font>
+
+54
+00:24:27,520 --> 00:24:29,930
+<font face="Times New Roman" size="24">{\an8}<font color="#000000">Episode 7
+
+
+
+
+
+
+
+Like a Fairy Tale</font></font>
+
