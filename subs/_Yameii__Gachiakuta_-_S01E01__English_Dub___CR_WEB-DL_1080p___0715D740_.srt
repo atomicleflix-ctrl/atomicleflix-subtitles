@@ -1,0 +1,68 @@
+1
+00:00:01,480 --> 00:00:05,990
+<font face="Comic Sans MS" size="20"><b><font size="18">It's said that when an object is treated with care, a soul will come to inhabit it</font></b></font>
+
+2
+00:00:01,480 --> 00:00:05,990
+<font face="Comic Sans MS" size="20"><b><font size="18">{\an8}<i><font color="#939080">It's said that when an object is treated with care, a soul will come to inhabit it</font></i></font></b></font>
+
+3
+00:00:18,500 --> 00:00:21,500
+<font face="Comic Sans MS" size="20"><b><font size="18">So when trash is thrown out</font></b></font>
+
+4
+00:00:18,500 --> 00:00:21,500
+<font face="Comic Sans MS" size="20"><b><font size="18">{\an8}<i><font color="#939080">So when trash is thrown out</font></i></font></b></font>
+
+5
+00:00:22,000 --> 00:00:25,000
+<font face="Comic Sans MS" size="20"><b><font size="18">what comes to inhabit it?</font></b></font>
+
+6
+00:00:22,000 --> 00:00:25,000
+<font face="Comic Sans MS" size="20"><b><font size="18">{\an8}<i><font color="#939080">what comes to inhabit it?</font></i></font></b></font>
+
+7
+00:01:17,260 --> 00:01:21,770
+<font face="Comic Sans MS" size="20"><b><font size="18">Humans think nothing of turning an object into trash</font></b></font>
+
+8
+00:01:17,260 --> 00:01:21,770
+<font face="Comic Sans MS" size="20"><b><font size="18">{\an8}<i><font color="#939080">Humans think nothing of turning an object into trash</font></i></font></b></font>
+
+9
+00:01:35,870 --> 00:01:39,120
+<font face="Comic Sans MS" size="20"><b><font size="18">To dismiss it as filth</font></b></font>
+
+10
+00:01:35,870 --> 00:01:39,120
+<font face="Comic Sans MS" size="20"><b><font size="18">{\an8}<i><font color="#939080">To dismiss it as filth</font></i></font></b></font>
+
+11
+00:01:39,620 --> 00:01:43,120
+<font face="Comic Sans MS" size="20"><b><font size="18">never to hold any value again</font></b></font>
+
+12
+00:01:39,620 --> 00:01:43,120
+<font face="Comic Sans MS" size="20"><b><font size="18">{\an8}<i><font color="#939080">never to hold any value again</font></i></font></b></font>
+
+13
+00:01:49,630 --> 00:01:52,130
+<font face="Comic Sans MS" size="20"><b><font size="18">They do this to other humans, too</font></b></font>
+
+14
+00:01:49,630 --> 00:01:52,130
+<font face="Comic Sans MS" size="20"><b><font size="18">{\an8}<i><font color="#939080">They do this to other humans, too</font></i></font></b></font>
+
+15
+00:01:55,090 --> 00:02:04,520
+<font face="Verdana" size="20"><b><font size="40"><i><font color="#000000">Gachiakuta</font></i></font></b></font>
+
+16
+00:03:31,770 --> 00:03:35,780
+<font face="Arial Black" size="20"><b><font size="8">Episode 1</font></b></font>
+
+17
+00:03:31,770 --> 00:03:35,780
+<font face="Arial Black" size="20"><b>{\an8}<font size="40">"The Sphere"</font></b></font>
+
