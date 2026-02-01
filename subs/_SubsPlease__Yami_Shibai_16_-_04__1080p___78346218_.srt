@@ -1,0 +1,254 @@
+1
+00:00:07,580 --> 00:00:10,530
+<font face="Roboto Medium" size="26">Step right up and have a look...</font>
+
+2
+00:00:10,530 --> 00:00:13,950
+<font face="Roboto Medium" size="26">It's time for Yamishibai.</font>
+
+3
+00:00:10,530 --> 00:00:17,490
+<font face="Times New Roman" size="44" color="#593826"><b>{\an8}<font color="#5e3623"><font color="#5c352c">Theatre of Darkness: Yamishibai</font></font></b></font>
+
+4
+00:00:13,370 --> 00:00:17,490
+<font face="Times New Roman" size="22" color="#3d2b20"><font color="#2b1f0a">Following</font></font>
+
+5
+00:00:17,330 --> 00:00:24,160
+<font face="Roboto Medium" size="26">This is the story of a certain woman 
+who runs a tailoring shop...</font>
+
+6
+00:00:17,330 --> 00:00:26,550
+<font face="Roboto Medium" size="26"><font color="#7b6940"><font face="Times New Roman"><b>Musubu Tailor</b></font></font></font>
+
+7
+00:00:24,660 --> 00:00:26,000
+<font face="Roboto Medium" size="26">Excuse us.</font>
+
+8
+00:00:26,000 --> 00:00:27,340
+<font face="Roboto Medium" size="26">Welcome.</font>
+
+9
+00:00:27,800 --> 00:00:29,550
+<font face="Roboto Medium" size="26">Do you need something patched up?</font>
+
+10
+00:00:29,550 --> 00:00:34,420
+<font face="Roboto Medium" size="26">Well, I was hoping you could make this 
+kimono into a necktie or something.</font>
+
+11
+00:00:34,840 --> 00:00:36,600
+<font face="Roboto Medium" size="26">Isn't the pattern wonderful?</font>
+
+12
+00:00:36,600 --> 00:00:38,520
+<font face="Roboto Medium" size="26">I know it'll look great on you, Ryuuta!</font>
+
+13
+00:00:37,330 --> 00:00:40,070
+<font face="Roboto Medium" size="26">Let me just take a look.</font>
+
+14
+00:00:41,370 --> 00:00:45,880
+<font face="Roboto Medium" size="26">This is a fine piece, 
+but I do see holes and stains.</font>
+
+15
+00:00:45,880 --> 00:00:49,210
+<font face="Roboto Medium" size="26">Oh... the price isn't a concern.</font>
+
+16
+00:00:49,210 --> 00:00:50,790
+<font face="Roboto Medium" size="26">And I'll wait as long as it takes.</font>
+
+17
+00:00:51,200 --> 00:00:55,370
+<font face="Roboto Medium" size="26">It's a kimono with... a lot of history.</font>
+
+18
+00:00:55,370 --> 00:00:58,360
+<font face="Roboto Medium" size="26">There are lots just like it 
+at your place, though.</font>
+
+19
+00:00:58,360 --> 00:01:00,390
+<font face="Roboto Medium" size="26">In that case, I'll see to it.</font>
+
+20
+00:01:00,390 --> 00:01:02,020
+<font face="Roboto Medium" size="26">Thank you very much.</font>
+
+21
+00:01:02,400 --> 00:01:05,500
+<font face="Roboto Medium" size="26">I wonder if it belonged to 
+someone important to him.</font>
+
+22
+00:01:09,650 --> 00:01:13,030
+<font face="Roboto Medium" size="26">This material really is gorgeous, 
+now that I get another look at it.</font>
+
+23
+00:01:13,030 --> 00:01:15,120
+<font face="Roboto Medium" size="26">The dying and pattern, too.</font>
+
+24
+00:01:15,460 --> 00:01:18,540
+<font face="Roboto Medium" size="26">That's an odd place for all these seams.</font>
+
+25
+00:01:18,870 --> 00:01:20,400
+<font face="Roboto Medium" size="26">They're very sturdy...</font>
+
+26
+00:01:21,840 --> 00:01:26,790
+<font face="Roboto Medium" size="26">Please... Please... Please...</font>
+
+27
+00:01:27,740 --> 00:01:32,830
+<font face="Roboto Medium" size="26">I want to follow him. 
+I can't stop worrying about him...</font>
+
+28
+00:01:32,830 --> 00:01:37,140
+<font face="Roboto Medium" size="26">He always attracts the 
+wrong kind of attention...</font>
+
+29
+00:01:37,140 --> 00:01:39,770
+<font face="Roboto Medium" size="26">This kimono... belonged to you?</font>
+
+30
+00:01:39,770 --> 00:01:41,100
+<font face="Roboto Medium" size="26">Yes.</font>
+
+31
+00:01:42,740 --> 00:01:48,370
+<font face="Roboto Medium" size="26">All of this... is my own hair, and that 
+of someone I care very much about.</font>
+
+32
+00:01:48,370 --> 00:01:52,460
+<font face="Roboto Medium" size="26">All of my kimonos contain hair 
+from the both of us.</font>
+
+33
+00:01:52,900 --> 00:01:59,440
+<font face="Roboto Medium" size="26">Please... include the hair, whatever 
+you do, so we won't be separated...</font>
+
+34
+00:01:59,440 --> 00:02:02,420
+<font face="Roboto Medium" size="26">It's my bond to him...</font>
+
+35
+00:02:06,420 --> 00:02:08,940
+<font face="Roboto Medium" size="26">Here you are! 
+This is the finished product.</font>
+
+36
+00:02:11,090 --> 00:02:13,240
+<font face="Roboto Medium" size="26">It looks fantastic!</font>
+
+37
+00:02:13,240 --> 00:02:15,800
+<font face="Roboto Medium" size="26">I'm glad you like it.</font>
+
+38
+00:02:16,230 --> 00:02:18,750
+<font face="Roboto Medium" size="26">That's so nice! I want something like it!</font>
+
+39
+00:02:18,750 --> 00:02:21,940
+<font face="Roboto Medium" size="26">There's plenty of material left, 
+so can I have something, too?</font>
+
+40
+00:02:21,940 --> 00:02:25,210
+<font face="Roboto Medium" size="26">Ryuuta? Ryuuta, pay attention to me!</font>
+
+41
+00:02:25,210 --> 00:02:30,290
+<font face="Roboto Medium" size="26">I hope you don't mind me asking, but 
+that kimono belonged to your wife, yes?</font>
+
+42
+00:02:32,070 --> 00:02:34,400
+<font face="Roboto Medium" size="26">She must've really loved it.</font>
+
+43
+00:02:34,400 --> 00:02:37,120
+<font face="Roboto Medium" size="26">I can tell it was handled with great care.</font>
+
+44
+00:02:38,340 --> 00:02:39,670
+<font face="Roboto Medium" size="26">That's right.</font>
+
+45
+00:02:39,670 --> 00:02:42,770
+<font face="Roboto Medium" size="26">My Kimiyo loved kimonos...</font>
+
+46
+00:02:42,770 --> 00:02:45,730
+<font face="Roboto Medium" size="26">But I was bad at storing them, 
+and now they're all worn out.</font>
+
+47
+00:02:46,450 --> 00:02:49,490
+<font face="Roboto Medium" size="26">I feel so guilty...</font>
+
+48
+00:02:49,940 --> 00:02:52,630
+<font face="Roboto Medium" size="26">Ryuuta? Behind you! 
+There's something behind you!</font>
+
+49
+00:02:52,630 --> 00:02:55,180
+<font face="Roboto Medium" size="26">No! Don't look at me!</font>
+
+50
+00:02:55,180 --> 00:02:59,060
+<font face="Roboto Medium" size="26">Go away. He can't even see you.</font>
+
+51
+00:02:59,730 --> 00:03:02,530
+<font face="Roboto Medium" size="26">No way... No way!</font>
+
+52
+00:03:03,640 --> 00:03:05,200
+<font face="Roboto Medium" size="26">I'll take better care of this.</font>
+
+53
+00:03:05,580 --> 00:03:08,490
+<font face="Roboto Medium" size="26">That way I'll always have Kimiyo with me.</font>
+
+54
+00:03:09,460 --> 00:03:16,740
+<font face="Roboto Medium" size="26">That's right, Ryuuta. I'll be 
+following you forever and ever...</font>
+
+55
+00:03:16,740 --> 00:03:20,170
+<font face="Roboto Medium" size="26">I subtly sewed some of the hair 
+into the back of the necktie.</font>
+
+56
+00:03:20,170 --> 00:03:23,440
+<font face="Roboto Medium" size="26">That our little secret, ma'am.</font>
+
+57
+00:03:23,440 --> 00:03:28,130
+<font face="Roboto Medium" size="26">Forever and ever and ever...</font>
+
+58
+00:03:27,900 --> 00:03:31,900
+<font face="Times New Roman" size="44" color="#593826"><b>{\an8}<font size="34">Theatre of Darkness: Yamishibai</font></b></font>
+
+59
+00:03:28,690 --> 00:03:30,850
+<font face="Roboto Medium" size="26">The end.</font>
+
