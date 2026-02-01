@@ -1,0 +1,26 @@
+1
+00:00:06,460 --> 00:00:08,420
+<font face="Gandhi Sans" size="24"><b>{\an8}INFIRMARY</b></font>
+
+2
+00:03:57,290 --> 00:04:00,790
+<font face="Gandhi Sans" size="24"><b>{\an8}MY BIG BROTHER'S COMING!</b></font>
+
+3
+00:09:55,630 --> 00:09:58,080
+<font face="Gandhi Sans" size="24"><b>{\an8}MAIDO</b></font>
+
+4
+00:18:55,630 --> 00:18:59,880
+<font face="Gandhi Sans" size="24"><b>{\an8}PUBLIC TRACK AND FIELD STADIUM
+A FEW DAYS LATER</b></font>
+
+5
+00:19:57,920 --> 00:19:59,420
+<font face="Gandhi Sans" size="24"><b>{\an8}LOVE AND MARRIAGE</b></font>
+
+6
+00:23:57,960 --> 00:23:59,830
+<font face="Gandhi Sans" size="24"><b>{\an8}NEXT TIME
+BECAUSE I'M A GUY!</b></font>
+
