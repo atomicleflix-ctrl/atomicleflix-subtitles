@@ -1,0 +1,1600 @@
+1
+00:01:45,540 --> 00:01:50,510
+<font face="Times New Roman" size="20"><b>The Samurai Code and Carnage</b></font>
+
+2
+00:01:45,540 --> 00:01:48,020
+<font face="Roboto Medium" size="26">An additional expedition?</font>
+
+3
+00:01:48,020 --> 00:01:49,260
+<font face="Roboto Medium" size="26">Indeed.</font>
+
+4
+00:01:49,260 --> 00:01:52,710
+<font face="Roboto Medium" size="26">It's been two days, and 
+no one's returned with the Elixir.</font>
+
+5
+00:01:52,710 --> 00:01:53,750
+<font face="Roboto Medium" size="26">Two days?</font>
+
+6
+00:01:53,750 --> 00:01:55,260
+<font face="Roboto Medium" size="26">The next group's incredible.</font>
+
+7
+00:01:55,260 --> 00:01:59,770
+<font face="Roboto Medium" size="26">Four Yamada Asaemons, 
+including <i>the</i> Shugen,</font>
+
+8
+00:01:59,770 --> 00:02:02,270
+<font face="Roboto Medium" size="26">four Iwagakure ninjas,</font>
+
+9
+00:02:02,270 --> 00:02:05,370
+<font face="Roboto Medium" size="26">and over 50 subordinates to serve them.</font>
+
+10
+00:02:05,370 --> 00:02:10,190
+<font face="Roboto Medium" size="26">They'll be a real boon 
+to the first expedition.</font>
+
+11
+00:02:08,400 --> 00:02:10,190
+<font face="Roboto Medium" size="26"><i>{\an8}That idiot.</i></font>
+
+12
+00:02:10,190 --> 00:02:14,590
+<font face="Roboto Medium" size="26"><i>What reason is there to send 
+this many forces for this job?</i></font>
+
+13
+00:02:14,590 --> 00:02:17,870
+<font face="Roboto Medium" size="26"><i>The ninja leader must have other plans.</i></font>
+
+14
+00:02:18,130 --> 00:02:19,140
+<font face="Roboto Medium" size="26">Aoki-dono.</font>
+
+15
+00:02:20,330 --> 00:02:21,700
+<font face="Roboto Medium" size="26">Does something concern you?</font>
+
+16
+00:02:22,170 --> 00:02:25,540
+<font face="Roboto Medium" size="26">We'll be there to handle 
+any possible threats.</font>
+
+17
+00:02:25,540 --> 00:02:29,300
+<font face="Roboto Medium" size="26">But can you control this many people?</font>
+
+18
+00:02:29,300 --> 00:02:30,520
+<font face="Roboto Medium" size="26">Also...</font>
+
+19
+00:02:31,450 --> 00:02:33,820
+<font face="Roboto Medium" size="26">Those two are unranked, aren't they?</font>
+
+20
+00:02:34,280 --> 00:02:35,890
+<font face="Roboto Medium" size="26">You needn't worry.</font>
+
+21
+00:02:35,890 --> 00:02:39,050
+<font face="Roboto Medium" size="26">That youngster is 
+Yamada Asaemon Kiyomaru.</font>
+
+22
+00:02:39,050 --> 00:02:41,910
+<font face="Roboto Medium" size="26">He's unranked due to his age,</font>
+
+23
+00:02:41,910 --> 00:02:45,060
+<font face="Roboto Medium" size="26">but his skills make him 
+one of the top two students.</font>
+
+24
+00:02:45,480 --> 00:02:47,520
+<font face="Roboto Medium" size="26">Yamada Asaemon Isuzu.</font>
+
+25
+00:02:47,520 --> 00:02:49,820
+<font face="Roboto Medium" size="26">Though she is a woman, she's a 
+powerful and magnificent fighter.</font>
+
+26
+00:02:50,480 --> 00:02:52,850
+<font face="Roboto Medium" size="26">She served the shogunate 
+as a martial arts instructor.</font>
+
+27
+00:02:53,320 --> 00:02:55,820
+<font face="Roboto Medium" size="26">They are what's known as "urayurushi."</font>
+
+28
+00:02:55,820 --> 00:02:57,980
+<font face="Roboto Medium" size="26">The rules prevent them from being ranked,</font>
+
+29
+00:02:57,980 --> 00:03:01,290
+<font face="Roboto Medium" size="26">but they are as strong 
+as any certified "okuyurushi."</font>
+
+30
+00:03:01,980 --> 00:03:03,820
+<font face="Roboto Medium" size="26">We also have Jikka-dono, 
+who is skilled, if nothing else.</font>
+
+31
+00:03:03,820 --> 00:03:06,080
+<font face="Roboto Medium" size="26">That's me. Skilled, if nothing else.</font>
+
+32
+00:03:06,350 --> 00:03:10,280
+<font face="Roboto Medium" size="26">We do not intend to merely supervise.</font>
+
+33
+00:03:10,280 --> 00:03:13,090
+<font face="Roboto Medium" size="26">We will do everything we can 
+for our fellow clan members.</font>
+
+34
+00:03:13,590 --> 00:03:15,080
+<font face="Roboto Medium" size="26">I see.</font>
+
+35
+00:03:15,080 --> 00:03:18,970
+<font face="Roboto Medium" size="26">If you're worried, shall I 
+demonstrate my skills, you old fart?</font>
+
+36
+00:03:18,970 --> 00:03:20,220
+<font face="Roboto Medium" size="26">Wha—Kiyo-chan!</font>
+
+37
+00:03:20,220 --> 00:03:23,120
+<font face="Roboto Medium" size="26">He underestimates us 
+because we're unranked.</font>
+
+38
+00:03:23,120 --> 00:03:24,480
+<font face="Roboto Medium" size="26">It pisses me off.</font>
+
+39
+00:03:24,480 --> 00:03:26,600
+<font face="Roboto Medium" size="26">I'm definitely stronger than him.</font>
+
+40
+00:03:26,600 --> 00:03:28,560
+<font face="Roboto Medium" size="26">Still, you shouldn't do that.</font>
+
+41
+00:03:30,610 --> 00:03:33,940
+<font face="Roboto Medium" size="26">In that case, I could 
+kill everyone here for you.</font>
+
+42
+00:03:34,840 --> 00:03:36,450
+<font face="Roboto Medium" size="26">As you wish.</font>
+
+43
+00:03:41,900 --> 00:03:45,200
+<font face="Roboto Medium" size="26">Huh? I struck the guy 
+next to him on purpose.</font>
+
+44
+00:03:45,200 --> 00:03:48,210
+<font face="Roboto Medium" size="26">They really don't move. Boring.</font>
+
+45
+00:03:49,080 --> 00:03:51,790
+<font face="Roboto Medium" size="26">Don't be rude to the ninjas.</font>
+
+46
+00:03:51,790 --> 00:03:53,850
+<font face="Roboto Medium" size="26">Put your sword away, Kiyo-chan.</font>
+
+47
+00:03:54,590 --> 00:03:57,090
+<font face="Roboto Medium" size="26">You, too, giantess.</font>
+
+48
+00:04:02,470 --> 00:04:04,430
+<font face="Roboto Medium" size="26"><i>Are these guys going to be okay?</i></font>
+
+49
+00:04:04,430 --> 00:04:05,800
+<font face="Roboto Medium" size="26">Please.</font>
+
+50
+00:04:06,230 --> 00:04:10,100
+<font face="Roboto Medium" size="26">Samurai mustn't argue 
+over such a trifling matter.</font>
+
+51
+00:04:10,100 --> 00:04:12,610
+<font face="Roboto Medium" size="26">Don't trouble yourselves with us.</font>
+
+52
+00:04:12,610 --> 00:04:15,990
+<font face="Roboto Medium" size="26">I-I'm sorry you had to see that. 
+Forgive us.</font>
+
+53
+00:04:15,990 --> 00:04:19,680
+<font face="Roboto Medium" size="26">Not at all. A ninja's life 
+belongs to his master.</font>
+
+54
+00:04:19,680 --> 00:04:22,430
+<font face="Roboto Medium" size="26">On this mission, 
+the Yamadas are our masters.</font>
+
+55
+00:04:22,430 --> 00:04:25,490
+<font face="Roboto Medium" size="26">If you doubt us, select anyone here.</font>
+
+56
+00:04:25,820 --> 00:04:32,580
+<font face="Roboto Medium" size="26">They will be thrown overboard 
+or executed to demonstrate our loyalty.</font>
+
+57
+00:04:33,360 --> 00:04:35,000
+<font face="Roboto Medium" size="26">Oh, yeah?</font>
+
+58
+00:04:35,000 --> 00:04:36,390
+<font face="Roboto Medium" size="26">Okay, you.</font>
+
+59
+00:04:36,390 --> 00:04:38,760
+<font face="Roboto Medium" size="26">Show me a ninja's loyalty.</font>
+
+60
+00:04:40,490 --> 00:04:41,870
+<font face="Roboto Medium" size="26">Very well.</font>
+
+61
+00:04:43,060 --> 00:04:44,390
+<font face="Roboto Medium" size="26">The rest is up to you.</font>
+
+62
+00:04:45,760 --> 00:04:50,360
+<font face="Roboto Medium" size="26"><i>You may go in, you may enter.</i></font>
+
+63
+00:04:50,360 --> 00:04:55,670
+<font face="Roboto Medium" size="26"><i>Whose narrow path is this?</i></font>
+
+64
+00:04:55,670 --> 00:05:01,280
+<font face="Roboto Medium" size="26"><i>This is the narrow pathway 
+of the Tenjin shrine...</i></font>
+
+65
+00:05:08,040 --> 00:05:12,440
+<font face="Roboto Medium" size="26">Shinobi do not have wills 
+or minds of their own.</font>
+
+66
+00:05:12,440 --> 00:05:15,150
+<font face="Roboto Medium" size="26">Our greatest desire is 
+to be merely a tool.</font>
+
+67
+00:05:15,800 --> 00:05:17,920
+<font face="Roboto Medium" size="26">We ask that you trust us.</font>
+
+68
+00:05:17,920 --> 00:05:20,310
+<font face="Roboto Medium" size="26">E-Enough. Return to your positions.</font>
+
+69
+00:05:20,310 --> 00:05:22,900
+<font face="Roboto Medium" size="26">Your resolve is powerful. I'm impressed.</font>
+
+70
+00:05:22,900 --> 00:05:25,170
+<font face="Roboto Medium" size="26">I don't really get ninjas.</font>
+
+71
+00:05:27,950 --> 00:05:31,730
+<font face="Roboto Medium" size="26">Join the mission and kill Gabimaru.</font>
+
+72
+00:05:32,090 --> 00:05:35,110
+<font face="Roboto Medium" size="26">I didn't expect him 
+to be sent on that mission</font>
+
+73
+00:05:35,110 --> 00:05:38,730
+<font face="Roboto Medium" size="26">before he could be 
+assassinated at his execution.</font>
+
+74
+00:05:38,730 --> 00:05:42,750
+<font face="Roboto Medium" size="26">Surely you won't be satisfied 
+unless you kill him, too.</font>
+
+75
+00:05:43,100 --> 00:05:46,110
+<font face="Roboto Medium" size="26">Gabimaru must be killed.</font>
+
+76
+00:05:46,110 --> 00:05:50,330
+<font face="Roboto Medium" size="26">Use your lives for solely that purpose.</font>
+
+77
+00:05:50,630 --> 00:05:54,420
+<font face="Roboto Medium" size="26">Are you sure we can 
+trust them, Shugen-san?</font>
+
+78
+00:05:54,420 --> 00:05:56,980
+<font face="Roboto Medium" size="26">I haven't trusted them from the start.</font>
+
+79
+00:05:56,980 --> 00:05:59,080
+<font face="Roboto Medium" size="26">Those ruffians are 
+no different from criminals.</font>
+
+80
+00:05:59,620 --> 00:06:03,970
+<font face="Roboto Medium" size="26">We'll search for the Elixir ourselves. 
+Just us Asaemons.</font>
+
+81
+00:06:03,970 --> 00:06:06,720
+<font face="Roboto Medium" size="26">What about the criminals on the island?</font>
+
+82
+00:06:07,080 --> 00:06:10,200
+<font face="Roboto Medium" size="26">Execute every criminal you find.</font>
+
+83
+00:06:10,690 --> 00:06:13,230
+<font face="Roboto Medium" size="26">I will bring back every last Asaemon.</font>
+
+84
+00:06:14,310 --> 00:06:16,640
+<font face="Roboto Medium" size="26"><i>Eizen-dono, everyone...</i></font>
+
+85
+00:06:17,140 --> 00:06:18,980
+<font face="Roboto Medium" size="26"><i>Please be safe.</i></font>
+
+86
+00:06:20,360 --> 00:06:24,190
+<font face="Roboto Medium" size="26">Being a manager sure is tough, huh?</font>
+
+87
+00:06:24,190 --> 00:06:28,900
+<font face="Roboto Medium" size="26">Managing all these rogues 
+must hinder your work.</font>
+
+88
+00:06:28,900 --> 00:06:30,350
+<font face="Roboto Medium" size="26">It can't be helped.</font>
+
+89
+00:06:30,350 --> 00:06:34,120
+<font face="Roboto Medium" size="26">The shogun is hoping 
+to complete the mission quickly.</font>
+
+90
+00:06:34,120 --> 00:06:38,330
+<font face="Roboto Medium" size="26">He said we'd make good allies 
+for the first expedition.</font>
+
+91
+00:06:39,090 --> 00:06:41,170
+<font face="Roboto Medium" size="26">You must be joking.</font>
+
+92
+00:06:41,170 --> 00:06:45,590
+<font face="Roboto Medium" size="26">I mean, this ship 
+isn't transporting allies.</font>
+
+93
+00:06:45,590 --> 00:06:48,670
+<font face="Roboto Medium" size="26">We're bringing more death and chaos.</font>
+
+94
+00:06:48,670 --> 00:06:54,520
+<font face="Roboto Medium" size="26">We're the ship of dreams 
+bearing nightmares and disaster.</font>
+
+95
+00:06:56,500 --> 00:06:59,730
+<font face="Roboto Medium" size="26">So, so many more will die.</font>
+
+96
+00:07:00,860 --> 00:07:03,510
+<font face="Roboto Medium" size="26">No one will make it back alive.</font>
+
+97
+00:07:07,090 --> 00:07:08,490
+<font face="Roboto Medium" size="26">An additional expedition?</font>
+
+98
+00:07:08,830 --> 00:07:11,440
+<font face="Roboto Medium" size="26">Yes. It could be Shugen's group.</font>
+
+99
+00:07:11,800 --> 00:07:15,760
+<font face="Roboto Medium" size="26">Eizen-san was ordered by the shogunate 
+to select a reserve group of Asaemons.</font>
+
+100
+00:07:15,760 --> 00:07:19,000
+<font face="Roboto Medium" size="26">Shu-kun could probably lead a group 
+of condemned criminals, too.</font>
+
+101
+00:07:19,340 --> 00:07:21,630
+<font face="Roboto Medium" size="26">Will Shugen be our ally?</font>
+
+102
+00:07:21,630 --> 00:07:23,590
+<font face="Roboto Medium" size="26">Yes, surely.</font>
+
+103
+00:07:23,590 --> 00:07:26,040
+<font face="Roboto Medium" size="26">He's the most skilled of the Yamadas.</font>
+
+104
+00:07:26,040 --> 00:07:28,340
+<font face="Roboto Medium" size="26">His combat experience is first class, too.</font>
+
+105
+00:07:29,090 --> 00:07:32,770
+<font face="Roboto Medium" size="26">That's not enough 
+to survive on this island.</font>
+
+106
+00:07:32,770 --> 00:07:35,100
+<font face="Roboto Medium" size="26">You need to master the tricks of tao.</font>
+
+107
+00:07:35,100 --> 00:07:36,530
+<font face="Roboto Medium" size="26">Not a trick!</font>
+
+108
+00:07:36,530 --> 00:07:40,440
+<font face="Roboto Medium" size="26">Shugen can probably perceive tao.</font>
+
+109
+00:07:41,030 --> 00:07:45,550
+<font face="Roboto Medium" size="26">When we practiced together, 
+he seemed aware of my sixth sense.</font>
+
+110
+00:07:45,550 --> 00:07:47,490
+<font face="Roboto Medium" size="26">He's a serious man through and through.</font>
+
+111
+00:07:48,210 --> 00:07:50,820
+<font face="Roboto Medium" size="26">He fervently tried to learn from me.</font>
+
+112
+00:07:51,350 --> 00:07:53,200
+<font face="Roboto Medium" size="26">He's the one who named them waves.</font>
+
+113
+00:07:53,580 --> 00:07:56,150
+<font face="Roboto Medium" size="26">Isuzu. Hold this.</font>
+
+114
+00:07:56,150 --> 00:07:59,090
+<font face="Roboto Medium" size="26">What? How are you going to 
+fight that without a weapon?</font>
+
+115
+00:07:59,090 --> 00:08:00,580
+<font face="Roboto Medium" size="26">You'll be eaten.</font>
+
+116
+00:08:00,580 --> 00:08:04,310
+<font face="Roboto Medium" size="26">That masterwork was 
+a gift from the shogun.</font>
+
+117
+00:08:04,310 --> 00:08:06,180
+<font face="Roboto Medium" size="26">It is my pride as an executioner.</font>
+
+118
+00:08:09,410 --> 00:08:11,310
+<font face="Roboto Medium" size="26">I won't use it to hunt a boar.</font>
+
+119
+00:08:14,280 --> 00:08:16,240
+<font face="Roboto Medium" size="26">Fuchi-kun taught me.</font>
+
+120
+00:08:16,240 --> 00:08:20,780
+<font face="Roboto Medium" size="26">The structure and tension of muscles 
+can be estimated from the outside.</font>
+
+121
+00:08:20,780 --> 00:08:23,440
+<font face="Roboto Medium" size="26">You can use that 
+to easily dissect or destroy.</font>
+
+122
+00:08:26,220 --> 00:08:28,700
+<font face="Roboto Medium" size="26">Shion-dono taught me as well.</font>
+
+123
+00:08:28,990 --> 00:08:32,950
+<font face="Roboto Medium" size="26">If you observe the waves, you can 
+estimate the structure of a life.</font>
+
+124
+00:08:41,880 --> 00:08:44,390
+<font face="Roboto Medium" size="26">If he's that strong, it'll be great 
+to have him on our side!</font>
+
+125
+00:08:45,840 --> 00:08:47,590
+<font face="Roboto Medium" size="26">Is something wrong, Sensei?</font>
+
+126
+00:08:48,010 --> 00:08:52,760
+<font face="Roboto Medium" size="26">I think I know Yamada Asaemon Shugen.</font>
+
+127
+00:08:53,080 --> 00:08:54,890
+<font face="Roboto Medium" size="26">He was involved 
+in that incident, wasn't he?</font>
+
+128
+00:08:54,890 --> 00:08:57,890
+<font face="Roboto Medium" size="26">Incident? Did he cause a problem?</font>
+
+129
+00:08:57,890 --> 00:09:01,400
+<font face="Roboto Medium" size="26">No, I wouldn't call it a problem.</font>
+
+130
+00:09:01,400 --> 00:09:04,650
+<font face="Roboto Medium" size="26">He can be a bit too harsh.</font>
+
+131
+00:09:04,990 --> 00:09:06,650
+<font face="Roboto Medium" size="26">What kind of incident?</font>
+
+132
+00:09:07,120 --> 00:09:09,150
+<font face="Roboto Medium" size="26">I've only heard about it.</font>
+
+133
+00:09:09,520 --> 00:09:14,160
+<font face="Roboto Medium" size="26">When the boss of the Silver Serpent clan, 
+a famous Edo yakuza, was captured,</font>
+
+134
+00:09:14,590 --> 00:09:18,440
+<font face="Roboto Medium" size="26">he refused to give the locations of his 
+underlings hidden throughout the region.</font>
+
+135
+00:09:18,440 --> 00:09:20,830
+<font face="Roboto Medium" size="26">He caused the officials 
+quite a bit of trouble.</font>
+
+136
+00:09:21,210 --> 00:09:23,170
+<font face="Roboto Medium" size="26">Then Shugen-dono was summoned.</font>
+
+137
+00:09:23,690 --> 00:09:25,280
+<font face="Roboto Medium" size="26">He beheaded his already 
+captured underlings</font>
+
+138
+00:09:25,280 --> 00:09:26,860
+<font face="Roboto Medium" size="26">before his eyes to make him talk</font>
+
+139
+00:09:26,860 --> 00:09:30,350
+<font face="Roboto Medium" size="26">and slaughtered all 
+20 members of the clan,</font>
+
+140
+00:09:30,350 --> 00:09:32,710
+<font face="Roboto Medium" size="26">including the underlings they found.</font>
+
+141
+00:09:33,830 --> 00:09:37,180
+<font face="Roboto Medium" size="26">The shogun was delighted,</font>
+
+142
+00:09:37,180 --> 00:09:41,340
+<font face="Roboto Medium" size="26">gave him special attire and the 
+famous blade Fuributsu Kaneaki,</font>
+
+143
+00:09:41,340 --> 00:09:44,720
+<font face="Roboto Medium" size="26">and Shugen-dono gained influence 
+within the shogunate as well.</font>
+
+144
+00:09:47,990 --> 00:09:50,320
+<font face="Roboto Medium" size="26">So he kills all evil-doers.</font>
+
+145
+00:09:51,190 --> 00:09:53,570
+<font face="Roboto Medium" size="26">Sounds like a pretty cool guy.</font>
+
+146
+00:09:53,570 --> 00:09:55,480
+<font face="Roboto Medium" size="26">He's a good person at heart.</font>
+
+147
+00:09:55,480 --> 00:09:57,700
+<font face="Roboto Medium" size="26">He's kind to all the students.</font>
+
+148
+00:09:57,700 --> 00:10:00,000
+<font face="Roboto Medium" size="26">And he's Sagi's first love.</font>
+
+149
+00:10:00,950 --> 00:10:03,250
+<font face="Roboto Medium" size="26">Oh? Tell me more.</font>
+
+150
+00:10:03,250 --> 00:10:05,210
+<font face="Roboto Medium" size="26">You want to marry him?</font>
+
+151
+00:10:05,210 --> 00:10:06,610
+<font face="Roboto Medium" size="26">No, I...</font>
+
+152
+00:10:07,860 --> 00:10:09,690
+<font face="Roboto Medium" size="26">I was a child.</font>
+
+153
+00:10:09,690 --> 00:10:12,220
+<font face="Roboto Medium" size="26">I suppose I did admire him.</font>
+
+154
+00:10:13,860 --> 00:10:18,720
+<font face="Roboto Medium" size="26">Shugen-dono was the reason 
+I became ranked in the Yamada clan.</font>
+
+155
+00:10:19,370 --> 00:10:22,160
+<font face="Roboto Medium" size="26">Please grant Sagiri a rank as well.</font>
+
+156
+00:10:22,730 --> 00:10:25,730
+<font face="Roboto Medium" size="26">If you refuse to acknowledge 
+her marvelous skill,</font>
+
+157
+00:10:25,730 --> 00:10:28,230
+<font face="Roboto Medium" size="26">then I cannot proudly bear my own rank.</font>
+
+158
+00:10:28,560 --> 00:10:31,920
+<font face="Roboto Medium" size="26">He's rigid, but he's kind.</font>
+
+159
+00:10:32,490 --> 00:10:34,110
+<font face="Roboto Medium" size="26">Shugen-san, are you hurt?</font>
+
+160
+00:10:34,110 --> 00:10:36,570
+<font face="Roboto Medium" size="26">If you'd said something, 
+we would've helped.</font>
+
+161
+00:10:36,570 --> 00:10:40,120
+<font face="Roboto Medium" size="26">Our orders are to supervise and execute.</font>
+
+162
+00:10:41,830 --> 00:10:45,540
+<font face="Roboto Medium" size="26">You needn't dirty your blades 
+for anything else.</font>
+
+163
+00:10:45,970 --> 00:10:48,350
+<font face="Roboto Medium" size="26">I'm your elder. Allow me 
+to handle such trivial matters.</font>
+
+164
+00:10:49,540 --> 00:10:52,300
+<font face="Roboto Medium" size="26">Your eyes are scary 
+even when you're smiling.</font>
+
+165
+00:10:52,660 --> 00:10:54,190
+<font face="Roboto Medium" size="26">Are they?</font>
+
+166
+00:10:54,190 --> 00:10:57,430
+<font face="Roboto Medium" size="26">You sure are dependable, though.</font>
+
+167
+00:10:57,430 --> 00:11:00,180
+<font face="Roboto Medium" size="26">Jikka-dono, you're older than me.</font>
+
+168
+00:11:00,750 --> 00:11:02,310
+<font face="Roboto Medium" size="26">Let's hurry.</font>
+
+169
+00:11:06,190 --> 00:11:09,190
+<font face="Roboto Medium" size="26">Once he learns of the situation, 
+he'll surely help us.</font>
+
+170
+00:11:09,190 --> 00:11:11,320
+<font face="Roboto Medium" size="26">No, I don't think so.</font>
+
+171
+00:11:12,750 --> 00:11:16,910
+<font face="Roboto Medium" size="26">You're a bit mistaken 
+about that story you told.</font>
+
+172
+00:11:17,580 --> 00:11:19,830
+<font face="Roboto Medium" size="26">After all, it's not something 
+the Yamadas like to discuss.</font>
+
+173
+00:11:19,830 --> 00:11:20,830
+<font face="Roboto Medium" size="26">What?</font>
+
+174
+00:11:21,230 --> 00:11:26,080
+<font face="Roboto Medium" size="26">Shugen executed 20 yakuza 
+and their entire clan.</font>
+
+175
+00:11:26,080 --> 00:11:29,080
+<font face="Roboto Medium" size="26">Yes, like I said, 20...</font>
+
+176
+00:11:29,080 --> 00:11:29,960
+<font face="Roboto Medium" size="26">No.</font>
+
+177
+00:11:30,440 --> 00:11:33,390
+<font face="Roboto Medium" size="26">Twenty Silver Serpents
+and their entire clan.</font>
+
+178
+00:11:33,390 --> 00:11:37,580
+<font face="Roboto Medium" size="26">Their families, their elderly parents, 
+even young children.</font>
+
+179
+00:11:38,190 --> 00:11:39,970
+<font face="Roboto Medium" size="26">In total, over 100 of them.</font>
+
+180
+00:11:39,970 --> 00:11:42,670
+<font face="Roboto Medium" size="26">H-How could you?</font>
+
+181
+00:11:42,670 --> 00:11:46,850
+<font face="Roboto Medium" size="26">Yataro... He's just a baby...</font>
+
+182
+00:11:47,220 --> 00:11:50,610
+<font face="Roboto Medium" size="26">Do you have to kill him, too?</font>
+
+183
+00:11:51,640 --> 00:11:54,000
+<font face="Roboto Medium" size="26">It is painful but unavoidable.</font>
+
+184
+00:11:54,000 --> 00:11:59,000
+<font face="Roboto Medium" size="26">If I'd executed only you, your family 
+would've inherited your business.</font>
+
+185
+00:11:59,440 --> 00:12:02,170
+<font face="Roboto Medium" size="26">Evil is born not just from people's hearts</font>
+
+186
+00:12:02,170 --> 00:12:04,510
+<font face="Roboto Medium" size="26">but the environment 
+in which they're raised, too.</font>
+
+187
+00:12:05,450 --> 00:12:10,000
+<font face="Roboto Medium" size="26">I pray you're at least reborn 
+as a good person in your next life.</font>
+
+188
+00:12:10,410 --> 00:12:12,500
+<font face="Roboto Medium" size="26">You're inhuman... You're inhuman...</font>
+
+189
+00:12:12,500 --> 00:12:14,100
+<font face="Roboto Medium" size="26">You're inhuman...</font>
+
+190
+00:12:18,260 --> 00:12:22,640
+<font face="Roboto Medium" size="26">I like him as a samurai, 
+and he's a friend.</font>
+
+191
+00:12:22,640 --> 00:12:26,920
+<font face="Roboto Medium" size="26">But I don't think Shugen will let 
+a single criminal off the hook,</font>
+
+192
+00:12:27,520 --> 00:12:28,890
+<font face="Roboto Medium" size="26">no matter the circumstances.</font>
+
+193
+00:12:31,510 --> 00:12:35,690
+<font face="Roboto Medium" size="26">In fact, he probably wouldn't forgive any 
+Asaemons who protect criminals either.</font>
+
+194
+00:12:36,820 --> 00:12:38,460
+<font face="Roboto Medium" size="26">That's the kind of man he is.</font>
+
+195
+00:12:40,410 --> 00:12:44,000
+<font face="Roboto Medium" size="26">Especially if he learns what's 
+happening on this island.</font>
+
+196
+00:12:45,930 --> 00:12:48,140
+<font face="Roboto Medium" size="26">So your name is Shugen.</font>
+
+197
+00:12:48,500 --> 00:12:51,110
+<font face="Roboto Medium" size="26">Your parents were slain 
+when you were young,</font>
+
+198
+00:12:51,110 --> 00:12:53,820
+<font face="Roboto Medium" size="26">and by some fate, we took you in.</font>
+
+199
+00:12:54,750 --> 00:12:57,440
+<font face="Roboto Medium" size="26">Being an executioner 
+will be difficult for you.</font>
+
+200
+00:12:57,880 --> 00:13:00,510
+<font face="Roboto Medium" size="26">You'll be faced with all kinds of crimes.</font>
+
+201
+00:13:00,510 --> 00:13:03,890
+<font face="Roboto Medium" size="26">My parents' murderer 
+still hasn't been caught.</font>
+
+202
+00:13:04,220 --> 00:13:06,720
+<font face="Roboto Medium" size="26">Perhaps I'll get to behead them someday.</font>
+
+203
+00:13:07,660 --> 00:13:09,890
+<font face="Roboto Medium" size="26">I hear the Yamada Asaemons consider</font>
+
+204
+00:13:09,890 --> 00:13:12,270
+<font face="Roboto Medium" size="26">a single painless and 
+emotionless strike ideal.</font>
+
+205
+00:13:13,280 --> 00:13:14,770
+<font face="Roboto Medium" size="26">That's correct.</font>
+
+206
+00:13:15,420 --> 00:13:19,220
+<font face="Roboto Medium" size="26">I don't understand. 
+It's better to do it poorly.</font>
+
+207
+00:13:19,220 --> 00:13:21,870
+<font face="Roboto Medium" size="26">Strike multiple times to sever the head.</font>
+
+208
+00:13:21,870 --> 00:13:24,410
+<font face="Roboto Medium" size="26">It's a more painful death.</font>
+
+209
+00:13:24,910 --> 00:13:27,990
+<font face="Roboto Medium" size="26">What about damaging 
+the blade to make it jagged?</font>
+
+210
+00:13:28,390 --> 00:13:29,460
+<font face="Roboto Medium" size="26">That would be pointless.</font>
+
+211
+00:13:30,490 --> 00:13:32,170
+<font face="Roboto Medium" size="26">Because I'll sharpen it.</font>
+
+212
+00:13:35,500 --> 00:13:38,630
+<font face="Roboto Medium" size="26">It will be difficult to erase 
+your hatred right away,</font>
+
+213
+00:13:38,630 --> 00:13:42,270
+<font face="Roboto Medium" size="26">but through learning and teaching here, 
+you will learn how to face it.</font>
+
+214
+00:13:44,510 --> 00:13:47,380
+<font face="Roboto Medium" size="26">If you still wish 
+to damage it then, you may.</font>
+
+215
+00:13:47,800 --> 00:13:49,520
+<font face="Roboto Medium" size="26">I'll sharpen it again and again.</font>
+
+216
+00:13:51,470 --> 00:13:54,520
+<font face="Roboto Medium" size="26">Someday your blade will have 
+a beautiful pattern.</font>
+
+217
+00:13:55,210 --> 00:13:56,500
+<font face="Roboto Medium" size="26">I look forward to it.</font>
+
+218
+00:13:59,930 --> 00:14:01,650
+<font face="Roboto Medium" size="26">Eizen-dono!</font>
+
+219
+00:14:01,650 --> 00:14:05,310
+<font face="Roboto Medium" size="26">I... I still need you.</font>
+
+220
+00:14:07,370 --> 00:14:09,370
+<font face="Roboto Medium" size="26">I still need you!</font>
+
+221
+00:14:07,370 --> 00:14:08,610
+<font face="Roboto Medium" size="26">Shugen-san.</font>
+
+222
+00:14:09,370 --> 00:14:11,320
+<font face="Roboto Medium" size="26">I know it's hard, but we must proceed.</font>
+
+223
+00:14:12,330 --> 00:14:15,010
+<font face="Roboto Medium" size="26">I'm concerned about the others.</font>
+
+224
+00:14:16,480 --> 00:14:17,850
+<font face="Roboto Medium" size="26">You're right.</font>
+
+225
+00:14:20,590 --> 00:14:22,260
+<font face="Roboto Medium" size="26">At least let us put him to rest.</font>
+
+226
+00:14:22,260 --> 00:14:23,550
+<font face="Roboto Medium" size="26">Let's go.</font>
+
+227
+00:14:23,550 --> 00:14:24,550
+<font face="Roboto Medium" size="26">Yes, sir.</font>
+
+228
+00:14:31,750 --> 00:14:33,900
+<font face="Roboto Medium" size="26"><i>They're a strange group.</i></font>
+
+229
+00:14:33,900 --> 00:14:37,400
+<font face="Roboto Medium" size="26"><i>He chants sutras at his leisure
+on an island of monsters,</i></font>
+
+230
+00:14:37,400 --> 00:14:39,400
+<font face="Roboto Medium" size="26"><i>and the other two are strange 
+for going along with it.</i></font>
+
+231
+00:14:39,810 --> 00:14:42,400
+<font face="Roboto Medium" size="26"><i>I suppose he's just that powerful a man.</i></font>
+
+232
+00:14:42,750 --> 00:14:46,160
+<font face="Roboto Medium" size="26"><i>No, this man is odd as well.</i></font>
+
+233
+00:14:46,520 --> 00:14:48,530
+<font face="Roboto Medium" size="26"><i>I can't get a read on him at all.</i></font>
+
+234
+00:14:49,200 --> 00:14:51,120
+<font face="Roboto Medium" size="26"><i>I want to go home...</i></font>
+
+235
+00:14:51,120 --> 00:14:55,620
+<font face="Roboto Medium" size="26"><i>But this dangerous island is the perfect 
+place to outwit the Asaemons.</i></font>
+
+236
+00:14:55,620 --> 00:14:58,690
+<font face="Roboto Medium" size="26"><i>We'll look for an opportunity 
+to complete our mission.</i></font>
+
+237
+00:14:58,690 --> 00:15:02,630
+<font face="Roboto Medium" size="26"><i>This island wouldn't 
+be enough to kill him.</i></font>
+
+238
+00:15:09,450 --> 00:15:12,380
+<font face="Roboto Medium" size="26">Wow, look at the size of those.</font>
+
+239
+00:15:22,440 --> 00:15:25,860
+<font face="Roboto Medium" size="26">Capture as many alive as possible.</font>
+
+240
+00:15:25,860 --> 00:15:27,890
+<font face="Roboto Medium" size="26">It speaks. 
+Is it different from the others?</font>
+
+241
+00:15:27,890 --> 00:15:30,240
+<font face="Roboto Medium" size="26">If you can speak, let's talk this out.</font>
+
+242
+00:15:30,240 --> 00:15:32,290
+<font face="Roboto Medium" size="26">I do not have the right to do that.</font>
+
+243
+00:15:32,290 --> 00:15:34,690
+<font face="Roboto Medium" size="26">You must speak with the Tensen.</font>
+
+244
+00:15:39,080 --> 00:15:42,590
+<font face="Roboto Medium" size="26">Hey! Shugen-san is mourning!</font>
+
+245
+00:15:57,980 --> 00:15:59,480
+<font face="Roboto Medium" size="26"><i>She threw it off balance.</i></font>
+
+246
+00:16:09,360 --> 00:16:10,790
+<font face="Roboto Medium" size="26">Whoa.</font>
+
+247
+00:16:11,700 --> 00:16:13,460
+<font face="Roboto Medium" size="26">There are plenty more, Kiyo-chan.</font>
+
+248
+00:16:13,460 --> 00:16:15,450
+<font face="Roboto Medium" size="26">Oh, shut up. I know.</font>
+
+249
+00:16:15,450 --> 00:16:17,210
+<font face="Roboto Medium" size="26">Their skills are incredible.</font>
+
+250
+00:16:17,210 --> 00:16:18,660
+<font face="Roboto Medium" size="26">Right?</font>
+
+251
+00:16:18,660 --> 00:16:20,210
+<font face="Roboto Medium" size="26">Let us demonstrate ours.</font>
+
+252
+00:16:20,210 --> 00:16:22,800
+<font face="Roboto Medium" size="26">Arakagi, kill that one.</font>
+
+253
+00:16:22,800 --> 00:16:23,840
+<font face="Roboto Medium" size="26">As you wish.</font>
+
+254
+00:16:30,050 --> 00:16:33,130
+<font face="Roboto Medium" size="26">Bakuro Squad, Ishifudo Squad, go.</font>
+
+255
+00:16:34,850 --> 00:16:38,180
+<font face="Roboto Medium" size="26">Individually, our strength 
+is no match for the Yamadas,</font>
+
+256
+00:16:38,180 --> 00:16:41,430
+<font face="Roboto Medium" size="26">but ninjas operate in groups.</font>
+
+257
+00:16:42,150 --> 00:16:45,670
+<font face="Roboto Medium" size="26">The strength of one bows 
+to the strength of many.</font>
+
+258
+00:16:45,670 --> 00:16:48,490
+<font face="Roboto Medium" size="26">Even the greatest hero 
+cannot withstand such numbers.</font>
+
+259
+00:16:49,760 --> 00:16:53,120
+<font face="Roboto Medium" size="26">This is how the individually 
+inferior genin fight.</font>
+
+260
+00:16:53,400 --> 00:16:55,870
+<font face="Roboto Medium" size="26">Genin, huh?</font>
+
+261
+00:17:07,550 --> 00:17:09,130
+<font face="Roboto Medium" size="26">Rest in peace.</font>
+
+262
+00:17:11,260 --> 00:17:12,410
+<font face="Roboto Medium" size="26">Shugen-san!</font>
+
+263
+00:17:26,730 --> 00:17:28,400
+<font face="Roboto Medium" size="26">Wow!</font>
+
+264
+00:17:32,780 --> 00:17:33,780
+<font face="Roboto Medium" size="26">What?!</font>
+
+265
+00:17:37,710 --> 00:17:39,350
+<font face="Roboto Medium" size="26">Monsters.</font>
+
+266
+00:17:40,000 --> 00:17:43,390
+<font face="Roboto Medium" size="26">No, all creatures on this island.</font>
+
+267
+00:17:44,120 --> 00:17:48,340
+<font face="Roboto Medium" size="26">I'll kill you all 
+as painfully as possible.</font>
+
+268
+00:17:49,160 --> 00:17:50,430
+<font face="Roboto Medium" size="26">Very well.</font>
+
+269
+00:17:53,260 --> 00:17:56,050
+<font face="Roboto Medium" size="26">I shall kill you and 
+present you as a gift...</font>
+
+270
+00:17:57,600 --> 00:18:00,560
+<font face="Roboto Medium" size="26">so that I may be promoted to chisen.</font>
+
+271
+00:18:09,690 --> 00:18:13,820
+<font face="Roboto Medium" size="26">So there's a limit to your regeneration.</font>
+
+272
+00:18:14,680 --> 00:18:17,070
+<font face="Roboto Medium" size="26">Each time you do not answer 
+the questions I'm about to ask,</font>
+
+273
+00:18:17,070 --> 00:18:20,290
+<font face="Roboto Medium" size="26">or I don't like your answer, 
+I'll cut off more.</font>
+
+274
+00:18:21,580 --> 00:18:23,810
+<font face="Roboto Medium" size="26">First, your allies.</font>
+
+275
+00:18:23,810 --> 00:18:26,710
+<font face="Roboto Medium" size="26">If you have some kind of group 
+structure, describe it in detail.</font>
+
+276
+00:18:26,710 --> 00:18:28,530
+<font face="Roboto Medium" size="26">But...</font>
+
+277
+00:18:29,300 --> 00:18:32,480
+<font face="Roboto Medium" size="26">Speak quickly. You're wasting time.</font>
+
+278
+00:18:32,480 --> 00:18:34,840
+<font face="Roboto Medium" size="26">Now, now, Shugen.</font>
+
+279
+00:18:34,840 --> 00:18:37,190
+<font face="Roboto Medium" size="26">We discovered a new type of monster.</font>
+
+280
+00:18:37,190 --> 00:18:40,600
+<font face="Roboto Medium" size="26">What do you say we return 
+to the mainland to report our findings?</font>
+
+281
+00:18:40,600 --> 00:18:45,050
+<font face="Roboto Medium" size="26">No! You simply wish 
+to go home, Jikka-dono.</font>
+
+282
+00:18:45,050 --> 00:18:47,260
+<font face="Roboto Medium" size="26">You didn't even draw your blade.</font>
+
+283
+00:18:48,690 --> 00:18:51,400
+<font face="Roboto Medium" size="26">I can't. You know that.</font>
+
+284
+00:18:51,850 --> 00:18:54,400
+<font face="Roboto Medium" size="26">I'm saying you can. I know it.</font>
+
+285
+00:18:54,400 --> 00:18:56,510
+<font face="Roboto Medium" size="26">Calm down, Shugen-san.</font>
+
+286
+00:18:56,510 --> 00:18:58,480
+<font face="Roboto Medium" size="26">Arguing won't help anything.</font>
+
+287
+00:18:58,480 --> 00:18:59,810
+<font face="Roboto Medium" size="26">You're right.</font>
+
+288
+00:19:04,640 --> 00:19:06,390
+<font face="Roboto Medium" size="26">Forgive me.</font>
+
+289
+00:19:06,390 --> 00:19:09,130
+<font face="Roboto Medium" size="26">I got over-excited 
+and was rude to my elder.</font>
+
+290
+00:19:09,850 --> 00:19:12,820
+<font face="Roboto Medium" size="26">It's fine. It doesn't bother me.</font>
+
+291
+00:19:13,450 --> 00:19:15,270
+<font face="Roboto Medium" size="26">Forgive me, both of you.</font>
+
+292
+00:19:15,270 --> 00:19:18,260
+<font face="Roboto Medium" size="26"><i>This side of him is cute...</i></font>
+
+293
+00:19:15,270 --> 00:19:17,400
+<font face="Roboto Medium" size="26">{\an8}Aw, man. That looked fun.</font>
+
+294
+00:19:17,400 --> 00:19:18,260
+<font face="Roboto Medium" size="26">{\an8}Kiyo-chan!</font>
+
+295
+00:19:18,260 --> 00:19:21,680
+<font face="Roboto Medium" size="26">But if we return empty-handed,</font>
+
+296
+00:19:21,680 --> 00:19:25,520
+<font face="Roboto Medium" size="26">our clan's name and Eizen-dono's 
+honor will be tarnished.</font>
+
+297
+00:19:25,890 --> 00:19:28,570
+<font face="Roboto Medium" size="26">We'll kill every living thing 
+on the island.</font>
+
+298
+00:19:28,570 --> 00:19:31,900
+<font face="Roboto Medium" size="26">We must teach them what happens 
+when you harm a Yamada student.</font>
+
+299
+00:19:34,450 --> 00:19:36,910
+<font face="Roboto Medium" size="26">And for that, we need information.</font>
+
+300
+00:19:37,780 --> 00:19:43,910
+<font face="Roboto Medium" size="26">Shugen-sama, please allow us to 
+handle the torture and interrogation.</font>
+
+301
+00:19:45,700 --> 00:19:48,870
+<font face="Roboto Medium" size="26">What looks like mist 
+is dense tao particles.</font>
+
+302
+00:19:49,300 --> 00:19:52,300
+<font face="Roboto Medium" size="26">You can use it to detect 
+changes on the island,</font>
+
+303
+00:19:52,630 --> 00:19:56,540
+<font face="Roboto Medium" size="26">but you can't identify 
+the people who landed.</font>
+
+304
+00:19:56,540 --> 00:19:58,050
+<font face="Roboto Medium" size="26">Sorry.</font>
+
+305
+00:19:58,050 --> 00:20:01,800
+<font face="Roboto Medium" size="26">The Tensen and the newcomers...</font>
+
+306
+00:20:02,180 --> 00:20:04,950
+<font face="Roboto Medium" size="26">Things keep getting more complicated.</font>
+
+307
+00:20:05,830 --> 00:20:08,940
+<font face="Roboto Medium" size="26">I think we should split into two groups.</font>
+
+308
+00:20:09,250 --> 00:20:10,460
+<font face="Roboto Medium" size="26">Two groups?</font>
+
+309
+00:20:10,460 --> 00:20:14,440
+<font face="Roboto Medium" size="26">One group to acquire the Elixir, and 
+one group to secure an escape route.</font>
+
+310
+00:20:14,440 --> 00:20:17,400
+<font face="Roboto Medium" size="26">What? Then I'm on Team Escape.</font>
+
+311
+00:20:17,400 --> 00:20:19,700
+<font face="Roboto Medium" size="26">It's Team Secure an Escape Route.</font>
+
+312
+00:20:20,060 --> 00:20:24,830
+<font face="Roboto Medium" size="26">Mei told me we'll have to 
+pass through Horai either way.</font>
+
+313
+00:20:24,830 --> 00:20:27,470
+<font face="Roboto Medium" size="26">What? But we can leave from the shore.</font>
+
+314
+00:20:27,470 --> 00:20:29,330
+<font face="Roboto Medium" size="26">There are monsters in the sea, too.</font>
+
+315
+00:20:29,940 --> 00:20:32,540
+<font face="Roboto Medium" size="26">Do you have a plan 
+for fighting the Tensen?</font>
+
+316
+00:20:32,540 --> 00:20:36,420
+<font face="Roboto Medium" size="26">I had her confirm my speculation.</font>
+
+317
+00:20:36,950 --> 00:20:37,950
+<font face="Roboto Medium" size="26">Yes.</font>
+
+318
+00:20:39,550 --> 00:20:43,590
+<font face="Roboto Medium" size="26">Tao has attributes, 
+which have compatibilities.</font>
+
+319
+00:20:39,550 --> 00:20:48,060
+<font face="Arial Black" size="20"><b>{\an8}<font color="#575d61">Wood</font></b></font>
+
+320
+00:20:39,550 --> 00:20:51,310
+<font face="Arial Black" size="20"><b>{\an8}<font color="#575d61">Metal</font></b></font>
+
+321
+00:20:41,180 --> 00:20:51,150
+<font face="Arial Black" size="20"><b>{\an8}<font color="#575d61">Fire</font></b></font>
+
+322
+00:20:41,180 --> 00:20:49,940
+<font face="Arial Black" size="20"><b>{\an8}<font color="#575d61">Water</font></b></font>
+
+323
+00:20:43,590 --> 00:20:45,780
+<font face="Roboto Medium" size="26">There are strong and weak matchups.</font>
+
+324
+00:20:45,780 --> 00:20:51,310
+<font face="Roboto Medium" size="26">These can be used to weaken an 
+enemy's tao or strengthen an ally's.</font>
+
+325
+00:20:46,100 --> 00:20:51,310
+<font face="Arial Black" size="20"><b>{\an8}<font color="#575d61">Earth</font></b></font>
+
+326
+00:20:51,310 --> 00:20:53,820
+<font face="Roboto Medium" size="26">They may be beyond human understanding,</font>
+
+327
+00:20:53,820 --> 00:20:56,160
+<font face="Roboto Medium" size="26">but if tao is the source 
+of their strength,</font>
+
+328
+00:20:56,160 --> 00:20:58,070
+<font face="Roboto Medium" size="26">they cannot escape this principle.</font>
+
+329
+00:20:58,640 --> 00:21:01,090
+<font face="Roboto Medium" size="26">I know it will work against them.</font>
+
+330
+00:21:01,090 --> 00:21:02,990
+<font face="Roboto Medium" size="26">That's not good enough.</font>
+
+331
+00:21:03,450 --> 00:21:05,870
+<font face="Roboto Medium" size="26">How effective will it be?</font>
+
+332
+00:21:05,870 --> 00:21:08,210
+<font face="Roboto Medium" size="26">Can you guarantee we won't die?</font>
+
+333
+00:21:08,210 --> 00:21:11,330
+<font face="Roboto Medium" size="26">It's too dangerous to enter 
+the enemy's base like that.</font>
+
+334
+00:21:11,710 --> 00:21:15,880
+<font face="Roboto Medium" size="26">Isn't it more realistic 
+to leave the island and hide?</font>
+
+335
+00:21:15,880 --> 00:21:18,840
+<font face="Roboto Medium" size="26">In that case, we should act alone.</font>
+
+336
+00:21:20,260 --> 00:21:22,510
+<font face="Roboto Medium" size="26">You're right, Yuzuriha.</font>
+
+337
+00:21:22,510 --> 00:21:26,040
+<font face="Roboto Medium" size="26">This group ended up together 
+by coincidence.</font>
+
+338
+00:21:26,880 --> 00:21:30,040
+<font face="Roboto Medium" size="26">We have no obligation or bonds 
+compelling us to work together.</font>
+
+339
+00:21:30,520 --> 00:21:32,730
+<font face="Roboto Medium" size="26">There are too many uncertainties.</font>
+
+340
+00:21:32,730 --> 00:21:35,320
+<font face="Roboto Medium" size="26">Who are the newcomers?</font>
+
+341
+00:21:36,630 --> 00:21:37,730
+<font face="Roboto Medium" size="26">Aside from that...</font>
+
+342
+00:21:38,870 --> 00:21:41,360
+<font face="Roboto Medium" size="26">there could be something else unexpected.</font>
+
+343
+00:21:41,360 --> 00:21:46,180
+<font face="Roboto Medium" size="26">We can't predict what 
+will happen or who will die.</font>
+
+344
+00:21:48,270 --> 00:21:53,370
+<font face="Roboto Medium" size="26">So you should decide for yourselves 
+what you want to do.</font>
+
+345
+00:21:53,370 --> 00:21:55,780
+<font face="Roboto Medium" size="26">If you'll come with me, 
+join me in the cave.</font>
+
+346
+00:21:55,780 --> 00:21:59,280
+<font face="Roboto Medium" size="26">If you choose to go 
+your own way, that's fine.</font>
+
+347
+00:21:59,280 --> 00:22:01,170
+<font face="Roboto Medium" size="26">I'll ignore your standing, too.</font>
+
+348
+00:22:05,760 --> 00:22:08,640
+<font face="Roboto Medium" size="26">Wait, uh...</font>
+
+349
+00:22:08,990 --> 00:22:14,450
+<font face="Roboto Medium" size="26">Shouldn't you think about it more?</font>
+
+350
+00:22:14,450 --> 00:22:16,270
+<font face="Roboto Medium" size="26">That felt too quick.</font>
+
+351
+00:22:16,270 --> 00:22:18,900
+<font face="Roboto Medium" size="26">At this point, 
+we're in it together. Right?</font>
+
+352
+00:22:18,900 --> 00:22:22,020
+<font face="Roboto Medium" size="26">I don't care as long 
+as I make it back home,</font>
+
+353
+00:22:22,020 --> 00:22:24,030
+<font face="Roboto Medium" size="26">but it's better to have more shields.</font>
+
+354
+00:22:24,030 --> 00:22:28,030
+<font face="Roboto Medium" size="26">I don't really get it, but we can 
+kill at least one Tensen, right?</font>
+
+355
+00:22:30,660 --> 00:22:32,370
+<font face="Roboto Medium" size="26">It was pointless to ask.</font>
+
+356
+00:22:32,370 --> 00:22:34,350
+<font face="Roboto Medium" size="26">Working together is 
+the most logical choice</font>
+
+357
+00:22:34,350 --> 00:22:35,910
+<font face="Roboto Medium" size="26">for anyone who wants to go home.</font>
+
+358
+00:22:35,910 --> 00:22:38,670
+<font face="Roboto Medium" size="26">I'm simply performing my duties.</font>
+
+359
+00:22:38,670 --> 00:22:40,570
+<font face="Roboto Medium" size="26">I'll see this through.</font>
+
+360
+00:22:42,130 --> 00:22:45,470
+<font face="Roboto Medium" size="26">Were you planning to say 
+goodbye to me, Sensei?</font>
+
+361
+00:22:45,470 --> 00:22:47,330
+<font face="Roboto Medium" size="26">No, nothing like that, but...</font>
+
+362
+00:22:47,330 --> 00:22:48,950
+<font face="Roboto Medium" size="26">I know, but still!</font>
+
+363
+00:22:48,950 --> 00:22:52,220
+<font face="Roboto Medium" size="26">Even if we get the Elixir, 
+only one of us gets a pardon.</font>
+
+364
+00:22:52,220 --> 00:22:54,560
+<font face="Roboto Medium" size="26">We can fight over it on the boat back.</font>
+
+365
+00:22:54,870 --> 00:22:57,050
+<font face="Roboto Medium" size="26">Honestly, I'm relieved.</font>
+
+366
+00:22:57,670 --> 00:22:59,400
+<font face="Roboto Medium" size="26">It's better to have more allies.</font>
+
+367
+00:22:59,400 --> 00:23:01,240
+<font face="Roboto Medium" size="26">Let's escape together.</font>
+
+368
+00:23:02,030 --> 00:23:07,290
+<font face="Roboto Medium" size="26">This chaotic situation 
+is our greatest and final chance.</font>
+
