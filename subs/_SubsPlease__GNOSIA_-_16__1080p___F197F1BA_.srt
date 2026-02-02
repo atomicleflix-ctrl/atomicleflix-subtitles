@@ -1,0 +1,1317 @@
+1
+00:00:05,320 --> 00:00:07,360
+<font face="Roboto Medium" size="26">I'm in my own room?</font>
+
+2
+00:00:08,200 --> 00:00:10,570
+<font face="Roboto Medium" size="26">Does that mean I've looped again?</font>
+
+3
+00:00:11,160 --> 00:00:12,070
+<font face="Roboto Medium" size="26">But...</font>
+
+4
+00:00:12,870 --> 00:00:15,370
+<font face="Roboto Medium" size="26">I'm surprised... you figured it out.</font>
+
+5
+00:00:18,330 --> 00:00:22,130
+<font face="Roboto Medium" size="26">Honestly, I was fooled, too... until 
+I realized it during today's meeting.</font>
+
+6
+00:00:22,130 --> 00:00:26,420
+<font face="Roboto Medium" size="26">But didn't you investigate me 
+as the Engineer?</font>
+
+7
+00:00:26,800 --> 00:00:28,090
+<font face="Roboto Medium" size="26">Sorry to say it,</font>
+
+8
+00:00:28,630 --> 00:00:30,720
+<font face="Roboto Medium" size="26">but even humans lie...</font>
+
+9
+00:00:31,510 --> 00:00:32,720
+<font face="Roboto Medium" size="26">Are you kidding me?</font>
+
+10
+00:00:34,680 --> 00:00:38,520
+<font face="Roboto Medium" size="26"><i>We put Remnan into cold sleep, I survived,</i></font>
+
+11
+00:00:38,520 --> 00:00:41,190
+<font face="Roboto Medium" size="26"><i>and we succeeded in 
+getting rid of all the Gnosia.</i></font>
+
+12
+00:00:41,980 --> 00:00:46,070
+<font face="Roboto Medium" size="26">Knowing the truth is no simple matter.</font>
+
+13
+00:00:46,360 --> 00:00:49,450
+<font face="Roboto Medium" size="26">Survive this loop.</font>
+
+14
+00:00:49,820 --> 00:00:53,370
+<font face="Roboto Medium" size="26">If you manage that, 
+I will tell you everything.</font>
+
+15
+00:00:54,200 --> 00:00:57,240
+<font face="Roboto Medium" size="26"><i>Does this mean that I'm 
+supposed to go see Yuriko?</i></font>
+
+16
+00:00:57,240 --> 00:00:58,410
+<font face="Roboto Medium" size="26"><i>Or...</i></font>
+
+17
+00:00:59,830 --> 00:01:01,920
+<font face="Roboto Medium" size="26"><i>Is this still not full enough?</i></font>
+
+18
+00:01:05,540 --> 00:01:09,220
+<font face="Roboto Medium" size="26">Oh, Yuri. You're awake already.</font>
+
+19
+00:01:09,220 --> 00:01:10,220
+<font face="Roboto Medium" size="26">Comet...</font>
+
+20
+00:01:10,590 --> 00:01:14,390
+<font face="Roboto Medium" size="26">We're all in the cafeteria eating 
+right now. Wanna join us?</font>
+
+21
+00:02:47,560 --> 00:02:52,480
+<font face="Roboto Medium" size="26">{\an8}EPISODE 16: TRUTH</font>
+
+22
+00:02:49,770 --> 00:02:52,110
+<font face="Roboto Medium" size="26">So I've been thinking...</font>
+
+23
+00:02:52,110 --> 00:02:55,450
+<font face="Roboto Medium" size="26">-About what?
+-Aren't you just naked, Shigemichi?</font>
+
+24
+00:02:55,450 --> 00:02:57,530
+<font face="Roboto Medium" size="26">-I'm not!
+-Wait, really?</font>
+
+25
+00:02:57,530 --> 00:02:59,620
+<font face="Roboto Medium" size="26">-I'm wearing clothes here!
+-Ah, Yuri.</font>
+
+26
+00:02:59,620 --> 00:03:02,370
+<font face="Roboto Medium" size="26">Oh, hey. Did you recover already?</font>
+
+27
+00:03:02,370 --> 00:03:04,160
+<font face="Roboto Medium" size="26">You were hurt pretty badly, weren't you?</font>
+
+28
+00:03:04,160 --> 00:03:06,370
+<font face="Roboto Medium" size="26">Huh? Yeah...</font>
+
+29
+00:03:06,370 --> 00:03:09,380
+<font face="Roboto Medium" size="26">Yeah, there was, like, stuff sticking out.</font>
+
+30
+00:03:09,380 --> 00:03:13,010
+<font face="Roboto Medium" size="26">Come on, bud. Don't talk about 
+gross stuff when we're eating here.</font>
+
+31
+00:03:13,420 --> 00:03:16,930
+<font face="Roboto Medium" size="26"><i>I see... So I was hurt.</i></font>
+
+32
+00:03:16,930 --> 00:03:20,970
+<font face="Roboto Medium" size="26"><i>That's why I got carried into the 
+medical pod to receive treatment.</i></font>
+
+33
+00:03:21,260 --> 00:03:24,350
+<font face="Roboto Medium" size="26"><i>Come to think of it, 
+I wasn't in the pod this time.</i></font>
+
+34
+00:03:24,350 --> 00:03:28,310
+<font face="Roboto Medium" size="26"><i>Every time I loop, 
+I always wake up in that pod.</i></font>
+
+35
+00:03:28,310 --> 00:03:30,860
+<font face="Roboto Medium" size="26">You'd better thank Setsu, too, Yuri.</font>
+
+36
+00:03:30,860 --> 00:03:32,150
+<font face="Roboto Medium" size="26">Thank Setsu?</font>
+
+37
+00:03:32,150 --> 00:03:35,360
+<font face="Roboto Medium" size="26">Yeah! If it weren't for Setsu,</font>
+
+38
+00:03:35,360 --> 00:03:37,360
+<font face="Roboto Medium" size="26">we wouldn't have been 
+able to escape Liu-An</font>
+
+39
+00:03:37,360 --> 00:03:40,030
+<font face="Roboto Medium" size="26">without being infected by the Gnosia.</font>
+
+40
+00:03:40,030 --> 00:03:42,740
+<font face="Roboto Medium" size="26">I'm grateful to Setsu, too.</font>
+
+41
+00:03:42,740 --> 00:03:46,500
+<font face="Roboto Medium" size="26">It's just, my gratitude 
+kinda morphed into lust.</font>
+
+42
+00:03:46,500 --> 00:03:50,170
+<font face="Roboto Medium" size="26">Y'know, maybe it was a 
+mistake to save Sha-ming.</font>
+
+43
+00:03:50,170 --> 00:03:51,380
+<font face="Roboto Medium" size="26">You may be right.</font>
+
+44
+00:03:52,800 --> 00:03:54,880
+<font face="Roboto Medium" size="26"><i>Infected by the Gnosia...</i></font>
+
+45
+00:03:55,710 --> 00:03:57,470
+<font face="Roboto Medium" size="26">U-Um...</font>
+
+46
+00:03:57,470 --> 00:03:59,590
+<font face="Roboto Medium" size="26">Hm? What's up?</font>
+
+47
+00:03:59,590 --> 00:04:03,680
+<font face="Roboto Medium" size="26">Well, um... Are we gonna have the meeting?</font>
+
+48
+00:04:04,220 --> 00:04:05,390
+<font face="Roboto Medium" size="26">Meeting?</font>
+
+49
+00:04:05,680 --> 00:04:06,810
+<font face="Roboto Medium" size="26">For what?</font>
+
+50
+00:04:07,180 --> 00:04:09,810
+<font face="Roboto Medium" size="26">Er... Never mind.</font>
+
+51
+00:04:09,810 --> 00:04:10,980
+<font face="Roboto Medium" size="26">Yuri...</font>
+
+52
+00:04:10,980 --> 00:04:14,860
+<font face="Roboto Medium" size="26">Did you, like, lose your 
+memories, or something?</font>
+
+53
+00:04:14,860 --> 00:04:16,360
+<font face="Roboto Medium" size="26">Do you know my name?</font>
+
+54
+00:04:16,650 --> 00:04:21,240
+<font face="Roboto Medium" size="26">Er, yeah, I'm fine. You're SQ, right?</font>
+
+55
+00:04:21,240 --> 00:04:24,580
+<font face="Roboto Medium" size="26">Oh! Well done, lovely Yuri!</font>
+
+56
+00:04:25,370 --> 00:04:27,960
+<font face="Roboto Medium" size="26">Sorry. I have to use the bathroom.</font>
+
+57
+00:04:30,540 --> 00:04:32,540
+<font face="Roboto Medium" size="26"><i>There's no meeting.</i></font>
+
+58
+00:04:32,920 --> 00:04:36,630
+<font face="Roboto Medium" size="26"><i>They didn't even know what 
+I meant by "meeting."</i></font>
+
+59
+00:04:36,630 --> 00:04:37,920
+<font face="Roboto Medium" size="26"><i>Then...</i></font>
+
+60
+00:04:38,670 --> 00:04:39,880
+<font face="Roboto Medium" size="26">LeVi.</font>
+
+61
+00:04:39,880 --> 00:04:42,050
+<font face="Roboto Medium" size="26"><i>How may I assist you?</i></font>
+
+62
+00:04:42,050 --> 00:04:45,310
+<font face="Roboto Medium" size="26">Do you detect any Gnosia 
+on board the ship?</font>
+
+63
+00:04:45,310 --> 00:04:47,430
+<font face="Roboto Medium" size="26"><i>Negative. I do not.</i></font>
+
+64
+00:04:47,770 --> 00:04:50,100
+<font face="Roboto Medium" size="26"><i>Due to Setsu's quick guidance,</i></font>
+
+65
+00:04:50,100 --> 00:04:53,190
+<font face="Roboto Medium" size="26"><i>this vessel successfully avoided 
+any Gnosia infection.</i></font>
+
+66
+00:04:53,770 --> 00:04:54,940
+<font face="Roboto Medium" size="26"><i>I knew it.</i></font>
+
+67
+00:04:55,270 --> 00:04:57,400
+<font face="Roboto Medium" size="26"><i>So that's what's going on.</i></font>
+
+68
+00:04:57,400 --> 00:05:01,280
+<font face="Roboto Medium" size="26"><i>This is a world line where no one's 
+been infected by the Gnosia.</i></font>
+
+69
+00:05:01,910 --> 00:05:03,820
+<font face="Roboto Medium" size="26"><i>Maybe the truth is here.</i></font>
+
+70
+00:05:04,740 --> 00:05:07,750
+<font face="Roboto Medium" size="26">Would you refrain from 
+making me repeat myself?</font>
+
+71
+00:05:07,750 --> 00:05:13,210
+<font face="Roboto Medium" size="26">It's absolutely clear that the optimal 
+choice is to set course for Glyze.</font>
+
+72
+00:05:13,210 --> 00:05:16,300
+<font face="Roboto Medium" size="26">Racio, please... It's okay.</font>
+
+73
+00:05:24,050 --> 00:05:27,470
+<font face="Roboto Medium" size="26">I'd like to hear your opinion about this, 
+Setsu, since you're in the military.</font>
+
+74
+00:05:27,470 --> 00:05:28,510
+<font face="Roboto Medium" size="26">What is it?</font>
+
+75
+00:05:28,720 --> 00:05:32,940
+<font face="Roboto Medium" size="26">If you'll entertain a foolish old man's 
+idea, I think we should set course</font>
+
+76
+00:05:32,940 --> 00:05:36,940
+<font face="Roboto Medium" size="26">for a nearby military base so that we can 
+notify the proper authorities of Liu-An.</font>
+
+77
+00:05:36,940 --> 00:05:39,110
+<font face="Roboto Medium" size="26">The "foolish" part is right.</font>
+
+78
+00:05:39,360 --> 00:05:42,530
+<font face="Roboto Medium" size="26">If we end up in military custody, 
+just think of all the reports,</font>
+
+79
+00:05:42,530 --> 00:05:46,080
+<font face="Roboto Medium" size="26">inspections, and who knows what else? 
+I can't imagine how long they'll hold us.</font>
+
+80
+00:05:46,080 --> 00:05:48,450
+<font face="Roboto Medium" size="26">Well, you heard them.</font>
+
+81
+00:05:48,450 --> 00:05:49,910
+<font face="Roboto Medium" size="26">Right...</font>
+
+82
+00:05:49,910 --> 00:05:53,500
+<font face="Roboto Medium" size="26">Setsu should be the one to decide.</font>
+
+83
+00:05:53,500 --> 00:05:55,580
+<font face="Roboto Medium" size="26">Then no one'll have to argue.</font>
+
+84
+00:05:56,670 --> 00:05:59,880
+<font face="Roboto Medium" size="26">I'll be making a report 
+about Liu-An myself,</font>
+
+85
+00:05:59,880 --> 00:06:02,220
+<font face="Roboto Medium" size="26">so I don't think there's any need 
+to stop by a base.</font>
+
+86
+00:06:02,220 --> 00:06:03,970
+<font face="Roboto Medium" size="26">Are you certain?</font>
+
+87
+00:06:03,970 --> 00:06:08,600
+<font face="Roboto Medium" size="26">According to interstellar regulations, 
+if Gnosia infection occurs,</font>
+
+88
+00:06:08,600 --> 00:06:11,310
+<font face="Roboto Medium" size="26">-we must immediately—
+-But no one on this ship is infected.</font>
+
+89
+00:06:11,310 --> 00:06:13,770
+<font face="Roboto Medium" size="26">So we don't need 
+to follow those regulations.</font>
+
+90
+00:06:15,100 --> 00:06:17,110
+<font face="Roboto Medium" size="26">Well, this is a surprise!</font>
+
+91
+00:06:17,110 --> 00:06:20,780
+<font face="Roboto Medium" size="26">Setsu, you're more cooperative 
+than I thought you'd be.</font>
+
+92
+00:06:21,070 --> 00:06:24,030
+<font face="Roboto Medium" size="26">Hm. So be it.</font>
+
+93
+00:06:24,280 --> 00:06:29,160
+<font face="Roboto Medium" size="26">We will set course for the Glyze 
+star system as Racio requests.</font>
+
+94
+00:06:29,450 --> 00:06:31,080
+<font face="Roboto Medium" size="26">Racio...</font>
+
+95
+00:06:31,080 --> 00:06:36,250
+<font face="Roboto Medium" size="26">No need to thank me. I just want 
+to hurry up and get back to Glyze.</font>
+
+96
+00:06:36,250 --> 00:06:38,630
+<font face="Roboto Medium" size="26">No, I get it.</font>
+
+97
+00:06:38,630 --> 00:06:40,340
+<font face="Roboto Medium" size="26">You knew that if we went to a base,</font>
+
+98
+00:06:40,340 --> 00:06:44,050
+<font face="Roboto Medium" size="26">they'd find out that I ran away 
+unlawfully and capture me.</font>
+
+99
+00:06:44,050 --> 00:06:47,510
+<font face="Roboto Medium" size="26">Hmph. I'm sure everyone here 
+thinks this already, but...</font>
+
+100
+00:06:47,850 --> 00:06:51,310
+<font face="Roboto Medium" size="26">Remnan, you're rather creepy.</font>
+
+101
+00:06:51,310 --> 00:06:51,850
+<font face="Roboto Medium" size="26">Huh?</font>
+
+102
+00:06:56,400 --> 00:06:58,360
+<font face="Roboto Medium" size="26">Um, Jonas...</font>
+
+103
+00:06:58,730 --> 00:07:03,780
+<font face="Roboto Medium" size="26">If we're heading to Glyze, could you stop 
+by Dr. Yoshikado's place on the way?</font>
+
+104
+00:07:03,780 --> 00:07:07,360
+<font face="Roboto Medium" size="26">But of course. This, too, is fate.</font>
+
+105
+00:07:07,360 --> 00:07:10,830
+<font face="Roboto Medium" size="26">I shall take you all to 
+your desired destinations.</font>
+
+106
+00:07:10,830 --> 00:07:12,290
+<font face="Roboto Medium" size="26">Yay!</font>
+
+107
+00:07:12,540 --> 00:07:15,210
+<font face="Roboto Medium" size="26"><i>Everyone's here other than Yuriko.</i></font>
+
+108
+00:07:15,620 --> 00:07:17,750
+<font face="Roboto Medium" size="26"><i>There's nothing untoward going on.</i></font>
+
+109
+00:07:17,750 --> 00:07:19,790
+<font face="Roboto Medium" size="26"><i>So the truth I came here to find...</i></font>
+
+110
+00:07:20,250 --> 00:07:23,170
+<font face="Roboto Medium" size="26">Yuri, is something bothering you?</font>
+
+111
+00:07:23,170 --> 00:07:27,890
+<font face="Roboto Medium" size="26">Huh? No, I'm fine. 
+I think that's a good idea, too.</font>
+
+112
+00:07:31,970 --> 00:07:34,810
+<font face="Roboto Medium" size="26"><i>There aren't any Gnosia infectees here.</i></font>
+
+113
+00:07:35,310 --> 00:07:38,520
+<font face="Roboto Medium" size="26"><i>Everyone managed to safely 
+get on board the ship.</i></font>
+
+114
+00:07:39,400 --> 00:07:43,440
+<font face="Roboto Medium" size="26"><i>Is there really anything hidden about the 
+mystery involving the loops in this world?</i></font>
+
+115
+00:07:44,360 --> 00:07:47,610
+<font face="Roboto Medium" size="26"><i>In fact, this is the world 
+we all wanted...</i></font>
+
+116
+00:07:48,410 --> 00:07:51,120
+<font face="Roboto Medium" size="26"><i>So is there actually information 
+I need to discover here?</i></font>
+
+117
+00:07:53,950 --> 00:07:55,330
+<font face="Roboto Medium" size="26">Kukrushka...</font>
+
+118
+00:08:00,420 --> 00:08:01,790
+<font face="Roboto Medium" size="26">"Soon"?</font>
+
+119
+00:08:03,920 --> 00:08:06,130
+<font face="Roboto Medium" size="26">Is something about to happen?</font>
+
+120
+00:08:09,220 --> 00:08:11,390
+<font face="Roboto Medium" size="26">The universe will... end?</font>
+
+121
+00:08:13,260 --> 00:08:14,520
+<font face="Roboto Medium" size="26">Soon?</font>
+
+122
+00:08:15,560 --> 00:08:18,690
+<font face="Roboto Medium" size="26">What's that mean? 
+What's going to happen...</font>
+
+123
+00:08:20,100 --> 00:08:21,650
+<font face="Roboto Medium" size="26">to this universe?</font>
+
+124
+00:08:25,070 --> 00:08:27,740
+<font face="Roboto Medium" size="26"><i>An anomalous lifeform has been 
+detected within the sick bay.</i></font>
+
+125
+00:08:27,740 --> 00:08:28,860
+<font face="Roboto Medium" size="26"><i>I repeat.</i></font>
+
+126
+00:08:29,150 --> 00:08:32,870
+<font face="Roboto Medium" size="26"><i>An anomalous lifeform has been 
+detected within the sick bay.</i></font>
+
+127
+00:08:32,870 --> 00:08:35,200
+<font face="Roboto Medium" size="26">An anomalous lifeform...?</font>
+
+128
+00:08:40,420 --> 00:08:41,880
+<font face="Roboto Medium" size="26"><i>The sick bay...</i></font>
+
+129
+00:08:41,880 --> 00:08:44,420
+<font face="Roboto Medium" size="26"><i>That's where I always wake up.</i></font>
+
+130
+00:08:44,880 --> 00:08:45,880
+<font face="Roboto Medium" size="26">Yuri!</font>
+
+131
+00:08:46,260 --> 00:08:48,130
+<font face="Roboto Medium" size="26">Setsu, what's going on?</font>
+
+132
+00:08:48,130 --> 00:08:49,510
+<font face="Roboto Medium" size="26">I'm not sure.</font>
+
+133
+00:08:49,510 --> 00:08:53,390
+<font face="Roboto Medium" size="26">LeVi seems to have detected 
+a lifeform that shouldn't exist.</font>
+
+134
+00:08:53,390 --> 00:08:55,840
+<font face="Roboto Medium" size="26">It could be an error 
+in the detection software,</font>
+
+135
+00:08:56,270 --> 00:08:58,770
+<font face="Roboto Medium" size="26">or something might've snuck on board.</font>
+
+136
+00:08:59,600 --> 00:09:00,810
+<font face="Roboto Medium" size="26">Let's go see.</font>
+
+137
+00:09:02,310 --> 00:09:05,360
+<font face="Roboto Medium" size="26">You didn't notice anything 
+when you woke up?</font>
+
+138
+00:09:05,360 --> 00:09:06,270
+<font face="Roboto Medium" size="26">Huh?</font>
+
+139
+00:09:06,270 --> 00:09:08,070
+<font face="Roboto Medium" size="26">Apparently, the presence was detected</font>
+
+140
+00:09:08,070 --> 00:09:11,110
+<font face="Roboto Medium" size="26">in the vicinity of the pod 
+where you were being treated.</font>
+
+141
+00:09:12,780 --> 00:09:14,620
+<font face="Roboto Medium" size="26">You've been looping, right?</font>
+
+142
+00:09:14,620 --> 00:09:15,990
+<font face="Roboto Medium" size="26">Huh?</font>
+
+143
+00:09:15,990 --> 00:09:21,330
+<font face="Roboto Medium" size="26">Don't worry. There aren't any 
+Gnosia infectees in this world line.</font>
+
+144
+00:09:21,330 --> 00:09:23,420
+<font face="Roboto Medium" size="26">There's no need to lie.</font>
+
+145
+00:09:29,880 --> 00:09:35,260
+<font face="Roboto Medium" size="26">There's a possibility that something else 
+got onto the ship in place of the Gnosia.</font>
+
+146
+00:09:35,260 --> 00:09:36,430
+<font face="Roboto Medium" size="26">Setsu...</font>
+
+147
+00:09:37,970 --> 00:09:39,470
+<font face="Roboto Medium" size="26">I didn't wake up there.</font>
+
+148
+00:09:39,470 --> 00:09:40,430
+<font face="Roboto Medium" size="26">Huh?</font>
+
+149
+00:09:40,770 --> 00:09:46,060
+<font face="Roboto Medium" size="26">I didn't actually wake up 
+in the pod during this loop.</font>
+
+150
+00:09:46,690 --> 00:09:47,860
+<font face="Roboto Medium" size="26">Then...</font>
+
+151
+00:09:48,320 --> 00:09:50,320
+<font face="Roboto Medium" size="26">I'm not sure... but...</font>
+
+152
+00:09:50,690 --> 00:09:53,030
+<font face="Roboto Medium" size="26">There's no way.</font>
+
+153
+00:09:53,030 --> 00:09:54,110
+<font face="Roboto Medium" size="26">But...</font>
+
+154
+00:09:54,110 --> 00:09:55,990
+<font face="Roboto Medium" size="26">No, it's impossible.</font>
+
+155
+00:09:56,330 --> 00:10:00,620
+<font face="Roboto Medium" size="26">The Silver Key causes its host's 
+consciousness to loop into the past.</font>
+
+156
+00:10:00,620 --> 00:10:02,790
+<font face="Roboto Medium" size="26">If it sent its host's body as well,</font>
+
+157
+00:10:02,790 --> 00:10:05,880
+<font face="Roboto Medium" size="26">there'd end up being 
+two of the same person.</font>
+
+158
+00:10:06,880 --> 00:10:10,670
+<font face="Roboto Medium" size="26">And if that happened, 
+the loop would break entirely.</font>
+
+159
+00:10:11,470 --> 00:10:16,640
+<font face="Roboto Medium" size="26">Then what's the lifeform 
+that's being detected in here?</font>
+
+160
+00:10:26,360 --> 00:10:30,730
+<font face="Roboto Medium" size="26">The lifeform... is being treated...</font>
+
+161
+00:10:30,730 --> 00:10:32,030
+<font face="Roboto Medium" size="26">I knew it.</font>
+
+162
+00:10:32,940 --> 00:10:34,860
+<font face="Roboto Medium" size="26">Then who are you...</font>
+
+163
+00:10:34,860 --> 00:10:38,830
+<font face="Roboto Medium" size="26">No, who's the one being 
+treated inside this pod?</font>
+
+164
+00:10:39,790 --> 00:10:41,750
+<font face="Roboto Medium" size="26">I don't know,</font>
+
+165
+00:10:41,750 --> 00:10:42,950
+<font face="Roboto Medium" size="26">but...</font>
+
+166
+00:10:43,410 --> 00:10:44,540
+<font face="Roboto Medium" size="26">Doubt not,</font>
+
+167
+00:10:45,460 --> 00:10:46,750
+<font face="Roboto Medium" size="26">fear not,</font>
+
+168
+00:10:47,630 --> 00:10:49,090
+<font face="Roboto Medium" size="26">and know.</font>
+
+169
+00:10:50,170 --> 00:10:52,920
+<font face="Roboto Medium" size="26">Knowledge will save all.</font>
+
+170
+00:10:54,220 --> 00:10:56,930
+<font face="Roboto Medium" size="26">That's what you told me long ago.</font>
+
+171
+00:10:58,050 --> 00:11:00,100
+<font face="Roboto Medium" size="26">What? I told you?</font>
+
+172
+00:11:00,510 --> 00:11:05,640
+<font face="Roboto Medium" size="26">I agree, though. We have to know.</font>
+
+173
+00:11:10,650 --> 00:11:13,320
+<font face="Roboto Medium" size="26">Looks like the treatment is complete.</font>
+
+174
+00:12:02,330 --> 00:12:03,790
+<font face="Roboto Medium" size="26">This is...</font>
+
+175
+00:12:05,620 --> 00:12:08,870
+<font face="Roboto Medium" size="26">An extremely unstable world.</font>
+
+176
+00:12:08,870 --> 00:12:10,080
+<font face="Roboto Medium" size="26">Setsu...</font>
+
+177
+00:12:11,210 --> 00:12:16,920
+<font face="Roboto Medium" size="26">It seems we were brought here in the wake 
+of the universe being destroyed.</font>
+
+178
+00:12:18,130 --> 00:12:20,390
+<font face="Roboto Medium" size="26">It probably won't last long.</font>
+
+179
+00:12:21,340 --> 00:12:23,680
+<font face="Roboto Medium" size="26">The universe was destroyed...?</font>
+
+180
+00:12:25,390 --> 00:12:26,480
+<font face="Roboto Medium" size="26">Yuri...</font>
+
+181
+00:12:27,520 --> 00:12:31,690
+<font face="Roboto Medium" size="26">Fear not. Knowledge will save all.</font>
+
+182
+00:12:34,020 --> 00:12:36,780
+<font face="Roboto Medium" size="26">Setsu? Setsu!</font>
+
+183
+00:12:36,780 --> 00:12:39,910
+<font face="Roboto Medium" size="26">No... No! No!</font>
+
+184
+00:12:43,200 --> 00:12:45,040
+<font face="Roboto Medium" size="26">Be at ease.</font>
+
+185
+00:12:46,200 --> 00:12:49,540
+<font face="Roboto Medium" size="26">Nothing truly exists in this world.</font>
+
+186
+00:12:50,210 --> 00:12:53,290
+<font face="Roboto Medium" size="26">Existence itself is uncertain here.</font>
+
+187
+00:13:07,180 --> 00:13:08,560
+<font face="Roboto Medium" size="26">Yuriko...</font>
+
+188
+00:13:09,680 --> 00:13:11,730
+<font face="Roboto Medium" size="26">Do you understand now?</font>
+
+189
+00:13:11,730 --> 00:13:13,980
+<font face="Roboto Medium" size="26">This is the truth.</font>
+
+190
+00:13:15,070 --> 00:13:17,530
+<font face="Roboto Medium" size="26">How the hell am I supposed 
+to understand?!</font>
+
+191
+00:13:17,530 --> 00:13:19,690
+<font face="Roboto Medium" size="26">What's going on?</font>
+
+192
+00:13:19,690 --> 00:13:21,910
+<font face="Roboto Medium" size="26">The universe has been destroyed?</font>
+
+193
+00:13:21,910 --> 00:13:24,320
+<font face="Roboto Medium" size="26">Cause and effect has collapsed.</font>
+
+194
+00:13:24,320 --> 00:13:27,660
+<font face="Roboto Medium" size="26">Because of you, something which 
+ordinarily could never exist,</font>
+
+195
+00:13:27,660 --> 00:13:29,870
+<font face="Roboto Medium" size="26">the universe has been destroyed.</font>
+
+196
+00:13:31,250 --> 00:13:34,750
+<font face="Roboto Medium" size="26">You are the cause of all of this.</font>
+
+197
+00:13:35,380 --> 00:13:36,590
+<font face="Roboto Medium" size="26">Me?</font>
+
+198
+00:13:37,340 --> 00:13:41,470
+<font face="Roboto Medium" size="26">Yes. Why are you bereft of memories?</font>
+
+199
+00:13:42,760 --> 00:13:45,680
+<font face="Roboto Medium" size="26">Because... I have amnesia.</font>
+
+200
+00:13:47,510 --> 00:13:49,100
+<font face="Roboto Medium" size="26">And what's the real reason?</font>
+
+201
+00:13:50,890 --> 00:13:55,150
+<font face="Roboto Medium" size="26">I didn't... have any memories 
+to begin with.</font>
+
+202
+00:13:56,190 --> 00:13:58,570
+<font face="Roboto Medium" size="26">Yes. You are...</font>
+
+203
+00:14:00,820 --> 00:14:04,740
+<font face="Roboto Medium" size="26">another Yuri that came into 
+existence at that moment.</font>
+
+204
+00:14:05,570 --> 00:14:09,080
+<font face="Roboto Medium" size="26">You are a fake that was created 
+separately from the real Yuri.</font>
+
+205
+00:14:11,000 --> 00:14:15,420
+<font face="Roboto Medium" size="26">That's right. You are a foreign object 
+anomalous to this world—</font>
+
+206
+00:14:15,880 --> 00:14:18,670
+<font face="Roboto Medium" size="26">to this universe.</font>
+
+207
+00:14:18,670 --> 00:14:21,510
+<font face="Roboto Medium" size="26">Something that absolutely cannot exist.</font>
+
+208
+00:14:22,800 --> 00:14:25,430
+<font face="Roboto Medium" size="26">You are a Bug.</font>
+
+209
+00:14:39,820 --> 00:14:41,400
+<font face="Roboto Medium" size="26">Is something wrong?</font>
+
+210
+00:14:43,650 --> 00:14:45,030
+<font face="Roboto Medium" size="26">Setsu...</font>
+
+211
+00:14:47,030 --> 00:14:49,830
+<font face="Roboto Medium" size="26">So, where did you want to go?</font>
+
+212
+00:14:50,370 --> 00:14:51,660
+<font face="Roboto Medium" size="26">Where?</font>
+
+213
+00:14:52,950 --> 00:14:55,750
+<font face="Roboto Medium" size="26">You're the one who said you 
+wanted to go somewhere, Yuri.</font>
+
+214
+00:14:56,420 --> 00:14:57,460
+<font face="Roboto Medium" size="26">Huh?</font>
+
+215
+00:15:04,760 --> 00:15:07,300
+<font face="Roboto Medium" size="26">Setsu... Setsu!</font>
+
+216
+00:15:07,970 --> 00:15:09,100
+<font face="Roboto Medium" size="26">Setsu!</font>
+
+217
+00:15:10,140 --> 00:15:11,390
+<font face="Roboto Medium" size="26">Setsu!</font>
+
+218
+00:15:13,220 --> 00:15:14,430
+<font face="Roboto Medium" size="26">Yuri...</font>
+
+219
+00:15:21,230 --> 00:15:22,280
+<font face="Roboto Medium" size="26">No...</font>
+
+220
+00:15:22,730 --> 00:15:24,820
+<font face="Roboto Medium" size="26">No!</font>
+
+221
+00:15:40,420 --> 00:15:41,800
+<font face="Roboto Medium" size="26">Where...</font>
+
+222
+00:15:50,470 --> 00:15:51,600
+<font face="Roboto Medium" size="26">A Bug...</font>
+
+223
+00:15:54,850 --> 00:15:56,890
+<font face="Roboto Medium" size="26">Do you understand now?</font>
+
+224
+00:15:58,440 --> 00:16:01,650
+<font face="Roboto Medium" size="26">You are a fabricated existence.</font>
+
+225
+00:16:02,730 --> 00:16:07,490
+<font face="Roboto Medium" size="26">You are a Bug that was created 
+separately from the real you.</font>
+
+226
+00:16:07,780 --> 00:16:08,980
+<font face="Roboto Medium" size="26">That's why...</font>
+
+227
+00:16:08,980 --> 00:16:13,200
+<font face="Roboto Medium" size="26">If you run into the real Yuri, 
+the universe gets destroyed.</font>
+
+228
+00:16:13,200 --> 00:16:16,750
+<font face="Roboto Medium" size="26">B-But it never got destroyed before!</font>
+
+229
+00:16:16,750 --> 00:16:21,750
+<font face="Roboto Medium" size="26">I've been looping over and over, 
+and nothing like this has ever happened!</font>
+
+230
+00:16:21,750 --> 00:16:23,120
+<font face="Roboto Medium" size="26">Don't you get it?</font>
+
+231
+00:16:24,500 --> 00:16:27,130
+<font face="Roboto Medium" size="26">It didn't happen for a reason.</font>
+
+232
+00:16:28,590 --> 00:16:31,220
+<font face="Roboto Medium" size="26">It is not that you avoided it 
+out of mere happenstance.</font>
+
+233
+00:16:31,970 --> 00:16:34,310
+<font face="Roboto Medium" size="26">There was no way for it 
+to happen to begin with.</font>
+
+234
+00:16:37,890 --> 00:16:41,980
+<font face="Roboto Medium" size="26">"Because... there was only one Yuri."</font>
+
+235
+00:16:42,520 --> 00:16:44,770
+<font face="Roboto Medium" size="26">Just think about it.</font>
+
+236
+00:16:47,150 --> 00:16:50,950
+<font face="Roboto Medium" size="26">What was different this time 
+compared to all the others?</font>
+
+237
+00:16:51,360 --> 00:16:53,110
+<font face="Roboto Medium" size="26">You should be able to figure it out.</font>
+
+238
+00:16:54,330 --> 00:16:57,290
+<font face="Roboto Medium" size="26">There weren't any Gnosia infectees...</font>
+
+239
+00:16:58,950 --> 00:17:01,120
+<font face="Roboto Medium" size="26">Way to go, Yurinchy!</font>
+
+240
+00:17:01,120 --> 00:17:05,170
+<font face="Roboto Medium" size="26">If you've gotten that far, 
+I'm sure you can figure out the rest!</font>
+
+241
+00:17:05,920 --> 00:17:08,630
+<font face="Roboto Medium" size="26">If there aren't any Gnosia infectees...</font>
+
+242
+00:17:09,040 --> 00:17:11,760
+<font face="Roboto Medium" size="26">the humans won't be attacked.</font>
+
+243
+00:17:11,760 --> 00:17:13,260
+<font face="Roboto Medium" size="26">That's right!</font>
+
+244
+00:17:14,420 --> 00:17:16,890
+<font face="Roboto Medium" size="26">Well done, Yuri.</font>
+
+245
+00:17:18,470 --> 00:17:22,060
+<font face="Roboto Medium" size="26">Man, I'm exhausted. You can say the rest.</font>
+
+246
+00:17:24,100 --> 00:17:25,270
+<font face="Roboto Medium" size="26">I see.</font>
+
+247
+00:17:25,770 --> 00:17:28,770
+<font face="Roboto Medium" size="26">In the world lines where 
+Gnosia infectees exist,</font>
+
+248
+00:17:29,110 --> 00:17:33,740
+<font face="Roboto Medium" size="26">the real me that was sleeping here had 
+already been eliminated from the start.</font>
+
+249
+00:17:34,360 --> 00:17:35,950
+<font face="Roboto Medium" size="26">Correct.</font>
+
+250
+00:17:36,950 --> 00:17:41,580
+<font face="Roboto Medium" size="26">The real Yuri was eliminated 
+by a Gnosia infectee.</font>
+
+251
+00:17:43,580 --> 00:17:49,080
+<font face="Roboto Medium" size="26">Right after that, you, the Bug, 
+appeared within the same pod.</font>
+
+252
+00:17:50,290 --> 00:17:55,880
+<font face="Roboto Medium" size="26">And you've been looping 
+ever since as a Bug, bud.</font>
+
+253
+00:18:00,140 --> 00:18:03,930
+<font face="Roboto Medium" size="26">But in the world lines where 
+there are no Gnosia infectees,</font>
+
+254
+00:18:03,930 --> 00:18:06,140
+<font face="Roboto Medium" size="26">the real Yuri doesn't get attacked.</font>
+
+255
+00:18:06,680 --> 00:18:10,190
+<font face="Roboto Medium" size="26">So, having not been eliminated, 
+they remain in the pod.</font>
+
+256
+00:18:11,310 --> 00:18:15,360
+<font face="Roboto Medium" size="26">So when you loop and return 
+like you just did...</font>
+
+257
+00:18:17,490 --> 00:18:20,490
+<font face="Roboto Medium" size="26">The real Yuri and the Bug Yuri...</font>
+
+258
+00:18:20,490 --> 00:18:23,200
+<font face="Roboto Medium" size="26">Both of you end up existing at once.</font>
+
+259
+00:18:23,790 --> 00:18:26,000
+<font face="Roboto Medium" size="26">Basically, you're a dual existence.</font>
+
+260
+00:18:26,000 --> 00:18:31,380
+<font face="Roboto Medium" size="26">That destroys the law of cause and 
+effect, and with it, the universe.</font>
+
+261
+00:18:36,970 --> 00:18:39,090
+<font face="Roboto Medium" size="26">You understand now, don't you?</font>
+
+262
+00:18:39,880 --> 00:18:45,100
+<font face="Roboto Medium" size="26">When you arrive at a world line with no 
+Gnosia infectees like the previous one,</font>
+
+263
+00:18:45,100 --> 00:18:49,890
+<font face="Roboto Medium" size="26">you will unavoidably encounter the 
+other Yuri, destroying the universe.</font>
+
+264
+00:18:50,730 --> 00:18:52,020
+<font face="Roboto Medium" size="26">Then...</font>
+
+265
+00:18:52,020 --> 00:18:57,440
+<font face="Roboto Medium" size="26">You can only exist in world lines 
+where the Gnosia exist.</font>
+
+266
+00:19:03,740 --> 00:19:06,490
+<font face="Roboto Medium" size="26">That's... the truth?</font>
+
+267
+00:19:07,120 --> 00:19:08,960
+<font face="Roboto Medium" size="26">Indeed.</font>
+
+268
+00:19:10,580 --> 00:19:13,420
+<font face="Roboto Medium" size="26">How... did this happen?</font>
+
+269
+00:19:15,750 --> 00:19:18,880
+<font face="Roboto Medium" size="26">Tell me! Why did you do all this?!</font>
+
+270
+00:19:20,380 --> 00:19:23,890
+<font face="Roboto Medium" size="26">Do you actually believe 
+I am capable of that?</font>
+
+271
+00:19:27,680 --> 00:19:30,940
+<font face="Roboto Medium" size="26">The one who created you is Gnos.</font>
+
+272
+00:19:30,940 --> 00:19:35,770
+<font face="Roboto Medium" size="26">The only one who can willingly 
+create a Bug is Gnos.</font>
+
+273
+00:19:36,110 --> 00:19:37,530
+<font face="Roboto Medium" size="26">Gnos?</font>
+
+274
+00:19:38,480 --> 00:19:43,570
+<font face="Roboto Medium" size="26">Gnos is a collective entity formed 
+from the cyberized minds of humanity.</font>
+
+275
+00:19:43,570 --> 00:19:47,490
+<font face="Roboto Medium" size="26">A single consciousness 
+that arose out of the chaos.</font>
+
+276
+00:19:47,490 --> 00:19:49,410
+<font face="Roboto Medium" size="26">Or so they say.</font>
+
+277
+00:19:50,290 --> 00:19:54,250
+<font face="Roboto Medium" size="26">The shrine maidens of the 
+Hoshibune serve Gnos.</font>
+
+278
+00:19:54,250 --> 00:19:58,760
+<font face="Roboto Medium" size="26">The technology of cyberization 
+was granted to us by Gnos—</font>
+
+279
+00:19:58,760 --> 00:20:02,010
+<font face="Roboto Medium" size="26">in other words, by God.</font>
+
+280
+00:20:02,430 --> 00:20:03,590
+<font face="Roboto Medium" size="26">God...?</font>
+
+281
+00:20:04,340 --> 00:20:07,100
+<font face="Roboto Medium" size="26">A collective entity 
+possessing all human wisdom.</font>
+
+282
+00:20:07,100 --> 00:20:11,730
+<font face="Roboto Medium" size="26">The supreme will entrusted 
+with all decisions.</font>
+
+283
+00:20:11,730 --> 00:20:14,850
+<font face="Roboto Medium" size="26">That is the will that created you.</font>
+
+284
+00:20:16,060 --> 00:20:19,730
+<font face="Roboto Medium" size="26">They may be trying to determine something.</font>
+
+285
+00:20:20,360 --> 00:20:25,620
+<font face="Roboto Medium" size="26">A universe where countless individuals 
+struggle to communicate with each other,</font>
+
+286
+00:20:25,620 --> 00:20:30,870
+<font face="Roboto Medium" size="26">or a universe ruled by a single 
+great will like Gnos...</font>
+
+287
+00:20:31,540 --> 00:20:33,960
+<font face="Roboto Medium" size="26">Which one has more value?</font>
+
+288
+00:20:37,290 --> 00:20:39,960
+<font face="Roboto Medium" size="26">What am I supposed to do...?</font>
+
+289
+00:20:40,800 --> 00:20:46,010
+<font face="Roboto Medium" size="26">Who knows? That is the extent of the 
+knowledge that Gnos bestowed upon me.</font>
+
+290
+00:20:55,690 --> 00:20:57,020
+<font face="Roboto Medium" size="26">They disappeared?</font>
+
+291
+00:20:59,070 --> 00:21:00,280
+<font face="Roboto Medium" size="26">This is...</font>
+
+292
+00:21:07,370 --> 00:21:12,870
+<font face="Roboto Medium" size="26">When I touched Gnos through that light... 
+that was when I knew.</font>
+
+293
+00:21:20,250 --> 00:21:23,590
+<font face="Roboto Medium" size="26">Now all that is left 
+is to see this through to the end.</font>
+
+294
+00:21:37,350 --> 00:21:40,610
+<font face="Roboto Medium" size="26">Oh, Yuri. You're awake already.</font>
+
+295
+00:21:40,610 --> 00:21:42,110
+<font face="Roboto Medium" size="26">Comet...</font>
+
+296
+00:21:42,110 --> 00:21:46,070
+<font face="Roboto Medium" size="26">We're all in the cafeteria eating 
+right now. Wanna join us?</font>
+
+297
+00:21:49,070 --> 00:21:51,700
+<font face="Roboto Medium" size="26">No... I'll go later.</font>
+
+298
+00:21:52,160 --> 00:21:53,660
+<font face="Roboto Medium" size="26">Okay.</font>
+
+299
+00:22:04,710 --> 00:22:05,840
+<font face="Roboto Medium" size="26">No...</font>
+
+300
+00:22:06,840 --> 00:22:07,880
+<font face="Roboto Medium" size="26">No...</font>
+
+301
+00:22:08,340 --> 00:22:09,590
+<font face="Roboto Medium" size="26">No...</font>
+
+302
+00:22:10,720 --> 00:22:11,640
+<font face="Roboto Medium" size="26">No...</font>
+
+303
+00:22:16,180 --> 00:22:17,060
+<font face="Roboto Medium" size="26">N...</font>
+
+304
+00:22:18,850 --> 00:22:23,860
+<font face="Roboto Medium" size="26">No!</font>
+
