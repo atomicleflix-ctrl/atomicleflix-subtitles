@@ -1,0 +1,43 @@
+1
+00:00:00,000 --> 00:00:03,980
+<font face="Trebuchet MS" size="20"><b>{\an7}<font size="8"><font color="#052116">Pawn Shop
+<font color="#021a18"><font size="20">Hoppers</font></font></font></font></b></font>
+
+2
+00:03:21,320 --> 00:03:28,360
+<font face="Times New Roman" size="20"><b>{\an1}<font size="40"><font color="#c5000e">team up</font></font></b></font>
+
+3
+00:03:22,770 --> 00:03:28,360
+<font face="Times New Roman" size="20"><b>{\an7}When multiple individuals work together.
+ Usually in the form of cooperating towards a mutual goal.</b></font>
+
+4
+00:03:27,030 --> 00:03:29,360
+<font face="Verdana" size="20"><b><i>{\an1}<font size="30"><font color="#ffe640">The Man Returns</font></font></i></b></font>
+
+5
+00:03:29,490 --> 00:03:33,390
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#332814">Ringotaro Pub</font></b></font>
+
+6
+00:05:25,040 --> 00:05:27,040
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#1a1b1b">Women</font></b></font>
+
+7
+00:09:11,100 --> 00:09:15,820
+<font face="Verdana" size="20"><b>{\an1}<i><font color="#172922"><font size="38">Quirk: Somnambulist</font></font></i></b></font>
+
+8
+00:10:41,990 --> 00:10:47,960
+<font face="Trebuchet MS" size="20"><b>{\an7}<font size="8"><font color="#052116">Pawn Shop
+<font color="#021a18"><font size="20">Hoppers</font></font></font></font></b></font>
+
+9
+00:12:34,810 --> 00:12:49,280
+<font face="Trebuchet MS" size="20"><b><font color="#343d3d"><font size="19">Evidence</font></font></b></font>
+
+10
+00:13:17,720 --> 00:13:20,230
+<font face="Verdana" size="20"><b>{\an1}<i><font color="#172922"><font size="20">Hong Kong</font></font></i></b></font>
+
