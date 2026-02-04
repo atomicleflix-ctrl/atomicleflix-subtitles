@@ -1,0 +1,1024 @@
+1
+00:00:07,990 --> 00:00:10,820
+<font face="Roboto Medium" size="26">I hope it hatches soon.</font>
+
+2
+00:00:10,820 --> 00:00:15,730
+<font face="Roboto Medium" size="26">Hajime bought me this egg, 
+and the guy said it was lucky...</font>
+
+3
+00:00:15,730 --> 00:00:18,780
+<font face="Roboto Medium" size="26">I bet there's something 
+amazing growing inside!</font>
+
+4
+00:00:25,490 --> 00:00:29,190
+<font face="Roboto Medium" size="26">All right! Off we go, dragon!</font>
+
+5
+00:00:35,380 --> 00:00:38,630
+<font face="Roboto Medium" size="26">Looking after an animal sounds like 
+a lot of work. Let's just eat it.</font>
+
+6
+00:00:39,550 --> 00:00:43,190
+<font face="Roboto Medium" size="26">How could you even suggest 
+that?! Absolutely not!</font>
+
+7
+00:00:43,740 --> 00:00:48,520
+<font face="Roboto Medium" size="26">This egg is lucky! And it's going 
+to hatch an incredible dragon!</font>
+
+8
+00:00:48,520 --> 00:00:50,380
+<font face="Roboto Medium" size="26">I'm sure of it!</font>
+
+9
+00:00:50,380 --> 00:00:52,950
+<font face="Roboto Medium" size="26">Yeah, if you say so.</font>
+
+10
+00:00:58,910 --> 00:01:01,750
+<font face="Roboto Medium" size="26">Dragon...</font>
+
+11
+00:01:23,930 --> 00:01:25,960
+<font face="Roboto Medium" size="26">My dragon...</font>
+
+12
+00:01:34,410 --> 00:01:38,320
+<font face="Roboto Medium" size="26">H-Hajime! It's all tiny!</font>
+
+13
+00:01:38,320 --> 00:01:40,000
+<font face="Roboto Medium" size="26">What is it?</font>
+
+14
+00:01:43,450 --> 00:01:44,820
+<font face="Roboto Medium" size="26">Breakfast?</font>
+
+15
+00:01:44,820 --> 00:01:48,860
+<font face="Roboto Medium" size="26">No! Is food the only 
+thing on your mind, Hajime?!</font>
+
+16
+00:01:48,860 --> 00:01:51,390
+<font face="Roboto Medium" size="26">That's rich, coming from you.</font>
+
+17
+00:02:08,810 --> 00:02:13,360
+<font face="Trebuchet MS" size="24">{\an8}AN ADVENTURER'S DAILY GRIND AT AGE 29</font>
+
+18
+00:03:25,260 --> 00:03:29,980
+<font face="Trebuchet MS" size="24">{\an8}EPISODE 5: WHAT'S HATCHING</font>
+
+19
+00:03:25,730 --> 00:03:27,470
+<font face="Roboto Medium" size="26">Good morning!</font>
+
+20
+00:03:30,470 --> 00:03:32,160
+<font face="Roboto Medium" size="26">It's adorable!</font>
+
+21
+00:03:32,160 --> 00:03:35,390
+<font face="Roboto Medium" size="26">It sure is. I take it your egg hatched.</font>
+
+22
+00:03:35,390 --> 00:03:37,470
+<font face="Roboto Medium" size="26">It did indeed!</font>
+
+23
+00:03:37,470 --> 00:03:39,590
+<font face="Roboto Medium" size="26">Say hello to Dragon!</font>
+
+24
+00:03:41,450 --> 00:03:43,120
+<font face="Roboto Medium" size="26">Is that... its name?</font>
+
+25
+00:03:43,710 --> 00:03:46,130
+<font face="Roboto Medium" size="26">It's pretty obviously a sparrowflier.</font>
+
+26
+00:03:48,680 --> 00:03:51,620
+<font face="Trebuchet MS" size="24">{\an8}SIZE COMPARISON: SPARROWFLIER VS. RIRUI
+A LARGE BIRD THAT NESTS IN THE MOUNTAINS.
+OFTEN HEARD CHIRPING IN THE MORNING.</font>
+
+27
+00:04:05,880 --> 00:04:07,150
+<font face="Roboto Medium" size="26">Well...</font>
+
+28
+00:04:12,840 --> 00:04:15,150
+<font face="Roboto Medium" size="26">It's cute, so who cares?</font>
+
+29
+00:04:15,150 --> 00:04:16,530
+<font face="Roboto Medium" size="26">If you say so.</font>
+
+30
+00:04:17,000 --> 00:04:19,780
+<font face="Roboto Medium" size="26">Still, women really love 
+cute animals, huh?</font>
+
+31
+00:04:21,780 --> 00:04:24,530
+<font face="Trebuchet MS" size="24">{\an8}HE WAS ACTUALLY HOPING TO GET TO PET IT</font>
+
+32
+00:04:25,420 --> 00:04:29,030
+<font face="Roboto Medium" size="26">Come to think of it, 
+I had a pet once too.</font>
+
+33
+00:04:30,200 --> 00:04:32,550
+<font face="Roboto Medium" size="26">I'm surprised you had the 
+time to care for one.</font>
+
+34
+00:04:32,550 --> 00:04:34,530
+<font face="Roboto Medium" size="26">What kind of animal was it?</font>
+
+35
+00:04:34,530 --> 00:04:37,300
+<font face="Roboto Medium" size="26">A dragon! It was a 
+dragon, right, Hajime?!</font>
+
+36
+00:04:37,620 --> 00:04:41,420
+<font face="Roboto Medium" size="26">I found this dog who'd made 
+himself at home in the slums.</font>
+
+37
+00:04:42,200 --> 00:04:43,800
+<font face="Roboto Medium" size="26">Smart little fella, too.</font>
+
+38
+00:04:44,320 --> 00:04:48,310
+<font face="Roboto Medium" size="26">Whenever I had spare time, 
+I'd teach him all kinds of tricks.</font>
+
+39
+00:04:51,430 --> 00:04:55,060
+<font face="Roboto Medium" size="26">But one time, the rain
+kept falling and didn't stop...</font>
+
+40
+00:04:55,390 --> 00:04:59,980
+<font face="Roboto Medium" size="26">Which meant no work, and for me, 
+no food for two or three days.</font>
+
+41
+00:05:21,140 --> 00:05:23,350
+<font face="Roboto Medium" size="26">He saved my life!</font>
+
+42
+00:05:26,110 --> 00:05:27,600
+<font face="Roboto Medium" size="26">Hajime...</font>
+
+43
+00:05:27,600 --> 00:05:30,510
+<font face="Roboto Medium" size="26">Don't take your eyes 
+off your birdie, Rirui!</font>
+
+44
+00:05:32,090 --> 00:05:34,980
+<font face="Roboto Medium" size="26">Now, what's on the menu today?</font>
+
+45
+00:05:44,230 --> 00:05:47,350
+<font face="Roboto Medium" size="26">Try hard to be helpful, Dragon!</font>
+
+46
+00:05:51,280 --> 00:05:56,520
+<font face="Roboto Medium" size="26">That's called a slime. They react 
+to sound, so stay quiet, okay?</font>
+
+47
+00:06:00,000 --> 00:06:02,830
+<font face="Roboto Medium" size="26">H-Hey! I said to be quiet, Dragon!</font>
+
+48
+00:06:03,420 --> 00:06:05,640
+<font face="Roboto Medium" size="26">Seriously, shush!</font>
+
+49
+00:06:19,550 --> 00:06:22,140
+<font face="Roboto Medium" size="26">U-Um, Hajime...</font>
+
+50
+00:06:22,420 --> 00:06:23,590
+<font face="Roboto Medium" size="26">This, uh...</font>
+
+51
+00:06:24,020 --> 00:06:28,400
+<font face="Roboto Medium" size="26">With how loud this thing chirps,
+ I guess it's a bad match for slimes.</font>
+
+52
+00:06:30,670 --> 00:06:33,920
+<font face="Roboto Medium" size="26">Y-Yeah! I guess you're right.</font>
+
+53
+00:06:36,740 --> 00:06:40,050
+<font face="Roboto Medium" size="26"><i>Thank goodness. He's not mad.</i></font>
+
+54
+00:06:40,050 --> 00:06:43,870
+<font face="Roboto Medium" size="26"><i>Hajime must think Dragon is cute too!</i></font>
+
+55
+00:06:47,490 --> 00:06:50,260
+<font face="Roboto Medium" size="26"><i>He's seeing how tender the meat is!</i></font>
+
+56
+00:06:50,260 --> 00:06:52,150
+<font face="Roboto Medium" size="26"><i>That's why he took his gloves off!</i></font>
+
+57
+00:06:55,310 --> 00:06:58,100
+<font face="Roboto Medium" size="26">Dragon! You watch the 
+room while we're gone.</font>
+
+58
+00:06:58,100 --> 00:06:59,800
+<font face="Roboto Medium" size="26">Be good, understand?</font>
+
+59
+00:07:03,800 --> 00:07:05,820
+<font face="Roboto Medium" size="26">Take this!</font>
+
+60
+00:07:05,820 --> 00:07:07,820
+<font face="Roboto Medium" size="26">Hyah!</font>
+
+61
+00:07:07,820 --> 00:07:09,830
+<font face="Roboto Medium" size="26">Gimme those eyeballs!</font>
+
+62
+00:07:10,290 --> 00:07:15,310
+<font face="Roboto Medium" size="26"><i>Dragon has trouble fighting slimes, 
+so Rirui will have to work twice as hard!</i></font>
+
+63
+00:07:28,210 --> 00:07:30,720
+<font face="Trebuchet MS" size="24">{\an8}RIRUI IS NOW LEVEL 3!</font>
+
+64
+00:07:31,250 --> 00:07:33,220
+<font face="Roboto Medium" size="26">We're back home, Dragon!</font>
+
+65
+00:07:41,680 --> 00:07:43,470
+<font face="Roboto Medium" size="26">What the hell?!</font>
+
+66
+00:07:43,470 --> 00:07:45,960
+<font face="Roboto Medium" size="26">U-Uh, Hajime...</font>
+
+67
+00:07:45,960 --> 00:07:50,330
+<font face="Roboto Medium" size="26">The damn poultry took a dump in my bed!</font>
+
+68
+00:07:51,240 --> 00:07:56,470
+<font face="Roboto Medium" size="26">Hajime, its name is Dragon, not "Poultry."</font>
+
+69
+00:07:56,470 --> 00:08:00,500
+<font face="Roboto Medium" size="26">Oh, yeah, is that right?!
+Fan-freaking-tastic!</font>
+
+70
+00:08:07,240 --> 00:08:09,460
+<font face="Roboto Medium" size="26">Come on, Dragon! You can do it!</font>
+
+71
+00:08:14,880 --> 00:08:18,400
+<font face="Roboto Medium" size="26">Aw! Dragon, you're not
+ supposed to fall down!</font>
+
+72
+00:08:18,400 --> 00:08:21,550
+<font face="Roboto Medium" size="26">I'm not sure Dragon can 
+handle this kind of thing...</font>
+
+73
+00:08:22,390 --> 00:08:26,890
+<font face="Roboto Medium" size="26">But if it's not useful, 
+Hajime's gonna eat it!</font>
+
+74
+00:08:26,890 --> 00:08:31,140
+<font face="Roboto Medium" size="26">Maybe he did that at one point,
+but he's a proper adventurer now!</font>
+
+75
+00:08:31,510 --> 00:08:34,270
+<font face="Roboto Medium" size="26">He'd never do something
+ like that, right, Hajime?</font>
+
+76
+00:08:40,650 --> 00:08:43,020
+<font face="Roboto Medium" size="26">Come on! You can do it, Dragon!</font>
+
+77
+00:08:43,020 --> 00:08:45,340
+<font face="Roboto Medium" size="26">The trick is stability!</font>
+
+78
+00:08:46,260 --> 00:08:49,060
+<font face="Roboto Medium" size="26">{\an8}There you go! Now move forward!</font>
+
+79
+00:08:47,730 --> 00:08:51,480
+<font face="Roboto Medium" size="26"><i>I really hope he doesn't ask 
+me to cook the little guy...</i></font>
+
+80
+00:08:52,460 --> 00:08:54,790
+<font face="Roboto Medium" size="26">Rirui, time for work.</font>
+
+81
+00:08:54,790 --> 00:08:56,290
+<font face="Roboto Medium" size="26">Understood!</font>
+
+82
+00:08:56,290 --> 00:08:59,090
+<font face="Roboto Medium" size="26">I'm patrolling the village 
+perimeter today.</font>
+
+83
+00:09:07,480 --> 00:09:09,490
+<font face="Roboto Medium" size="26">What is it? Something up?</font>
+
+84
+00:09:10,950 --> 00:09:12,730
+<font face="Roboto Medium" size="26">It's nothing!</font>
+
+85
+00:09:23,640 --> 00:09:25,180
+<font face="Roboto Medium" size="26">Hey.</font>
+
+86
+00:09:30,480 --> 00:09:32,460
+<font face="Roboto Medium" size="26">Good luck today!</font>
+
+87
+00:09:33,120 --> 00:09:38,580
+<font face="Roboto Medium" size="26">Dragon, today you're going to follow 
+Rirui's example and learn how to work!</font>
+
+88
+00:09:38,580 --> 00:09:41,690
+<font face="Roboto Medium" size="26">I'll help out too, so let's do our best.</font>
+
+89
+00:09:46,170 --> 00:09:49,040
+<font face="Roboto Medium" size="26">C'mon! Quit pooping all the time!</font>
+
+90
+00:09:49,040 --> 00:09:51,620
+<font face="Roboto Medium" size="26">Your life is at stake, Dragon!</font>
+
+91
+00:10:01,310 --> 00:10:03,240
+<font face="Roboto Medium" size="26">"Dragon," huh?</font>
+
+92
+00:10:09,330 --> 00:10:12,050
+<font face="Roboto Medium" size="26">Great. More crap.</font>
+
+93
+00:10:16,220 --> 00:10:17,840
+<font face="Roboto Medium" size="26">Wait...</font>
+
+94
+00:10:18,620 --> 00:10:20,790
+<font face="Roboto Medium" size="26">I think this came from a rabbit bear.</font>
+
+95
+00:10:21,810 --> 00:10:24,550
+<font face="Roboto Medium" size="26">They're not supposed to be
+ on this mountain.</font>
+
+96
+00:10:27,000 --> 00:10:30,110
+<font face="Roboto Medium" size="26">And if it builds a den here, 
+that'll spell trouble.</font>
+
+97
+00:10:30,110 --> 00:10:32,890
+<font face="Roboto Medium" size="26">Okay, Rirui, we're gonna track it down.</font>
+
+98
+00:10:33,250 --> 00:10:34,850
+<font face="Roboto Medium" size="26">Try to stay close and...</font>
+
+99
+00:10:40,510 --> 00:10:41,990
+<font face="Roboto Medium" size="26">It feels weird without her.</font>
+
+100
+00:10:42,840 --> 00:10:47,110
+<font face="Roboto Medium" size="26">So, we fold it once like this, 
+ then again like so.</font>
+
+101
+00:10:47,670 --> 00:10:49,630
+<font face="Roboto Medium" size="26">And that's how you do it.</font>
+
+102
+00:10:49,630 --> 00:10:54,000
+<font face="Roboto Medium" size="26">I see! Okay, let's do it, Dragon!</font>
+
+103
+00:10:57,630 --> 00:11:00,130
+<font face="Roboto Medium" size="26">Yes, just like that! Nicely done!</font>
+
+104
+00:11:00,130 --> 00:11:03,020
+<font face="Roboto Medium" size="26">Very good, Dragon!</font>
+
+105
+00:11:05,240 --> 00:11:06,890
+<font face="Roboto Medium" size="26">Hey!</font>
+
+106
+00:11:06,890 --> 00:11:09,820
+<font face="Roboto Medium" size="26">Dragon! What are you doing?!</font>
+
+107
+00:11:11,980 --> 00:11:15,340
+<font face="Roboto Medium" size="26">It's fine! We just need to wash it again.</font>
+
+108
+00:11:17,520 --> 00:11:19,530
+<font face="Roboto Medium" size="26">A rabbit bear, you say?</font>
+
+109
+00:11:19,900 --> 00:11:23,140
+<font face="Roboto Medium" size="26">Yeah, but I couldn't track it down.</font>
+
+110
+00:11:23,140 --> 00:11:26,710
+<font face="Roboto Medium" size="26">They breed quickly and attack people...</font>
+
+111
+00:11:26,710 --> 00:11:29,160
+<font face="Roboto Medium" size="26">I hope we can deal with this
+before they spread too much.</font>
+
+112
+00:11:29,450 --> 00:11:33,240
+<font face="Roboto Medium" size="26">Gotta wonder why it's come 
+around these parts, though.</font>
+
+113
+00:11:33,620 --> 00:11:35,270
+<font face="Roboto Medium" size="26">We've had so many cold days,</font>
+
+114
+00:11:35,270 --> 00:11:38,120
+<font face="Roboto Medium" size="26">there's probably not as much 
+to eat in the mountains.</font>
+
+115
+00:11:38,530 --> 00:11:42,410
+<font face="Roboto Medium" size="26">So it made the trek for food?</font>
+
+116
+00:11:43,290 --> 00:11:44,540
+<font face="Roboto Medium" size="26">Mr. Shinonome.</font>
+
+117
+00:11:45,670 --> 00:11:52,440
+<font face="Roboto Medium" size="26">Can the guild officially hire you to track
+down and exterminate this rabbit bear?</font>
+
+118
+00:11:56,940 --> 00:11:59,940
+<font face="Trebuchet MS" size="24">{\an8}AN ADVENTURER'S DAILY GRIND AT AGE 29</font>
+
+119
+00:11:59,940 --> 00:12:02,950
+<font face="Trebuchet MS" size="24">{\an8}AN ADVENTURER'S DAILY GRIND AT AGE 29</font>
+
+120
+00:12:16,540 --> 00:12:20,200
+<font face="Roboto Medium" size="26">Is something wrong, Natalie? Are you okay?</font>
+
+121
+00:12:20,200 --> 00:12:22,490
+<font face="Roboto Medium" size="26">Huh? What do you mean?</font>
+
+122
+00:12:23,540 --> 00:12:26,560
+<font face="Roboto Medium" size="26">I'm totally fine...</font>
+
+123
+00:12:29,630 --> 00:12:31,360
+<font face="Roboto Medium" size="26">See?</font>
+
+124
+00:12:31,360 --> 00:12:34,110
+<font face="Roboto Medium" size="26">Natalie, take the day off.</font>
+
+125
+00:12:34,110 --> 00:12:36,400
+<font face="Roboto Medium" size="26">You're worn down from working too much.</font>
+
+126
+00:12:36,400 --> 00:12:38,110
+<font face="Roboto Medium" size="26">But...</font>
+
+127
+00:12:38,110 --> 00:12:43,860
+<font face="Roboto Medium" size="26">We're going to be busy later, and there's
+stuff I wanted to take care of before—</font>
+
+128
+00:12:43,860 --> 00:12:47,990
+<font face="Roboto Medium" size="26">No. You know how dangerous 
+illness can be.</font>
+
+129
+00:12:51,280 --> 00:12:57,680
+<font face="Roboto Medium" size="26">In that case, Rirui and Dragon will 
+handle all of Natalie's work for the day!</font>
+
+130
+00:13:02,270 --> 00:13:08,250
+<font face="Roboto Medium" size="26">Thank you, but it's my work, 
+so I should take care of it.</font>
+
+131
+00:13:08,560 --> 00:13:12,150
+<font face="Roboto Medium" size="26">Come now. I know they'll do their best.</font>
+
+132
+00:13:12,150 --> 00:13:15,960
+<font face="Roboto Medium" size="26">But it's my job...</font>
+
+133
+00:13:16,640 --> 00:13:19,320
+<font face="Roboto Medium" size="26">Enough already! Go get some rest!</font>
+
+134
+00:13:20,060 --> 00:13:23,310
+<font face="Roboto Medium" size="26">I'm being c-c-c-c-carried...</font>
+
+135
+00:13:25,570 --> 00:13:28,070
+<font face="Roboto Medium" size="26">See what happens when you push yourself?</font>
+
+136
+00:13:56,690 --> 00:14:00,050
+<font face="Roboto Medium" size="26">Aw, Dragon. Try and be more careful.</font>
+
+137
+00:14:11,250 --> 00:14:13,790
+<font face="Roboto Medium" size="26">Is that Natalie's lunch?</font>
+
+138
+00:14:13,790 --> 00:14:14,560
+<font face="Roboto Medium" size="26">Yup.</font>
+
+139
+00:14:14,560 --> 00:14:17,250
+<font face="Roboto Medium" size="26">Rirui can take it to her!</font>
+
+140
+00:14:17,250 --> 00:14:19,960
+<font face="Roboto Medium" size="26">Yeah? Then you go right ahead.</font>
+
+141
+00:14:26,380 --> 00:14:29,500
+<font face="Roboto Medium" size="26">Mommy, am I doing a good 
+job with cleaning?</font>
+
+142
+00:14:29,500 --> 00:14:31,540
+<font face="Roboto Medium" size="26">Yes, you really are!</font>
+
+143
+00:14:31,540 --> 00:14:33,760
+<font face="Roboto Medium" size="26">I'm impressed, Natalie.</font>
+
+144
+00:14:33,760 --> 00:14:36,890
+<font face="Roboto Medium" size="26">Thank you so much for helping out.</font>
+
+145
+00:14:38,110 --> 00:14:40,820
+<font face="Roboto Medium" size="26">I'm gonna keep working hard!</font>
+
+146
+00:14:48,940 --> 00:14:53,200
+<font face="Roboto Medium" size="26">You really let your guard down 
+when you get sick, I guess.</font>
+
+147
+00:14:55,100 --> 00:14:59,070
+<font face="Roboto Medium" size="26">I'm so lonely, Mommy!</font>
+
+148
+00:15:00,660 --> 00:15:02,670
+<font face="Roboto Medium" size="26">Are you okay?</font>
+
+149
+00:15:05,060 --> 00:15:07,360
+<font face="Roboto Medium" size="26">How long have you been there, Rirui?!</font>
+
+150
+00:15:07,360 --> 00:15:08,880
+<font face="Roboto Medium" size="26">For a while.</font>
+
+151
+00:15:09,160 --> 00:15:12,730
+<font face="Roboto Medium" size="26">Sorry that I'm not your 
+mommy. You're lonely?</font>
+
+152
+00:15:12,730 --> 00:15:15,000
+<font face="Roboto Medium" size="26">I-It's not like that, Rirui!</font>
+
+153
+00:15:15,000 --> 00:15:18,920
+<font face="Roboto Medium" size="26">Mom... Er, my mother died three years ago,</font>
+
+154
+00:15:18,920 --> 00:15:22,550
+<font face="Roboto Medium" size="26">and I'm just feeling weak 
+because of this cold, s-so...</font>
+
+155
+00:15:22,550 --> 00:15:23,570
+<font face="Roboto Medium" size="26">Y'know?</font>
+
+156
+00:15:24,760 --> 00:15:26,650
+<font face="Roboto Medium" size="26">Want me to give you head pats?</font>
+
+157
+00:15:26,650 --> 00:15:28,820
+<font face="Roboto Medium" size="26">I'm fine, really!</font>
+
+158
+00:15:28,820 --> 00:15:31,290
+<font face="Roboto Medium" size="26">Want me to nurse you? 
+I don't have milk, but...</font>
+
+159
+00:15:31,290 --> 00:15:32,640
+<font face="Roboto Medium" size="26">That's quite all right!</font>
+
+160
+00:15:35,830 --> 00:15:39,490
+<font face="Roboto Medium" size="26">Rirui, Dragon, thanks for today.</font>
+
+161
+00:15:39,490 --> 00:15:43,950
+<font face="Roboto Medium" size="26">It's okay! We want you to 
+feel better soon, Natalie.</font>
+
+162
+00:15:43,950 --> 00:15:50,420
+<font face="Roboto Medium" size="26">Besides, pitching in helped me 
+learn how hard your job is.</font>
+
+163
+00:15:51,590 --> 00:15:53,830
+<font face="Roboto Medium" size="26">It's rough at times, true,</font>
+
+164
+00:15:53,830 --> 00:15:57,980
+<font face="Roboto Medium" size="26">but I get to help out adventurers,
+so it's also fun too.</font>
+
+165
+00:15:57,980 --> 00:16:00,070
+<font face="Roboto Medium" size="26">Help out adventurers?</font>
+
+166
+00:16:01,350 --> 00:16:08,350
+<font face="Roboto Medium" size="26">All I can really do for them is make 
+sure they have a clean place to rest.</font>
+
+167
+00:16:08,870 --> 00:16:12,970
+<font face="Roboto Medium" size="26">And I want to be able
+ to provide that every single day.</font>
+
+168
+00:16:16,190 --> 00:16:19,860
+<font face="Roboto Medium" size="26">I bet you'll be a great wife, Natalie!</font>
+
+169
+00:16:19,860 --> 00:16:22,010
+<font face="Roboto Medium" size="26">Wh-Where'd that come from?</font>
+
+170
+00:16:22,600 --> 00:16:23,870
+<font face="Roboto Medium" size="26">But...</font>
+
+171
+00:16:24,210 --> 00:16:26,370
+<font face="Roboto Medium" size="26">Not for Hajime.</font>
+
+172
+00:16:39,190 --> 00:16:41,150
+<font face="Roboto Medium" size="26">That doesn't sound good.</font>
+
+173
+00:16:41,150 --> 00:16:43,740
+<font face="Roboto Medium" size="26">I'm gonna head out again tomorrow,</font>
+
+174
+00:16:43,740 --> 00:16:47,300
+<font face="Roboto Medium" size="26">but it might be faster to hire a beaster 
+who's got a nose for tracking.</font>
+
+175
+00:16:47,300 --> 00:16:49,050
+<font face="Roboto Medium" size="26">Maybe so.</font>
+
+176
+00:16:52,550 --> 00:16:54,650
+<font face="Roboto Medium" size="26">What am I gonna do?</font>
+
+177
+00:16:54,650 --> 00:16:59,520
+<font face="Roboto Medium" size="26">Is it that hard to find a rabbit bear?</font>
+
+178
+00:16:59,520 --> 00:17:03,060
+<font face="Roboto Medium" size="26">I've spent a long time dungeon crawling.</font>
+
+179
+00:17:03,060 --> 00:17:06,910
+<font face="Roboto Medium" size="26">Don't have much experience tracking 
+down quarry out in nature.</font>
+
+180
+00:17:08,330 --> 00:17:12,380
+<font face="Roboto Medium" size="26"><i>There are things even 
+Hajime can't do, huh?</i></font>
+
+181
+00:17:21,300 --> 00:17:22,940
+<font face="Roboto Medium" size="26">What nice weather!</font>
+
+182
+00:17:24,200 --> 00:17:26,190
+<font face="Roboto Medium" size="26">You look better.</font>
+
+183
+00:17:27,040 --> 00:17:29,950
+<font face="Roboto Medium" size="26">Oh, good morning, Hajime!</font>
+
+184
+00:17:29,950 --> 00:17:33,540
+<font face="Roboto Medium" size="26">I got some good rest thanks 
+to Rirui and Dragon.</font>
+
+185
+00:17:33,540 --> 00:17:34,800
+<font face="Roboto Medium" size="26">Glad to hear it.</font>
+
+186
+00:17:34,800 --> 00:17:36,040
+<font face="Roboto Medium" size="26">Hajime!</font>
+
+187
+00:17:36,940 --> 00:17:39,700
+<font face="Roboto Medium" size="26">We're going with you today!</font>
+
+188
+00:17:39,700 --> 00:17:42,700
+<font face="Roboto Medium" size="26">I'm busy looking for the rabbit bear.</font>
+
+189
+00:17:42,700 --> 00:17:44,990
+<font face="Roboto Medium" size="26">You oughta help Natalie again today.</font>
+
+190
+00:17:44,990 --> 00:17:49,180
+<font face="Roboto Medium" size="26">Rirui is supposed to be an adventurer 
+and wants to do her job!</font>
+
+191
+00:17:49,180 --> 00:17:52,660
+<font face="Roboto Medium" size="26">You're both working hard!</font>
+
+192
+00:17:52,660 --> 00:17:54,940
+<font face="Roboto Medium" size="26">Well, Rirui can too!</font>
+
+193
+00:17:58,780 --> 00:18:01,510
+<font face="Roboto Medium" size="26">Just don't get in my way, okay?</font>
+
+194
+00:18:01,510 --> 00:18:03,370
+<font face="Roboto Medium" size="26">And that goes double for yakitori there.</font>
+
+195
+00:18:04,430 --> 00:18:08,970
+<font face="Roboto Medium" size="26">That's not its name! 
+It's Dragon, Hajime! Dragon!</font>
+
+196
+00:18:08,970 --> 00:18:11,560
+<font face="Roboto Medium" size="26">Good luck, adventurers!</font>
+
+197
+00:18:11,860 --> 00:18:13,880
+<font face="Roboto Medium" size="26">We're off!</font>
+
+198
+00:18:28,820 --> 00:18:31,010
+<font face="Roboto Medium" size="26">These markings...</font>
+
+199
+00:18:31,010 --> 00:18:34,580
+<font face="Roboto Medium" size="26">Might be a little too close
+ to the ground for a rabbit bear.</font>
+
+200
+00:18:38,340 --> 00:18:41,300
+<font face="Roboto Medium" size="26">Hey, Dragon! Where are you going?!</font>
+
+201
+00:18:41,300 --> 00:18:44,440
+<font face="Roboto Medium" size="26">Get back here! Dragon!</font>
+
+202
+00:18:44,440 --> 00:18:46,090
+<font face="Roboto Medium" size="26">So noisy...</font>
+
+203
+00:18:46,090 --> 00:18:48,700
+<font face="Roboto Medium" size="26">Wait, Dragon!</font>
+
+204
+00:18:48,700 --> 00:18:50,770
+<font face="Roboto Medium" size="26">Honestly.</font>
+
+205
+00:18:51,240 --> 00:18:53,310
+<font face="Roboto Medium" size="26">Dragon?</font>
+
+206
+00:18:57,740 --> 00:18:59,800
+<font face="Roboto Medium" size="26">There's a bunch of Dragons!</font>
+
+207
+00:18:59,800 --> 00:19:01,560
+<font face="Roboto Medium" size="26">They're sparrowfliers.</font>
+
+208
+00:19:01,560 --> 00:19:04,360
+<font face="Roboto Medium" size="26">Maybe they noticed one of their 
+kind was around and came by?</font>
+
+209
+00:19:17,400 --> 00:19:19,750
+<font face="Roboto Medium" size="26">Man, they're even noisier when grown!</font>
+
+210
+00:19:37,620 --> 00:19:39,030
+<font face="Roboto Medium" size="26">Wh-Whoa there!</font>
+
+211
+00:19:42,040 --> 00:19:44,530
+<font face="Roboto Medium" size="26">Where are you going, Dragon?!</font>
+
+212
+00:19:44,860 --> 00:19:46,700
+<font face="Roboto Medium" size="26">Hey!</font>
+
+213
+00:19:56,350 --> 00:19:58,320
+<font face="Roboto Medium" size="26">If it isn't the rabbit bear!</font>
+
+214
+00:19:59,280 --> 00:20:03,670
+<font face="Roboto Medium" size="26"><i>Is this for real? Then was 
+all that racket before was...</i></font>
+
+215
+00:20:03,670 --> 00:20:07,980
+<font face="Roboto Medium" size="26"><i>something yakitori here did 
+to track down the rabbit bear?</i></font>
+
+216
+00:20:08,660 --> 00:20:10,660
+<font face="Roboto Medium" size="26">Nice work, Dragon!</font>
+
+217
+00:20:10,660 --> 00:20:14,570
+<font face="Roboto Medium" size="26">Now leave the rest to Rirui!</font>
+
+218
+00:20:18,060 --> 00:20:19,820
+<font face="Roboto Medium" size="26">I swear!</font>
+
+219
+00:20:30,170 --> 00:20:32,400
+<font face="Roboto Medium" size="26">And that's a job well done.</font>
+
+220
+00:20:33,200 --> 00:20:36,570
+<font face="Roboto Medium" size="26">H-Hajime, did Dragon help?</font>
+
+221
+00:20:36,570 --> 00:20:39,110
+<font face="Roboto Medium" size="26">Yeah. A lot, actually.</font>
+
+222
+00:20:39,540 --> 00:20:42,710
+<font face="Roboto Medium" size="26">There are sparrowfliers 
+all around these parts.</font>
+
+223
+00:20:42,710 --> 00:20:45,880
+<font face="Roboto Medium" size="26">Being able to get info from them 
+is bound to come in handy.</font>
+
+224
+00:20:48,260 --> 00:20:51,870
+<font face="Roboto Medium" size="26">Hell, he might be more useful than you!</font>
+
+225
+00:20:59,220 --> 00:21:01,410
+<font face="Roboto Medium" size="26">Are you okay, Rirui?</font>
+
+226
+00:21:01,410 --> 00:21:02,780
+<font face="Roboto Medium" size="26">I'm good!</font>
+
+227
+00:21:02,780 --> 00:21:06,240
+<font face="Roboto Medium" size="26">Gotta work hard to be more 
+helpful than Dragon!</font>
+
+228
+00:21:06,240 --> 00:21:08,750
+<font face="Roboto Medium" size="26">Here are your drinks!</font>
+
+229
+00:21:08,750 --> 00:21:11,640
+<font face="Roboto Medium" size="26">You never know when to keep 
+your mouth shut, do you?</font>
+
+230
+00:21:14,610 --> 00:21:18,500
+<font face="Roboto Medium" size="26">Excuse me. I'm looking for 
+a woman named Veronica.</font>
+
+231
+00:21:18,890 --> 00:21:20,370
+<font face="Roboto Medium" size="26">Tanya?</font>
+
+232
+00:21:21,430 --> 00:21:24,190
+<font face="Roboto Medium" size="26">What brings you all the way out here?</font>
+
+233
+00:21:24,190 --> 00:21:27,060
+<font face="Roboto Medium" size="26">There's something I needed 
+to inform you of.</font>
+
+234
+00:21:27,060 --> 00:21:29,510
+<font face="Roboto Medium" size="26">And what might that be?</font>
+
+235
+00:21:29,510 --> 00:21:33,260
+<font face="Roboto Medium" size="26">I'm afraid your shop, Succubus Wings,</font>
+
+236
+00:21:33,630 --> 00:21:35,010
+<font face="Roboto Medium" size="26">has gone out of business.</font>
+
+237
+00:23:16,940 --> 00:23:20,680
+<font face="Roboto Medium" size="26">Oh, Master Rishat!</font>
+
+238
+00:23:29,580 --> 00:23:34,040
+<font face="Roboto Medium" size="26">It's time we settle things, Veronica.</font>
+
+239
+00:23:34,970 --> 00:23:40,050
+<font face="Trebuchet MS" size="24">{\an8}NEXT TIME: DECISIVE BATTLE
+IN THE DUNGEON ATTACK!</font>
+
