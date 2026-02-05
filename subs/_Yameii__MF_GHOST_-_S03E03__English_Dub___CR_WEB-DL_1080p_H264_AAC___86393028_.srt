@@ -1,0 +1,16 @@
+1
+00:01:01,500 --> 00:01:03,500
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="48"><font color="#2c272c">Katagiri Kanata</font></font></font></b></font>
+
+2
+00:03:36,130 --> 00:03:37,980
+<font face="Gandhi Sans" size="24"><b><font face="Impact"><font size="90"><b><font color="#d1082a">MF Ghost</font></b></font></font></b></font>
+
+3
+00:03:39,450 --> 00:03:40,050
+<font face="Gandhi Sans" size="24"><b><b><font face="Arial"><font color="#ff060f">m 0 0 l 100 0 100 100 0 100</font></font></b></b></font>
+
+4
+00:03:39,450 --> 00:03:43,870
+<font face="Gandhi Sans" size="24"><b><b><font face="Arial">Into the Final Lap</font></b></b></font>
+
