@@ -1,0 +1,1572 @@
+1
+00:00:02,040 --> 00:00:04,450
+<font face="Roboto Medium" size="26">Man, it's freezing.</font>
+
+2
+00:00:05,010 --> 00:00:07,550
+<font face="Roboto Medium" size="26">How long are they going 
+at it today? Jeez...</font>
+
+3
+00:00:08,670 --> 00:00:12,370
+<font face="Roboto Medium" size="26">I haven't eaten anything since 
+this morning. I'm starving.</font>
+
+4
+00:00:13,420 --> 00:00:16,030
+<font face="Roboto Medium" size="26">What should I eat when I get home?</font>
+
+5
+00:00:26,970 --> 00:00:30,310
+<font face="Roboto Medium" size="26">Huh? But I told you bigger was better.</font>
+
+6
+00:00:30,310 --> 00:00:33,000
+<font face="Roboto Medium" size="26">If we're going to make it fight, 
+heavier is the best choice.</font>
+
+7
+00:00:33,810 --> 00:00:36,480
+<font face="Roboto Medium" size="26">Oh, then go find it and call back later.</font>
+
+8
+00:00:37,720 --> 00:00:39,830
+<font face="Roboto Medium" size="26">Hmm? He's gone?</font>
+
+9
+00:00:39,830 --> 00:00:40,970
+<font face="Roboto Medium" size="26">Did he go somewhere?</font>
+
+10
+00:00:41,770 --> 00:00:44,360
+<font face="Roboto Medium" size="26">Man, what a pain. Bathroom break?</font>
+
+11
+00:00:51,170 --> 00:00:52,920
+<font face="Roboto Medium" size="26">Hey, look!</font>
+
+12
+00:00:54,100 --> 00:00:55,990
+<font face="Roboto Medium" size="26">Think it eats fish sausage?</font>
+
+13
+00:00:56,470 --> 00:00:59,010
+<font face="Roboto Medium" size="26">Wait, that thing was in the 
+tournament, wasn't it?</font>
+
+14
+00:00:59,550 --> 00:01:01,620
+<font face="Roboto Medium" size="26">Here you go. It's fish sausage.</font>
+
+15
+00:01:00,040 --> 00:01:02,050
+<font face="Roboto Medium" size="26">{\an8}Come on, pandas don't meat, you know.</font>
+
+16
+00:01:01,620 --> 00:01:02,700
+<font face="Roboto Medium" size="26">It's tasty.</font>
+
+17
+00:01:02,050 --> 00:01:03,450
+<font face="Roboto Medium" size="26">{\an8}It's bamboo. They eat bamboo.</font>
+
+18
+00:01:04,070 --> 00:01:06,170
+<font face="Roboto Medium" size="26">I'll take the fish sausage.</font>
+
+19
+00:01:08,500 --> 00:01:11,420
+<font face="Roboto Medium" size="26">No cameras on the emergency stairs!</font>
+
+20
+00:01:12,020 --> 00:01:13,070
+<font face="Roboto Medium" size="26">Yo!</font>
+
+21
+00:01:14,530 --> 00:01:17,380
+<font face="Roboto Medium" size="26">Panda-senpai, are you really sure?</font>
+
+22
+00:01:17,890 --> 00:01:20,100
+<font face="Roboto Medium" size="26">This could cause you trouble later.</font>
+
+23
+00:01:20,590 --> 00:01:22,690
+<font face="Roboto Medium" size="26">It's fine, it's fine!</font>
+
+24
+00:01:22,690 --> 00:01:25,010
+<font face="Roboto Medium" size="26">Let's secure the area near the door.</font>
+
+25
+00:01:35,730 --> 00:01:37,350
+<font face="Roboto Medium" size="26">Gah! Kirara!</font>
+
+26
+00:01:37,350 --> 00:01:39,380
+<font face="Roboto Medium" size="26">Why isn't Kirara with Hakari?!</font>
+
+27
+00:01:41,110 --> 00:01:42,550
+<font face="Roboto Medium" size="26">Panda-chan?</font>
+
+28
+00:01:43,200 --> 00:01:45,750
+<font face="Roboto Medium" size="26"><i>And... that spiky-haired kid.</i></font>
+
+29
+00:01:46,780 --> 00:01:49,640
+<font face="Roboto Medium" size="26"><i>If Panda-chan helped him 
+sneak in here, that means...</i></font>
+
+30
+00:01:49,640 --> 00:01:51,470
+<font face="Roboto Medium" size="26"><i>he's with Jujutsu High?</i></font>
+
+31
+00:01:51,470 --> 00:01:55,350
+<font face="Roboto Medium" size="26"><i>That means Yu-chan is 
+with Jujutsu High, too!</i></font>
+
+32
+00:01:56,210 --> 00:01:59,320
+<font face="Roboto Medium" size="26"><i>Kin-chan's in danger!</i></font>
+
+33
+00:01:59,300 --> 00:02:01,660
+<font face="Roboto Medium" size="26">Boss, I need to—</font>
+
+34
+00:02:05,430 --> 00:02:07,600
+<font face="Roboto Medium" size="26">Demon Dogs: Totality!</font>
+
+35
+00:02:08,020 --> 00:02:08,820
+<font face="Roboto Medium" size="26">Hop!</font>
+
+36
+00:02:16,040 --> 00:02:17,020
+<font face="Roboto Medium" size="26">Fushiguro?!</font>
+
+37
+00:02:21,790 --> 00:02:24,070
+<font face="Roboto Medium" size="26"><i>My Demon Dog was thrown back?!</i></font>
+
+38
+00:02:24,070 --> 00:02:28,440
+<font face="Roboto Medium" size="26"><i>No, judging from what Panda-senpai 
+said, it couldn't get close!</i></font>
+
+39
+00:02:31,790 --> 00:02:34,540
+<font face="Roboto Medium" size="26"><i>I've already marked Panda-chan.</i></font>
+
+40
+00:02:39,270 --> 00:02:40,900
+<font face="Roboto Medium" size="26"><i>The monitor room!</i></font>
+
+41
+00:02:40,900 --> 00:02:43,060
+<font face="Roboto Medium" size="26"><i>Kirara's planning to head back to Hakari!</i></font>
+
+42
+00:02:43,060 --> 00:02:44,560
+<font face="Roboto Medium" size="26">Wait, Kirara!</font>
+
+43
+00:02:44,560 --> 00:02:46,110
+<font face="Roboto Medium" size="26">We're not your enemies!</font>
+
+44
+00:02:46,110 --> 00:02:48,360
+<font face="Roboto Medium" size="26">We just want to ask Hakari for a favor!</font>
+
+45
+00:02:48,360 --> 00:02:49,750
+<font face="Roboto Medium" size="26">I don't believe you!</font>
+
+46
+00:02:49,750 --> 00:02:51,560
+<font face="Roboto Medium" size="26">I'm disappointed in you, Panda-chan!</font>
+
+47
+00:02:52,350 --> 00:02:55,820
+<font face="Roboto Medium" size="26">Oh, I can't get close to you, either!</font>
+
+48
+00:02:56,840 --> 00:02:57,450
+<font face="Roboto Medium" size="26">Ow!</font>
+
+49
+00:02:59,120 --> 00:03:01,680
+<font face="Roboto Medium" size="26"><i>So Kirara-san can't get 
+close to us, either?</i></font>
+
+50
+00:03:03,710 --> 00:03:04,830
+<font face="Roboto Medium" size="26">Fushiguro?!</font>
+
+51
+00:03:04,830 --> 00:03:07,230
+<font face="Roboto Medium" size="26"><i>It's more than just being unable 
+to approach Kirara-san.</i></font>
+
+52
+00:03:07,580 --> 00:03:09,580
+<font face="Roboto Medium" size="26"><i>I can't separate from Demon Dogs, either?!</i></font>
+
+53
+00:03:09,580 --> 00:03:11,210
+<font face="Roboto Medium" size="26"><i>What kind of cursed technique is this?!</i></font>
+
+54
+00:03:12,910 --> 00:03:14,020
+<font face="Roboto Medium" size="26">Listen to me!</font>
+
+55
+00:03:14,020 --> 00:03:15,090
+<font face="Roboto Medium" size="26">No way!</font>
+
+56
+00:03:15,090 --> 00:03:16,760
+<font face="Roboto Medium" size="26">My passion's gone cold now!</font>
+
+57
+00:03:28,480 --> 00:03:29,190
+<font face="Times New Roman" size="36" color="#000000"><b>{\an8}<font color="#e90002">JUJUTSU KAISEN</font></b></font>
+
+58
+00:03:52,460 --> 00:03:56,670
+<font face="Times New Roman" size="36" color="#000000"><b>{\an8}<font color="#2c2c2e">JUJUTSU KAISEN
+<font size="12"><font color="#f3f3f3">The Culling Game Part 1</font></font></font></b></font>
+
+59
+00:04:48,010 --> 00:04:51,010
+<font face="Times New Roman" size="24"><b>Episode 53
+<font size="30">Cog</font></b></font>
+
+60
+00:04:55,740 --> 00:04:57,330
+<font face="Roboto Medium" size="26"><i>We're in a stalemate.</i></font>
+
+61
+00:04:57,330 --> 00:04:58,450
+<font face="Roboto Medium" size="26"><i>Perfect.</i></font>
+
+62
+00:04:58,900 --> 00:05:00,210
+<font face="Roboto Medium" size="26">Kirara-san!</font>
+
+63
+00:05:00,210 --> 00:05:03,330
+<font face="Roboto Medium" size="26">We're not actually with 
+Jujutsu High right now!</font>
+
+64
+00:05:03,330 --> 00:05:06,400
+<font face="Roboto Medium" size="26">You know what Tokyo is 
+like now, don't you?</font>
+
+65
+00:05:08,540 --> 00:05:11,500
+<font face="Roboto Medium" size="26">The barriers that sprung up in 
+each region are related, too.</font>
+
+66
+00:05:11,980 --> 00:05:14,500
+<font face="Roboto Medium" size="26">It was an unprecedented attack 
+of jujutsu terrorism!</font>
+
+67
+00:05:14,500 --> 00:05:17,000
+<font face="Roboto Medium" size="26">We need Hakari-san's help!</font>
+
+68
+00:05:17,000 --> 00:05:19,640
+<font face="Roboto Medium" size="26">You all are the ones 
+who excluded us first.</font>
+
+69
+00:05:19,640 --> 00:05:21,500
+<font face="Roboto Medium" size="26">You reap what you sow.</font>
+
+70
+00:05:21,500 --> 00:05:23,600
+<font face="Roboto Medium" size="26">I told you, we're not with Jujutsu High!</font>
+
+71
+00:05:24,150 --> 00:05:26,030
+<font face="Roboto Medium" size="26">What happened between 
+you and the higher-ups?</font>
+
+72
+00:05:26,030 --> 00:05:28,130
+<font face="Roboto Medium" size="26">They fought with the conservatives.</font>
+
+73
+00:05:28,130 --> 00:05:33,520
+<font face="Roboto Medium" size="26">Their idea of "conservative" goes beyond 
+just their policy toward the regulations.</font>
+
+74
+00:05:33,520 --> 00:05:37,270
+<font face="Roboto Medium" size="26">They have set ideas of 
+what jujutsu should be.</font>
+
+75
+00:05:37,510 --> 00:05:40,350
+<font face="Roboto Medium" size="26">Kugisaki's technique is a good example.</font>
+
+76
+00:05:40,350 --> 00:05:43,440
+<font face="Roboto Medium" size="26">That's the kind of classic 
+jujutsu the conservatives like.</font>
+
+77
+00:05:44,080 --> 00:05:46,830
+<font face="Roboto Medium" size="26">Not stuff like the cursed videos 
+that were popular a while back.</font>
+
+78
+00:05:46,830 --> 00:05:50,320
+<font face="Roboto Medium" size="26">As time goes on, even jujutsu 
+incorporates more new technologies.</font>
+
+79
+00:05:50,760 --> 00:05:53,010
+<font face="Roboto Medium" size="26">But when even techniques 
+start doing that,</font>
+
+80
+00:05:53,010 --> 00:05:54,910
+<font face="Roboto Medium" size="26">the conservatives get fussy.</font>
+
+81
+00:05:55,460 --> 00:05:58,640
+<font face="Roboto Medium" size="26">Kin-chan's technique 
+is a perfect example.</font>
+
+82
+00:05:58,640 --> 00:06:01,120
+<font face="Roboto Medium" size="26">Those stupid higher-ups lost 
+because they're like that.</font>
+
+83
+00:06:01,640 --> 00:06:06,320
+<font face="Roboto Medium" size="26">But you all can always have 
+Satoru Gojo wipe your asses, can't you?</font>
+
+84
+00:06:06,320 --> 00:06:09,150
+<font face="Roboto Medium" size="26">I don't understand why 
+you need to rely on us.</font>
+
+85
+00:06:09,150 --> 00:06:12,110
+<font face="Roboto Medium" size="26">So obviously I'd assume that means 
+you're lying about relying on us,</font>
+
+86
+00:06:12,110 --> 00:06:15,350
+<font face="Roboto Medium" size="26">and you're here for 
+some other reason, right?</font>
+
+87
+00:06:16,390 --> 00:06:18,690
+<font face="Roboto Medium" size="26">Gojo-sensei was sealed.</font>
+
+88
+00:06:19,170 --> 00:06:20,670
+<font face="Roboto Medium" size="26">That's why we lost.</font>
+
+89
+00:06:34,820 --> 00:06:37,040
+<font face="Roboto Medium" size="26"><i>They don't believe us!</i></font>
+
+90
+00:06:34,820 --> 00:06:37,040
+<font face="Roboto Medium" size="26"><i>They don't believe us!</i></font>
+
+91
+00:06:34,830 --> 00:06:43,840
+<font face="Trebuchet MS" size="24">{\an8}<font color="#292731"><b>They don't believe us!</b></font></font>
+
+92
+00:06:37,040 --> 00:06:39,590
+<font face="Roboto Medium" size="26"><i>Well, I can understand that.</i></font>
+
+93
+00:06:39,590 --> 00:06:43,490
+<font face="Roboto Medium" size="26"><i>But this person is the one
+closest to Hakari-san!</i></font>
+
+94
+00:06:43,840 --> 00:06:44,840
+<font face="Roboto Medium" size="26"><i>Fleeing Hares!</i></font>
+
+95
+00:06:46,080 --> 00:06:47,400
+<font face="Roboto Medium" size="26">Bunnies?</font>
+
+96
+00:06:47,400 --> 00:06:49,120
+<font face="Roboto Medium" size="26"><i>If we can convince them,</i></font>
+
+97
+00:06:49,120 --> 00:06:51,520
+<font face="Roboto Medium" size="26"><i>negotiations with Hakari-san 
+will go more smoothly!</i></font>
+
+98
+00:06:54,940 --> 00:06:56,100
+<font face="Roboto Medium" size="26"><i>Acrux?!</i></font>
+
+99
+00:06:58,470 --> 00:07:00,000
+<font face="Roboto Medium" size="26"><i>Gacrux?!</i></font>
+
+100
+00:07:01,160 --> 00:07:02,540
+<font face="Roboto Medium" size="26"><i>What an incredible amount.</i></font>
+
+101
+00:07:02,540 --> 00:07:04,140
+<font face="Roboto Medium" size="26"><i>What is he up to?</i></font>
+
+102
+00:07:04,740 --> 00:07:08,070
+<font face="Roboto Medium" size="26"><i>My technique marks cursed energy,</i></font>
+
+103
+00:07:08,350 --> 00:07:11,690
+<font face="Roboto Medium" size="26"><i>so it treats sorcerers and their 
+shikigami as one in the same.</i></font>
+
+104
+00:07:11,690 --> 00:07:15,190
+<font face="Roboto Medium" size="26"><i>At this rate, they'll just be 
+drawn to him like that doggy was,</i></font>
+
+105
+00:07:15,190 --> 00:07:18,170
+<font face="Roboto Medium" size="26"><i>and he'll be crushed under his own 
+shikigami until he suffocates.</i></font>
+
+106
+00:07:29,630 --> 00:07:30,770
+<font face="Roboto Medium" size="26">Panda-senpai!</font>
+
+107
+00:07:30,770 --> 00:07:32,140
+<font face="Roboto Medium" size="26">How was Fleeing Hares?!</font>
+
+108
+00:07:32,590 --> 00:07:34,470
+<font face="Roboto Medium" size="26">They were second to me in cuteness!</font>
+
+109
+00:07:34,470 --> 00:07:38,140
+<font face="Roboto Medium" size="26">I'm asking you what they were 
+and weren't able to approach!</font>
+
+110
+00:07:38,560 --> 00:07:39,580
+<font face="Roboto Medium" size="26">Oh.</font>
+
+111
+00:07:39,580 --> 00:07:42,560
+<font face="Roboto Medium" size="26">They were able to come to me and 
+that second floor no problem!</font>
+
+112
+00:07:42,560 --> 00:07:45,240
+<font face="Roboto Medium" size="26">They couldn't get near Kirara and 
+the door to the monitor room!</font>
+
+113
+00:07:45,870 --> 00:07:49,990
+<font face="Roboto Medium" size="26">Panda-senpai, do you have a star 
+and a name somewhere on your body?</font>
+
+114
+00:07:50,520 --> 00:07:51,460
+<font face="Roboto Medium" size="26">Huh?</font>
+
+115
+00:07:51,890 --> 00:07:52,900
+<font face="Roboto Medium" size="26">Oh!</font>
+
+116
+00:07:52,900 --> 00:07:54,870
+<font face="Roboto Medium" size="26">I-M-A-I?</font>
+
+117
+00:07:54,870 --> 00:07:56,190
+<font face="Roboto Medium" size="26"><i>One should be somewhere on me...</i></font>
+
+118
+00:07:56,190 --> 00:07:57,460
+<font face="Roboto Medium" size="26">{\an8}Ima? Ima? Imai?</font>
+
+119
+00:07:57,390 --> 00:07:58,470
+<font face="Roboto Medium" size="26"><i>There!</i></font>
+
+120
+00:07:57,460 --> 00:07:59,210
+<font face="Roboto Medium" size="26">{\an8}It says "Imai"!</font>
+
+121
+00:07:59,210 --> 00:08:01,320
+<font face="Roboto Medium" size="26"><i>It's "Acrux," like on the Fleeing Hares!</i></font>
+
+122
+00:08:01,780 --> 00:08:03,810
+<font face="Roboto Medium" size="26"><i>It's probably on Demon Dogs, too.</i></font>
+
+123
+00:08:04,360 --> 00:08:07,490
+<font face="Roboto Medium" size="26"><i>I still don't know anything 
+about it, but I should...</i></font>
+
+124
+00:08:08,770 --> 00:08:10,100
+<font face="Roboto Medium" size="26">I got it!</font>
+
+125
+00:08:10,100 --> 00:08:12,370
+<font face="Roboto Medium" size="26">This technique is based 
+on a constellation!</font>
+
+126
+00:08:12,760 --> 00:08:15,390
+<font face="Roboto Medium" size="26"><i>People familiar with them 
+could figure that out.</i></font>
+
+127
+00:08:15,390 --> 00:08:17,170
+<font face="Roboto Medium" size="26">The constellation it's based on is...</font>
+
+128
+00:08:22,020 --> 00:08:23,520
+<font face="Roboto Medium" size="26">the Southern Cross!</font>
+
+129
+00:08:29,200 --> 00:08:30,070
+<font face="Roboto Medium" size="26">Shit!</font>
+
+130
+00:08:30,310 --> 00:08:32,720
+<font face="Roboto Medium" size="26"><i>We both let it show on our faces!</i></font>
+
+131
+00:08:32,620 --> 00:08:45,590
+<font face="Trebuchet MS" size="24">{\an8}<b><font color="#000000"><font size="20"><font face="Arial">Seriously?</font></font></font></b></font>
+
+132
+00:08:32,620 --> 00:08:45,590
+<font face="Trebuchet MS" size="24">{\an8}<b><font color="#000000"><font size="20"><font face="Arial">Seriously?</font></font></font></b></font>
+
+133
+00:08:32,720 --> 00:08:35,200
+<font face="Roboto Medium" size="26"><i>His look said, "Seriously?!"</i></font>
+
+134
+00:08:35,550 --> 00:08:39,950
+<font face="Roboto Medium" size="26"><i>He wasn't certain my technique 
+was based on the Southern Cross!</i></font>
+
+135
+00:08:39,950 --> 00:08:42,770
+<font face="Roboto Medium" size="26"><i>But I also gave him the same look!</i></font>
+
+136
+00:08:42,770 --> 00:08:44,600
+<font face="Roboto Medium" size="26"><i>I confirmed it for him!</i></font>
+
+137
+00:08:45,010 --> 00:08:47,260
+<font face="Roboto Medium" size="26"><i>If he figures out any 
+more of my technique,</i></font>
+
+138
+00:08:47,260 --> 00:08:49,000
+<font face="Roboto Medium" size="26"><i>he'll be able to enter the monitor room!</i></font>
+
+139
+00:08:49,710 --> 00:08:51,960
+<font face="Roboto Medium" size="26"><i>I have to stop him here!</i></font>
+
+140
+00:08:51,960 --> 00:08:53,790
+<font face="Roboto Medium" size="26"><i>Back in a stalemate again?</i></font>
+
+141
+00:08:56,220 --> 00:08:58,730
+<font face="Roboto Medium" size="26"><i>Still, it really was the Southern Cross?</i></font>
+
+142
+00:08:59,560 --> 00:09:01,510
+<font face="Roboto Medium" size="26"><i>I'm grateful to Tsumiki.</i></font>
+
+143
+00:09:01,960 --> 00:09:04,040
+<font face="Roboto Medium" size="26"><i>I don't know anything else, though.</i></font>
+
+144
+00:09:04,040 --> 00:09:07,040
+<font face="Roboto Medium" size="26"><i>Also, wasn't the Southern Cross 
+a four-star constellation?</i></font>
+
+145
+00:09:07,040 --> 00:09:08,650
+<font face="Roboto Medium" size="26">Fushiguro!</font>
+
+146
+00:09:09,190 --> 00:09:11,630
+<font face="Roboto Medium" size="26"><i>I really can get close to Panda-senpai.</i></font>
+
+147
+00:09:12,540 --> 00:09:16,290
+<font face="Roboto Medium" size="26">Senpai, the Southern Cross 
+has four stars, right?</font>
+
+148
+00:09:16,290 --> 00:09:16,920
+<font face="Roboto Medium" size="26">Huh?</font>
+
+149
+00:09:16,920 --> 00:09:18,650
+<font face="Roboto Medium" size="26">Well, it is a cross.</font>
+
+150
+00:09:19,320 --> 00:09:21,230
+<font face="Roboto Medium" size="26">Yeah, I guess so.</font>
+
+151
+00:09:26,120 --> 00:09:30,790
+<font face="Roboto Medium" size="26">Kirara-san's technique applies one of the 
+stars in the Southern Cross to each of us,</font>
+
+152
+00:09:30,790 --> 00:09:34,030
+<font face="Roboto Medium" size="26">and I thought it might use that to force 
+us to maintain a certain distance.</font>
+
+153
+00:09:34,030 --> 00:09:36,860
+<font face="Roboto Medium" size="26">But Kirara-san can approach the door,</font>
+
+154
+00:09:36,860 --> 00:09:39,510
+<font face="Roboto Medium" size="26">and you and I can approach each other.</font>
+
+155
+00:09:39,510 --> 00:09:45,350
+<font face="Roboto Medium" size="26">{\an8}Maybe it's just that Kirara and the 
+door's stars are repelling ours?</font>
+
+156
+00:09:41,890 --> 00:09:44,850
+<font face="Trebuchet MS" size="24"><font face="Times New Roman"><b><font size="18">"Cross Theory"</font></b></font></font>
+
+157
+00:09:45,660 --> 00:09:47,320
+<font face="Roboto Medium" size="26">If that were true,</font>
+
+158
+00:09:47,320 --> 00:09:50,240
+<font face="Roboto Medium" size="26">it would make more sense for Kirara-san 
+to flee into the monitor room.</font>
+
+159
+00:09:50,240 --> 00:09:51,630
+<font face="Roboto Medium" size="26">Oh, true.</font>
+
+160
+00:09:51,630 --> 00:09:54,770
+<font face="Roboto Medium" size="26">If they hugged the inside of 
+the door, we'd be stuck.</font>
+
+161
+00:09:55,750 --> 00:09:57,600
+<font face="Roboto Medium" size="26">Then what about this?</font>
+
+162
+00:09:58,130 --> 00:10:03,650
+<font face="Roboto Medium" size="26">Star A is able to approach Star B, 
+but B can't approach A.</font>
+
+163
+00:10:03,650 --> 00:10:06,750
+<font face="Roboto Medium" size="26">Each Star has one they're compatible with,</font>
+
+164
+00:10:06,750 --> 00:10:09,550
+<font face="Roboto Medium" size="26">and they can only approach that one.</font>
+
+165
+00:10:09,540 --> 00:10:11,380
+<font face="Trebuchet MS" size="24"><font face="Times New Roman"><b><font size="18">"Rock-Paper-Scissors Theory"</font></b></font></font>
+
+166
+00:10:09,550 --> 00:10:10,890
+<font face="Roboto Medium" size="26">{\an8}Like in rock-paper-scissors.</font>
+
+167
+00:10:11,390 --> 00:10:16,550
+<font face="Roboto Medium" size="26">But you and I can approach 
+each other and move freely.</font>
+
+168
+00:10:16,890 --> 00:10:18,410
+<font face="Roboto Medium" size="26">So that's not it, then.</font>
+
+169
+00:10:20,550 --> 00:10:23,320
+<font face="Roboto Medium" size="26">I think it's like a stamp rally,</font>
+
+170
+00:10:23,320 --> 00:10:26,320
+<font face="Roboto Medium" size="26">where you have to follow a set route 
+and approach each one in order.</font>
+
+171
+00:10:26,930 --> 00:10:29,210
+<font face="Roboto Medium" size="26">{\an8}And things with the same 
+star get drawn together.</font>
+
+172
+00:10:28,770 --> 00:10:30,270
+<font face="Trebuchet MS" size="24"><font face="Times New Roman"><b><font size="18">"Stamp Rally Theory"</font></b></font></font>
+
+173
+00:10:30,260 --> 00:10:31,890
+<font face="Roboto Medium" size="26">I see.</font>
+
+174
+00:10:31,890 --> 00:10:35,360
+<font face="Roboto Medium" size="26">But what if the sorcerer 
+isn't counted as a target?</font>
+
+175
+00:10:35,360 --> 00:10:37,000
+<font face="Roboto Medium" size="26">That can't be the case.</font>
+
+176
+00:10:37,000 --> 00:10:39,540
+<font face="Roboto Medium" size="26">They were forced to stay 
+away from Demon Dogs, too.</font>
+
+177
+00:10:40,240 --> 00:10:42,010
+<font face="Roboto Medium" size="26">Right now, Kirara-san is wary</font>
+
+178
+00:10:42,010 --> 00:10:44,110
+<font face="Roboto Medium" size="26">of us fulfilling some kind of condition</font>
+
+179
+00:10:44,480 --> 00:10:49,800
+<font face="Roboto Medium" size="26">out of their sight that's needed 
+to enter the monitor room.</font>
+
+180
+00:10:50,120 --> 00:10:53,240
+<font face="Roboto Medium" size="26">Then there are five or more stars.</font>
+
+181
+00:10:53,240 --> 00:10:53,930
+<font face="Roboto Medium" size="26">Right.</font>
+
+182
+00:10:54,640 --> 00:10:57,380
+<font face="Roboto Medium" size="26">If my stamp rally theory is correct,</font>
+
+183
+00:10:57,380 --> 00:11:02,070
+<font face="Roboto Medium" size="26">then we should be able to approach 
+Kirara-san if there are only four stars.</font>
+
+184
+00:11:02,070 --> 00:11:04,440
+<font face="Roboto Medium" size="26">So there has to be a fifth star</font>
+
+185
+00:11:04,440 --> 00:11:07,780
+<font face="Roboto Medium" size="26">that we have to pass through in order 
+to reach Kirara-san and the door.</font>
+
+186
+00:11:08,340 --> 00:11:10,720
+<font face="Roboto Medium" size="26">What if there are six or seven stars?</font>
+
+187
+00:11:10,720 --> 00:11:13,470
+<font face="Roboto Medium" size="26">I'd like to believe that's not the case.</font>
+
+188
+00:11:13,470 --> 00:11:16,140
+<font face="Roboto Medium" size="26">It's already confusing that there 
+would be five stars in a cross.</font>
+
+189
+00:11:16,140 --> 00:11:17,150
+<font face="Roboto Medium" size="26"><i>If they've figured it out,</i></font>
+
+190
+00:11:18,410 --> 00:11:19,390
+<font face="Roboto Medium" size="26"><i>then I have to attack!</i></font>
+
+191
+00:11:27,910 --> 00:11:28,920
+<font face="Roboto Medium" size="26">Panda-senpai!</font>
+
+192
+00:11:31,130 --> 00:11:32,570
+<font face="Roboto Medium" size="26">I'm okay!</font>
+
+193
+00:11:32,570 --> 00:11:33,740
+<font face="Roboto Medium" size="26">Don't worry about me!</font>
+
+194
+00:11:33,740 --> 00:11:36,770
+<font face="Roboto Medium" size="26">Fushiguro! Find the star!</font>
+
+195
+00:11:40,820 --> 00:11:43,140
+<font face="Roboto Medium" size="26">Hey! You can't throw it!</font>
+
+196
+00:11:43,140 --> 00:11:44,050
+<font face="Roboto Medium" size="26">Huh?</font>
+
+197
+00:11:47,760 --> 00:11:50,920
+<font face="Roboto Medium" size="26">They put the same Imai star on that car!</font>
+
+198
+00:11:50,920 --> 00:11:52,540
+<font face="Roboto Medium" size="26">If you throw it, it'll just come back</font>
+
+199
+00:11:52,540 --> 00:11:55,240
+<font face="Roboto Medium" size="26">or pull you toward it 
+like Demon Dogs did to me!</font>
+
+200
+00:11:55,240 --> 00:11:58,550
+<font face="Roboto Medium" size="26"><i>They probably have to touch 
+the target to plant a star.</i></font>
+
+201
+00:11:59,050 --> 00:12:02,280
+<font face="Roboto Medium" size="26"><i>But Kirara-san hasn't touched 
+me or Fleeing Hares.</i></font>
+
+202
+00:12:03,230 --> 00:12:05,000
+<font face="Roboto Medium" size="26"><i>She only touched Demon Dogs.</i></font>
+
+203
+00:12:05,000 --> 00:12:09,000
+<font face="Roboto Medium" size="26"><i>Meaning Kirara-san is tagging 
+cursed energy, not objects!</i></font>
+
+204
+00:12:09,290 --> 00:12:12,070
+<font face="Roboto Medium" size="26"><i>In order to tag doors and cars,</i></font>
+
+205
+00:12:12,070 --> 00:12:15,530
+<font face="Roboto Medium" size="26"><i>they should need someone to imbue cursed 
+energy into them ahead of time.</i></font>
+
+206
+00:12:19,830 --> 00:12:20,960
+<font face="Roboto Medium" size="26"><i>I knew it!</i></font>
+
+207
+00:12:22,140 --> 00:12:24,980
+<font face="Roboto Medium" size="26"><i>The car has residual cursed 
+energy from someone else!</i></font>
+
+208
+00:12:25,440 --> 00:12:27,740
+<font face="Roboto Medium" size="26"><i>If the technique doesn't 
+cover a wide range,</i></font>
+
+209
+00:12:27,740 --> 00:12:29,600
+<font face="Roboto Medium" size="26"><i>then traces of the other 
+star should be...</i></font>
+
+210
+00:12:41,730 --> 00:12:42,580
+<font face="Roboto Medium" size="26"><i>There!</i></font>
+
+211
+00:12:42,580 --> 00:12:44,000
+<font face="Roboto Medium" size="26"><i>The fifth star!</i></font>
+
+212
+00:12:44,830 --> 00:12:48,200
+<font face="Roboto Medium" size="26"><i>I don't see any more residuals 
+from someone other than us.</i></font>
+
+213
+00:12:48,200 --> 00:12:51,330
+<font face="Roboto Medium" size="26"><i>Kirara-san's already marked 
+their own cursed energy,</i></font>
+
+214
+00:12:51,330 --> 00:12:54,410
+<font face="Roboto Medium" size="26"><i>so they can't use their 
+own cursed energy</i></font>
+
+215
+00:12:54,410 --> 00:12:56,470
+<font face="Roboto Medium" size="26"><i>to mark objects with the same 
+Acrux star they gave me.</i></font>
+
+216
+00:12:56,470 --> 00:12:59,620
+<font face="Roboto Medium" size="26"><i>Meaning they can't launch things 
+at me like they did with that car!</i></font>
+
+217
+00:13:01,130 --> 00:13:03,730
+<font face="Roboto Medium" size="26"><i>Once I touch that, 
+I can approach Kirara-san!</i></font>
+
+218
+00:13:05,730 --> 00:13:08,060
+<font face="Roboto Medium" size="26"><i>Fushiguro's hypothesis was correct.</i></font>
+
+219
+00:13:09,040 --> 00:13:11,810
+<font face="Roboto Medium" size="26"><i>Kirara's cursed technique, 
+Love Rendezvous,</i></font>
+
+220
+00:13:11,810 --> 00:13:17,730
+<font face="Roboto Medium" size="26"><i>apportions five stars to targets' cursed
+energy with the Southern Cross as a base.</i></font>
+
+221
+00:13:18,800 --> 00:13:21,640
+<font face="Roboto Medium" size="26"><i>For one star to approach another,</i></font>
+
+222
+00:13:21,640 --> 00:13:24,480
+<font face="Roboto Medium" size="26"><i>it must follow a predetermined order,</i></font>
+
+223
+00:13:24,480 --> 00:13:28,120
+<font face="Roboto Medium" size="26"><i>and things marked with the 
+same star attract each other.</i></font>
+
+224
+00:13:28,970 --> 00:13:30,630
+<font face="Roboto Medium" size="26">You're incredible.</font>
+
+225
+00:13:30,630 --> 00:13:33,490
+<font face="Roboto Medium" size="26">You actually figured out my technique.</font>
+
+226
+00:13:33,880 --> 00:13:35,120
+<font face="Roboto Medium" size="26">Panda-senpai!</font>
+
+227
+00:13:49,570 --> 00:13:52,890
+<font face="Roboto Medium" size="26"><i>That order was nearest 
+to the farthest star.</i></font>
+
+228
+00:13:53,350 --> 00:13:57,200
+<font face="Roboto Medium" size="26"><i>Constellations may look flat, 
+but they do, of course, have depth,</i></font>
+
+229
+00:13:57,200 --> 00:14:00,470
+<font face="Roboto Medium" size="26"><i>and each star has a different 
+distance from Earth.</i></font>
+
+230
+00:14:00,830 --> 00:14:02,150
+<font face="Roboto Medium" size="26">But since you're too smart,</font>
+
+231
+00:14:02,150 --> 00:14:05,910
+<font face="Roboto Medium" size="26">you decided I could no longer
+throw objects at you, didn't you?</font>
+
+232
+00:14:05,910 --> 00:14:09,680
+<font face="Roboto Medium" size="26">I can just lift the Ginan star 
+placed on my own cursed energy</font>
+
+233
+00:14:09,680 --> 00:14:13,120
+<font face="Roboto Medium" size="26">and mark things with the same 
+Acrux star that's on you!</font>
+
+234
+00:14:19,460 --> 00:14:21,670
+<font face="Roboto Medium" size="26"><i>What?!</i></font>
+
+235
+00:14:22,550 --> 00:14:24,690
+<font face="Roboto Medium" size="26"><i>How?! Where did it come from?!</i></font>
+
+236
+00:14:24,690 --> 00:14:26,540
+<font face="Roboto Medium" size="26"><i>No, that's it! That boy...</i></font>
+
+237
+00:14:27,160 --> 00:14:30,670
+<font face="Roboto Medium" size="26"><i>never dismissed his doggy shikigami!</i></font>
+
+238
+00:14:30,670 --> 00:14:31,870
+<font face="Roboto Medium" size="26"><i>Did he figure out which of</i></font>
+
+239
+00:14:31,870 --> 00:14:34,180
+<font face="Roboto Medium" size="26"><i>the same tagged objects 
+would be drawn to the other?!</i></font>
+
+240
+00:14:34,540 --> 00:14:37,160
+<font face="Roboto Medium" size="26"><i>Then he put a wall between 
+himself and the shikigami</i></font>
+
+241
+00:14:37,160 --> 00:14:40,310
+<font face="Roboto Medium" size="26"><i>so the shikigami would 
+be drawn into the wall,</i></font>
+
+242
+00:14:40,730 --> 00:14:44,260
+<font face="Roboto Medium" size="26"><i>and unleashed the doggy when 
+I was in a line between them!</i></font>
+
+243
+00:14:45,100 --> 00:14:47,400
+<font face="Roboto Medium" size="26"><i>Love Rendezvous, cancel!</i></font>
+
+244
+00:15:06,120 --> 00:15:08,720
+<font face="Roboto Medium" size="26">Please hear us out.</font>
+
+245
+00:15:11,190 --> 00:15:13,980
+<font face="Times New Roman" size="36" color="#000000"><b>{\an8}JUJUTSU KAISEN</b></font>
+
+246
+00:15:16,640 --> 00:15:18,970
+<font face="Times New Roman" size="36" color="#000000"><b>{\an8}JUJUTSU KAISEN</b></font>
+
+247
+00:15:22,390 --> 00:15:26,100
+<font face="Roboto Medium" size="26">Did you really set that up on purpose?</font>
+
+248
+00:15:26,100 --> 00:15:29,810
+<font face="Roboto Medium" size="26">You couldn't have known if you or the 
+doggy would get pulled toward the other.</font>
+
+249
+00:15:29,810 --> 00:15:32,460
+<font face="Roboto Medium" size="26">I took a gamble, but now I'm certain.</font>
+
+250
+00:15:32,870 --> 00:15:35,770
+<font face="Roboto Medium" size="26">The one with greater cursed energy 
+pulls the other toward it, right?</font>
+
+251
+00:15:36,570 --> 00:15:39,370
+<font face="Roboto Medium" size="26">The first time, I was 
+pulled into Demon Dogs,</font>
+
+252
+00:15:39,370 --> 00:15:43,320
+<font face="Roboto Medium" size="26">but when I strengthened my cursed 
+energy to guard against your attack,</font>
+
+253
+00:15:43,320 --> 00:15:44,960
+<font face="Roboto Medium" size="26">the opposite happened.</font>
+
+254
+00:15:45,690 --> 00:15:47,720
+<font face="Roboto Medium" size="26">Are you really a first-year?</font>
+
+255
+00:15:47,720 --> 00:15:49,640
+<font face="Roboto Medium" size="26">You really aren't cute at all.</font>
+
+256
+00:15:54,430 --> 00:15:57,440
+<font face="Roboto Medium" size="26">Please. We don't have time.</font>
+
+257
+00:15:57,440 --> 00:15:59,070
+<font face="Roboto Medium" size="26">Please hear us out.</font>
+
+258
+00:16:01,070 --> 00:16:02,550
+<font face="Roboto Medium" size="26">Fine.</font>
+
+259
+00:16:10,710 --> 00:16:12,050
+<font face="Roboto Medium" size="26">Itadori?!</font>
+
+260
+00:16:12,050 --> 00:16:14,320
+<font face="Roboto Medium" size="26">Fushiguro, Panda-senpai...</font>
+
+261
+00:16:14,920 --> 00:16:16,750
+<font face="Roboto Medium" size="26">Stay out of this!</font>
+
+262
+00:16:28,990 --> 00:16:31,120
+<font face="Roboto Medium" size="26">Underestimating me, huh?</font>
+
+263
+00:16:33,130 --> 00:16:33,970
+<font face="Roboto Medium" size="26">Straight to the face!</font>
+
+264
+00:16:36,350 --> 00:16:39,100
+<font face="Roboto Medium" size="26"><i>This brat! He's not...</i></font>
+
+265
+00:16:39,100 --> 00:16:41,110
+<font face="Roboto Medium" size="26"><i>even trying to dodge!</i></font>
+
+266
+00:16:41,110 --> 00:16:42,720
+<font face="Roboto Medium" size="26">You're crazy.</font>
+
+267
+00:16:43,560 --> 00:16:46,370
+<font face="Roboto Medium" size="26"><i>This isn't like the fight in Shibuya.</i></font>
+
+268
+00:16:46,780 --> 00:16:49,810
+<font face="Roboto Medium" size="26"><i>This is basically a ritual 
+to make Hakari-senpai</i></font>
+
+269
+00:16:49,810 --> 00:16:51,360
+<font face="Roboto Medium" size="26"><i>acknowledge me.</i></font>
+
+270
+00:16:52,160 --> 00:16:53,640
+<font face="Roboto Medium" size="26"><i>I won't dodge anymore.</i></font>
+
+271
+00:16:53,640 --> 00:16:55,250
+<font face="Roboto Medium" size="26"><i>I won't fight back.</i></font>
+
+272
+00:16:57,160 --> 00:16:59,630
+<font face="Roboto Medium" size="26"><i>Not until he caves.</i></font>
+
+273
+00:16:59,630 --> 00:17:02,620
+<font face="Roboto Medium" size="26">Interesting! I'll listen to you...</font>
+
+274
+00:17:03,090 --> 00:17:05,190
+<font face="Roboto Medium" size="26">for as long as you remain standing!</font>
+
+275
+00:17:05,190 --> 00:17:06,220
+<font face="Roboto Medium" size="26">Kin-chan!</font>
+
+276
+00:17:06,220 --> 00:17:08,830
+<font face="Roboto Medium" size="26">These kids just want your help!</font>
+
+277
+00:17:08,830 --> 00:17:10,830
+<font face="Roboto Medium" size="26">Hear them out!</font>
+
+278
+00:17:10,830 --> 00:17:12,870
+<font face="Roboto Medium" size="26">I just said I would!</font>
+
+279
+00:17:19,070 --> 00:17:22,980
+<font face="Roboto Medium" size="26">So, Itadori, why me?</font>
+
+280
+00:17:22,980 --> 00:17:25,390
+<font face="Roboto Medium" size="26">This is the first time we've met, right?</font>
+
+281
+00:17:25,870 --> 00:17:27,920
+<font face="Roboto Medium" size="26">So why rely on me?</font>
+
+282
+00:17:28,840 --> 00:17:30,670
+<font face="Roboto Medium" size="26">Because my senpai</font>
+
+283
+00:17:30,670 --> 00:17:32,910
+<font face="Roboto Medium" size="26">all said you're strong.</font>
+
+284
+00:17:34,180 --> 00:17:36,240
+<font face="Roboto Medium" size="26">Figures.</font>
+
+285
+00:17:36,730 --> 00:17:39,320
+<font face="Roboto Medium" size="26">Whenever a sorcerer asks 
+another sorcerer for help,</font>
+
+286
+00:17:39,320 --> 00:17:42,780
+<font face="Roboto Medium" size="26">it's understood they're asking 
+him to risk his life with them!</font>
+
+287
+00:17:44,030 --> 00:17:48,960
+<font face="Roboto Medium" size="26">So you have to show me you have 
+passion worth risking my life for!</font>
+
+288
+00:17:48,960 --> 00:17:52,680
+<font face="Roboto Medium" size="26">Right here and now!</font>
+
+289
+00:17:52,680 --> 00:17:57,180
+<font face="Roboto Medium" size="26">Yet you're telling me you came 
+here on orders without that?</font>
+
+290
+00:17:57,180 --> 00:17:59,130
+<font face="Roboto Medium" size="26">What the hell was old man Yaga thinking?!</font>
+
+291
+00:17:59,130 --> 00:18:01,180
+<font face="Roboto Medium" size="26">He should be weeding out losers like you!</font>
+
+292
+00:18:04,900 --> 00:18:06,680
+<font face="Roboto Medium" size="26">I don't have any passion.</font>
+
+293
+00:18:06,980 --> 00:18:07,630
+<font face="Roboto Medium" size="26">Huh?</font>
+
+294
+00:18:08,090 --> 00:18:09,650
+<font face="Roboto Medium" size="26">I'm a cog.</font>
+
+295
+00:18:10,490 --> 00:18:16,560
+<font face="Roboto Medium" size="26">A cog in the machine that sorcerers 
+need to keep exorcising curses.</font>
+
+296
+00:18:17,610 --> 00:18:20,290
+<font face="Roboto Medium" size="26">Wait, wait, wait. Are you for real?</font>
+
+297
+00:18:20,870 --> 00:18:23,120
+<font face="Roboto Medium" size="26">That's super disappointing.</font>
+
+298
+00:18:23,490 --> 00:18:25,500
+<font face="Roboto Medium" size="26">This is bad! Itadori, that's enough!</font>
+
+299
+00:18:41,560 --> 00:18:42,780
+<font face="Roboto Medium" size="26">Hurts, doesn't it?</font>
+
+300
+00:18:43,220 --> 00:18:44,800
+<font face="Roboto Medium" size="26">According to Gojo-san,</font>
+
+301
+00:18:45,370 --> 00:18:49,060
+<font face="Roboto Medium" size="26">my cursed energy's coarser and 
+grittier than that of others.</font>
+
+302
+00:18:51,900 --> 00:18:53,540
+<font face="Roboto Medium" size="26">You dead?</font>
+
+303
+00:18:55,810 --> 00:18:57,220
+<font face="Roboto Medium" size="26">Hey, Panda!</font>
+
+304
+00:18:57,220 --> 00:18:58,890
+<font face="Roboto Medium" size="26">Sea Urchin Head!</font>
+
+305
+00:18:58,890 --> 00:19:02,640
+<font face="Roboto Medium" size="26">Take Itadori and get lost already. 
+Don't come ba—</font>
+
+306
+00:19:04,430 --> 00:19:05,430
+<font face="Roboto Medium" size="26">Huh?!</font>
+
+307
+00:19:07,280 --> 00:19:09,680
+<font face="Roboto Medium" size="26"><i>He took three unguarded blows!</i></font>
+
+308
+00:19:09,680 --> 00:19:11,500
+<font face="Roboto Medium" size="26"><i>And I punched him a 
+bunch before then, too!</i></font>
+
+309
+00:19:11,980 --> 00:19:14,260
+<font face="Roboto Medium" size="26">What are you made of?</font>
+
+310
+00:19:14,680 --> 00:19:16,590
+<font face="Roboto Medium" size="26">I'm a cog.</font>
+
+311
+00:19:16,590 --> 00:19:18,680
+<font face="Roboto Medium" size="26">Cogs have a function, you know.</font>
+
+312
+00:19:19,780 --> 00:19:22,840
+<font face="Roboto Medium" size="26">My function is to keep exorcising curses.</font>
+
+313
+00:19:22,840 --> 00:19:25,860
+<font face="Roboto Medium" size="26">If you're necessary to achieve that,</font>
+
+314
+00:19:26,240 --> 00:19:28,850
+<font face="Roboto Medium" size="26">then I'll play along 
+until you agree to it.</font>
+
+315
+00:19:42,700 --> 00:19:43,790
+<font face="Roboto Medium" size="26">Senpai.</font>
+
+316
+00:19:44,760 --> 00:19:46,700
+<font face="Roboto Medium" size="26">What is <i>your</i> function?</font>
+
+317
+00:19:47,510 --> 00:19:48,780
+<font face="Roboto Medium" size="26"><i>This kid...</i></font>
+
+318
+00:19:49,930 --> 00:19:52,410
+<font face="Roboto Medium" size="26"><i>So this is a cog's passion?</i></font>
+
+319
+00:19:56,540 --> 00:19:58,830
+<font face="Roboto Medium" size="26">Fine. I'll keep punching—</font>
+
+320
+00:19:58,830 --> 00:20:00,040
+<font face="Roboto Medium" size="26">Kin-chan.</font>
+
+321
+00:20:00,500 --> 00:20:02,650
+<font face="Roboto Medium" size="26">He's gotten you heated up, hasn't he?</font>
+
+322
+00:20:06,780 --> 00:20:09,380
+<font face="Roboto Medium" size="26"><i>Passion never lies.</i></font>
+
+323
+00:20:13,190 --> 00:20:14,860
+<font face="Roboto Medium" size="26">Get down here, you three.</font>
+
+324
+00:20:14,860 --> 00:20:15,900
+<font face="Roboto Medium" size="26">Huh?</font>
+
+325
+00:20:16,700 --> 00:20:18,150
+<font face="Roboto Medium" size="26">Let's cut a deal.</font>
+
+326
+00:20:20,220 --> 00:20:22,460
+<font face="Roboto Medium" size="26">Huh? It's resolved?</font>
+
+327
+00:20:23,030 --> 00:20:25,250
+<font face="Roboto Medium" size="26">Did you just convince him?</font>
+
+328
+00:20:25,250 --> 00:20:26,130
+<font face="Roboto Medium" size="26">Yeah.</font>
+
+329
+00:20:26,130 --> 00:20:27,780
+<font face="Roboto Medium" size="26">Thank you.</font>
+
+330
+00:20:27,780 --> 00:20:28,720
+<font face="Roboto Medium" size="26">Don't mention it.</font>
+
+331
+00:20:29,180 --> 00:20:31,650
+<font face="Roboto Medium" size="26">We may hate the upper brass,</font>
+
+332
+00:20:31,650 --> 00:20:37,120
+<font face="Roboto Medium" size="26">but Kin-chan always burned hottest when 
+he was helping others at Jujutsu High.</font>
+
+333
+00:20:38,230 --> 00:20:38,910
+<font face="Roboto Medium" size="26">Ow!</font>
+
+334
+00:20:41,660 --> 00:20:45,640
+<font face="Roboto Medium" size="26">Ding-dong, ding-dong, ding-dong, 
+ding-dong, ding-dong, ding-dong!</font>
+
+335
+00:20:42,580 --> 00:20:43,530
+<font face="Roboto Medium" size="26">{\an8}What?!</font>
+
+336
+00:20:47,000 --> 00:20:52,010
+<font face="Roboto Medium" size="26">A Player has added a new 
+rule to the Culling Game!</font>
+
+337
+00:20:52,010 --> 00:20:55,900
+<font face="Roboto Medium" size="26">Rule 9: Players shall be able to view the 
+following information on other players:</font>
+
+338
+00:20:55,900 --> 00:21:02,440
+<font face="Roboto Medium" size="26">name, points, number of 
+rules added, current Colony.</font>
+
+339
+00:21:03,240 --> 00:21:05,450
+<font face="Times New Roman"><b>{\an8}8: Players who do not show a
+change in points within 19 days of
+joining or acquiring points
+shall be stripped of their technique.</b></font>
+
+340
+00:21:05,450 --> 00:21:08,820
+<font face="Times New Roman"><b>{\an8}9: Players shall be able to view the 
+following information on other players:
+name, points, number of 
+rules added, current Colony.</b></font>
+
+341
+00:21:07,900 --> 00:21:10,340
+<font face="Roboto Medium" size="26">You have gained five points.</font>
+
+342
+00:21:10,830 --> 00:21:13,240
+<font face="Roboto Medium" size="26">Damn right. I killed him.</font>
+
+343
+00:21:16,940 --> 00:21:20,510
+<font face="Roboto Medium" size="26">Every one of these guys is too weak.</font>
+
+344
+00:21:20,510 --> 00:21:23,460
+<font face="Roboto Medium" size="26">It was better 400 years ago.</font>
+
+345
+00:21:25,600 --> 00:21:28,020
+<font face="Roboto Medium" size="26">Where are you, Sukuna?</font>
+
+346
+00:21:32,810 --> 00:21:35,380
+<font face="Roboto Medium" size="26">You have exceeded 200 points.</font>
+
+347
+00:21:35,380 --> 00:21:40,010
+<font face="Roboto Medium" size="26">Would you like to consume 100 points 
+to add a rule to the Culling Game?</font>
+
+348
+00:21:40,630 --> 00:21:43,180
+<font face="Roboto Medium" size="26">Right, the rules.</font>
+
+349
+00:21:43,900 --> 00:21:48,260
+<font face="Roboto Medium" size="26">If I knew their names, and points 
+would demonstrate their strength...</font>
+
+350
+00:21:49,340 --> 00:21:52,650
+<font face="Roboto Medium" size="26">Oh, but points go down 
+when adding a rule.</font>
+
+351
+00:21:52,650 --> 00:21:55,250
+<font face="Roboto Medium" size="26">So I'd need the number 
+of rules they added, too.</font>
+
+352
+00:21:55,960 --> 00:21:58,860
+<font face="Roboto Medium" size="26">And also which colony they're in.</font>
+
+353
+00:21:59,570 --> 00:22:00,720
+<font face="Roboto Medium" size="26">Kogane.</font>
+
+354
+00:22:00,720 --> 00:22:02,200
+<font face="Roboto Medium" size="26">Add a rule.</font>
+
+355
+00:22:02,200 --> 00:22:05,080
+<font face="Roboto Medium" size="26">Reveal that information for every player.</font>
+
+356
+00:22:05,340 --> 00:22:08,800
+<font face="Trebuchet MS" size="24"><font face="Times New Roman"><b><font size="20">Culling Game Player Hajime Kashimo</font></b></font></font>
+
+357
+00:23:41,840 --> 00:23:43,930
+<font face="Roboto Medium" size="26">You're in the space between 
+dreams and reality.</font>
+
+358
+00:23:43,930 --> 00:23:45,060
+<font face="Roboto Medium" size="26">It's a curse.</font>
+
+359
+00:23:45,060 --> 00:23:46,660
+<font face="Roboto Medium" size="26">How do you know my name?</font>
+
+360
+00:23:46,660 --> 00:23:47,780
+<font face="Roboto Medium" size="26">I'm not like Itadori.</font>
+
+361
+00:23:47,780 --> 00:23:50,640
+<font face="Roboto Medium" size="26">Once you step inside, 
+you, too, become a Player!</font>
+
+362
+00:23:50,640 --> 00:23:53,720
+<font face="Roboto Medium" size="26">...and make them add a rule to let 
+Tsumiki escape the Culling Game!</font>
+
+363
+00:23:51,990 --> 00:23:55,110
+<font face="Times New Roman" size="24"><b>Next Episode
+<font size="30">Tokyo Colony No. 1</font></b></font>
+
