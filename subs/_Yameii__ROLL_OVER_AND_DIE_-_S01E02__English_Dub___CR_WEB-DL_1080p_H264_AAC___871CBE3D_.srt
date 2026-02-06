@@ -1,0 +1,39 @@
+1
+00:04:00,960 --> 00:04:05,880
+<font face="Gandhi Sans" size="24"><b>{\an8}COINCIDENCE AND FATE</b></font>
+
+2
+00:04:05,960 --> 00:04:07,790
+<font face="Gandhi Sans" size="24"><b>{\an8}GUILD</b></font>
+
+3
+00:04:07,880 --> 00:04:11,750
+<font face="Gandhi Sans" size="24"><b>{\an8}JOB REQUEST</b></font>
+
+4
+00:05:26,040 --> 00:05:28,000
+<font face="Gandhi Sans" size="24"><b>{\an8}JOB REQUEST: F</b></font>
+
+5
+00:05:59,460 --> 00:06:01,580
+<font face="Gandhi Sans" size="24"><b>{\an8}WEREWOLF
+AFFINITY: EARTH</b></font>
+
+6
+00:06:01,670 --> 00:06:03,130
+<font face="Gandhi Sans" size="24"><b>{\an8}TOTAL STATS: 512</b></font>
+
+7
+00:08:15,710 --> 00:08:18,880
+<font face="Gandhi Sans" size="24"><b>{\an8}NAME: CHIMAERA PROTOTYPE
+TOTAL STATS: 1,863</b></font>
+
+8
+00:16:56,830 --> 00:16:59,080
+<font face="Gandhi Sans" size="24"><b>{\an8}NAME: BLOODIED STEEL GAUNTLETS
+LOWERS YOUR TOTAL STATS BY 183.</b></font>
+
+9
+00:23:37,500 --> 00:23:39,920
+<font face="Gandhi Sans" size="24"><b>{\an8}PURITY AND CORRUPTION</b></font>
+
