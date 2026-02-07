@@ -1,0 +1,48 @@
+1
+00:02:40,640 --> 00:02:43,140
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="30"><font color="#111212">This account does not exist</font></font></b></font></b></font>
+
+2
+00:02:40,640 --> 00:02:43,140
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="16"><font color="#111212">Try searching with a different <font color="#85e97f">keyword</font></font></font></font></b></font>
+
+3
+00:03:42,870 --> 00:03:46,160
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="24"><font color="#f4f3f2">Kukuru Kasubata</font></font></b></font></b></font>
+
+4
+00:04:11,110 --> 00:04:12,710
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><font size="18"><b>{\an8}<font color="#fffcf5">Miden Academy</font></b></font></font></b></font>
+
+5
+00:05:43,990 --> 00:05:46,580
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="24"><font color="#f4f3f2">Hiyori Haijima</font></font></b></font></b></font>
+
+6
+00:05:49,500 --> 00:05:51,830
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="24"><font color="#f4f3f2">Naruhiko Emoto</font></font></b></font></b></font>
+
+7
+00:05:54,000 --> 00:05:56,340
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="24"><font color="#f4f3f2">Renri Hasumi</font></font></b></font></b></font>
+
+8
+00:06:00,380 --> 00:06:03,840
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="24"><font color="#f4f3f2">Kiyomi Urusugawa</font></font></b></font></b></font>
+
+9
+00:06:14,400 --> 00:06:17,230
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b>{\an8}<font color="#653606">Convenience Store</font></b></font></b></font>
+
+10
+00:06:14,400 --> 00:06:17,230
+<font face="Gandhi Sans" size="24"><b><font size="8"><font face="Arial"><font color="#46311d">We have Denmi-chan goods!</font></font></font></b></font>
+
+11
+00:06:53,230 --> 00:06:55,310
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="24"><font color="#f4f3f2">Yoimaru Azaki</font></font></b></font></b></font>
+
+12
+00:18:17,030 --> 00:18:19,290
+<font face="Gandhi Sans" size="24"><b><font face="Impact"><font color="#0ccbff">Enflame</font></font></b></font>
+
