@@ -1,0 +1,685 @@
+1
+00:01:38,740 --> 00:01:40,010
+<font face="Gandhi Sans" size="24"><b>Well?</b></font>
+
+2
+00:01:40,850 --> 00:01:44,590
+<font face="Gandhi Sans" size="24"><b>I've checked a million times.</b></font>
+
+3
+00:01:44,590 --> 00:01:47,720
+<font face="Gandhi Sans" size="24"><b>The transmission from the
+ colony fleet is the real deal.</b></font>
+
+4
+00:01:48,740 --> 00:01:50,230
+<font face="Gandhi Sans" size="24"><b>We did it, Jessica!</b></font>
+
+5
+00:01:50,230 --> 00:01:51,330
+<font face="Gandhi Sans" size="24"><b>Hey!</b></font>
+
+6
+00:01:53,490 --> 00:01:58,810
+<font face="Gandhi Sans" size="24"><b>Broadcasting a message to Earth 
+for over a hundred years really paid off!</b></font>
+
+7
+00:01:59,810 --> 00:02:01,470
+<font face="Gandhi Sans" size="24"><b>It's a miracle.</b></font>
+
+8
+00:02:01,470 --> 00:02:05,420
+<font face="Gandhi Sans" size="24"><b>A fleet that left Earth a century
+ or a century and a half ago</b></font>
+
+9
+00:02:05,420 --> 00:02:07,620
+<font face="Gandhi Sans" size="24"><b>just happened to be 
+headed in our direction</b></font>
+
+10
+00:02:07,620 --> 00:02:10,890
+<font face="Gandhi Sans" size="24"><b>and just happened to pick up 
+the transmission from our home.</b></font>
+
+11
+00:02:10,890 --> 00:02:14,120
+<font face="Gandhi Sans" size="24"><b>Miracles are meant to be seized
+ with your own hands!</b></font>
+
+12
+00:02:14,120 --> 00:02:16,390
+<font face="Gandhi Sans" size="24"><b>Where is the fleet now?</b></font>
+
+13
+00:02:19,310 --> 00:02:23,200
+<font face="Gandhi Sans" size="24"><b>About 0.15 light years away 
+from Noman's Land.</b></font>
+
+14
+00:02:23,200 --> 00:02:25,120
+<font face="Gandhi Sans" size="24"><b>Can we communicate with them?</b></font>
+
+15
+00:02:25,120 --> 00:02:27,610
+<font face="Gandhi Sans" size="24"><b>If you can wait two months per relay.</b></font>
+
+16
+00:02:27,610 --> 00:02:30,680
+<font face="Gandhi Sans" size="24"><b>Real-time communication won't be possible</b></font>
+
+17
+00:02:30,680 --> 00:02:32,530
+<font face="Gandhi Sans" size="24"><b>until they're just about to arrive.</b></font>
+
+18
+00:02:33,590 --> 00:02:36,200
+<font face="Gandhi Sans" size="24"><b>Still, what a relief. Now we're saved.</b></font>
+
+19
+00:02:37,210 --> 00:02:38,050
+<font face="Gandhi Sans" size="24"><b>No.</b></font>
+
+20
+00:02:38,970 --> 00:02:41,900
+<font face="Gandhi Sans" size="24"><b>We can't say for sure 
+that we'll be saved.</b></font>
+
+21
+00:02:41,900 --> 00:02:44,370
+<font face="Gandhi Sans" size="24"><b>Don't let your guard down.</b></font>
+
+22
+00:02:46,820 --> 00:02:50,940
+<font face="Gandhi Sans" size="24"><b>But for sure, there is hope.</b></font>
+
+23
+00:02:51,450 --> 00:02:54,820
+<font face="Gandhi Sans" size="24"><b>Hope gives us the courage 
+to live on to the next day.</b></font>
+
+24
+00:02:54,820 --> 00:02:56,530
+<font face="Gandhi Sans" size="24"><b>Yeah, that's exactly right.</b></font>
+
+25
+00:02:56,530 --> 00:02:57,570
+<font face="Gandhi Sans" size="24"><b>Yeah!</b></font>
+
+26
+00:03:00,070 --> 00:03:00,960
+<font face="Gandhi Sans" size="24"><b>Run!</b></font>
+
+27
+00:03:00,960 --> 00:03:02,600
+<font face="Gandhi Sans" size="24"><b>Get to the shelter!</b></font>
+
+28
+00:03:02,600 --> 00:03:04,060
+<font face="Gandhi Sans" size="24"><b>Here they come!</b></font>
+
+29
+00:03:15,140 --> 00:03:17,050
+<font face="Gandhi Sans" size="24"><b>Brad, I'm staying, too!</b></font>
+
+30
+00:03:17,050 --> 00:03:19,920
+<font face="Gandhi Sans" size="24"><b>What're you gonna do 
+against those monsters?</b></font>
+
+31
+00:03:19,920 --> 00:03:20,640
+<font face="Gandhi Sans" size="24"><b>But—</b></font>
+
+32
+00:03:20,640 --> 00:03:22,450
+<font face="Gandhi Sans" size="24"><b>We don't stand a chance!</b></font>
+
+33
+00:03:22,450 --> 00:03:24,080
+<font face="Gandhi Sans" size="24"><b>You go and bring him back to us!</b></font>
+
+34
+00:03:24,080 --> 00:03:27,310
+<font face="Gandhi Sans" size="24"><b>There's a tracker in his prosthetic arm 
+that gives us his location.</b></font>
+
+35
+00:03:27,660 --> 00:03:30,280
+<font face="Gandhi Sans" size="24"><b>Granted, it's from two 
+and a half years ago.</b></font>
+
+36
+00:03:30,280 --> 00:03:31,520
+<font face="Gandhi Sans" size="24"><b>But it's all we have.</b></font>
+
+37
+00:03:31,520 --> 00:03:32,330
+<font face="Gandhi Sans" size="24"><b>But...</b></font>
+
+38
+00:03:32,330 --> 00:03:35,110
+<font face="Gandhi Sans" size="24"><b>We'll hold out until he gets here!</b></font>
+
+39
+00:03:35,110 --> 00:03:36,110
+<font face="Gandhi Sans" size="24"><b>Now go!</b></font>
+
+40
+00:03:54,090 --> 00:03:55,170
+<font face="Gandhi Sans" size="24"><b>Vash...</b></font>
+
+41
+00:04:32,040 --> 00:04:34,670
+<font face="Gandhi Sans" size="24"><b>Oh, you helped me?</b></font>
+
+42
+00:04:36,420 --> 00:04:39,600
+<font face="Gandhi Sans" size="24"><b>Um... Thank you.</b></font>
+
+43
+00:04:42,850 --> 00:04:44,380
+<font face="Gandhi Sans" size="24"><b>Where did you...</b></font>
+
+44
+00:04:45,270 --> 00:04:48,700
+<font face="Gandhi Sans" size="24"><b>No, that's not important.</b></font>
+
+45
+00:04:48,700 --> 00:04:51,660
+<font face="Gandhi Sans" size="24"><b>Um! I'm looking for someone!</b></font>
+
+46
+00:04:54,790 --> 00:04:57,140
+<font face="Gandhi Sans" size="24"><b>He should be nearby.</b></font>
+
+47
+00:04:58,490 --> 00:05:00,480
+<font face="Gandhi Sans" size="24"><b>Have you seen this man?</b></font>
+
+48
+00:05:02,970 --> 00:05:03,980
+<font face="Gandhi Sans" size="24"><b>Um...</b></font>
+
+49
+00:05:04,500 --> 00:05:06,270
+<font face="Gandhi Sans" size="24"><b>Come with me.</b></font>
+
+50
+00:05:11,460 --> 00:05:14,390
+<font face="Gandhi Sans" size="24"><b>I must have twisted my leg 
+when I collapsed.</b></font>
+
+51
+00:05:18,860 --> 00:05:24,020
+<font face="Gandhi Sans" size="24"><b>Th-Thank you so much, um... 
+Mister Hoppered.</b></font>
+
+52
+00:05:30,120 --> 00:05:31,390
+<font face="Gandhi Sans" size="24"><b>In here?</b></font>
+
+53
+00:05:54,500 --> 00:05:56,010
+<font face="Gandhi Sans" size="24"><b>Vash!</b></font>
+
+54
+00:05:57,030 --> 00:06:00,630
+<font face="Gandhi Sans" size="24"><b>I'm so glad! Thank goodness!</b></font>
+
+55
+00:06:02,390 --> 00:06:05,260
+<font face="Gandhi Sans" size="24"><b>Listen... Listen, I...</b></font>
+
+56
+00:06:13,630 --> 00:06:15,100
+<font face="Gandhi Sans" size="24"><b>Vash?</b></font>
+
+57
+00:06:16,620 --> 00:06:20,140
+<font face="Gandhi Sans" size="24"><b>Eriks has been that way for a long while.</b></font>
+
+58
+00:06:20,610 --> 00:06:23,280
+<font face="Gandhi Sans" size="24"><b>He has? And... "Eriks"?</b></font>
+
+59
+00:06:23,850 --> 00:06:28,950
+<font face="Gandhi Sans" size="24"><b>I found Eriks some time after that day.</b></font>
+
+60
+00:06:28,950 --> 00:06:30,160
+<font face="Gandhi Sans" size="24"><b>What day?</b></font>
+
+61
+00:06:33,080 --> 00:06:34,880
+<font face="Gandhi Sans" size="24"><b>Lost JuLai.</b></font>
+
+62
+00:07:09,850 --> 00:07:11,750
+<font face="Gandhi Sans" size="24"><b>He seems to have lost his memory.</b></font>
+
+63
+00:07:12,320 --> 00:07:17,910
+<font face="Gandhi Sans" size="24"><b>It's only natural. He must have 
+gone through a lot in JuLai.</b></font>
+
+64
+00:07:18,430 --> 00:07:19,700
+<font face="Gandhi Sans" size="24"><b>I think.</b></font>
+
+65
+00:07:20,240 --> 00:07:23,960
+<font face="Gandhi Sans" size="24"><b>You've taken care 
+of Vash this whole time.</b></font>
+
+66
+00:07:24,540 --> 00:07:26,110
+<font face="Gandhi Sans" size="24"><b>Thank you...</b></font>
+
+67
+00:07:26,970 --> 00:07:28,380
+<font face="Gandhi Sans" size="24"><b>Thank you.</b></font>
+
+68
+00:07:30,550 --> 00:07:36,000
+<font face="Gandhi Sans" size="24"><b>Say, Mister Hoppered, why "Eriks"?</b></font>
+
+69
+00:07:55,280 --> 00:07:58,020
+<font face="Gandhi Sans" size="24"><b>Have you remembered anything? Vash—</b></font>
+
+70
+00:07:58,990 --> 00:08:02,590
+<font face="Gandhi Sans" size="24"><b>No, don't push yourself too hard.</b></font>
+
+71
+00:08:03,370 --> 00:08:05,130
+<font face="Gandhi Sans" size="24"><b>It's all right...</b></font>
+
+72
+00:08:05,890 --> 00:08:07,200
+<font face="Gandhi Sans" size="24"><b>Eriks.</b></font>
+
+73
+00:08:23,590 --> 00:08:24,760
+<font face="Gandhi Sans" size="24"><b>Are you sure?</b></font>
+
+74
+00:08:26,970 --> 00:08:34,570
+<font face="Gandhi Sans" size="24"><b>We knew Vash survived, 
+but we couldn't go after him.</b></font>
+
+75
+00:08:35,180 --> 00:08:37,950
+<font face="Gandhi Sans" size="24"><b>We had no idea how much he was suffering.</b></font>
+
+76
+00:08:39,150 --> 00:08:43,290
+<font face="Gandhi Sans" size="24"><b>Maybe it's best that we 
+leave him the way he is.</b></font>
+
+77
+00:08:43,290 --> 00:08:44,230
+<font face="Gandhi Sans" size="24"><b>Now go!</b></font>
+
+78
+00:08:46,100 --> 00:08:48,530
+<font face="Gandhi Sans" size="24"><b>But, our home...</b></font>
+
+79
+00:08:49,840 --> 00:08:55,460
+<font face="Gandhi Sans" size="24"><b>I'm sorry. You have no idea what
+ I'm talking about, do you? But, um...</b></font>
+
+80
+00:09:02,470 --> 00:09:04,080
+<font face="Gandhi Sans" size="24"><b>I...</b></font>
+
+81
+00:09:42,060 --> 00:09:45,940
+<font face="Gandhi Sans" size="24"><b>I kill the girl at sundown.</b></font>
+
+82
+00:09:45,940 --> 00:09:48,100
+<font face="Gandhi Sans" size="24"><b>I'll be waiting at Moonseeing Hill.</b></font>
+
+83
+00:09:49,030 --> 00:09:51,600
+<font face="Gandhi Sans" size="24"><b>Eriks... No.</b></font>
+
+84
+00:09:51,980 --> 00:09:54,780
+<font face="Gandhi Sans" size="24"><b>Vash the Stampede.</b></font>
+
+85
+00:11:25,070 --> 00:11:26,920
+<font face="Gandhi Sans" size="24"><b>I talked to them.</b></font>
+
+86
+00:11:28,500 --> 00:11:32,850
+<font face="Gandhi Sans" size="24"><b>Don't worry. 
+They'll never bother you again.</b></font>
+
+87
+00:11:33,410 --> 00:11:36,020
+<font face="Gandhi Sans" size="24"><b>In fact, they promised.</b></font>
+
+88
+00:11:56,150 --> 00:11:57,810
+<font face="Gandhi Sans" size="24"><b>It looks good on you.</b></font>
+
+89
+00:12:04,590 --> 00:12:06,370
+<font face="Gandhi Sans" size="24"><b>It's so dark.</b></font>
+
+90
+00:12:07,150 --> 00:12:11,850
+<font face="Gandhi Sans" size="24"><b>If darkness had a bottom, 
+it must be like this.</b></font>
+
+91
+00:12:13,240 --> 00:12:17,210
+<font face="Gandhi Sans" size="24"><b>This is all she saw for the longest time.</b></font>
+
+92
+00:12:18,340 --> 00:12:23,470
+<font face="Gandhi Sans" size="24"><b>I've spent too long struggling
+ in a lightless world.</b></font>
+
+93
+00:12:23,870 --> 00:12:27,380
+<font face="Gandhi Sans" size="24"><b>The darkness is crushing me.</b></font>
+
+94
+00:12:53,990 --> 00:12:58,330
+<font face="Gandhi Sans" size="24"><b>The girl is just sleeping—for now.</b></font>
+
+95
+00:12:59,590 --> 00:13:02,880
+<font face="Gandhi Sans" size="24"><b>Fight me or she dies.</b></font>
+
+96
+00:13:04,670 --> 00:13:08,760
+<font face="Gandhi Sans" size="24"><b>If you lose, I'll kill her.</b></font>
+
+97
+00:13:09,470 --> 00:13:15,310
+<font face="Gandhi Sans" size="24"><b>You must kill me in order to save her.</b></font>
+
+98
+00:13:21,490 --> 00:13:23,690
+<font face="Gandhi Sans" size="24"><b>It's time to wake up!</b></font>
+
+99
+00:13:42,840 --> 00:13:45,590
+<font face="Gandhi Sans" size="24"><b>You like it? Good.</b></font>
+
+100
+00:13:49,230 --> 00:13:52,710
+<font face="Gandhi Sans" size="24"><b>Don't worry. I'm not hungry.</b></font>
+
+101
+00:13:52,710 --> 00:13:54,260
+<font face="Gandhi Sans" size="24"><b>You can have it all.</b></font>
+
+102
+00:14:24,340 --> 00:14:25,500
+<font face="Gandhi Sans" size="24"><b>Shoot!</b></font>
+
+103
+00:14:30,240 --> 00:14:31,920
+<font face="Gandhi Sans" size="24"><b>Shoot!</b></font>
+
+104
+00:14:35,810 --> 00:14:38,760
+<font face="Gandhi Sans" size="24"><b>I like your hair.</b></font>
+
+105
+00:14:40,980 --> 00:14:42,650
+<font face="Gandhi Sans" size="24"><b>What's wrong?!</b></font>
+
+106
+00:14:43,770 --> 00:14:45,960
+<font face="Gandhi Sans" size="24"><b>Do it like you did in JuLai!</b></font>
+
+107
+00:14:50,950 --> 00:14:53,370
+<font face="Gandhi Sans" size="24"><b>That distorted space...</b></font>
+
+108
+00:14:54,480 --> 00:14:57,180
+<font face="Gandhi Sans" size="24"><b>The electrified air...</b></font>
+
+109
+00:14:57,580 --> 00:15:00,870
+<font face="Gandhi Sans" size="24"><b>The unending despair...</b></font>
+
+110
+00:15:08,620 --> 00:15:10,070
+<font face="Gandhi Sans" size="24"><b>That was the moment!</b></font>
+
+111
+00:15:13,680 --> 00:15:16,100
+<font face="Gandhi Sans" size="24"><b>What you took from me...</b></font>
+
+112
+00:15:17,510 --> 00:15:23,120
+<font face="Gandhi Sans" size="24"><b>was half of my entire being!</b></font>
+
+113
+00:15:36,430 --> 00:15:37,830
+<font face="Gandhi Sans" size="24"><b>I...</b></font>
+
+114
+00:15:39,160 --> 00:15:41,370
+<font face="Gandhi Sans" size="24"><b>I've been in a long dream.</b></font>
+
+115
+00:15:42,040 --> 00:15:48,510
+<font face="Gandhi Sans" size="24"><b>In it, Hoppered, you were kind to me.</b></font>
+
+116
+00:15:50,340 --> 00:15:54,670
+<font face="Gandhi Sans" size="24"><b>You could have killed me at any time.</b></font>
+
+117
+00:15:57,500 --> 00:16:00,000
+<font face="Gandhi Sans" size="24"><b>Why didn't you?</b></font>
+
+118
+00:16:01,380 --> 00:16:05,190
+<font face="Gandhi Sans" size="24"><b>I could accept death at your hands.</b></font>
+
+119
+00:16:05,890 --> 00:16:11,230
+<font face="Gandhi Sans" size="24"><b>I may have been thinking that, 
+somewhere in my mind.</b></font>
+
+120
+00:16:12,310 --> 00:16:15,360
+<font face="Gandhi Sans" size="24"><b>But not now. Not anymore.</b></font>
+
+121
+00:16:18,410 --> 00:16:22,990
+<font face="Gandhi Sans" size="24"><b>I can't let you kill Jessica.</b></font>
+
+122
+00:16:23,440 --> 00:16:26,500
+<font face="Gandhi Sans" size="24"><b>Then kill me.</b></font>
+
+123
+00:16:26,500 --> 00:16:28,410
+<font face="Gandhi Sans" size="24"><b>That's enough, Hoppered.</b></font>
+
+124
+00:16:29,530 --> 00:16:32,860
+<font face="Gandhi Sans" size="24"><b>Please, I can't...</b></font>
+
+125
+00:16:54,730 --> 00:16:55,920
+<font face="Gandhi Sans" size="24"><b>I'm sorry.</b></font>
+
+126
+00:17:27,870 --> 00:17:29,180
+<font face="Gandhi Sans" size="24"><b>Jessica?</b></font>
+
+127
+00:17:29,180 --> 00:17:31,570
+<font face="Gandhi Sans" size="24"><b>Jessica. Jessica.</b></font>
+
+128
+00:17:36,410 --> 00:17:37,900
+<font face="Gandhi Sans" size="24"><b>Vash?</b></font>
+
+129
+00:17:50,040 --> 00:17:54,270
+<font face="Gandhi Sans" size="24"><b>Now hurry up and send me off.</b></font>
+
+130
+00:17:54,270 --> 00:17:55,900
+<font face="Gandhi Sans" size="24"><b>I can't do that.</b></font>
+
+131
+00:18:00,190 --> 00:18:01,050
+<font face="Gandhi Sans" size="24"><b>Vash?</b></font>
+
+132
+00:18:01,050 --> 00:18:03,120
+<font face="Gandhi Sans" size="24"><b>Stop, Hoppered.</b></font>
+
+133
+00:18:06,770 --> 00:18:08,320
+<font face="Gandhi Sans" size="24"><b>Please, stop!</b></font>
+
+134
+00:18:22,400 --> 00:18:26,200
+<font face="Gandhi Sans" size="24"><b>You... live to suffer.</b></font>
+
+135
+00:18:26,200 --> 00:18:28,200
+<font face="Gandhi Sans" size="24"><b>I won't kill you.</b></font>
+
+136
+00:18:29,160 --> 00:18:37,010
+<font face="Gandhi Sans" size="24"><b>You must survive in this cesspool 
+of a world, all the while coughing...</b></font>
+
+137
+00:18:38,240 --> 00:18:39,460
+<font face="Gandhi Sans" size="24"><b>blood.</b></font>
+
+138
+00:18:55,750 --> 00:18:57,280
+<font face="Gandhi Sans" size="24"><b>Hoppered.</b></font>
+
+139
+00:19:03,460 --> 00:19:06,310
+<font face="Gandhi Sans" size="24"><b>Eriks...</b></font>
+
+140
+00:19:13,020 --> 00:19:14,270
+<font face="Gandhi Sans" size="24"><b>Rem...</b></font>
+
+141
+00:19:15,700 --> 00:19:18,280
+<font face="Gandhi Sans" size="24"><b>Would everything have been better 
+if I never existed?</b></font>
+
+142
+00:19:46,410 --> 00:19:48,440
+<font face="Gandhi Sans" size="24"><b>Our home is under attack?</b></font>
+
+143
+00:19:48,930 --> 00:19:53,060
+<font face="Gandhi Sans" size="24"><b>I'm sorry, Vash. 
+I wanted to leave you be.</b></font>
+
+144
+00:19:53,790 --> 00:19:55,890
+<font face="Gandhi Sans" size="24"><b>It's fine. That's all right.</b></font>
+
+145
+00:19:55,890 --> 00:19:59,620
+<font face="Gandhi Sans" size="24"><b>But the only one who knows 
+the location of our home is...</b></font>
+
+146
+00:19:59,620 --> 00:20:03,680
+<font face="Gandhi Sans" size="24"><b>That's what Luida and Brad think.</b></font>
+
+147
+00:20:04,780 --> 00:20:07,560
+<font face="Gandhi Sans" size="24"><b>Nai is alive?</b></font>
+
+148
+00:21:08,280 --> 00:21:10,460
+<font face="Gandhi Sans" size="24"><b>Let's go, Jessica.</b></font>
+
+149
+00:21:31,290 --> 00:21:35,450
+<font face="Gandhi Sans" size="24"><b>{\an8}Two and a half years after 
+the tragedy known as Lost JuLai,</b></font>
+
+150
+00:21:35,450 --> 00:21:39,690
+<font face="Gandhi Sans" size="24"><b>{\an8}a material witness, the Humanoid 
+Typhoon known as Vash the Stampede</b></font>
+
+151
+00:21:39,690 --> 00:21:43,360
+<font face="Gandhi Sans" size="24"><b>{\an8}with a $$60 billion bounty 
+on his head, has been sighted.</b></font>
+
+152
+00:21:43,360 --> 00:21:45,830
+<font face="Gandhi Sans" size="24"><b>{\an8}Authorities are working to verify...</b></font>
+
+153
+00:21:46,230 --> 00:21:48,140
+<font face="Gandhi Sans" size="24"><b>I hope it really is Vash!</b></font>
+
+154
+00:21:48,140 --> 00:21:52,740
+<font face="Gandhi Sans" size="24"><b>Milly, as a journalist, you can't trust 
+outside information right away.</b></font>
+
+155
+00:21:52,740 --> 00:21:55,180
+<font face="Gandhi Sans" size="24"><b>You have to see it with your own eyes.</b></font>
+
+156
+00:21:55,440 --> 00:21:56,890
+<font face="Gandhi Sans" size="24"><b>Yes, ma'am!</b></font>
+
+157
+00:21:57,490 --> 00:22:00,590
+<font face="Gandhi Sans" size="24"><b>Also, in order to see 
+the truth behind something,</b></font>
+
+158
+00:21:59,600 --> 00:22:00,590
+<font face="Gandhi Sans" size="24"><b>{\an8}Uh-huh.</b></font>
+
+159
+00:22:00,590 --> 00:22:02,020
+<font face="Gandhi Sans" size="24"><b>you can't just look dead ahead.</b></font>
+
+160
+00:22:01,450 --> 00:22:02,550
+<font face="Gandhi Sans" size="24"><b>{\an8}Uh-huh.</b></font>
+
+161
+00:22:02,020 --> 00:22:03,700
+<font face="Gandhi Sans" size="24"><b>You need a wide field of vision—</b></font>
+
+162
+00:22:03,700 --> 00:22:06,210
+<font face="Gandhi Sans" size="24"><b>Yeah, but you still gotta
+ look forward, too.</b></font>
+
+163
+00:23:50,560 --> 00:23:52,990
+<font face="Gandhi Sans" size="24"><b>Vash the Stampede!</b></font>
+
