@@ -1,0 +1,2152 @@
+1
+00:00:03,470 --> 00:00:06,230
+<font face="Roboto Medium" size="26">Shinra... disappeared?</font>
+
+2
+00:00:08,710 --> 00:00:09,830
+<font face="Roboto Medium" size="26">Iris?</font>
+
+3
+00:00:11,350 --> 00:00:12,650
+<font face="Roboto Medium" size="26">Commander?</font>
+
+4
+00:00:13,510 --> 00:00:15,790
+<font face="Roboto Medium" size="26">Everything is going according to plan.</font>
+
+5
+00:00:15,790 --> 00:00:18,670
+<font face="Roboto Medium" size="26">We will also go to the pillars.</font>
+
+6
+00:00:18,670 --> 00:00:21,780
+<font face="Roboto Medium" size="26">Yona, I'll leave the rest to you.</font>
+
+7
+00:00:22,440 --> 00:00:25,200
+<font face="Roboto Medium" size="26">Until the day of destruction, then.</font>
+
+8
+00:01:54,670 --> 00:01:57,420
+<font face="Times New Roman" size="20"><b>{\an8}<font size="40">Fire Force</font></b></font>
+
+9
+00:01:54,670 --> 00:01:57,420
+<font face="Times New Roman" size="20"><b>{\an8}<font size="25">Chapter 3</font></b></font>
+
+10
+00:01:59,970 --> 00:02:02,970
+<font face="Times New Roman" size="20"><b>{\an1}<font size="33"><font color="#000000">Episode 17
+<font size="31">"At the Center of the World"</font></font></font></b></font>
+
+11
+00:02:03,660 --> 00:02:05,810
+<font face="Roboto Medium" size="26"><i>Shinra Kusakabe.</i></font>
+
+12
+00:02:05,810 --> 00:02:08,360
+<font face="Roboto Medium" size="26"><i>A holy child of virgin birth.</i></font>
+
+13
+00:02:09,020 --> 00:02:11,480
+<font face="Roboto Medium" size="26"><i>In the fire twelve years ago,</i></font>
+
+14
+00:02:11,480 --> 00:02:14,880
+<font face="Roboto Medium" size="26"><i>had he disappeared like his 
+mother and younger brother,</i></font>
+
+15
+00:02:14,880 --> 00:02:16,940
+<font face="Roboto Medium" size="26"><i>he might have become just a legend.</i></font>
+
+16
+00:02:17,230 --> 00:02:21,470
+<font face="Roboto Medium" size="26"><i>But left above ground, he was made 
+to bear the name of parent-killer.</i></font>
+
+17
+00:02:22,430 --> 00:02:27,080
+<font face="Roboto Medium" size="26"><i>Instead of a hero of legend,
+he was forced to live as a devil.</i></font>
+
+18
+00:02:29,540 --> 00:02:36,220
+<font face="Roboto Medium" size="26">Devil! Devil! Devil!</font>
+
+19
+00:02:36,540 --> 00:02:42,520
+<font face="Roboto Medium" size="26"><i>And now, with the image of the devil who 
+killed Raffles being projected everywhere,</i></font>
+
+20
+00:02:42,520 --> 00:02:45,440
+<font face="Roboto Medium" size="26"><i>the budding hero has 
+been thoroughly crushed.</i></font>
+
+21
+00:02:45,440 --> 00:02:48,960
+<font face="Roboto Medium" size="26"><i>All that remains is to 
+offer the key to Amaterasu.</i></font>
+
+22
+00:02:50,080 --> 00:02:53,590
+<font face="Roboto Medium" size="26"><i>This planet will become a flaming star.</i></font>
+
+23
+00:02:53,590 --> 00:02:55,900
+<font face="Roboto Medium" size="26"><i>There is no savior.</i></font>
+
+24
+00:02:56,530 --> 00:02:59,420
+<font face="Roboto Medium" size="26"><i>Humanity's hero has disappeared.</i></font>
+
+25
+00:03:03,370 --> 00:03:06,000
+<font face="Roboto Medium" size="26">There's a blackout across 
+the whole Tokyo Empire!</font>
+
+26
+00:03:06,000 --> 00:03:07,390
+<font face="Roboto Medium" size="26">Are the comms still up?</font>
+
+27
+00:03:07,390 --> 00:03:08,330
+<font face="Roboto Medium" size="26">What's going on?</font>
+
+28
+00:03:08,700 --> 00:03:10,100
+<font face="Roboto Medium" size="26">Captain Pan!</font>
+
+29
+00:03:10,100 --> 00:03:11,910
+<font face="Roboto Medium" size="26">There's a message from the fire station!</font>
+
+30
+00:03:12,950 --> 00:03:15,590
+<font face="Roboto Medium" size="26">Infernals are appearing in huge numbers!</font>
+
+31
+00:03:27,830 --> 00:03:29,080
+<font face="Roboto Medium" size="26">I'm docking your pay.</font>
+
+32
+00:03:29,080 --> 00:03:32,930
+<font face="Roboto Medium" size="26">Why? I defeated the Titan, didn't I?</font>
+
+33
+00:03:32,930 --> 00:03:37,480
+<font face="Roboto Medium" size="26">What kind of boss forgives a subordinate 
+who lets their work be stolen from them?</font>
+
+34
+00:03:37,860 --> 00:03:39,470
+<font face="Roboto Medium" size="26">I think I really will change jobs.</font>
+
+35
+00:03:39,470 --> 00:03:41,600
+<font face="Roboto Medium" size="26">That conversation is over.</font>
+
+36
+00:03:41,990 --> 00:03:45,730
+<font face="Roboto Medium" size="26">More importantly, I received an 
+urgent message from headquarters.</font>
+
+37
+00:03:45,730 --> 00:03:47,700
+<font face="Roboto Medium" size="26">What is it this time?</font>
+
+38
+00:03:48,070 --> 00:03:51,720
+<font face="Roboto Medium" size="26">For unknown reasons, 
+Amaterasu has ceased functioning.</font>
+
+39
+00:03:51,720 --> 00:03:54,770
+<font face="Roboto Medium" size="26">And Nataku Son, whom the research 
+department was looking after,</font>
+
+40
+00:03:54,770 --> 00:03:56,280
+<font face="Roboto Medium" size="26">has apparently vanished.</font>
+
+41
+00:03:56,280 --> 00:03:57,840
+<font face="Roboto Medium" size="26">Nataku-kun is gone?</font>
+
+42
+00:03:57,840 --> 00:03:59,390
+<font face="Roboto Medium" size="26">That's bad.</font>
+
+43
+00:03:59,790 --> 00:04:02,990
+<font face="Roboto Medium" size="26">He is a precious weakling 
+worthy of tormenting.</font>
+
+44
+00:04:03,690 --> 00:04:05,770
+<font face="Roboto Medium" size="26">For now, we're heading 
+back to headquarters.</font>
+
+45
+00:04:05,770 --> 00:04:07,760
+<font face="Roboto Medium" size="26">Hurry up and start the car.</font>
+
+46
+00:04:07,760 --> 00:04:09,680
+<font face="Roboto Medium" size="26">Flying would be faster.</font>
+
+47
+00:04:09,680 --> 00:04:11,620
+<font face="Roboto Medium" size="26">My suit would get dirty.</font>
+
+48
+00:04:11,620 --> 00:04:14,250
+<font face="Roboto Medium" size="26">Think of a way to get 
+me there quickly by car.</font>
+
+49
+00:04:15,740 --> 00:04:17,490
+<font face="Roboto Medium" size="26">Understood.</font>
+
+50
+00:04:19,080 --> 00:04:22,200
+<font face="Roboto Medium" size="26">It's no good. I can't 
+find either one of them.</font>
+
+51
+00:04:23,310 --> 00:04:25,730
+<font face="Roboto Medium" size="26">They might be hiding somewhere.</font>
+
+52
+00:04:25,970 --> 00:04:30,030
+<font face="Roboto Medium" size="26">Shinra's a pillar, so that's one thing,
+but why is Iris gone, too?</font>
+
+53
+00:04:30,330 --> 00:04:32,210
+<font face="Roboto Medium" size="26">The reason is simple.</font>
+
+54
+00:04:33,170 --> 00:04:37,790
+<font face="Roboto Medium" size="26">Sister Iris must be the final pillar,
+the eighth one.</font>
+
+55
+00:04:38,490 --> 00:04:40,730
+<font face="Roboto Medium" size="26">Then that flame earlier really was...</font>
+
+56
+00:04:40,730 --> 00:04:43,300
+<font face="Roboto Medium" size="26">And at Fuchu, when Dragon's 
+attack was blocked...</font>
+
+57
+00:04:43,300 --> 00:04:44,510
+<font face="Roboto Medium" size="26">The sister did that?</font>
+
+58
+00:04:51,850 --> 00:04:52,850
+<font face="Roboto Medium" size="26">And...</font>
+
+59
+00:04:53,090 --> 00:04:55,300
+<font face="Roboto Medium" size="26">this blackout probably happened because</font>
+
+60
+00:04:55,300 --> 00:04:59,340
+<font face="Roboto Medium" size="26">the first pillar's disappearance caused 
+Amaterasu to stop functioning.</font>
+
+61
+00:04:59,340 --> 00:05:03,810
+<font face="Roboto Medium" size="26">If so, Shinra-kun, the sister, and the 
+pillars vanishing must be connected.</font>
+
+62
+00:05:04,210 --> 00:05:07,020
+<font face="Roboto Medium" size="26">The question is, where have they all gone?</font>
+
+63
+00:05:07,020 --> 00:05:08,140
+<font face="Roboto Medium" size="26">Adolla.</font>
+
+64
+00:05:08,540 --> 00:05:09,610
+<font face="Roboto Medium" size="26">You're...</font>
+
+65
+00:05:09,610 --> 00:05:12,570
+<font face="Roboto Medium" size="26">They went to Adolla. Every second counts.</font>
+
+66
+00:05:12,900 --> 00:05:15,460
+<font face="Roboto Medium" size="26">The Great Cataclysm has 
+entered the final phase.</font>
+
+67
+00:05:15,860 --> 00:05:17,790
+<font face="Roboto Medium" size="26">We don't have time to argue here.</font>
+
+68
+00:05:19,240 --> 00:05:21,150
+<font face="Roboto Medium" size="26">Why would we trust you?!</font>
+
+69
+00:05:21,150 --> 00:05:23,170
+<font face="Roboto Medium" size="26">You show up out of nowhere 
+and say all this?!</font>
+
+70
+00:05:23,170 --> 00:05:26,210
+<font face="Roboto Medium" size="26">Captain Huo Yan lost his 
+right arm to your arrows!</font>
+
+71
+00:05:26,210 --> 00:05:27,680
+<font face="Roboto Medium" size="26">And there's Lieutenant Rekka, too!</font>
+
+72
+00:05:27,680 --> 00:05:30,330
+<font face="Roboto Medium" size="26">Now, when the fate of the 
+world hangs in the balance,</font>
+
+73
+00:05:30,330 --> 00:05:32,200
+<font face="Roboto Medium" size="26">what is the worth of one arm?</font>
+
+74
+00:05:32,200 --> 00:05:34,010
+<font face="Roboto Medium" size="26">This is not the time for such grievances.</font>
+
+75
+00:05:34,010 --> 00:05:35,230
+<font face="Roboto Medium" size="26">You little—</font>
+
+76
+00:05:35,230 --> 00:05:37,380
+<font face="Roboto Medium" size="26">What is it that you know?</font>
+
+77
+00:05:40,330 --> 00:05:41,430
+<font face="Roboto Medium" size="26">Arrow.</font>
+
+78
+00:05:41,950 --> 00:05:45,010
+<font face="Roboto Medium" size="26">If my brother can become 
+this world's hero,</font>
+
+79
+00:05:45,010 --> 00:05:47,910
+<font face="Roboto Medium" size="26">then the Great Cataclysm 
+may yet be stopped.</font>
+
+80
+00:05:48,210 --> 00:05:52,550
+<font face="Roboto Medium" size="26">If that fails, all of the pillars 
+will likely disappear to Adolla.</font>
+
+81
+00:05:53,230 --> 00:05:56,700
+<font face="Roboto Medium" size="26">Commander, if I lose you, then my duty...</font>
+
+82
+00:05:57,140 --> 00:05:58,860
+<font face="Roboto Medium" size="26">Listen to me, Arrow.</font>
+
+83
+00:05:59,490 --> 00:06:01,170
+<font face="Roboto Medium" size="26">Do not abandon hope.</font>
+
+84
+00:06:01,890 --> 00:06:04,110
+<font face="Roboto Medium" size="26">As long as my brother exists,</font>
+
+85
+00:06:04,110 --> 00:06:07,050
+<font face="Roboto Medium" size="26">the endpoint of humanity's 
+collective unconscious</font>
+
+86
+00:06:07,050 --> 00:06:08,490
+<font face="Roboto Medium" size="26">is not death.</font>
+
+87
+00:06:08,950 --> 00:06:09,950
+<font face="Roboto Medium" size="26">Yes, sir!</font>
+
+88
+00:06:11,310 --> 00:06:14,300
+<font face="Roboto Medium" size="26">Just as the fourth and eighth 
+pillar have disappeared,</font>
+
+89
+00:06:14,300 --> 00:06:15,870
+<font face="Roboto Medium" size="26">the third pillar vanished, too.</font>
+
+90
+00:06:16,580 --> 00:06:21,190
+<font face="Roboto Medium" size="26">Protecting Commander Sho 
+Kusakabe is my mission.</font>
+
+91
+00:06:21,800 --> 00:06:24,690
+<font face="Roboto Medium" size="26">But what can we do 
+under these conditions?</font>
+
+92
+00:06:25,100 --> 00:06:27,310
+<font face="Roboto Medium" size="26">Hope still remains.</font>
+
+93
+00:06:27,310 --> 00:06:30,620
+<font face="Roboto Medium" size="26">We merely need to stop the switch 
+that triggers the Great Cataclysm.</font>
+
+94
+00:06:30,840 --> 00:06:32,940
+<font face="Roboto Medium" size="26">Where is this switch?</font>
+
+95
+00:06:32,940 --> 00:06:35,910
+<font face="Roboto Medium" size="26">I have a guess as to where 
+the switch might be.</font>
+
+96
+00:06:35,910 --> 00:06:40,120
+<font face="Arial Black" size="20"><b>{\an8}<font size="19">"Amaterasu"</font></b></font>
+
+97
+00:06:37,990 --> 00:06:39,480
+<font face="Roboto Medium" size="26">Amaterasu.</font>
+
+98
+00:06:40,430 --> 00:06:41,710
+<font face="Roboto Medium" size="26">Right?</font>
+
+99
+00:06:42,240 --> 00:06:45,510
+<font face="Roboto Medium" size="26">Giovanni was looking for 
+the key to Amaterasu.</font>
+
+100
+00:06:45,510 --> 00:06:47,410
+<font face="Roboto Medium" size="26">It must be connected somehow.</font>
+
+101
+00:06:54,860 --> 00:06:56,590
+<font face="Roboto Medium" size="26">Don't try anything funny.</font>
+
+102
+00:06:56,590 --> 00:06:58,090
+<font face="Roboto Medium" size="26">You won't find any vulnerabilities.</font>
+
+103
+00:07:01,050 --> 00:07:02,720
+<font face="Roboto Medium" size="26">What did you say earlier?</font>
+
+104
+00:07:03,050 --> 00:07:05,130
+<font face="Roboto Medium" size="26">"Don't abandon hope."</font>
+
+105
+00:07:05,620 --> 00:07:07,230
+<font face="Roboto Medium" size="26">Those are good words.</font>
+
+106
+00:07:07,830 --> 00:07:09,600
+<font face="Roboto Medium" size="26">They're the commander's words.</font>
+
+107
+00:07:09,600 --> 00:07:12,550
+<font face="Roboto Medium" size="26">Sho-kun's words, huh?</font>
+
+108
+00:07:13,090 --> 00:07:17,450
+<font face="Roboto Medium" size="26">As long as this world still exists,
+we won't give up hope.</font>
+
+109
+00:07:21,960 --> 00:07:22,880
+<font face="Roboto Medium" size="26">Is that...</font>
+
+110
+00:07:23,190 --> 00:07:25,130
+<font face="Roboto Medium" size="26">It's the 8th's Matchbox.</font>
+
+111
+00:07:29,470 --> 00:07:31,260
+<font face="Roboto Medium" size="26">Where are you headed in such a hurry?</font>
+
+112
+00:07:31,260 --> 00:07:33,990
+<font face="Roboto Medium" size="26">Ogun of the 4th! This is an emergency!</font>
+
+113
+00:07:34,800 --> 00:07:36,020
+<font face="Roboto Medium" size="26">Ogun!</font>
+
+114
+00:07:36,020 --> 00:07:37,220
+<font face="Roboto Medium" size="26">Arthur!</font>
+
+115
+00:07:37,220 --> 00:07:40,350
+<font face="Roboto Medium" size="26">We're on our way to Amaterasu!
+You come, too!</font>
+
+116
+00:07:41,320 --> 00:07:44,190
+<font face="Roboto Medium" size="26">That's a super blunt invitation.</font>
+
+117
+00:07:50,470 --> 00:07:53,550
+<font face="Roboto Medium" size="26">Did you see the number of 
+Infernals on your way here?</font>
+
+118
+00:07:53,940 --> 00:07:55,820
+<font face="Roboto Medium" size="26">There were quite a lot of them.</font>
+
+119
+00:07:55,820 --> 00:07:59,890
+<font face="Roboto Medium" size="26">What could be more important 
+than laying Infernals to rest?</font>
+
+120
+00:07:59,890 --> 00:08:03,700
+<font face="Roboto Medium" size="26">The White Clad are attacking 
+my castle, Camelot.</font>
+
+121
+00:08:03,700 --> 00:08:06,560
+<font face="Roboto Medium" size="26">To lay the final preparations 
+for the Great Cataclysm,</font>
+
+122
+00:08:06,560 --> 00:08:09,460
+<font face="Roboto Medium" size="26">the White Clad will attack Amaterasu.</font>
+
+123
+00:08:09,760 --> 00:08:12,390
+<font face="Roboto Medium" size="26">So they've finally made it this far, huh?</font>
+
+124
+00:08:12,870 --> 00:08:16,250
+<font face="Roboto Medium" size="26">Is Shinra okay? I heard he'd disappeared.</font>
+
+125
+00:08:16,250 --> 00:08:17,840
+<font face="Roboto Medium" size="26">He'll come back, right?</font>
+
+126
+00:08:17,840 --> 00:08:21,420
+<font face="Roboto Medium" size="26">Yes. He's already overcome his devil.</font>
+
+127
+00:08:21,640 --> 00:08:24,690
+<font face="Roboto Medium" size="26">Whether it's from Adolla or 
+somewhere else, he'll come back.</font>
+
+128
+00:08:24,690 --> 00:08:28,100
+<font face="Roboto Medium" size="26">Devil, huh? Makes me 
+remember the old days.</font>
+
+129
+00:08:28,100 --> 00:08:29,180
+<font face="Roboto Medium" size="26">The old days?</font>
+
+130
+00:08:29,570 --> 00:08:31,610
+<font face="Roboto Medium" size="26">When we were at the training academy.</font>
+
+131
+00:08:34,230 --> 00:08:35,430
+<font face="Roboto Medium" size="26">Next!</font>
+
+132
+00:08:36,000 --> 00:08:36,930
+<font face="Roboto Medium" size="26">Yes, sir!</font>
+
+133
+00:08:36,930 --> 00:08:38,610
+<font face="Roboto Medium" size="26">I'm Shinra Kusakabe!</font>
+
+134
+00:08:38,610 --> 00:08:41,420
+<font face="Roboto Medium" size="26">After becoming a fire soldier, 
+I want to become a hero!</font>
+
+135
+00:08:46,330 --> 00:08:47,570
+<font face="Roboto Medium" size="26">Next!</font>
+
+136
+00:08:52,410 --> 00:08:53,880
+<font face="Roboto Medium" size="26">Hey, Shinra!</font>
+
+137
+00:08:55,180 --> 00:08:57,240
+<font face="Roboto Medium" size="26">Oh, you're the knight.</font>
+
+138
+00:08:57,940 --> 00:08:59,720
+<font face="Roboto Medium" size="26">Arthur-kun!</font>
+
+139
+00:08:59,720 --> 00:09:01,650
+<font face="Roboto Medium" size="26">Arthur, you're a knight?</font>
+
+140
+00:09:01,650 --> 00:09:03,020
+<font face="Roboto Medium" size="26">Indeed, I am.</font>
+
+141
+00:09:03,580 --> 00:09:04,890
+<font face="Roboto Medium" size="26">That's amazing!</font>
+
+142
+00:09:04,890 --> 00:09:07,310
+<font face="Roboto Medium" size="26">If we're ever in a pinch, 
+come and protect us, okay?</font>
+
+143
+00:09:07,310 --> 00:09:09,220
+<font face="Roboto Medium" size="26">I shall always hasten to your side!</font>
+
+144
+00:09:09,220 --> 00:09:11,080
+<font face="Roboto Medium" size="26">That's a promise, okay?</font>
+
+145
+00:09:11,080 --> 00:09:13,480
+<font face="Roboto Medium" size="26">Isn't Arthur-kun adorable?</font>
+
+146
+00:09:13,480 --> 00:09:16,420
+<font face="Roboto Medium" size="26">I totally get it! 
+I wish I could keep him as a pet.</font>
+
+147
+00:09:16,420 --> 00:09:18,830
+<font face="Roboto Medium" size="26">You seem to already be 
+popular with the girls.</font>
+
+148
+00:09:18,830 --> 00:09:20,710
+<font face="Roboto Medium" size="26">Well, I am a knight.</font>
+
+149
+00:09:20,710 --> 00:09:23,410
+<font face="Roboto Medium" size="26">What's this? Are you two 
+getting along already?</font>
+
+150
+00:09:23,690 --> 00:09:24,500
+<font face="Roboto Medium" size="26">You're...</font>
+
+151
+00:09:24,850 --> 00:09:27,950
+<font face="Roboto Medium" size="26">the new student who's top in both 
+the written and the practical,</font>
+
+152
+00:09:27,950 --> 00:09:29,420
+<font face="Roboto Medium" size="26">Ogun Montgomery.</font>
+
+153
+00:09:29,420 --> 00:09:33,260
+<font face="Roboto Medium" size="26">Well, in the tests, anyway. My personal 
+grades have nothing to do with anything.</font>
+
+154
+00:09:33,260 --> 00:09:35,470
+<font face="Roboto Medium" size="26">Fire soldiers work as a team, right?</font>
+
+155
+00:09:35,760 --> 00:09:37,930
+<font face="Roboto Medium" size="26"><i>He's the ideal fire soldier!</i></font>
+
+156
+00:09:37,930 --> 00:09:42,260
+<font face="Roboto Medium" size="26">And on that team, we need people 
+like you, who aim to become heroes.</font>
+
+157
+00:09:42,260 --> 00:09:46,340
+<font face="Roboto Medium" size="26"><i>And he doesn't forget to follow 
+up on supporting guys like us!</i></font>
+
+158
+00:09:46,710 --> 00:09:49,520
+<font face="Roboto Medium" size="26">Ogun! Could it be that you're a good guy?</font>
+
+159
+00:09:49,520 --> 00:09:53,100
+<font face="Roboto Medium" size="26">Well, I'm no villain. Let's be friends!</font>
+
+160
+00:09:53,780 --> 00:09:55,530
+<font face="Roboto Medium" size="26">Yeah! Glad to!</font>
+
+161
+00:10:04,930 --> 00:10:06,940
+<font face="Roboto Medium" size="26">Did you hear the rumors?</font>
+
+162
+00:10:05,620 --> 00:10:06,290
+<font face="Verdana" size="20"><b>{\an8}<font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+163
+00:10:05,620 --> 00:10:06,290
+<font face="Verdana" size="20"><b><font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+164
+00:10:05,620 --> 00:10:06,290
+<font face="Verdana" size="20"><b><font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+165
+00:10:06,290 --> 00:10:07,040
+<font face="Verdana" size="20"><b>{\an8}<font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+166
+00:10:06,290 --> 00:10:07,040
+<font face="Verdana" size="20"><b>{\an8}<font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+167
+00:10:06,290 --> 00:10:07,040
+<font face="Verdana" size="20"><b>{\an8}<font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+168
+00:10:06,940 --> 00:10:08,500
+<font face="Roboto Medium" size="26">They aren't just rumors.</font>
+
+169
+00:10:07,040 --> 00:10:07,790
+<font face="Verdana" size="20"><b>{\an8}<font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+170
+00:10:07,040 --> 00:10:07,790
+<font face="Verdana" size="20"><b>{\an8}<font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+171
+00:10:07,040 --> 00:10:07,790
+<font face="Verdana" size="20"><b>{\an8}<font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+172
+00:10:07,790 --> 00:10:08,540
+<font face="Verdana" size="20"><b><font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+173
+00:10:07,790 --> 00:10:08,540
+<font face="Verdana" size="20"><b><font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+174
+00:10:07,790 --> 00:10:08,540
+<font face="Verdana" size="20"><b><font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+175
+00:10:08,500 --> 00:10:10,160
+<font face="Roboto Medium" size="26">Apparently, they're true!</font>
+
+176
+00:10:08,540 --> 00:10:09,250
+<font face="Verdana" size="20"><b>{\an8}<font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+177
+00:10:08,540 --> 00:10:09,250
+<font face="Verdana" size="20"><b><font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+178
+00:10:08,540 --> 00:10:09,250
+<font face="Verdana" size="20"><b><font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+179
+00:10:09,290 --> 00:10:10,040
+<font face="Verdana" size="20"><b><font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+180
+00:10:09,290 --> 00:10:10,040
+<font face="Verdana" size="20"><b><font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+181
+00:10:09,290 --> 00:10:10,040
+<font face="Verdana" size="20"><b><font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+182
+00:10:10,160 --> 00:10:11,860
+<font face="Roboto Medium" size="26">He's a devil who killed his parents.</font>
+
+183
+00:10:10,170 --> 00:10:10,750
+<font face="Verdana" size="20"><b><font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+184
+00:10:10,170 --> 00:10:10,750
+<font face="Verdana" size="20"><b><font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+185
+00:10:10,790 --> 00:10:11,460
+<font face="Verdana" size="20"><b>{\an8}<font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+186
+00:10:10,790 --> 00:10:11,460
+<font face="Verdana" size="20"><b><font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+187
+00:10:11,540 --> 00:10:12,250
+<font face="Verdana" size="20"><b><font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+188
+00:10:12,290 --> 00:10:13,050
+<font face="Verdana" size="20"><b><font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+189
+00:10:12,290 --> 00:10:13,050
+<font face="Verdana" size="20"><b><font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+190
+00:10:13,000 --> 00:10:14,020
+<font face="Roboto Medium" size="26">Hey.</font>
+
+191
+00:10:13,050 --> 00:10:13,750
+<font face="Verdana" size="20"><b>{\an8}<font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+192
+00:10:13,050 --> 00:10:13,750
+<font face="Verdana" size="20"><b><font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+193
+00:10:13,800 --> 00:10:14,550
+<font face="Verdana" size="20"><b><font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+194
+00:10:14,020 --> 00:10:16,680
+<font face="Roboto Medium" size="26">He's smiling. That's freaky.</font>
+
+195
+00:10:14,550 --> 00:10:15,300
+<font face="Verdana" size="20"><b><font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+196
+00:10:14,550 --> 00:10:15,300
+<font face="Verdana" size="20"><b><font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+197
+00:10:15,300 --> 00:10:16,010
+<font face="Verdana" size="20"><b>{\an8}<font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+198
+00:10:15,300 --> 00:10:16,010
+<font face="Verdana" size="20"><b><font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+199
+00:10:16,050 --> 00:10:16,670
+<font face="Verdana" size="20"><b><font color="#080304"><font size="15">WHISPER</font></font></b></font>
+
+200
+00:10:18,880 --> 00:10:21,430
+<font face="Roboto Medium" size="26">Shinra, you okay?</font>
+
+201
+00:10:21,430 --> 00:10:23,150
+<font face="Roboto Medium" size="26">Oh, Ogun.</font>
+
+202
+00:10:23,150 --> 00:10:24,470
+<font face="Roboto Medium" size="26">Don't let it get to you.</font>
+
+203
+00:10:25,340 --> 00:10:27,510
+<font face="Roboto Medium" size="26">You don't believe the rumors?</font>
+
+204
+00:10:27,510 --> 00:10:29,430
+<font face="Roboto Medium" size="26">Then did you really...</font>
+
+205
+00:10:29,430 --> 00:10:32,000
+<font face="Roboto Medium" size="26">I-I didn't! Back then, I...</font>
+
+206
+00:10:31,270 --> 00:10:32,700
+<font face="Roboto Medium" size="26">You didn't do it, right?</font>
+
+207
+00:10:32,700 --> 00:10:36,340
+<font face="Roboto Medium" size="26">I wouldn't doubt a friend because 
+of some ridiculous rumors.</font>
+
+208
+00:10:35,730 --> 00:10:36,900
+<font face="Verdana" size="20"><b>{\an8}<font size="30">BOOM</font></b></font>
+
+209
+00:10:36,910 --> 00:10:40,910
+<font face="Roboto Medium" size="26">Besides, we may end up 
+assigned to the same company.</font>
+
+210
+00:10:41,030 --> 00:10:42,620
+<font face="Verdana" size="20"><b>{\an3}<font size="30">GRIN</font></b></font>
+
+211
+00:10:42,620 --> 00:10:44,320
+<font face="Roboto Medium" size="26">So you are a devil after all?</font>
+
+212
+00:10:44,320 --> 00:10:45,500
+<font face="Roboto Medium" size="26">What'd you just say?!</font>
+
+213
+00:10:45,500 --> 00:10:47,900
+<font face="Roboto Medium" size="26">Arthur knows, and he's saying that anyway.</font>
+
+214
+00:10:48,340 --> 00:10:50,910
+<font face="Roboto Medium" size="26">But you really should 
+stop grinning like that.</font>
+
+215
+00:10:51,180 --> 00:10:53,690
+<font face="Roboto Medium" size="26">I can't help it. It's a habit.</font>
+
+216
+00:10:53,690 --> 00:10:55,370
+<font face="Roboto Medium" size="26">Weirdo.</font>
+
+217
+00:10:58,890 --> 00:11:01,830
+<font face="Roboto Medium" size="26">We're gonna bring Shinra back.</font>
+
+218
+00:11:02,670 --> 00:11:03,810
+<font face="Roboto Medium" size="26">We've arrived.</font>
+
+219
+00:11:03,810 --> 00:11:05,460
+<font face="Roboto Medium" size="26">This is my castle.</font>
+
+220
+00:11:17,350 --> 00:11:18,820
+<font face="Roboto Medium" size="26">Vul!</font>
+
+221
+00:11:18,820 --> 00:11:21,240
+<font face="Roboto Medium" size="26">Lisa! Yu! You got here fast!</font>
+
+222
+00:11:21,240 --> 00:11:22,990
+<font face="Roboto Medium" size="26">You two came?</font>
+
+223
+00:11:23,280 --> 00:11:25,290
+<font face="Roboto Medium" size="26">I called them here for backup.</font>
+
+224
+00:11:25,950 --> 00:11:28,640
+<font face="Roboto Medium" size="26">It doesn't look like the 
+White Clad are here yet.</font>
+
+225
+00:11:28,640 --> 00:11:31,330
+<font face="Roboto Medium" size="26">They will definitely come to use the key.</font>
+
+226
+00:11:31,330 --> 00:11:35,070
+<font face="Roboto Medium" size="26">I'll finally learn if I was right about 
+the mystery of the white feather arrows</font>
+
+227
+00:11:35,070 --> 00:11:37,330
+<font face="Roboto Medium" size="26">we saw in the Tabernacle on the continent!</font>
+
+228
+00:11:37,540 --> 00:11:39,420
+<font face="Roboto Medium" size="26">All right! Let's get in there.</font>
+
+229
+00:11:40,040 --> 00:11:43,260
+<font face="Roboto Medium" size="26">Hang on! This area is off-limits!</font>
+
+230
+00:11:43,260 --> 00:11:45,220
+<font face="Roboto Medium" size="26">What are you doing?</font>
+
+231
+00:11:45,220 --> 00:11:47,220
+<font face="Roboto Medium" size="26">We've come to inspect Amaterasu!</font>
+
+232
+00:11:47,930 --> 00:11:49,940
+<font face="Roboto Medium" size="26">We haven't heard anything about that!</font>
+
+233
+00:11:49,940 --> 00:11:50,840
+<font face="Roboto Medium" size="26">Maki.</font>
+
+234
+00:11:50,840 --> 00:11:51,650
+<font face="Roboto Medium" size="26">Yes, sir.</font>
+
+235
+00:11:52,390 --> 00:11:54,090
+<font face="Roboto Medium" size="26">Don't come any closer, or...</font>
+
+236
+00:11:55,670 --> 00:11:58,700
+<font face="Roboto Medium" size="26">You're the ones they're 
+looking for! Company 8!</font>
+
+237
+00:12:01,380 --> 00:12:03,120
+<font face="Roboto Medium" size="26">Spider net.</font>
+
+238
+00:12:03,120 --> 00:12:04,200
+<font face="Roboto Medium" size="26">Sorry about this.</font>
+
+239
+00:12:06,830 --> 00:12:10,300
+<font face="Roboto Medium" size="26">Hey! Is the 8th always 
+doing stuff like this?</font>
+
+240
+00:12:10,300 --> 00:12:13,540
+<font face="Roboto Medium" size="26">It's never been quite this blatant before,</font>
+
+241
+00:12:13,540 --> 00:12:15,740
+<font face="Roboto Medium" size="26">but I think that vibe 
+has always been there.</font>
+
+242
+00:12:21,500 --> 00:12:24,540
+<font face="Roboto Medium" size="26">This is the only entrance into Amaterasu.</font>
+
+243
+00:12:24,540 --> 00:12:27,430
+<font face="Roboto Medium" size="26">All right. We'll fight our 
+defensive battle here.</font>
+
+244
+00:12:27,430 --> 00:12:30,110
+<font face="Roboto Medium" size="26">Vulcan, you take care of 
+the inside of Amaterasu.</font>
+
+245
+00:12:30,110 --> 00:12:31,170
+<font face="Roboto Medium" size="26">Right.</font>
+
+246
+00:12:31,170 --> 00:12:32,730
+<font face="Roboto Medium" size="26">Lisa, Yu!</font>
+
+247
+00:12:32,730 --> 00:12:35,430
+<font face="Roboto Medium" size="26">We're finally heading into 
+my ancestor's legacy!</font>
+
+248
+00:12:35,430 --> 00:12:36,530
+<font face="Roboto Medium" size="26">Yes, sir!</font>
+
+249
+00:12:37,370 --> 00:12:40,300
+<font face="Roboto Medium" size="26">We don't know what may happen inside.</font>
+
+250
+00:12:40,300 --> 00:12:44,100
+<font face="Roboto Medium" size="26">Arthur, accompany Vulcan and 
+the others as their guard.</font>
+
+251
+00:12:45,880 --> 00:12:48,350
+<font face="Roboto Medium" size="26">Guarding the party is a knight's duty.</font>
+
+252
+00:12:48,350 --> 00:12:49,820
+<font face="Roboto Medium" size="26">I accept the mission!</font>
+
+253
+00:12:51,340 --> 00:12:54,380
+<font face="Roboto Medium" size="26">Vulcan, this castle was built 
+by your ancestors, wasn't it?</font>
+
+254
+00:12:54,380 --> 00:12:58,440
+<font face="Roboto Medium" size="26">That's right. Amaterasu is 
+no weapon of destruction.</font>
+
+255
+00:12:58,440 --> 00:13:00,700
+<font face="Roboto Medium" size="26">I won't let them start 
+the Great Cataclysm.</font>
+
+256
+00:13:00,700 --> 00:13:01,780
+<font face="Roboto Medium" size="26">Let's go!</font>
+
+257
+00:13:06,420 --> 00:13:09,180
+<font face="Roboto Medium" size="26">Captain, what do you plan to do?</font>
+
+258
+00:13:09,180 --> 00:13:13,240
+<font face="Roboto Medium" size="26">Today, it's vital that we don't 
+allow the enemy near Amaterasu.</font>
+
+259
+00:13:13,240 --> 00:13:16,080
+<font face="Roboto Medium" size="26">If they get inside, it's all over.</font>
+
+260
+00:13:16,080 --> 00:13:17,640
+<font face="Roboto Medium" size="26">We'll intercept them here!</font>
+
+261
+00:13:17,640 --> 00:13:19,610
+<font face="Roboto Medium" size="26">A head-on collision?</font>
+
+262
+00:13:19,610 --> 00:13:20,840
+<font face="Roboto Medium" size="26">That's right.</font>
+
+263
+00:13:20,840 --> 00:13:23,310
+<font face="Roboto Medium" size="26">Since we were branded rebels, 
+we've had to restrain ourselves.</font>
+
+264
+00:13:23,310 --> 00:13:26,110
+<font face="Roboto Medium" size="26">We're itching for a fight, 
+and look at this situation!</font>
+
+265
+00:13:26,110 --> 00:13:28,370
+<font face="Roboto Medium" size="26">We're gonna save the world 
+with everything we've got!</font>
+
+266
+00:13:28,370 --> 00:13:31,870
+<font face="Roboto Medium" size="26">As soon as we spot the enemy, 
+Arrow and I will begin shooting.</font>
+
+267
+00:13:31,870 --> 00:13:34,990
+<font face="Roboto Medium" size="26">If there's a chance for close combat, 
+Tamaki and I will intercept.</font>
+
+268
+00:13:34,990 --> 00:13:38,330
+<font face="Roboto Medium" size="26">I'll make use of my mobility 
+to disrupt enemy formations.</font>
+
+269
+00:13:38,330 --> 00:13:41,470
+<font face="Roboto Medium" size="26">I'm on offense. I'll hunt 
+down one of the big guns.</font>
+
+270
+00:13:44,780 --> 00:13:45,550
+<font face="Roboto Medium" size="26">They're here.</font>
+
+271
+00:13:50,010 --> 00:13:54,060
+<font face="Roboto Medium" size="26">We'll stop the Great Cataclysm 
+and bring Iris and Kusakabe back!</font>
+
+272
+00:13:54,790 --> 00:13:56,390
+<font face="Roboto Medium" size="26">Begin operations!</font>
+
+273
+00:13:56,390 --> 00:13:57,560
+<font face="Roboto Medium" size="26">Yes, sir!</font>
+
+274
+00:14:03,940 --> 00:14:06,940
+<font face="Times New Roman" size="20"><b><font size="20">Fire Force</font></b></font>
+
+275
+00:14:03,940 --> 00:14:06,940
+<font face="Times New Roman" size="20"><b><font size="15">Chapter 3</font></b></font>
+
+276
+00:14:06,940 --> 00:14:09,950
+<font face="Times New Roman" size="20"><b>{\an2}<font size="40">Fire Force</font></b></font>
+
+277
+00:14:06,940 --> 00:14:09,950
+<font face="Times New Roman" size="20"><b>{\an8}<font size="21">Chapter 3</font></b></font>
+
+278
+00:14:10,220 --> 00:14:13,180
+<font face="Roboto Medium" size="26">The Fire Force? Why are they here?</font>
+
+279
+00:14:13,180 --> 00:14:15,030
+<font face="Roboto Medium" size="26">This isn't what we were told.</font>
+
+280
+00:14:15,030 --> 00:14:17,310
+<font face="Roboto Medium" size="26">But it's within expectations, isn't it?</font>
+
+281
+00:14:17,310 --> 00:14:20,090
+<font face="Roboto Medium" size="26">Don't react to every little thing.</font>
+
+282
+00:14:20,090 --> 00:14:22,720
+<font face="Roboto Medium" size="26">We have as many pawns 
+as we could ever need.</font>
+
+283
+00:14:28,090 --> 00:14:30,290
+<font face="Roboto Medium" size="26">It seems we're already surrounded.</font>
+
+284
+00:14:36,590 --> 00:14:39,400
+<font face="Roboto Medium" size="26">Let's do this, Arrow! 
+Don't let them get close!</font>
+
+285
+00:14:39,400 --> 00:14:40,860
+<font face="Roboto Medium" size="26">I could say the same to you!</font>
+
+286
+00:14:43,190 --> 00:14:45,440
+<font face="Arial Black" size="20"><b><i>{\an8}<font size="30">"Velocity Control"</font></i></b></font>
+
+287
+00:14:46,230 --> 00:14:48,440
+<font face="Arial Black" size="20"><b><i>{\an8}<font size="30">"Acceleration"</font></i></b></font>
+
+288
+00:14:51,780 --> 00:14:54,410
+<font face="Arial Black" size="20"><b><i>{\an8}<font size="30">"Cluster Arrow"</font></i></b></font>
+
+289
+00:15:03,140 --> 00:15:04,150
+<font face="Roboto Medium" size="26">You're pretty good.</font>
+
+290
+00:15:04,150 --> 00:15:05,580
+<font face="Roboto Medium" size="26">So are you.</font>
+
+291
+00:15:06,870 --> 00:15:09,640
+<font face="Roboto Medium" size="26">Tamaki! Take care of the Infernals 
+that made it through the barrage!</font>
+
+292
+00:15:09,640 --> 00:15:10,200
+<font face="Roboto Medium" size="26">Got it!</font>
+
+293
+00:15:27,290 --> 00:15:29,370
+<font face="Roboto Medium" size="26">Come, come...</font>
+
+294
+00:15:29,370 --> 00:15:31,150
+<font face="Roboto Medium" size="26">Great Fiery Infernals.</font>
+
+295
+00:15:34,490 --> 00:15:36,740
+<font face="Arial Black" size="20"><b><i>{\an8}<font size="30">Great Fiery Infernals</font></i></b></font>
+
+296
+00:15:36,740 --> 00:15:39,210
+<font face="Roboto Medium" size="26">For Infernals to be that big...</font>
+
+297
+00:15:39,210 --> 00:15:42,360
+<font face="Roboto Medium" size="26">Just how many people's 
+lives did you toy with?!</font>
+
+298
+00:15:44,410 --> 00:15:45,670
+<font face="Roboto Medium" size="26">It's so tough!</font>
+
+299
+00:15:45,670 --> 00:15:48,010
+<font face="Roboto Medium" size="26">Tamaki and I will handle 
+the regular Infernals!</font>
+
+300
+00:15:48,010 --> 00:15:50,540
+<font face="Roboto Medium" size="26">Lieutenant, you two handle 
+the big Infernals!</font>
+
+301
+00:16:00,900 --> 00:16:02,860
+<font face="Roboto Medium" size="26">You traitor!</font>
+
+302
+00:16:07,720 --> 00:16:09,940
+<font face="Roboto Medium" size="26">Your opponent here is me!</font>
+
+303
+00:16:13,350 --> 00:16:14,610
+<font face="Roboto Medium" size="26">Counter.</font>
+
+304
+00:16:14,780 --> 00:16:16,990
+<font face="Verdana" size="20"><b>{\an8}<font color="#000000"><font size="25">BAM BAM BAM BAM BAM</font></font></b></font>
+
+305
+00:16:19,450 --> 00:16:20,620
+<font face="Roboto Medium" size="26">What?</font>
+
+306
+00:16:21,170 --> 00:16:23,910
+<font face="Roboto Medium" size="26">Rush doesn't leave you any 
+openings to use Counter!</font>
+
+307
+00:16:31,030 --> 00:16:33,600
+<font face="Roboto Medium" size="26">Most of my punches didn't 
+feel like they landed.</font>
+
+308
+00:16:34,000 --> 00:16:36,390
+<font face="Roboto Medium" size="26">That Rush was like a storm.</font>
+
+309
+00:16:36,390 --> 00:16:38,930
+<font face="Roboto Medium" size="26">I took a few hits there.</font>
+
+310
+00:16:40,960 --> 00:16:42,920
+<font face="Roboto Medium" size="26">Ogun! You okay?!</font>
+
+311
+00:16:42,920 --> 00:16:43,840
+<font face="Roboto Medium" size="26">Yes, sir!</font>
+
+312
+00:16:46,440 --> 00:16:48,400
+<font face="Roboto Medium" size="26">I will stop Charon here!</font>
+
+313
+00:16:48,400 --> 00:16:50,680
+<font face="Roboto Medium" size="26">We won't let you trigger 
+the Great Cataclysm!</font>
+
+314
+00:16:50,680 --> 00:16:52,650
+<font face="Roboto Medium" size="26">The Great Cataclysm will happen!</font>
+
+315
+00:16:52,650 --> 00:16:55,600
+<font face="Roboto Medium" size="26">No matter how many people you may 
+have, I won't let you interfere!</font>
+
+316
+00:16:55,650 --> 00:16:55,820
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP
+ THMP</font></font></i></b></font>
+
+317
+00:16:55,650 --> 00:16:55,820
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+318
+00:16:55,650 --> 00:16:55,820
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+319
+00:16:55,650 --> 00:16:55,820
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">THMP THMP</font></font></i></b></font>
+
+320
+00:16:55,650 --> 00:16:55,820
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP</font></font></i></b></font>
+
+321
+00:16:55,910 --> 00:16:56,070
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+322
+00:16:55,910 --> 00:16:56,070
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+323
+00:16:55,910 --> 00:16:56,070
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+324
+00:16:55,910 --> 00:16:56,070
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+325
+00:16:55,910 --> 00:16:56,070
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+326
+00:16:56,160 --> 00:16:56,320
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP
+ THMP</font></font></i></b></font>
+
+327
+00:16:56,160 --> 00:16:56,320
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+328
+00:16:56,160 --> 00:16:56,320
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP</font></font></i></b></font>
+
+329
+00:16:56,160 --> 00:16:56,320
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP</font></font></i></b></font>
+
+330
+00:16:56,160 --> 00:16:56,320
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+331
+00:16:56,160 --> 00:16:56,320
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+332
+00:16:56,290 --> 00:16:59,830
+<font face="Roboto Medium" size="26">I have a duty and responsibility to 
+protect the citizens of the empire!</font>
+
+333
+00:16:56,410 --> 00:16:56,570
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP</font></font></i></b></font>
+
+334
+00:16:56,410 --> 00:16:56,570
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP</font></font></i></b></font>
+
+335
+00:16:56,410 --> 00:16:56,570
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+336
+00:16:56,410 --> 00:16:56,570
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+337
+00:16:56,410 --> 00:16:56,570
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+338
+00:16:56,410 --> 00:16:56,570
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP
+ THMP</font></font></i></b></font>
+
+339
+00:16:56,660 --> 00:16:56,820
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP
+ THMP</font></font></i></b></font>
+
+340
+00:16:56,660 --> 00:16:56,820
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+341
+00:16:56,660 --> 00:16:56,820
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+342
+00:16:56,660 --> 00:16:56,820
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+343
+00:16:56,660 --> 00:16:56,820
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP</font></font></i></b></font>
+
+344
+00:16:56,910 --> 00:16:57,070
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+345
+00:16:56,910 --> 00:16:57,070
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+346
+00:16:56,910 --> 00:16:57,070
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+347
+00:16:56,910 --> 00:16:57,070
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+348
+00:16:56,910 --> 00:16:57,070
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+349
+00:16:57,160 --> 00:16:57,320
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP
+ THMP</font></font></i></b></font>
+
+350
+00:16:57,160 --> 00:16:57,320
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP</font></font></i></b></font>
+
+351
+00:16:57,160 --> 00:16:57,320
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP</font></font></i></b></font>
+
+352
+00:16:57,160 --> 00:16:57,320
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+353
+00:16:57,160 --> 00:16:57,320
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+354
+00:16:57,160 --> 00:16:57,320
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+355
+00:16:57,410 --> 00:16:57,570
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP</font></font></i></b></font>
+
+356
+00:16:57,410 --> 00:16:57,570
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP</font></font></i></b></font>
+
+357
+00:16:57,410 --> 00:16:57,570
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+358
+00:16:57,410 --> 00:16:57,570
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+359
+00:16:57,410 --> 00:16:57,570
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+360
+00:16:57,410 --> 00:16:57,570
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP
+ THMP</font></font></i></b></font>
+
+361
+00:16:57,660 --> 00:16:57,820
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP
+ THMP</font></font></i></b></font>
+
+362
+00:16:57,660 --> 00:16:57,820
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+363
+00:16:57,660 --> 00:16:57,820
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+364
+00:16:57,660 --> 00:16:57,820
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+365
+00:16:57,660 --> 00:16:57,820
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP</font></font></i></b></font>
+
+366
+00:16:57,910 --> 00:16:58,070
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+367
+00:16:57,910 --> 00:16:58,070
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+368
+00:16:57,910 --> 00:16:58,070
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+369
+00:16:57,910 --> 00:16:58,070
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+370
+00:16:57,910 --> 00:16:58,070
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+371
+00:16:58,160 --> 00:16:58,320
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP
+ THMP</font></font></i></b></font>
+
+372
+00:16:58,160 --> 00:16:58,320
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+373
+00:16:58,160 --> 00:16:58,320
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+374
+00:16:58,160 --> 00:16:58,320
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+375
+00:16:58,160 --> 00:16:58,320
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP</font></font></i></b></font>
+
+376
+00:16:58,160 --> 00:16:58,320
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP</font></font></i></b></font>
+
+377
+00:16:58,410 --> 00:16:58,580
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP</font></font></i></b></font>
+
+378
+00:16:58,410 --> 00:16:58,580
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP</font></font></i></b></font>
+
+379
+00:16:58,410 --> 00:16:58,580
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+380
+00:16:58,410 --> 00:16:58,580
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+381
+00:16:58,410 --> 00:16:58,580
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+382
+00:16:58,410 --> 00:16:58,580
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP
+ THMP</font></font></i></b></font>
+
+383
+00:16:58,660 --> 00:16:58,830
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP
+ THMP</font></font></i></b></font>
+
+384
+00:16:58,660 --> 00:16:58,830
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+385
+00:16:58,660 --> 00:16:58,830
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+386
+00:16:58,660 --> 00:16:58,830
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+387
+00:16:58,660 --> 00:16:58,830
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP</font></font></i></b></font>
+
+388
+00:16:58,910 --> 00:16:59,080
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+389
+00:16:58,910 --> 00:16:59,080
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+390
+00:16:58,910 --> 00:16:59,080
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+391
+00:16:58,910 --> 00:16:59,080
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+392
+00:16:58,910 --> 00:16:59,080
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+393
+00:16:59,160 --> 00:16:59,330
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP
+ THMP</font></font></i></b></font>
+
+394
+00:16:59,160 --> 00:16:59,330
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+395
+00:16:59,160 --> 00:16:59,330
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP</font></font></i></b></font>
+
+396
+00:16:59,160 --> 00:16:59,330
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+397
+00:16:59,160 --> 00:16:59,330
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+398
+00:16:59,160 --> 00:16:59,330
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP</font></font></i></b></font>
+
+399
+00:16:59,410 --> 00:16:59,580
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP</font></font></i></b></font>
+
+400
+00:16:59,410 --> 00:16:59,580
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP</font></font></i></b></font>
+
+401
+00:16:59,410 --> 00:16:59,580
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+402
+00:16:59,410 --> 00:16:59,580
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+403
+00:16:59,410 --> 00:16:59,580
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+404
+00:16:59,410 --> 00:16:59,580
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP
+ THMP</font></font></i></b></font>
+
+405
+00:16:59,660 --> 00:16:59,830
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP
+ THMP</font></font></i></b></font>
+
+406
+00:16:59,660 --> 00:16:59,830
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+407
+00:16:59,660 --> 00:16:59,830
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+408
+00:16:59,660 --> 00:16:59,830
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP THMP</font></font></i></b></font>
+
+409
+00:16:59,660 --> 00:16:59,830
+<font face="Verdana" size="20"><b><i><font color="#222124"><font size="15">{\an8}THMP</font></font></i></b></font>
+
+410
+00:16:59,830 --> 00:17:01,510
+<font face="Roboto Medium" size="26">What duty?</font>
+
+411
+00:17:01,510 --> 00:17:03,490
+<font face="Roboto Medium" size="26">There is no such thing!</font>
+
+412
+00:17:03,490 --> 00:17:04,990
+<font face="Roboto Medium" size="26">Stomp!</font>
+
+413
+00:17:06,600 --> 00:17:09,790
+<font face="Roboto Medium" size="26">The responsibility springs from 
+the previous Great Cataclysm!</font>
+
+414
+00:17:11,950 --> 00:17:12,800
+<font face="Roboto Medium" size="26">Clap!</font>
+
+415
+00:17:18,090 --> 00:17:18,550
+<font face="Verdana" size="20"><b><font color="#59ff18">SNAP</font></b></font>
+
+416
+00:17:20,200 --> 00:17:22,560
+<font face="Roboto Medium" size="26">Crap! Your whole body is a bomb?!</font>
+
+417
+00:17:23,280 --> 00:17:26,130
+<font face="Roboto Medium" size="26">To help... To save...</font>
+
+418
+00:17:26,480 --> 00:17:30,610
+<font face="Roboto Medium" size="26">It sounds good, but for people who 
+feel like just living is torment,</font>
+
+419
+00:17:30,610 --> 00:17:32,630
+<font face="Roboto Medium" size="26">this world is hell itself.</font>
+
+420
+00:17:33,040 --> 00:17:34,860
+<font face="Roboto Medium" size="26">There is salvation in destruction, too!</font>
+
+421
+00:17:38,340 --> 00:17:41,480
+<font face="Roboto Medium" size="26">And that's why you're 
+gonna blow it all away?!</font>
+
+422
+00:17:44,080 --> 00:17:46,450
+<font face="Roboto Medium" size="26">The immigrants living 
+in Tokyo right now</font>
+
+423
+00:17:46,450 --> 00:17:48,670
+<font face="Roboto Medium" size="26">were brought here by my ancestors.</font>
+
+424
+00:17:48,670 --> 00:17:51,380
+<font face="Roboto Medium" size="26">I cannot abandon those people!</font>
+
+425
+00:17:51,880 --> 00:17:53,760
+<font face="Roboto Medium" size="26">My ancestor was a ship captain.</font>
+
+426
+00:17:53,760 --> 00:17:55,700
+<font face="Roboto Medium" size="26">During the last Great Cataclysm,</font>
+
+427
+00:17:55,700 --> 00:17:59,340
+<font face="Roboto Medium" size="26">he allowed everyone on board, 
+regardless of race and social status.</font>
+
+428
+00:17:59,790 --> 00:18:03,310
+<font face="Roboto Medium" size="26">When the Great Cataclysm made the route 
+rough and the passengers grew afraid,</font>
+
+429
+00:18:03,310 --> 00:18:05,640
+<font face="Roboto Medium" size="26">my ancestor sang reggae songs of love.</font>
+
+430
+00:18:05,640 --> 00:18:08,890
+<font face="Roboto Medium" size="26">He gave them courage and a sense 
+of safety as they crossed the sea.</font>
+
+431
+00:18:10,500 --> 00:18:14,230
+<font face="Roboto Medium" size="26">He let aboard the future 
+Raffles I and many others,</font>
+
+432
+00:18:14,230 --> 00:18:16,520
+<font face="Roboto Medium" size="26">and he brought them here, to Tokyo!</font>
+
+433
+00:18:17,180 --> 00:18:19,690
+<font face="Roboto Medium" size="26">I became a fire soldier 
+to take responsibility</font>
+
+434
+00:18:19,690 --> 00:18:23,030
+<font face="Roboto Medium" size="26">for protecting all those 
+people he brought here!</font>
+
+435
+00:18:23,030 --> 00:18:26,180
+<font face="Roboto Medium" size="26">I have a duty to protect 
+those people to the very end!</font>
+
+436
+00:18:29,020 --> 00:18:31,320
+<font face="Roboto Medium" size="26">Flamy Ink!</font>
+
+437
+00:18:33,160 --> 00:18:35,000
+<font face="Roboto Medium" size="26">Let's get this party started!</font>
+
+438
+00:18:35,970 --> 00:18:39,930
+<font face="Roboto Medium" size="26"><i>Charon will absorb this 
+attack and counter-attack.</i></font>
+
+439
+00:18:42,600 --> 00:18:45,680
+<font face="Roboto Medium" size="26">Why would you assume that 
+I have to take your first strike?</font>
+
+440
+00:18:48,100 --> 00:18:48,850
+<font face="Verdana" size="20"><b>CREAK</b></font>
+
+441
+00:18:48,560 --> 00:18:49,140
+<font face="Verdana" size="20"><b>{\an8}CRACKLE</b></font>
+
+442
+00:18:55,110 --> 00:18:56,940
+<font face="Roboto Medium" size="26">That's one.</font>
+
+443
+00:18:56,940 --> 00:18:58,520
+<font face="Roboto Medium" size="26">Which one of you is next?</font>
+
+444
+00:18:58,520 --> 00:18:59,230
+<font face="Roboto Medium" size="26">Ogun!</font>
+
+445
+00:18:59,940 --> 00:19:03,530
+<font face="Roboto Medium" size="26">No human exists that can 
+defeat that invincible man!</font>
+
+446
+00:19:04,180 --> 00:19:07,160
+<font face="Roboto Medium" size="26">Anyone'll do. Come at me.</font>
+
+447
+00:19:07,950 --> 00:19:09,840
+<font face="Roboto Medium" size="26">It's still me.</font>
+
+448
+00:19:12,170 --> 00:19:15,260
+<font face="Roboto Medium" size="26">I can still fight!</font>
+
+449
+00:19:17,500 --> 00:19:20,190
+<font face="Roboto Medium" size="26"><i>The impact of my punches 
+gets completely swallowed!</i></font>
+
+450
+00:19:20,430 --> 00:19:21,880
+<font face="Roboto Medium" size="26"><i>Counter?</i></font>
+
+451
+00:19:21,880 --> 00:19:26,110
+<font face="Roboto Medium" size="26"><i>He can't absorb and release 
+stored-up energy at the same time!</i></font>
+
+452
+00:19:26,110 --> 00:19:27,860
+<font face="Roboto Medium" size="26"><i>I'll counter this Counter!</i></font>
+
+453
+00:19:28,470 --> 00:19:29,180
+<font face="Roboto Medium" size="26"><i>There!</i></font>
+
+454
+00:19:32,140 --> 00:19:33,960
+<font face="Roboto Medium" size="26">If it's just a regular strike,</font>
+
+455
+00:19:33,960 --> 00:19:37,310
+<font face="Roboto Medium" size="26">I can maintain my absorption 
+and attack at the same time.</font>
+
+456
+00:19:39,960 --> 00:19:41,350
+<font face="Roboto Medium" size="26"><i>He's too powerful.</i></font>
+
+457
+00:19:42,120 --> 00:19:45,060
+<font face="Roboto Medium" size="26"><i>How can I stop a monster like him?</i></font>
+
+458
+00:19:46,670 --> 00:19:49,770
+<font face="Roboto Medium" size="26">If one can't stop 'em, 
+then stop 'em with two!</font>
+
+459
+00:19:50,370 --> 00:19:52,930
+<font face="Roboto Medium" size="26">That's why team sports are fun!</font>
+
+460
+00:19:52,930 --> 00:19:56,190
+<font face="Roboto Medium" size="26">And any team Ogun joins is bound to win.</font>
+
+461
+00:19:56,190 --> 00:19:57,400
+<font face="Roboto Medium" size="26">Hey, Shinra!</font>
+
+462
+00:19:57,400 --> 00:19:58,340
+<font face="Roboto Medium" size="26">S-Seriously?</font>
+
+463
+00:19:58,600 --> 00:19:59,540
+<font face="Roboto Medium" size="26">Ogun.</font>
+
+464
+00:19:59,540 --> 00:20:01,760
+<font face="Roboto Medium" size="26">You should come play basketball, too!</font>
+
+465
+00:20:03,580 --> 00:20:05,960
+<font face="Roboto Medium" size="26">If Kusakabe's joining in, I'm going home.</font>
+
+466
+00:20:05,960 --> 00:20:07,980
+<font face="Roboto Medium" size="26">I think I'm done for today, too.</font>
+
+467
+00:20:07,980 --> 00:20:10,950
+<font face="Roboto Medium" size="26">Me, too. I'm not playing with a devil.</font>
+
+468
+00:20:18,300 --> 00:20:20,120
+<font face="Roboto Medium" size="26">You're up next, Shinra.</font>
+
+469
+00:20:20,120 --> 00:20:22,340
+<font face="Roboto Medium" size="26">Damn it, I can't stop you.</font>
+
+470
+00:20:22,940 --> 00:20:25,580
+<font face="Roboto Medium" size="26">Looks like I have the 
+advantage in basketball.</font>
+
+471
+00:20:25,580 --> 00:20:27,310
+<font face="Roboto Medium" size="26">Can't help it when we're 
+playing one-on-one.</font>
+
+472
+00:20:27,650 --> 00:20:31,590
+<font face="Roboto Medium" size="26">And it's not like basketball is meant 
+to be played one-on-one anyway.</font>
+
+473
+00:20:31,590 --> 00:20:32,920
+<font face="Roboto Medium" size="26">I guess.</font>
+
+474
+00:20:33,160 --> 00:20:35,130
+<font face="Roboto Medium" size="26">We're a team.</font>
+
+475
+00:20:35,130 --> 00:20:37,620
+<font face="Roboto Medium" size="26">If one can't stop 'em, 
+then stop 'em with two!</font>
+
+476
+00:20:38,080 --> 00:20:40,830
+<font face="Roboto Medium" size="26">Is that why you make yourself trust me?</font>
+
+477
+00:20:40,830 --> 00:20:42,590
+<font face="Roboto Medium" size="26">What?</font>
+
+478
+00:20:45,670 --> 00:20:46,340
+<font face="Roboto Medium" size="26">Ow!</font>
+
+479
+00:20:46,340 --> 00:20:47,810
+<font face="Roboto Medium" size="26">Anyone should be able to tell!</font>
+
+480
+00:20:47,810 --> 00:20:50,110
+<font face="Roboto Medium" size="26">You're not that kind of guy!</font>
+
+481
+00:20:53,750 --> 00:20:55,860
+<font face="Roboto Medium" size="26">You still have time to turn the tables!</font>
+
+482
+00:20:55,860 --> 00:20:58,240
+<font face="Roboto Medium" size="26">Let's keep playing!</font>
+
+483
+00:21:02,330 --> 00:21:03,730
+<font face="Roboto Medium" size="26">It's no use.</font>
+
+484
+00:21:03,730 --> 00:21:05,940
+<font face="Roboto Medium" size="26">You have no chance of winning.</font>
+
+485
+00:21:08,250 --> 00:21:09,360
+<font face="Roboto Medium" size="26">I...</font>
+
+486
+00:21:09,680 --> 00:21:11,170
+<font face="Roboto Medium" size="26">will not give up.</font>
+
+487
+00:21:30,220 --> 00:21:32,620
+<font face="Roboto Medium" size="26">You're so battered, you can't even stand.</font>
+
+488
+00:21:37,300 --> 00:21:42,020
+<font face="Roboto Medium" size="26">You're just using the flames plastered 
+on your body to force yourself upright.</font>
+
+489
+00:21:47,250 --> 00:21:50,330
+<font face="Roboto Medium" size="26">You have no strength left.</font>
+
+490
+00:21:50,600 --> 00:21:55,040
+<font face="Roboto Medium" size="26">If you'd just kept quiet, you probably 
+would've lived to the day of destruction.</font>
+
+491
+00:21:58,190 --> 00:21:59,980
+<font face="Roboto Medium" size="26">I am not alone.</font>
+
+492
+00:22:00,390 --> 00:22:02,880
+<font face="Roboto Medium" size="26">Fire soldiers are a team.</font>
+
+493
+00:22:15,210 --> 00:22:16,940
+<font face="Roboto Medium" size="26">What?</font>
+
+494
+00:22:18,350 --> 00:22:22,070
+<font face="Roboto Medium" size="26">If you can't stop 'em alone, 
+you stop 'em with two.</font>
+
+495
+00:22:22,070 --> 00:22:23,980
+<font face="Roboto Medium" size="26">It's an ironclad rule 
+among fire soldiers.</font>
+
+496
+00:22:24,330 --> 00:22:26,850
+<font face="Roboto Medium" size="26">The 8th are battle-hardened veterans.</font>
+
+497
+00:22:26,850 --> 00:22:29,770
+<font face="Roboto Medium" size="26">They'd never let this chance slip away!</font>
+
+498
+00:22:37,500 --> 00:22:42,000
+<font face="Verdana" size="20"><b>{\an1}<font size="22">To Be Continued</font></b></font>
+
+499
+00:24:11,920 --> 00:24:13,970
+<font face="Times New Roman" size="20"><b><font size="40">Fire Force Chapter 3</font></b></font>
+
+500
+00:24:14,250 --> 00:24:20,870
+<font face="Roboto Medium" size="26">And this planet, with the coming Great 
+Cataclysm, will become a second sun!</font>
+
+501
+00:24:14,300 --> 00:24:22,310
+<font face="Times New Roman" size="20"><b><font size="40">Next Time</font></b></font>
+
+502
+00:24:16,310 --> 00:24:21,880
+<font face="Roboto Medium" size="26">{\an8}As your big brother, I vowed that I would 
+protect you two, no matter what.</font>
+
+503
+00:24:21,880 --> 00:24:23,900
+<font face="Roboto Medium" size="26">Next time, "Incantation of Destruction."</font>
+
+504
+00:24:22,600 --> 00:24:27,010
+<font face="Times New Roman" size="20"><b><font size="27">Episode 18</font></b></font>
+
+505
+00:24:22,600 --> 00:24:27,010
+<font face="Times New Roman" size="20"><b>{\an8}<font size="40">Incantation of Destruction</font></b></font>
+
+506
+00:24:23,900 --> 00:24:26,810
+<font face="Roboto Medium" size="26">Return to the great flame of fire. Látom.</font>
+
