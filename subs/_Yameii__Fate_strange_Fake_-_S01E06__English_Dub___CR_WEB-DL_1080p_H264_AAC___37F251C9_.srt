@@ -1,0 +1,12 @@
+1
+00:12:34,320 --> 00:12:36,650
+<font face="Gandhi Sans" size="24"><b>{\an8}"HEY, CAN YOU PUSH THE BUTTON?"</b></font>
+
+2
+00:12:45,870 --> 00:12:47,870
+<font face="Gandhi Sans" size="24"><b>{\an8}STOP</b></font>
+
+3
+00:22:07,510 --> 00:22:10,020
+<font face="Gandhi Sans" size="24"><b>{\an8}EPISODE 6</b></font>
+
