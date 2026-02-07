@@ -1,0 +1,34 @@
+1
+00:00:32,380 --> 00:00:38,140
+<font size="24"><b>{\an8}<font size="26"><font face="Georgia"><font color="#fdfbfc">Beyond Journey's End</font></font></font></b></font>
+
+2
+00:02:22,240 --> 00:02:29,250
+<font size="24"><b>{\an8}<font size="33"><font face="Georgia"><font color="#9eccf8">Beyond Journey's End</font></font></font></b></font>
+
+3
+00:03:26,970 --> 00:03:30,980
+<font face="Times New Roman" size="12"><b>{\an9}29 years after the death of Himmel the Hero,
+in the Saum Marshes, located in the northern lands</b></font>
+
+4
+00:13:22,030 --> 00:13:25,030
+<font face="Times New Roman">{\an7}<font color="#f7fffa">Episode 29: Shall We Go, Then?</font></font>
+
+5
+00:13:25,020 --> 00:13:29,030
+<font face="Times New Roman" size="12"><b>{\an9}29 years after the death of Himmel the Hero,
+in the Great Sanft Forest, located in the northern lands</b></font>
+
+6
+00:23:58,030 --> 00:24:00,090
+<font face="Times New Roman" size="24">{\an8}<font color="#000000">Episode 30
+
+
+
+
+
+
+
+The Hero of the South</font></font>
+
