@@ -1,0 +1,1358 @@
+1
+00:00:00,000 --> 00:00:04,980
+<font size="40"><b><font color="#f5d253">{\an8}Golden Kamuy</font></b></font>
+
+2
+00:00:01,330 --> 00:00:04,980
+<font face="Roboto Medium" size="26"><i>Thinking back, those were 
+his last words to me.</i></font>
+
+3
+00:00:05,510 --> 00:00:08,150
+<font face="Roboto Medium" size="26">I'm praying for Asirpa's happiness.</font>
+
+4
+00:00:08,760 --> 00:00:12,890
+<font face="Roboto Medium" size="26">I don't want her to be someone who stays 
+in a safe place while others fight,</font>
+
+5
+00:00:12,890 --> 00:00:19,120
+<font face="Roboto Medium" size="26">but to be someone who chooses the path 
+of thorns to find her own happiness.</font>
+
+6
+00:00:19,950 --> 00:00:21,230
+<font face="Roboto Medium" size="26">Like Sofia.</font>
+
+7
+00:00:24,690 --> 00:00:26,750
+<font face="Roboto Medium" size="26">That's who Aca is.</font>
+
+8
+00:00:29,160 --> 00:00:33,710
+<font face="Roboto Medium" size="26">That's right. If he just 
+wanted to protect his family,</font>
+
+9
+00:00:33,710 --> 00:00:36,300
+<font face="Roboto Medium" size="26">he could've chosen to live in 
+hiding instead of fighting.</font>
+
+10
+00:00:36,540 --> 00:00:41,560
+<font face="Roboto Medium" size="26">And then everyone would forget the 
+words of the Ainu and the kamuy.</font>
+
+11
+00:00:43,740 --> 00:00:47,140
+<font face="Roboto Medium" size="26">Everything that helps in life 
+is believed to be a kamuy,</font>
+
+12
+00:00:47,590 --> 00:00:50,290
+<font face="Roboto Medium" size="26">and the stories of the 
+kamuy that are passed from</font>
+
+13
+00:00:50,600 --> 00:00:54,030
+<font face="Roboto Medium" size="26">parent to child teach us 
+how to live in this land!</font>
+
+14
+00:00:55,000 --> 00:00:58,240
+<font face="Roboto Medium" size="26">If we forget the kamuy, 
+the Ainu will disappear!</font>
+
+15
+00:00:58,490 --> 00:01:05,830
+<font face="Roboto Medium" size="26">And now I'll tell you the horrible 
+fate that Wilk and his friends met,</font>
+
+16
+00:01:06,190 --> 00:01:08,790
+<font face="Roboto Medium" size="26">battling to protect the kamuy!</font>
+
+17
+00:01:11,440 --> 00:01:16,280
+<font face="Times New Roman" size="12" color="#62000d"><b>{\an3}Episode Fifty-Five:
+<font size="18">The Cause of Everything</font></b></font>
+
+18
+00:01:15,830 --> 00:01:17,570
+<font face="Roboto Medium" size="26">Just as Wilk</font>
+
+19
+00:01:17,570 --> 00:01:21,680
+<font face="Roboto Medium" size="26">and his friends were going to find the 
+old man who knew where the gold was,</font>
+
+20
+00:01:22,100 --> 00:01:27,100
+<font face="Roboto Medium" size="26">we'd found out where information 
+about him had come from.</font>
+
+21
+00:01:27,690 --> 00:01:32,270
+<font face="Roboto Medium" size="26">A man named Siromakur. 
+Ariko Rikimatsu's father.</font>
+
+22
+00:01:32,930 --> 00:01:36,990
+<font face="Roboto Medium" size="26">He was the first to find 
+the old man named Kimuspu.</font>
+
+23
+00:01:40,410 --> 00:01:42,330
+<font face="Roboto Medium" size="26">A beautiful carving.</font>
+
+24
+00:01:42,740 --> 00:01:45,320
+<font face="Roboto Medium" size="26">This pattern has been 
+passed down in my family.</font>
+
+25
+00:01:45,320 --> 00:01:49,780
+<font face="Roboto Medium" size="26">I'm making it for my son in the army. 
+So that he won't forget the Ainu.</font>
+
+26
+00:01:50,330 --> 00:01:55,780
+<font face="Roboto Medium" size="26">Ariko-san, we in the 7th 
+Division are like a family.</font>
+
+27
+00:01:56,150 --> 00:01:59,930
+<font face="Roboto Medium" size="26">When the battle begins, we risk 
+our lives for one another.</font>
+
+28
+00:02:00,150 --> 00:02:03,510
+<font face="Roboto Medium" size="26">Of course, that goes for 
+Rikimatsu-kun as well.</font>
+
+29
+00:02:03,510 --> 00:02:08,730
+<font face="Roboto Medium" size="26">If you truly trust 
+Rikimatsu-kun like family...</font>
+
+30
+00:02:11,950 --> 00:02:15,580
+<font face="Roboto Medium" size="26">We captured the old man over a month ago.</font>
+
+31
+00:02:16,100 --> 00:02:18,650
+<font face="Roboto Medium" size="26">We've probably found the gold by now.</font>
+
+32
+00:02:19,050 --> 00:02:23,490
+<font face="Roboto Medium" size="26">Why didn't you go to 
+find it with the others?</font>
+
+33
+00:02:23,490 --> 00:02:27,750
+<font face="Roboto Medium" size="26">Because I couldn't agree 
+with how they do things.</font>
+
+34
+00:02:28,440 --> 00:02:31,500
+<font face="Roboto Medium" size="26">When Kimuspu refused to 
+tell us where the gold was,</font>
+
+35
+00:02:31,850 --> 00:02:35,840
+<font face="Roboto Medium" size="26">the more short-tempered 
+ones began to threaten him.</font>
+
+36
+00:02:36,460 --> 00:02:38,910
+<font face="Roboto Medium" size="26">They even said that if he didn't 
+tell us where the gold was,</font>
+
+37
+00:02:38,910 --> 00:02:42,300
+<font face="Roboto Medium" size="26">they'd find his family and harm them.</font>
+
+38
+00:02:42,690 --> 00:02:44,890
+<font face="Roboto Medium" size="26">I couldn't allow that!</font>
+
+39
+00:02:45,170 --> 00:02:48,470
+<font face="Roboto Medium" size="26">It was smart to part ways 
+with those who would try to</font>
+
+40
+00:02:48,470 --> 00:02:50,850
+<font face="Roboto Medium" size="26">divide the Japanese and Ainu.</font>
+
+41
+00:02:51,260 --> 00:02:53,550
+<font face="Roboto Medium" size="26">Now that we know of 
+this plan for rebellion,</font>
+
+42
+00:02:53,550 --> 00:02:56,900
+<font face="Roboto Medium" size="26">the 7th Division must take action.</font>
+
+43
+00:02:57,720 --> 00:03:00,300
+<font face="Roboto Medium" size="26">Tell us everything, Ariko-san.</font>
+
+44
+00:03:00,890 --> 00:03:04,440
+<font face="Roboto Medium" size="26">For the sake of those young Ainu 
+who live as Japanese, as well.</font>
+
+45
+00:03:06,610 --> 00:03:09,120
+<font face="Roboto Medium" size="26">I understand how they feel.</font>
+
+46
+00:03:09,690 --> 00:03:15,790
+<font face="Roboto Medium" size="26">I worked with them, thinking there was 
+a way to use the gold without violence.</font>
+
+47
+00:03:16,150 --> 00:03:18,480
+<font face="Roboto Medium" size="26">But those six, especially,</font>
+
+48
+00:03:18,480 --> 00:03:21,340
+<font face="Roboto Medium" size="26">are all difficult men with little 
+relationship to one another.</font>
+
+49
+00:03:21,890 --> 00:03:26,930
+<font face="Roboto Medium" size="26">Only their extremist beliefs about 
+the Japanese bring them together.</font>
+
+50
+00:03:27,460 --> 00:03:31,940
+<font face="Roboto Medium" size="26">And one very clever man is all 
+that keeps them working together.</font>
+
+51
+00:03:34,670 --> 00:03:39,570
+<font face="Roboto Medium" size="26">So it's true that the Ainu 
+near the Saru River eat dirt, huh?</font>
+
+52
+00:03:39,980 --> 00:03:46,280
+<font face="Roboto Medium" size="26">We call it cietoy, "the dirt that we 
+eat". We've eaten it for generations!</font>
+
+53
+00:03:46,560 --> 00:03:50,550
+<font face="Roboto Medium" size="26">The Japanese will call you cows and dogs!</font>
+
+54
+00:03:50,550 --> 00:03:51,790
+<font face="Roboto Medium" size="26">That's right.</font>
+
+55
+00:03:52,140 --> 00:03:55,850
+<font face="Roboto Medium" size="26">I've got less respect for you for 
+giving a shit what the Japanese think.</font>
+
+56
+00:03:55,850 --> 00:03:58,350
+<font face="Roboto Medium" size="26">What the hell did you say?</font>
+
+57
+00:03:58,350 --> 00:03:59,790
+<font face="Roboto Medium" size="26">What, you want to fight?</font>
+
+58
+00:03:59,790 --> 00:04:02,420
+<font face="Roboto Medium" size="26">Cietoi is called diatomaceous earth.</font>
+
+59
+00:04:02,810 --> 00:04:05,800
+<font face="Roboto Medium" size="26">It's a fossil made from a type of algae.</font>
+
+60
+00:04:06,330 --> 00:04:11,050
+<font face="Roboto Medium" size="26">It's eaten around the world by 
+tribes like those native to America.</font>
+
+61
+00:04:11,560 --> 00:04:15,620
+<font face="Roboto Medium" size="26">In Karafuto, there's a dish called 
+chikaripe that uses diatomaceous earth.</font>
+
+62
+00:04:15,620 --> 00:04:17,580
+<font face="Roboto Medium" size="26">It was the best food we had.</font>
+
+63
+00:04:18,130 --> 00:04:21,150
+<font face="Roboto Medium" size="26">It mellows out the seal fat.</font>
+
+64
+00:04:22,250 --> 00:04:24,450
+<font face="Roboto Medium" size="26">You really do know everything.</font>
+
+65
+00:04:24,450 --> 00:04:27,030
+<font face="Roboto Medium" size="26">You really are amazing.</font>
+
+66
+00:04:27,870 --> 00:04:29,940
+<font face="Roboto Medium" size="26">This is pretty good. I'll take seconds.</font>
+
+67
+00:04:29,940 --> 00:04:31,490
+<font face="Roboto Medium" size="26">Aw, you...</font>
+
+68
+00:04:33,230 --> 00:04:35,810
+<font face="Roboto Medium" size="26">Discrimination is born of ignorance.</font>
+
+69
+00:04:35,810 --> 00:04:38,480
+<font face="Roboto Medium" size="26">If nothing else, the Ainu 
+must understand each other,</font>
+
+70
+00:04:38,480 --> 00:04:39,560
+<font face="Roboto Medium" size="26">and come together as one...</font>
+
+71
+00:04:41,550 --> 00:04:43,260
+<font face="Roboto Medium" size="26">Where does this Ainu live?</font>
+
+72
+00:04:45,390 --> 00:04:48,460
+<font face="Roboto Medium" size="26">He lives in Bihoro or Nemuro.</font>
+
+73
+00:04:50,100 --> 00:04:52,980
+<font face="Roboto Medium" size="26">He's from Karafuto, I know that much.</font>
+
+74
+00:04:53,290 --> 00:04:57,310
+<font face="Roboto Medium" size="26">Can you tell me his name? 
+What he looks like?</font>
+
+75
+00:05:00,650 --> 00:05:02,230
+<font face="Roboto Medium" size="26">Father...</font>
+
+76
+00:05:04,790 --> 00:05:07,450
+<font face="Roboto Medium" size="26">Everyone calls him "Wilk".</font>
+
+77
+00:05:07,880 --> 00:05:11,490
+<font face="Roboto Medium" size="26">He has blue eyes and a scar on his face.</font>
+
+78
+00:05:17,450 --> 00:05:21,880
+<font face="Roboto Medium" size="26"><i>So he's come back into my life once more?</i></font>
+
+79
+00:05:24,580 --> 00:05:28,550
+<font face="Roboto Medium" size="26">I fired a single poison arrow at Wilk!</font>
+
+80
+00:05:30,860 --> 00:05:34,930
+<font face="Roboto Medium" size="26">Did Wilk tell you of 
+his past as a guerrilla?</font>
+
+81
+00:05:35,660 --> 00:05:39,100
+<font face="Roboto Medium" size="26">He came to Hokkaido seeking the Ainu gold,</font>
+
+82
+00:05:39,100 --> 00:05:42,150
+<font face="Roboto Medium" size="26">so that he could give it to 
+revolutionaries in Russia.</font>
+
+83
+00:05:43,450 --> 00:05:45,630
+<font face="Roboto Medium" size="26">Ask him yourself.</font>
+
+84
+00:05:48,030 --> 00:05:53,450
+<font face="Roboto Medium" size="26">I waited outside for a while, and saw 
+Ariko Siromakur leave in a hurry.</font>
+
+85
+00:06:01,020 --> 00:06:02,770
+<font face="Roboto Medium" size="26">We lost him.</font>
+
+86
+00:06:02,770 --> 00:06:04,930
+<font face="Roboto Medium" size="26">It's too dark here in the mountains.</font>
+
+87
+00:06:05,450 --> 00:06:08,660
+<font face="Roboto Medium" size="26">That Ainu moves too damn fast.</font>
+
+88
+00:06:13,430 --> 00:06:14,680
+<font face="Roboto Medium" size="26">Gunfire!</font>
+
+89
+00:06:17,160 --> 00:06:21,230
+<font face="Roboto Medium" size="26">At dawn, I found Ariko-san near death.</font>
+
+90
+00:06:24,280 --> 00:06:26,110
+<font face="Roboto Medium" size="26">Did Wilk do this to you?</font>
+
+91
+00:06:27,550 --> 00:06:31,630
+<font face="Roboto Medium" size="26">No, he did nothing.</font>
+
+92
+00:06:33,590 --> 00:06:36,580
+<font face="Roboto Medium" size="26">We all killed each other...</font>
+
+93
+00:06:39,370 --> 00:06:44,440
+<font face="Roboto Medium" size="26">Those who defended Wilk and those 
+who did not killed each other.</font>
+
+94
+00:06:45,100 --> 00:06:49,810
+<font face="Roboto Medium" size="26">The balance that was only 
+barely kept by trust in Wilk</font>
+
+95
+00:06:49,810 --> 00:06:53,180
+<font face="Roboto Medium" size="26">was torn apart by the 
+poison arrow I fired.</font>
+
+96
+00:06:53,450 --> 00:06:59,540
+<font face="Roboto Medium" size="26">And now that Wilk knew someone was 
+after him who knew of his past...</font>
+
+97
+00:07:00,350 --> 00:07:01,870
+<font face="Roboto Medium" size="26">Lt. Tsurumi!</font>
+
+98
+00:07:05,250 --> 00:07:09,480
+<font face="Roboto Medium" size="26">He ripped the skin off his own face 
+and put it over another's skull</font>
+
+99
+00:07:09,790 --> 00:07:12,320
+<font face="Roboto Medium" size="26">to fake his own death.</font>
+
+100
+00:07:13,260 --> 00:07:14,580
+<font face="Roboto Medium" size="26">Any other survivors?</font>
+
+101
+00:07:15,220 --> 00:07:17,530
+<font face="Roboto Medium" size="26">Hey, don't die yet!</font>
+
+102
+00:07:21,580 --> 00:07:22,920
+<font face="Roboto Medium" size="26">Damn it.</font>
+
+103
+00:07:24,050 --> 00:07:26,920
+<font face="Roboto Medium" size="26">There are supposed to 
+be seven Ainu, right?</font>
+
+104
+00:07:27,500 --> 00:07:29,470
+<font face="Roboto Medium" size="26">So who tore apart the bodies?</font>
+
+105
+00:07:31,980 --> 00:07:33,180
+<font face="Roboto Medium" size="26">Oh dear.</font>
+
+106
+00:07:33,800 --> 00:07:37,330
+<font face="Roboto Medium" size="26">All the heads have been flayed of their 
+skin, and their eyes were removed!</font>
+
+107
+00:07:37,330 --> 00:07:38,630
+<font face="Roboto Medium" size="26">Why?</font>
+
+108
+00:07:39,140 --> 00:07:40,020
+<font face="Roboto Medium" size="26">Look!</font>
+
+109
+00:07:40,350 --> 00:07:41,600
+<font face="Roboto Medium" size="26">Look!</font>
+
+110
+00:07:42,050 --> 00:07:44,660
+<font face="Roboto Medium" size="26">I assume the skulls and 
+skins were swapped.</font>
+
+111
+00:07:44,660 --> 00:07:47,740
+<font face="Roboto Medium" size="26">And one of them is Kimuspu.</font>
+
+112
+00:08:00,490 --> 00:08:02,610
+<font face="Roboto Medium" size="26">There were eight Ainu present.</font>
+
+113
+00:08:03,560 --> 00:08:08,040
+<font face="Roboto Medium" size="26">He used the old man, Kimuspu, 
+whose existence was barely known,</font>
+
+114
+00:08:08,040 --> 00:08:10,130
+<font face="Roboto Medium" size="26">to hide his own death.</font>
+
+115
+00:08:11,830 --> 00:08:16,970
+<font face="Roboto Medium" size="26">He ripped out the eyes because his 
+own eyes were easily recognizable.</font>
+
+116
+00:08:19,530 --> 00:08:22,950
+<font face="Roboto Medium" size="26">He could've just burned them until 
+there was nothing but bones.</font>
+
+117
+00:08:24,990 --> 00:08:29,720
+<font face="Roboto Medium" size="26">He wanted us to think that 
+he was definitely dead.</font>
+
+118
+00:08:31,860 --> 00:08:34,090
+<font face="Roboto Medium" size="26">Usami, bring more soldiers.</font>
+
+119
+00:08:34,090 --> 00:08:35,860
+<font face="Roboto Medium" size="26">Kikuta, secure the scene.</font>
+
+120
+00:08:36,910 --> 00:08:39,330
+<font face="Roboto Medium" size="26">I'll go after Wilk.</font>
+
+121
+00:08:41,320 --> 00:08:42,830
+<font face="Roboto Medium" size="26">Is something wrong?</font>
+
+122
+00:08:43,260 --> 00:08:50,070
+<font face="Roboto Medium" size="26">What should we tell Private Ariko about 
+our involvement in his father's death?</font>
+
+123
+00:08:50,500 --> 00:08:52,340
+<font face="Roboto Medium" size="26">There's no need to tell him.</font>
+
+124
+00:08:52,700 --> 00:08:55,050
+<font face="Roboto Medium" size="26">They killed each other without our help.</font>
+
+125
+00:08:55,340 --> 00:08:59,230
+<font face="Roboto Medium" size="26">But our plan was that they would.</font>
+
+126
+00:09:06,550 --> 00:09:08,440
+<font face="Roboto Medium" size="26">That's Ariko Ipopte!</font>
+
+127
+00:09:12,060 --> 00:09:16,740
+<font face="Roboto Medium" size="26">What resolve it must've taken 
+to rip off his own face!</font>
+
+128
+00:09:17,240 --> 00:09:22,490
+<font face="Roboto Medium" size="26">Given what happened, there was 
+no doubt Wilk would be suspected.</font>
+
+129
+00:09:23,110 --> 00:09:28,310
+<font face="Roboto Medium" size="26">And how, then, would you be 
+treated in Ainu society?</font>
+
+130
+00:09:29,710 --> 00:09:33,780
+<font face="Roboto Medium" size="26">And Kiroranke might give 
+up if he knew that Wilk,</font>
+
+131
+00:09:33,780 --> 00:09:35,880
+<font face="Roboto Medium" size="26">the clue to the gold, was dead.</font>
+
+132
+00:09:36,450 --> 00:09:38,510
+<font face="Roboto Medium" size="26">Even knowing all that,</font>
+
+133
+00:09:38,510 --> 00:09:42,650
+<font face="Roboto Medium" size="26">a normal person could think about it 
+for three days and nights</font>
+
+134
+00:09:42,650 --> 00:09:46,520
+<font face="Roboto Medium" size="26">and still not decide to 
+rip off his own face.</font>
+
+135
+00:09:47,330 --> 00:09:52,030
+<font face="Roboto Medium" size="26">But he decided and took 
+action in no time at all!</font>
+
+136
+00:09:55,970 --> 00:10:01,670
+<font face="Roboto Medium" size="26">His one mistake was 
+that I was his pursuer.</font>
+
+137
+00:10:16,740 --> 00:10:19,890
+<font face="Roboto Medium" size="26">Hasegawa-san...</font>
+
+138
+00:10:45,230 --> 00:10:46,970
+<font face="Roboto Medium" size="26">Near Lake Shikotsu</font>
+
+139
+00:10:46,970 --> 00:10:53,540
+<font face="Roboto Medium" size="26">there was a prison where prisoners 
+were forced to work illegally.</font>
+
+140
+00:11:01,170 --> 00:11:02,890
+<font face="Roboto Medium" size="26">Who is your leader?</font>
+
+141
+00:11:03,900 --> 00:11:05,850
+<font face="Roboto Medium" size="26">Inudou Shirosuke.</font>
+
+142
+00:11:08,030 --> 00:11:14,830
+<font face="Roboto Medium" size="26">Tell Warden Inudou that 20 kilometers to 
+the south he'll find seven murdered Ainu.</font>
+
+143
+00:11:15,300 --> 00:11:20,570
+<font face="Roboto Medium" size="26">And the man who knows where 
+their gold is hidden is here.</font>
+
+144
+00:11:21,350 --> 00:11:25,700
+<font face="Roboto Medium" size="26">We had never gotten along 
+with the prison authorities.</font>
+
+145
+00:11:26,450 --> 00:11:29,060
+<font face="Roboto Medium" size="26">At Warden Inudou's orders,</font>
+
+146
+00:11:29,060 --> 00:11:32,710
+<font face="Roboto Medium" size="26">Wilk was secretly moved to a prison.</font>
+
+147
+00:11:33,400 --> 00:11:38,340
+<font face="Roboto Medium" size="26">And that's how Wilk became Nopperabo, 
+the man in Abashiri prison.</font>
+
+148
+00:11:40,890 --> 00:11:42,800
+<font face="Roboto Medium" size="26">What was Kiroranke Nispa doing then?</font>
+
+149
+00:11:45,250 --> 00:11:48,650
+<font face="Roboto Medium" size="26"><i>When I was following Wilk and 
+trying to track down the old man,</i></font>
+
+150
+00:11:49,160 --> 00:11:53,870
+<font face="Roboto Medium" size="26"><i>there was an uproar about seven 
+murdered Ainu near Tomakomai.</i></font>
+
+151
+00:12:08,020 --> 00:12:10,950
+<font face="Roboto Medium" size="26">Wilk... Wilk...</font>
+
+152
+00:12:13,610 --> 00:12:17,800
+<font face="Roboto Medium" size="26"><i>Would I be able to understand 
+Wilk if I had a family?</i></font>
+
+153
+00:12:20,750 --> 00:12:24,660
+<font face="Roboto Medium" size="26"><i>After coming back from the Russo-Japanese 
+war, I heard a rumor...</i></font>
+
+154
+00:12:25,750 --> 00:12:29,080
+<font face="Roboto Medium" size="26"><i>One of the seven corpses was Kimuspu.</i></font>
+
+155
+00:12:30,310 --> 00:12:34,610
+<font face="Roboto Medium" size="26"><i>There weren't seven Ainu. 
+Kimuspu was there as well.</i></font>
+
+156
+00:12:35,480 --> 00:12:38,710
+<font face="Roboto Medium" size="26"><i>It hadn't been some other 
+person who'd killed the Ainu.</i></font>
+
+157
+00:12:40,070 --> 00:12:43,580
+<font face="Roboto Medium" size="26"><i>And Hijikata Toshizou 
+came in search of Asirpa.</i></font>
+
+158
+00:12:44,340 --> 00:12:47,260
+<font face="Roboto Medium" size="26"><i>The rumors of Nopperabo 
+in Abashiri Prison.</i></font>
+
+159
+00:12:47,660 --> 00:12:49,700
+<font face="Roboto Medium" size="26"><i>The code in the tattooed skins.</i></font>
+
+160
+00:12:51,370 --> 00:12:53,690
+<font face="Roboto Medium" size="26"><i>Could Nopperabo be Wilk?</i></font>
+
+161
+00:12:54,710 --> 00:13:00,700
+<font face="Roboto Medium" size="26"><i>I had a family I loved, but I failed 
+to reach the same answer Wilk did.</i></font>
+
+162
+00:13:01,800 --> 00:13:08,610
+<font face="Roboto Medium" size="26"><i>Wouldn't using the gold for the 
+Russian far east help the Ainu, too?</i></font>
+
+163
+00:13:09,270 --> 00:13:12,920
+<font face="Roboto Medium" size="26"><i>Isolating ourselves in 
+Hokkaido wouldn't help us win</i></font>
+
+164
+00:13:12,920 --> 00:13:15,790
+<font face="Roboto Medium" size="26"><i>against Imperial Russia 
+or the Meiji government!</i></font>
+
+165
+00:13:18,530 --> 00:13:21,510
+<font face="Roboto Medium" size="26"><i>He really had changed.</i></font>
+
+166
+00:13:24,220 --> 00:13:27,530
+<font face="Roboto Medium" size="26"><i>Wilk was a wolf who'd gotten 
+weak among the pack.</i></font>
+
+167
+00:13:29,350 --> 00:13:36,700
+<font face="Roboto Medium" size="26"><i>So I killed him with the way of 
+the wolf he'd admired so much.</i></font>
+
+168
+00:13:38,140 --> 00:13:42,960
+<font size="40"><b><font color="#f5d253">Golden Kamuy</font></b></font>
+
+169
+00:13:43,500 --> 00:13:45,050
+<font face="Roboto Medium" size="26">Where's Old Man Hijikata and the others?</font>
+
+170
+00:13:45,370 --> 00:13:47,180
+<font face="Roboto Medium" size="26">Searching for Asirpa.</font>
+
+171
+00:13:47,830 --> 00:13:50,240
+<font face="Roboto Medium" size="26">It'll be hard to do this 
+with just two people.</font>
+
+172
+00:13:50,240 --> 00:13:52,200
+<font face="Times New Roman" size="24"><b><font size="15">He Doesn't Count</font></b></font>
+
+173
+00:13:51,900 --> 00:13:53,100
+<font face="Roboto Medium" size="26">Damn it!</font>
+
+174
+00:13:53,100 --> 00:13:55,100
+<font face="Roboto Medium" size="26">Even as we speak, Asirpa-san...</font>
+
+175
+00:13:55,410 --> 00:13:57,520
+<font face="Roboto Medium" size="26">Do you know where she is?</font>
+
+176
+00:13:57,760 --> 00:14:01,520
+<font face="Roboto Medium" size="26">Looks like Lt. Tsurumi has 
+her locked up in a church.</font>
+
+177
+00:14:04,830 --> 00:14:06,040
+<font face="Roboto Medium" size="26">I'll go see.</font>
+
+178
+00:14:06,650 --> 00:14:08,610
+<font face="Roboto Medium" size="26">If I can grab her, I will.</font>
+
+179
+00:14:09,000 --> 00:14:12,550
+<font face="Roboto Medium" size="26">You sure? They don't trust you.</font>
+
+180
+00:14:12,550 --> 00:14:15,000
+<font face="Roboto Medium" size="26">Neither do we, to be honest.</font>
+
+181
+00:14:15,730 --> 00:14:21,330
+<font face="Roboto Medium" size="26">Asirpa is still so young, but she cares 
+about the Ainu much more than I did.</font>
+
+182
+00:14:21,770 --> 00:14:23,190
+<font face="Roboto Medium" size="26">And it shamed me.</font>
+
+183
+00:14:24,100 --> 00:14:25,760
+<font face="Roboto Medium" size="26">So I want to help you.</font>
+
+184
+00:14:27,390 --> 00:14:29,890
+<font face="Roboto Medium" size="26">Okay, I'm betting on Ipopte.</font>
+
+185
+00:14:31,740 --> 00:14:34,010
+<font face="Roboto Medium" size="26">Get ready to run as fast as you can!</font>
+
+186
+00:14:36,140 --> 00:14:39,270
+<font face="Roboto Medium" size="26">So what do you think the 
+cause of everything is?</font>
+
+187
+00:14:39,990 --> 00:14:46,040
+<font face="Roboto Medium" size="26">If Wilk had shared his past, the seven 
+Ainu wouldn't have killed each other.</font>
+
+188
+00:14:46,710 --> 00:14:50,770
+<font face="Roboto Medium" size="26">And if he hadn't come to Japan 
+in search of the gold...</font>
+
+189
+00:14:51,080 --> 00:14:52,530
+<font face="Roboto Medium" size="26">Kiroranke...</font>
+
+190
+00:14:53,380 --> 00:14:56,290
+<font face="Roboto Medium" size="26">And Fina and Olga, too...</font>
+
+191
+00:14:59,640 --> 00:15:04,900
+<font face="Roboto Medium" size="26">I think Fina knew that I wasn't 
+just an ordinary Japanese man.</font>
+
+192
+00:15:05,950 --> 00:15:12,410
+<font face="Roboto Medium" size="26">She stayed with me because my love 
+was the one thing she believed in.</font>
+
+193
+00:15:14,050 --> 00:15:19,950
+<font face="Roboto Medium" size="26">When she was dying, I wanted 
+her to know my real name.</font>
+
+194
+00:15:21,020 --> 00:15:25,340
+<font face="Roboto Medium" size="26">It was no confession of betrayal.</font>
+
+195
+00:15:25,340 --> 00:15:28,690
+<font face="Roboto Medium" size="26">I believe my wife was 
+smart enough to realize that.</font>
+
+196
+00:15:30,180 --> 00:15:33,750
+<font face="Roboto Medium" size="26">I couldn't get rid of their bones...</font>
+
+197
+00:15:34,250 --> 00:15:36,490
+<font face="Roboto Medium" size="26">I'm a failure as a soldier.</font>
+
+198
+00:15:40,990 --> 00:15:46,090
+<font face="Roboto Medium" size="26">If that makes me weaker 
+for loving my family...</font>
+
+199
+00:15:46,090 --> 00:15:49,210
+<font face="Roboto Medium" size="26">Then in a way, I understand Wilk, but...</font>
+
+200
+00:15:50,210 --> 00:15:52,660
+<font face="Roboto Medium" size="26">Thank you for telling me, Sofia.</font>
+
+201
+00:15:52,660 --> 00:15:58,350
+<font face="Roboto Medium" size="26">As a reward, I'll release you 
+from your years of guilt.</font>
+
+202
+00:16:00,220 --> 00:16:05,810
+<font face="Roboto Medium" size="26">This is the bullet recovered 
+from my daughter, Olga's, skull.</font>
+
+203
+00:16:10,190 --> 00:16:11,240
+<font face="Roboto Medium" size="26">Yes.</font>
+
+204
+00:16:11,240 --> 00:16:13,910
+<font face="Roboto Medium" size="26">It wasn't a bullet from your Berdan.</font>
+
+205
+00:16:14,700 --> 00:16:17,780
+<font face="Roboto Medium" size="26">Or Yulbars' machine gun.</font>
+
+206
+00:16:18,750 --> 00:16:20,770
+<font face="Roboto Medium" size="26">It was a bullet from a pistol.</font>
+
+207
+00:16:22,710 --> 00:16:27,630
+<font face="Roboto Medium" size="26">The secret police's Smith & Wesson 
+"Russian" guns were .44 caliber.</font>
+
+208
+00:16:28,040 --> 00:16:30,460
+<font face="Roboto Medium" size="26">A little bigger than this.</font>
+
+209
+00:16:30,840 --> 00:16:36,680
+<font face="Roboto Medium" size="26">Wilk's weapon was a Schmidt 
+M1822. A 7.5mm round.</font>
+
+210
+00:16:37,860 --> 00:16:42,870
+<font face="Roboto Medium" size="26">Which means the one who shot 
+my wife and daughter...</font>
+
+211
+00:16:43,400 --> 00:16:44,730
+<font face="Roboto Medium" size="26">...was Wilk.</font>
+
+212
+00:16:45,050 --> 00:16:50,750
+<font face="Roboto Medium" size="26">It was your father that killed 
+Olga and Fina, Asirpa.</font>
+
+213
+00:16:57,220 --> 00:16:59,080
+<font face="Roboto Medium" size="26">Asirpa...</font>
+
+214
+00:17:07,560 --> 00:17:09,460
+<font face="Roboto Medium" size="26">Asirpa...</font>
+
+215
+00:17:12,030 --> 00:17:19,780
+<font face="Roboto Medium" size="26">My beloved daughter, Asirpa...</font>
+
+216
+00:17:19,780 --> 00:17:22,600
+<font face="Roboto Medium" size="26">My daughter...</font>
+
+217
+00:17:24,650 --> 00:17:26,150
+<font face="Roboto Medium" size="26">Hasegawa-san...</font>
+
+218
+00:17:28,230 --> 00:17:29,730
+<font face="Roboto Medium" size="26"><i>So that's it...</i></font>
+
+219
+00:17:31,580 --> 00:17:36,690
+<font face="Roboto Medium" size="26"><i>My Aca was the one who made 
+Lt. Tsurumi into such a sad person...</i></font>
+
+220
+00:17:37,540 --> 00:17:40,430
+<font face="Roboto Medium" size="26">Was it all hatred?</font>
+
+221
+00:17:40,910 --> 00:17:48,580
+<font face="Roboto Medium" size="26">To destroy Asirpa... 
+Wilk's hope, our future...</font>
+
+222
+00:17:49,150 --> 00:17:52,960
+<font face="Roboto Medium" size="26"><i>If that's your real goal, I'll kill you.</i></font>
+
+223
+00:17:58,850 --> 00:18:01,960
+<font face="Roboto Medium" size="26">If I wanted revenge, I had 
+any number of chances,</font>
+
+224
+00:18:01,960 --> 00:18:05,770
+<font face="Roboto Medium" size="26">in Karafuto or at Abashiri Prison.</font>
+
+225
+00:18:06,350 --> 00:18:10,660
+<font face="Roboto Medium" size="26">My one goal is the prosperity of Japan.</font>
+
+226
+00:18:11,060 --> 00:18:14,340
+<font face="Roboto Medium" size="26">I need money to protect it from 
+the Russian threat to the north,</font>
+
+227
+00:18:14,340 --> 00:18:17,900
+<font face="Roboto Medium" size="26">and other nations as well.</font>
+
+228
+00:18:18,460 --> 00:18:26,080
+<font face="Roboto Medium" size="26">It's just a tiny, tiny memorial on the 
+roadside of the path we must follow.</font>
+
+229
+00:18:26,750 --> 00:18:29,060
+<font face="Roboto Medium" size="26">My comrades in Manchuria.</font>
+
+230
+00:18:29,060 --> 00:18:31,680
+<font face="Roboto Medium" size="26">Fina and Olga in Vladivostok.</font>
+
+231
+00:18:31,680 --> 00:18:36,750
+<font face="Roboto Medium" size="26">A prayer that the land their bodies 
+rest on becomes Japanese soil...</font>
+
+232
+00:18:37,810 --> 00:18:47,100
+<font face="Roboto Medium" size="26">But I will never stray from my path 
+for the sake of my personal past.</font>
+
+233
+00:18:57,630 --> 00:19:03,470
+<font face="Roboto Medium" size="26">During the Russo-Japanese war, many 
+Ainu soldiers fought bravely, and died.</font>
+
+234
+00:19:04,290 --> 00:19:07,780
+<font face="Roboto Medium" size="26">Is it right for only the wishes 
+of a few extremist Ainu</font>
+
+235
+00:19:07,780 --> 00:19:09,460
+<font face="Roboto Medium" size="26">who chose to separate themselves</font>
+
+236
+00:19:09,720 --> 00:19:12,740
+<font face="Roboto Medium" size="26">from the Japanese to be respected,</font>
+
+237
+00:19:12,740 --> 00:19:14,740
+<font face="Roboto Medium" size="26">while the souls of those who chose to</font>
+
+238
+00:19:14,740 --> 00:19:17,050
+<font face="Roboto Medium" size="26">live in Japanese society 
+and risk their lives</font>
+
+239
+00:19:17,050 --> 00:19:18,840
+<font face="Roboto Medium" size="26">to raise their standing are ignored?</font>
+
+240
+00:19:20,260 --> 00:19:24,770
+<font face="Roboto Medium" size="26">As a soldier, I cannot 
+allow Japan to be divided.</font>
+
+241
+00:19:24,770 --> 00:19:27,840
+<font face="Roboto Medium" size="26">Asirpa was entrusted with 
+the gold by her father.</font>
+
+242
+00:19:27,840 --> 00:19:31,440
+<font face="Roboto Medium" size="26">She can choose a future for 
+both Ainu and Japanese.</font>
+
+243
+00:19:32,180 --> 00:19:36,900
+<font face="Roboto Medium" size="26">You're the only one who can 
+atone for your father's sins.</font>
+
+244
+00:19:40,010 --> 00:19:43,410
+<font face="Roboto Medium" size="26">Private Ariko Rikimatsu!</font>
+
+245
+00:19:43,700 --> 00:19:45,870
+<font face="Roboto Medium" size="26">What are you doing here?</font>
+
+246
+00:19:47,010 --> 00:19:49,150
+<font face="Roboto Medium" size="26">Lieutenant Tsurumi is inside?</font>
+
+247
+00:19:49,150 --> 00:19:52,110
+<font face="Roboto Medium" size="26">I was told to let no one in.</font>
+
+248
+00:19:52,110 --> 00:19:53,120
+<font face="Roboto Medium" size="26">Knock it off.</font>
+
+249
+00:19:53,360 --> 00:19:56,140
+<font face="Roboto Medium" size="26">Who told you about this place?</font>
+
+250
+00:19:56,140 --> 00:19:58,390
+<font face="Roboto Medium" size="26">Warrant Officer Kikuta.</font>
+
+251
+00:19:58,860 --> 00:19:59,800
+<font face="Roboto Medium" size="26">Oh, that's right!</font>
+
+252
+00:20:00,340 --> 00:20:04,660
+<font face="Roboto Medium" size="26">Sugimoto the Immortal was over 
+there, trying to find Asirpa!</font>
+
+253
+00:20:07,480 --> 00:20:08,430
+<font face="Roboto Medium" size="26">Huh?</font>
+
+254
+00:20:08,430 --> 00:20:11,020
+<font face="Roboto Medium" size="26">Sugimoto!</font>
+
+255
+00:20:11,870 --> 00:20:15,280
+<font face="Roboto Medium" size="26">The concerns of Kiroranke 
+and Wilk are ones</font>
+
+256
+00:20:15,280 --> 00:20:20,150
+<font face="Roboto Medium" size="26">that we, the people of Yamato, share.</font>
+
+257
+00:20:20,900 --> 00:20:23,490
+<font face="Roboto Medium" size="26">In this world, only the strong survive.</font>
+
+258
+00:20:24,150 --> 00:20:26,410
+<font face="Roboto Medium" size="26">And the weak are devoured.</font>
+
+259
+00:20:27,480 --> 00:20:30,270
+<font face="Roboto Medium" size="26">The Far Eastern Federation 
+that Kiroranke, Sofia,</font>
+
+260
+00:20:30,270 --> 00:20:32,250
+<font face="Roboto Medium" size="26">and her revolutionaries are planning</font>
+
+261
+00:20:32,640 --> 00:20:37,000
+<font face="Roboto Medium" size="26">will likely be able to make a federal 
+government on the continent.</font>
+
+262
+00:20:37,340 --> 00:20:40,700
+<font face="Roboto Medium" size="26">But if it falls to Imperial Russia,</font>
+
+263
+00:20:40,700 --> 00:20:43,680
+<font face="Roboto Medium" size="26">Hokkaido will be taken by Russia.</font>
+
+264
+00:20:44,470 --> 00:20:49,260
+<font face="Roboto Medium" size="26">So what of Wilk and Hijikata 
+Toshizou's Ezo Republic?</font>
+
+265
+00:20:49,800 --> 00:20:51,610
+<font face="Roboto Medium" size="26">If they want to be a powerful nation,</font>
+
+266
+00:20:51,610 --> 00:20:54,370
+<font face="Roboto Medium" size="26">they'll have to bring in 
+immigrants from outside.</font>
+
+267
+00:20:54,370 --> 00:20:58,450
+<font face="Roboto Medium" size="26">And it's very likely many of those 
+migrants will be enemies of Japan.</font>
+
+268
+00:20:58,870 --> 00:21:02,450
+<font face="Roboto Medium" size="26">I'm not speaking of discrimination, 
+simply probabilities.</font>
+
+269
+00:21:04,750 --> 00:21:10,410
+<font face="Roboto Medium" size="26">Hokkaido should be ruled by those 
+who would have it join with Japan.</font>
+
+270
+00:21:11,090 --> 00:21:13,380
+<font face="Roboto Medium" size="26">Someone whose ancestors 
+have lived in that country,</font>
+
+271
+00:21:13,380 --> 00:21:17,920
+<font face="Roboto Medium" size="26">who treasures their homeland 
+and loves its people.</font>
+
+272
+00:21:18,540 --> 00:21:21,620
+<font face="Roboto Medium" size="26">The Japanese must come 
+together to survive.</font>
+
+273
+00:21:21,620 --> 00:21:27,050
+<font face="Roboto Medium" size="26">The Far East Federation and Ezo 
+Republic are simply not possible!</font>
+
+274
+00:21:29,310 --> 00:21:33,390
+<font face="Roboto Medium" size="26">Asirpa, have you ever seen 
+one of these gold coins?</font>
+
+275
+00:21:33,390 --> 00:21:37,010
+<font face="Roboto Medium" size="26">They belonged to the Ainu 
+who killed each other.</font>
+
+276
+00:21:39,100 --> 00:21:43,330
+<font face="Roboto Medium" size="26">I assume they dreamed of 
+an independent country,</font>
+
+277
+00:21:43,670 --> 00:21:47,450
+<font face="Roboto Medium" size="26">and tried to make a currency that 
+would help to bind the Ainu together.</font>
+
+278
+00:21:47,830 --> 00:21:49,420
+<font face="Roboto Medium" size="26">But look at this.</font>
+
+279
+00:21:49,420 --> 00:21:51,460
+<font face="Roboto Medium" size="26">Look at the different shades of gold!</font>
+
+280
+00:21:51,790 --> 00:21:53,710
+<font face="Roboto Medium" size="26">The gold dust was taken 
+from different areas</font>
+
+281
+00:21:53,710 --> 00:21:55,430
+<font face="Roboto Medium" size="26">and contains different purities of gold,</font>
+
+282
+00:21:55,430 --> 00:21:57,620
+<font face="Roboto Medium" size="26">so it didn't mix properly.</font>
+
+283
+00:21:58,040 --> 00:21:59,960
+<font face="Roboto Medium" size="26">Ironically,</font>
+
+284
+00:21:59,960 --> 00:22:05,870
+<font face="Roboto Medium" size="26">doesn't it feel like it represents their 
+attempt and failure to come together?</font>
+
+285
+00:22:07,700 --> 00:22:16,350
+<font face="Roboto Medium" size="26">As I see it, Wilk alone wasn't 
+the cause of everything, Asirpa.</font>
+
+286
+00:22:18,360 --> 00:22:22,950
+<font face="Roboto Medium" size="26">The Ainu have treasures 
+made of brass and iron,</font>
+
+287
+00:22:22,950 --> 00:22:27,360
+<font face="Roboto Medium" size="26">but not a single one made of gold, yes?</font>
+
+288
+00:22:28,110 --> 00:22:35,330
+<font face="Roboto Medium" size="26">Gold was something the Ainu simply did 
+not need to live. It was useless to them.</font>
+
+289
+00:22:35,910 --> 00:22:37,350
+<font face="Roboto Medium" size="26">If anything,</font>
+
+290
+00:22:37,350 --> 00:22:41,830
+<font face="Roboto Medium" size="26">the search for gold dust polluted 
+their rivers and made them starve.</font>
+
+291
+00:22:45,260 --> 00:22:48,510
+<font face="Roboto Medium" size="26">You said that the kamuy 
+dwell in all things, yes?</font>
+
+292
+00:22:49,270 --> 00:22:54,970
+<font face="Roboto Medium" size="26">Clothes. Knives. Tobacco holders. 
+Dishes. Homes. All contain a kamuy.</font>
+
+293
+00:22:55,240 --> 00:22:59,250
+<font face="Roboto Medium" size="26">And there are kamuy such as disasters 
+and smallpox that threaten humanity too,</font>
+
+294
+00:22:59,250 --> 00:23:00,560
+<font face="Roboto Medium" size="26">are there not?</font>
+
+295
+00:23:02,990 --> 00:23:05,980
+<font face="Roboto Medium" size="26">If there is a kamuy of gold,</font>
+
+296
+00:23:05,980 --> 00:23:13,120
+<font face="Roboto Medium" size="26">then isn't it an evil god that 
+brings disaster to the Ainu?</font>
+
+297
+00:23:13,650 --> 00:23:16,340
+<font face="Roboto Medium" size="26">One that brings terrible 
+death to all who touch it.</font>
+
+298
+00:23:16,340 --> 00:23:20,230
+<font face="Roboto Medium" size="26">One more ugly and violent 
+than any other.</font>
+
+299
+00:23:20,540 --> 00:23:25,990
+<font face="Roboto Medium" size="26">A kamuy that's dazzlingly bright, 
+and shines with golden light.</font>
+
+300
+00:23:27,970 --> 00:23:29,590
+<font face="Roboto Medium" size="26">You could call it a...</font>
+
+301
+00:23:30,330 --> 00:23:33,180
+<font face="Roboto Medium" size="26">golden kamuy.</font>
+
+302
+00:23:35,030 --> 00:23:40,250
+<font face="Times New Roman" size="12" color="#62000d"><b>{\an3}<font size="17">Next Time
+<font size="27">Ipopte</font></font></b></font>
+
+303
+00:23:36,250 --> 00:23:39,110
+<font face="Roboto Medium" size="26"><i>Next Time: Ipopte!</i></font>
+
