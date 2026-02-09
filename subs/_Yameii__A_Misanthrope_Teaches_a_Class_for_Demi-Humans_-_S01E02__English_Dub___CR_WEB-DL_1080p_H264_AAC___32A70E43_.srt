@@ -1,0 +1,37 @@
+1
+00:00:17,750 --> 00:00:19,750
+<font face="Gandhi Sans" size="24"><b>{\an8}PRINCIPAL'S OFFICE</b></font>
+
+2
+00:03:01,040 --> 00:03:03,040
+<font face="Gandhi Sans" size="24"><b>{\an8}ADVANCED CLASS</b></font>
+
+3
+00:03:10,630 --> 00:03:15,580
+<font face="Gandhi Sans" size="24"><b>{\an8}EPISODE 2: THE MISANTHROPE AND THE FLEETING CROWN OF BUBBLES</b></font>
+
+4
+00:12:57,000 --> 00:12:59,000
+<font face="Gandhi Sans" size="24"><b>{\an8}ADVANCED CLASS</b></font>
+
+5
+00:14:31,580 --> 00:14:33,580
+<font face="Gandhi Sans" size="24"><b>{\an8}TEACHERS' OFFICE</b></font>
+
+6
+00:16:39,830 --> 00:16:42,580
+<font face="Gandhi Sans" size="24"><b>{\an8}ADVANCED CLASS</b></font>
+
+7
+00:19:18,420 --> 00:19:21,880
+<font face="Gandhi Sans" size="24"><b>{\an8}ISAKI</b></font>
+
+8
+00:19:21,960 --> 00:19:27,420
+<font face="Gandhi Sans" size="24"><b>{\an8}ISAKI</b></font>
+
+9
+00:23:33,000 --> 00:23:39,960
+<font face="Gandhi Sans" size="24"><b>{\an8}NEXT EPISODE: THE MISANTHROPE AND THE
+LONELY CASTLE UNDER THE FULL MOON</b></font>
+
