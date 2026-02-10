@@ -1,0 +1,1342 @@
+1
+00:00:27,930 --> 00:00:33,970
+<font face="Roboto Medium" size="26"><i>Armor of Wildfire!</i></font>
+
+2
+00:00:37,600 --> 00:00:40,680
+<font face="Roboto Medium" size="26">Ow...</font>
+
+3
+00:00:42,160 --> 00:00:45,320
+<font face="Roboto Medium" size="26">Who knew the sky was so blue?</font>
+
+4
+00:00:45,320 --> 00:00:48,990
+<font face="Roboto Medium" size="26">This pain is a step toward
+ changing tomorrow.</font>
+
+5
+00:00:48,990 --> 00:00:51,370
+<font face="Roboto Medium" size="26">In your dreams, maybe.</font>
+
+6
+00:00:52,910 --> 00:00:55,960
+<font face="Roboto Medium" size="26">If you still have strength to talk, 
+I guess you can go another round.</font>
+
+7
+00:00:55,960 --> 00:00:57,680
+<font face="Roboto Medium" size="26">Seriously?!</font>
+
+8
+00:00:57,680 --> 00:00:58,680
+<font face="Roboto Medium" size="26">Ryo!</font>
+
+9
+00:00:58,680 --> 00:00:59,800
+<font face="Roboto Medium" size="26">Do you have a moment?</font>
+
+10
+00:01:02,480 --> 00:01:05,630
+<font face="Roboto Medium" size="26">The barrier around the Demon World
+ is about to break.</font>
+
+11
+00:01:05,630 --> 00:01:08,630
+<font face="Roboto Medium" size="26">A new Demon Emperor may have 
+emerged to replace Arago.</font>
+
+12
+00:01:09,970 --> 00:01:12,260
+<font face="Roboto Medium" size="26">All right. We'll go see.</font>
+
+13
+00:01:29,110 --> 00:01:33,360
+<font face="Roboto Medium" size="26">Twin Fire Slash!</font>
+
+14
+00:01:39,710 --> 00:01:41,910
+<font face="Roboto Medium" size="26">A tolerable vessel.</font>
+
+15
+00:01:41,910 --> 00:01:42,580
+<font face="Roboto Medium" size="26">Who's there?!</font>
+
+16
+00:01:45,700 --> 00:01:48,430
+<font face="Roboto Medium" size="26">Demon Emperor Ramaga.</font>
+
+17
+00:01:48,430 --> 00:01:51,800
+<font face="Roboto Medium" size="26">I have come to claim your body!</font>
+
+18
+00:02:03,400 --> 00:02:04,400
+<font face="Roboto Medium" size="26">Ryo...</font>
+
+19
+00:02:04,810 --> 00:02:06,740
+<font face="Roboto Medium" size="26">What's Mr. Sanada doing there?</font>
+
+20
+00:02:06,740 --> 00:02:08,240
+<font face="Roboto Medium" size="26">You know him?</font>
+
+21
+00:02:08,240 --> 00:02:10,820
+<font face="Roboto Medium" size="26">He's one of the original Samurai Troopers.</font>
+
+22
+00:02:10,820 --> 00:02:13,520
+<font face="Roboto Medium" size="26">Yama! Isn't that guy...</font>
+
+23
+00:02:13,520 --> 00:02:15,570
+<font face="Roboto Medium" size="26">Yeah, no doubt about it.</font>
+
+24
+00:02:16,570 --> 00:02:18,410
+<font face="Roboto Medium" size="26">He's our hero!</font>
+
+25
+00:02:18,910 --> 00:02:20,660
+<font face="Roboto Medium" size="26">Ryo! It's me!</font>
+
+26
+00:02:20,930 --> 00:02:22,160
+<font face="Roboto Medium" size="26">Nasti!</font>
+
+27
+00:02:22,160 --> 00:02:25,900
+<font face="Roboto Medium" size="26">Save your breath. 
+His personality is no more.</font>
+
+28
+00:02:26,270 --> 00:02:32,420
+<font face="Roboto Medium" size="26">Ryo Sanada... He made for a fine vessel, 
+but the years have taken their toll.</font>
+
+29
+00:02:33,590 --> 00:02:36,050
+<font face="Roboto Medium" size="26">And I'm gonna be your next Puppet?</font>
+
+30
+00:02:36,390 --> 00:02:37,680
+<font face="Roboto Medium" size="26">Gimme a break!</font>
+
+31
+00:02:37,680 --> 00:02:40,360
+<font face="Roboto Medium" size="26">Don't give yourself airs, whelp.</font>
+
+32
+00:02:40,360 --> 00:02:43,090
+<font face="Roboto Medium" size="26">I need better than 
+you can offer right now!</font>
+
+33
+00:02:46,980 --> 00:02:50,650
+<font face="Roboto Medium" size="26">Gai, you turn fifteen today.</font>
+
+34
+00:02:50,650 --> 00:02:53,740
+<font face="Roboto Medium" size="26">To celebrate, I will give you a chance.</font>
+
+35
+00:03:11,570 --> 00:03:12,920
+<font face="Roboto Medium" size="26">Is that...</font>
+
+36
+00:03:21,230 --> 00:03:26,430
+<font face="Roboto Medium" size="26">Henceforth, we will make our 
+headquarters in this Demon Castle!</font>
+
+37
+00:05:00,530 --> 00:05:06,540
+<font face="Trebuchet MS" size="24">{\an8}EPISODE VI
+RESTART</font>
+
+38
+00:05:00,530 --> 00:05:02,390
+<font face="Roboto Medium" size="26">A Demon Castle?!</font>
+
+39
+00:05:02,390 --> 00:05:05,040
+<font face="Roboto Medium" size="26">I grant you seven days' reprieve.</font>
+
+40
+00:05:05,040 --> 00:05:08,350
+<font face="Roboto Medium" size="26">Use that time to make yourself 
+ a Puppet worthy of me</font>
+
+41
+00:05:08,350 --> 00:05:13,340
+<font face="Roboto Medium" size="26">or to find me another Puppet 
+to take your place.</font>
+
+42
+00:05:13,790 --> 00:05:17,050
+<font face="Roboto Medium" size="26">Fail me, and I will raze 
+this country to the ground.</font>
+
+43
+00:05:17,700 --> 00:05:20,080
+<font face="Roboto Medium" size="26">I shall lend you the Sword of Domination.</font>
+
+44
+00:05:20,670 --> 00:05:23,040
+<font face="Roboto Medium" size="26">This should prove amusing!</font>
+
+45
+00:05:25,430 --> 00:05:30,430
+<font face="Roboto Medium" size="26">Still, it would be a shame 
+to retreat without doing anything.</font>
+
+46
+00:05:30,930 --> 00:05:32,390
+<font face="Roboto Medium" size="26">Yeah! Yeah!</font>
+
+47
+00:05:32,390 --> 00:05:34,320
+<font face="Roboto Medium" size="26">What're you blabbing about?!</font>
+
+48
+00:05:34,320 --> 00:05:35,960
+<font face="Roboto Medium" size="26">You want another piece of me?!</font>
+
+49
+00:05:36,410 --> 00:05:39,280
+<font face="Roboto Medium" size="26">You mean you didn't even 
+realize we went easy on you?</font>
+
+50
+00:05:39,540 --> 00:05:42,690
+<font face="Roboto Medium" size="26">You can't hold a candle to us!</font>
+
+51
+00:05:49,410 --> 00:05:50,950
+<font face="Roboto Medium" size="26">Yamato! Musashi!</font>
+
+52
+00:05:51,470 --> 00:05:54,120
+<font face="Roboto Medium" size="26">I've seen all I need to of your moves.</font>
+
+53
+00:06:00,400 --> 00:06:01,660
+<font face="Roboto Medium" size="26">You pieces of—</font>
+
+54
+00:06:08,550 --> 00:06:11,980
+<font face="Roboto Medium" size="26">You don't stand a chance 
+without your demon powers.</font>
+
+55
+00:06:12,670 --> 00:06:16,530
+<font face="Roboto Medium" size="26">Enjoy your last seven days alive
+ as best you can.</font>
+
+56
+00:06:20,210 --> 00:06:26,240
+<font face="Roboto Medium" size="26">Confirmed survivors alone 
+have reached 110,570 people.</font>
+
+57
+00:06:26,520 --> 00:06:29,260
+<font face="Roboto Medium" size="26">We need to move them to evac sites
+ and government shel—</font>
+
+58
+00:06:29,260 --> 00:06:32,320
+<font face="Roboto Medium" size="26"><i>First, explain the castle!</i></font>
+
+59
+00:06:32,320 --> 00:06:35,870
+<font face="Roboto Medium" size="26"><i>And what's this about destroying 
+the country a week from now?</i></font>
+
+60
+00:06:35,870 --> 00:06:38,220
+<font face="Roboto Medium" size="26">We have a way to avert it.</font>
+
+61
+00:06:38,220 --> 00:06:41,760
+<font face="Roboto Medium" size="26">It's another reason we need the Samurai 
+Troopers ready for action once more.</font>
+
+62
+00:06:41,760 --> 00:06:43,530
+<font face="Roboto Medium" size="26"><i>This again?</i></font>
+
+63
+00:06:43,530 --> 00:06:44,970
+<font face="Roboto Medium" size="26">We have a plan,</font>
+
+64
+00:06:45,370 --> 00:06:48,630
+<font face="Roboto Medium" size="26">and a secret strategy 
+to make them stronger than ever.</font>
+
+65
+00:06:51,990 --> 00:06:53,080
+<font face="Roboto Medium" size="26">Mirei.</font>
+
+66
+00:06:53,080 --> 00:06:55,460
+<font face="Roboto Medium" size="26">Oh, Commander.</font>
+
+67
+00:06:55,460 --> 00:06:57,980
+<font face="Roboto Medium" size="26">Look at these. They all came out awful.</font>
+
+68
+00:06:58,750 --> 00:07:02,990
+<font face="Roboto Medium" size="26">I would've taken at least one good one 
+if I'd known he was going to die.</font>
+
+69
+00:07:04,480 --> 00:07:07,750
+<font face="Roboto Medium" size="26">Okay, enough's enough! 
+Time to shift gears!</font>
+
+70
+00:07:07,750 --> 00:07:09,300
+<font face="Roboto Medium" size="26">Ryusei would laugh at me!</font>
+
+71
+00:07:09,300 --> 00:07:11,160
+<font face="Roboto Medium" size="26">You don't need to force yourself.</font>
+
+72
+00:07:11,160 --> 00:07:12,730
+<font face="Roboto Medium" size="26">Same to you, Commander.</font>
+
+73
+00:07:12,730 --> 00:07:17,540
+<font face="Roboto Medium" size="26">Mr. Sanada being Ramaga's Puppet 
+must really be weighing on you.</font>
+
+74
+00:07:18,360 --> 00:07:20,130
+<font face="Roboto Medium" size="26">I'm fine.</font>
+
+75
+00:07:21,670 --> 00:07:24,470
+<font face="Roboto Medium" size="26">Speaking of, this is really bugging me.</font>
+
+76
+00:07:24,470 --> 00:07:28,700
+<font face="Roboto Medium" size="26">Why would Ramaga go to all this trouble 
+and then decide to wait a week?</font>
+
+77
+00:07:28,700 --> 00:07:33,890
+<font face="Roboto Medium" size="26">Good question. 
+But it does give us an opportunity.</font>
+
+78
+00:07:33,890 --> 00:07:36,230
+<font face="Roboto Medium" size="26">I'd like to ask a favor of you.</font>
+
+79
+00:07:39,100 --> 00:07:41,110
+<font face="Roboto Medium" size="26">I feel totally defeated.</font>
+
+80
+00:07:41,650 --> 00:07:45,780
+<font face="Roboto Medium" size="26">Ryu wound up dead, our hero is Ramaga,</font>
+
+81
+00:07:45,780 --> 00:07:47,820
+<font face="Roboto Medium" size="26">the Ten Warriors are wicked tough...</font>
+
+82
+00:07:48,390 --> 00:07:50,550
+<font face="Roboto Medium" size="26">We don't have a chance in hell, do we?</font>
+
+83
+00:07:51,960 --> 00:07:54,970
+<font face="Roboto Medium" size="26">People do... just die, don't they?</font>
+
+84
+00:07:56,360 --> 00:08:02,040
+<font face="Roboto Medium" size="26">Seeing Ryu pass with my own eyes 
+finally brought that home for me.</font>
+
+85
+00:08:02,640 --> 00:08:05,960
+<font face="Roboto Medium" size="26">I haven't been able to stop shaking since.</font>
+
+86
+00:08:07,380 --> 00:08:08,650
+<font face="Roboto Medium" size="26">Me neither.</font>
+
+87
+00:08:09,100 --> 00:08:12,260
+<font face="Roboto Medium" size="26">My fear won out over
+ my hatred and my anger.</font>
+
+88
+00:08:13,290 --> 00:08:16,930
+<font face="Roboto Medium" size="26">Yeah, but it's not like 
+we can just run away either.</font>
+
+89
+00:08:17,480 --> 00:08:20,000
+<font face="Roboto Medium" size="26">What'd be so bad about running?</font>
+
+90
+00:08:20,000 --> 00:08:21,260
+<font face="Roboto Medium" size="26">Seriously?</font>
+
+91
+00:08:21,260 --> 00:08:24,770
+<font face="Roboto Medium" size="26">I mean, we're still kids, right?!</font>
+
+92
+00:08:24,770 --> 00:08:27,440
+<font face="Roboto Medium" size="26">So why should we have 
+to deal with this crap?!</font>
+
+93
+00:08:28,000 --> 00:08:31,620
+<font face="Roboto Medium" size="26">Quitting and getting badmouthed 
+for it is better than dying!</font>
+
+94
+00:08:31,960 --> 00:08:33,250
+<font face="Roboto Medium" size="26">Musashi...</font>
+
+95
+00:08:35,840 --> 00:08:38,160
+<font face="Roboto Medium" size="26">Then let's all quit together.</font>
+
+96
+00:08:39,290 --> 00:08:41,590
+<font face="Roboto Medium" size="26">What'd you just say?!</font>
+
+97
+00:08:41,590 --> 00:08:45,380
+<font face="Roboto Medium" size="26">I don't want to lose any more comrades.</font>
+
+98
+00:09:10,280 --> 00:09:12,770
+<font face="Roboto Medium" size="26">What the hell is wrong with me?</font>
+
+99
+00:09:13,980 --> 00:09:19,000
+<font face="Roboto Medium" size="26">If you ever hesitate to kill a Puppet, 
+try out this program.</font>
+
+100
+00:09:19,000 --> 00:09:21,970
+<font face="Roboto Medium" size="26">It'll put you face-to-face 
+with your problems.</font>
+
+101
+00:09:22,580 --> 00:09:25,340
+<font face="Trebuchet MS" size="24">{\an8}GAI'S PERSONAL SIMULATION VER 1.32
+START</font>
+
+102
+00:09:34,620 --> 00:09:36,330
+<font face="Roboto Medium" size="26">Isn't this place...</font>
+
+103
+00:09:36,330 --> 00:09:39,000
+<font face="Roboto Medium" size="26">How dare you kill us?!</font>
+
+104
+00:09:39,000 --> 00:09:40,350
+<font face="Roboto Medium" size="26">It's you guys!</font>
+
+105
+00:09:41,100 --> 00:09:45,400
+<font face="Roboto Medium" size="26">We'll make you suffer like we did!</font>
+
+106
+00:09:57,270 --> 00:10:00,890
+<font face="Roboto Medium" size="26">The Samurai Troopers are... in your hands.</font>
+
+107
+00:10:05,770 --> 00:10:07,670
+<font face="Roboto Medium" size="26">No way, no way, no way!</font>
+
+108
+00:10:07,670 --> 00:10:11,260
+<font face="Roboto Medium" size="26">The heroine's not supposed 
+to die like <i>this</i>!</font>
+
+109
+00:10:18,930 --> 00:10:21,180
+<font face="Roboto Medium" size="26">I don't see any heroines.</font>
+
+110
+00:10:21,180 --> 00:10:22,830
+<font face="Roboto Medium" size="26">Shion!</font>
+
+111
+00:10:26,780 --> 00:10:28,020
+<font face="Roboto Medium" size="26">This is great!</font>
+
+112
+00:10:28,020 --> 00:10:31,650
+<font face="Roboto Medium" size="26">Anything's "great" compared 
+to the DST's terrible coffee.</font>
+
+113
+00:10:31,650 --> 00:10:34,570
+<font face="Roboto Medium" size="26">Ryusei liked the way it tasted.</font>
+
+114
+00:10:36,270 --> 00:10:39,030
+<font face="Roboto Medium" size="26">I assume you didn't come here 
+to sample the coffee.</font>
+
+115
+00:10:39,030 --> 00:10:41,290
+<font face="Roboto Medium" size="26">We need your help.</font>
+
+116
+00:10:42,360 --> 00:10:45,830
+<font face="Roboto Medium" size="26">Sorry, but I won't take Ryusei's place.</font>
+
+117
+00:10:45,830 --> 00:10:49,670
+<font face="Roboto Medium" size="26">Of course not. No one's asking you to.</font>
+
+118
+00:10:49,670 --> 00:10:51,970
+<font face="Roboto Medium" size="26">You're you and nobody else.</font>
+
+119
+00:10:52,590 --> 00:10:55,340
+<font face="Roboto Medium" size="26">The commander asked me to give you this.</font>
+
+120
+00:10:55,860 --> 00:10:59,010
+<font face="Roboto Medium" size="26">A final present from Ryusei to you.</font>
+
+121
+00:11:01,240 --> 00:11:04,690
+<font face="Roboto Medium" size="26">What will Gai do if we all quit?</font>
+
+122
+00:11:04,690 --> 00:11:09,110
+<font face="Roboto Medium" size="26">He'll fight on his own. 
+His life's on the line.</font>
+
+123
+00:11:09,110 --> 00:11:10,550
+<font face="Roboto Medium" size="26">I wonder.</font>
+
+124
+00:11:10,550 --> 00:11:11,650
+<font face="Roboto Medium" size="26">Huh?</font>
+
+125
+00:11:15,900 --> 00:11:17,860
+<font face="Roboto Medium" size="26">What's he groaning about?</font>
+
+126
+00:11:17,860 --> 00:11:19,450
+<font face="Roboto Medium" size="26">He's having a nightmare.</font>
+
+127
+00:11:19,830 --> 00:11:21,220
+<font face="Roboto Medium" size="26">What's this?</font>
+
+128
+00:11:22,760 --> 00:11:24,870
+<font face="Roboto Medium" size="26">You'll pay!</font>
+
+129
+00:11:24,870 --> 00:11:26,080
+<font face="Roboto Medium" size="26">There you are!</font>
+
+130
+00:11:26,080 --> 00:11:29,170
+<font face="Roboto Medium" size="26">You killed us like we 
+were just mannequins!</font>
+
+131
+00:11:29,170 --> 00:11:32,350
+<font face="Roboto Medium" size="26">I had a family that meant the world to me!</font>
+
+132
+00:11:38,740 --> 00:11:40,300
+<font face="Roboto Medium" size="26">Why me?</font>
+
+133
+00:11:41,850 --> 00:11:45,870
+<font face="Roboto Medium" size="26">I just happened to be there.</font>
+
+134
+00:11:46,680 --> 00:11:48,230
+<font face="Roboto Medium" size="26">You're...</font>
+
+135
+00:11:49,120 --> 00:11:50,320
+<font face="Roboto Medium" size="26">The hell're you doing?</font>
+
+136
+00:11:53,260 --> 00:11:54,780
+<font face="Roboto Medium" size="26">Guys!</font>
+
+137
+00:11:54,780 --> 00:11:59,060
+<font face="Roboto Medium" size="26">This simulation makes virtual 
+enemies from your memories.</font>
+
+138
+00:11:59,590 --> 00:12:00,740
+<font face="Roboto Medium" size="26">Why do this to yourself?</font>
+
+139
+00:12:02,390 --> 00:12:04,450
+<font face="Roboto Medium" size="26">Ryusei told me I should.</font>
+
+140
+00:12:05,740 --> 00:12:09,410
+<font face="Roboto Medium" size="26">That jackass left me 
+one hell of a farewell gift.</font>
+
+141
+00:12:09,850 --> 00:12:12,750
+<font face="Roboto Medium" size="26">It's made me realize something crazy.</font>
+
+142
+00:12:13,380 --> 00:12:17,350
+<font face="Roboto Medium" size="26">Humans do nothing but destroy the world.</font>
+
+143
+00:12:17,350 --> 00:12:21,760
+<font face="Roboto Medium" size="26">That's what my dad taught me, 
+and I never doubted him.</font>
+
+144
+00:12:22,240 --> 00:12:25,100
+<font face="Roboto Medium" size="26">But when I watched Ryusei die...</font>
+
+145
+00:12:26,010 --> 00:12:28,820
+<font face="Roboto Medium" size="26">It hurt like somebody 
+was squeezing my heart.</font>
+
+146
+00:12:30,130 --> 00:12:32,230
+<font face="Roboto Medium" size="26">I've never felt that way before.</font>
+
+147
+00:12:34,460 --> 00:12:39,360
+<font face="Roboto Medium" size="26">It made me think... maybe every life I 
+took made someone else feel like that.</font>
+
+148
+00:12:47,990 --> 00:12:49,500
+<font face="Roboto Medium" size="26">Gai...</font>
+
+149
+00:12:49,500 --> 00:12:52,090
+<font face="Roboto Medium" size="26">So this is your way 
+of taking responsibility?</font>
+
+150
+00:12:53,230 --> 00:12:56,510
+<font face="Roboto Medium" size="26">It's not like I think it'll change
+what I've done!</font>
+
+151
+00:12:56,990 --> 00:12:59,730
+<font face="Roboto Medium" size="26">But you still had to 
+put yourself through it.</font>
+
+152
+00:13:02,300 --> 00:13:03,550
+<font face="Roboto Medium" size="26">What the—?!</font>
+
+153
+00:13:03,550 --> 00:13:05,970
+<font face="Roboto Medium" size="26"><i>Emergency! Emergency!</i></font>
+
+154
+00:13:06,320 --> 00:13:09,270
+<font face="Roboto Medium" size="26"><i>Intruder on board! 
+Initiating emergency stop!</i></font>
+
+155
+00:13:13,670 --> 00:13:16,480
+<font face="Roboto Medium" size="26"><i>Intruder on board! 
+Initiating emergency stop!</i></font>
+
+156
+00:13:16,920 --> 00:13:19,640
+<font face="Roboto Medium" size="26"><i>Locating intruder with all due—</i></font>
+
+157
+00:13:20,150 --> 00:13:21,560
+<font face="Roboto Medium" size="26">What just happened?!</font>
+
+158
+00:13:21,560 --> 00:13:23,390
+<font face="Roboto Medium" size="26">They said we have an intruder.</font>
+
+159
+00:13:23,390 --> 00:13:25,780
+<font face="Roboto Medium" size="26">Let's go back to the real world and see.</font>
+
+160
+00:13:25,780 --> 00:13:27,410
+<font face="Roboto Medium" size="26">That won't be happening.</font>
+
+161
+00:13:27,780 --> 00:13:28,840
+<font face="Roboto Medium" size="26">It's that jerk!</font>
+
+162
+00:13:29,410 --> 00:13:32,190
+<font face="Roboto Medium" size="26">Is that any way to talk
+ to a senior coworker?</font>
+
+163
+00:13:32,190 --> 00:13:34,290
+<font face="Roboto Medium" size="26">Your parents did a bad job raising you.</font>
+
+164
+00:13:35,250 --> 00:13:37,540
+<font face="Roboto Medium" size="26">Why do you have Ryu's Weapon-Gear?</font>
+
+165
+00:13:37,540 --> 00:13:39,760
+<font face="Roboto Medium" size="26">He won't need it now that he's dead.</font>
+
+166
+00:13:39,760 --> 00:13:41,120
+<font face="Roboto Medium" size="26">You bastard!</font>
+
+167
+00:13:41,120 --> 00:13:42,910
+<font face="Roboto Medium" size="26">I'm a bastard now?</font>
+
+168
+00:13:42,910 --> 00:13:45,740
+<font face="Roboto Medium" size="26">Your parents really— 
+Oh, wait, you don't have any.</font>
+
+169
+00:13:45,740 --> 00:13:47,140
+<font face="Roboto Medium" size="26">How do you know that?</font>
+
+170
+00:13:47,140 --> 00:13:50,080
+<font face="Roboto Medium" size="26">Courtesy of the classified intel 
+Ryusei gave me.</font>
+
+171
+00:13:50,080 --> 00:13:54,350
+<font face="Roboto Medium" size="26">Of course, he didn't include
+how to take over this train.</font>
+
+172
+00:13:54,730 --> 00:13:56,480
+<font face="Roboto Medium" size="26">Mirei!</font>
+
+173
+00:13:56,480 --> 00:13:59,730
+<font face="Roboto Medium" size="26">I didn't want to get rough 
+with her, but oh well.</font>
+
+174
+00:13:59,730 --> 00:14:01,330
+<font face="Roboto Medium" size="26">What are you after?</font>
+
+175
+00:14:01,710 --> 00:14:04,820
+<font face="Roboto Medium" size="26">I'm going to make a new team 
+of Samurai Troopers.</font>
+
+176
+00:14:05,400 --> 00:14:08,700
+<font face="Roboto Medium" size="26">Start making sense, 
+you skirt-wearing jackass!</font>
+
+177
+00:14:08,700 --> 00:14:11,990
+<font face="Roboto Medium" size="26">Find some taste before 
+you come for <i>my</i> fashion sense.</font>
+
+178
+00:14:12,610 --> 00:14:17,420
+<font face="Roboto Medium" size="26">Surely you realize that you can't beat 
+the Demon Emperor as you are now.</font>
+
+179
+00:14:18,010 --> 00:14:21,820
+<font face="Roboto Medium" size="26">And so I decided to lay 
+the best runway you could ask for.</font>
+
+180
+00:14:22,170 --> 00:14:26,550
+<font face="Roboto Medium" size="26">You're going to fight me. 
+If you lose, you're all fired.</font>
+
+181
+00:14:26,550 --> 00:14:29,340
+<font face="Roboto Medium" size="26">You can get off this train 
+with a clear conscience.</font>
+
+182
+00:14:29,340 --> 00:14:30,800
+<font face="Roboto Medium" size="26">Great plan, right?</font>
+
+183
+00:14:30,800 --> 00:14:33,350
+<font face="Roboto Medium" size="26">Don't just assume we want out.</font>
+
+184
+00:14:33,350 --> 00:14:36,810
+<font face="Roboto Medium" size="26">It sounds like everyone 
+but you does, though.</font>
+
+185
+00:14:39,150 --> 00:14:40,780
+<font face="Roboto Medium" size="26">And what if we win?</font>
+
+186
+00:14:40,780 --> 00:14:43,700
+<font face="Roboto Medium" size="26">In that event, I'll join you.</font>
+
+187
+00:14:43,700 --> 00:14:45,850
+<font face="Roboto Medium" size="26">What? Gimme a break!</font>
+
+188
+00:14:45,850 --> 00:14:48,510
+<font face="Roboto Medium" size="26">This is what Ryusei wanted, 
+so deal with it.</font>
+
+189
+00:14:48,490 --> 00:14:53,200
+<font face="Roboto Medium" size="26">But don't worry too much. 
+You've got zero hope of beating me.</font>
+
+190
+00:14:53,200 --> 00:14:56,420
+<font face="Roboto Medium" size="26">You sure like to talk a big game!</font>
+
+191
+00:14:56,740 --> 00:14:59,160
+<font face="Roboto Medium" size="26">Armor of Wilderness!</font>
+
+192
+00:15:00,520 --> 00:15:02,600
+<font face="Roboto Medium" size="26">No Armor-Gear for you.</font>
+
+193
+00:15:02,600 --> 00:15:06,520
+<font face="Roboto Medium" size="26">Under-Gear only. I've changed 
+the virtual space's settings.</font>
+
+194
+00:15:07,240 --> 00:15:10,100
+<font face="Roboto Medium" size="26">But the same goes for me.</font>
+
+195
+00:15:10,100 --> 00:15:13,370
+<font face="Roboto Medium" size="26">All of you come at me, four against one.
+ It'll save time.</font>
+
+196
+00:15:14,060 --> 00:15:16,060
+<font face="Roboto Medium" size="26">I'll show you!</font>
+
+197
+00:15:18,250 --> 00:15:19,610
+<font face="Roboto Medium" size="26"><i>Yamato Hojo.</i></font>
+
+198
+00:15:20,160 --> 00:15:23,460
+<font face="Roboto Medium" size="26"><i>You have the most passion 
+for being a Samurai Trooper</i></font>
+
+199
+00:15:23,460 --> 00:15:25,420
+<font face="Roboto Medium" size="26"><i>and the most brute strength.</i></font>
+
+200
+00:15:26,000 --> 00:15:29,740
+<font face="Roboto Medium" size="26"><i>Yamato can be intense, 
+but he brings life to the team,</i></font>
+
+201
+00:15:29,740 --> 00:15:33,790
+<font face="Roboto Medium" size="26"><i>and the strength he taps into when 
+his emotions take over will shock you.</i></font>
+
+202
+00:15:41,500 --> 00:15:45,220
+<font face="Roboto Medium" size="26">Meaning you leave more openings 
+when you lose your cool.</font>
+
+203
+00:15:47,680 --> 00:15:48,840
+<font face="Roboto Medium" size="26">Yama!</font>
+
+204
+00:15:50,310 --> 00:15:52,060
+<font face="Roboto Medium" size="26">Damn it...</font>
+
+205
+00:15:52,060 --> 00:15:53,850
+<font face="Roboto Medium" size="26">I'll make you pay for that!</font>
+
+206
+00:15:57,940 --> 00:15:59,660
+<font face="Roboto Medium" size="26"><i>Musashi Hojo.</i></font>
+
+207
+00:15:59,660 --> 00:16:03,070
+<font face="Roboto Medium" size="26"><i>You're agile and specialize
+ in quick strikes.</i></font>
+
+208
+00:16:03,500 --> 00:16:06,330
+<font face="Roboto Medium" size="26"><i>Musashi is a pessimist 
+and grumbles a lot,</i></font>
+
+209
+00:16:06,330 --> 00:16:08,950
+<font face="Roboto Medium" size="26"><i>but he has a strong sense of justice,</i></font>
+
+210
+00:16:09,210 --> 00:16:11,100
+<font face="Roboto Medium" size="26"><i>and most importantly, he's caring.</i></font>
+
+211
+00:16:12,200 --> 00:16:16,580
+<font face="Roboto Medium" size="26">Which means you have trouble 
+striking hard enough to kill.</font>
+
+212
+00:16:26,510 --> 00:16:31,360
+<font face="Roboto Medium" size="26"><i>Kaito Uesugi, you have a sharp mind 
+and always assess the situation calmly.</i></font>
+
+213
+00:16:32,260 --> 00:16:37,020
+<font face="Roboto Medium" size="26"><i>Kaito seems detached, but he's really 
+the most sensitive to others' pain.</i></font>
+
+214
+00:16:37,020 --> 00:16:39,900
+<font face="Roboto Medium" size="26"><i>He thinks of his teammates 
+and relies on them.</i></font>
+
+215
+00:16:41,160 --> 00:16:45,860
+<font face="Roboto Medium" size="26"><i>But you're only fifteen. 
+You struggle to adapt to the unexpected.</i></font>
+
+216
+00:16:48,530 --> 00:16:50,070
+<font face="Roboto Medium" size="26">Is that all you've got?</font>
+
+217
+00:16:53,260 --> 00:16:54,880
+<font face="Roboto Medium" size="26">Not bad.</font>
+
+218
+00:16:55,790 --> 00:16:58,150
+<font face="Roboto Medium" size="26">But there's a lot more 
+where that came from!</font>
+
+219
+00:17:02,340 --> 00:17:05,370
+<font face="Roboto Medium" size="26">Maybe there's just something wrong 
+with my eyes, but...</font>
+
+220
+00:17:05,370 --> 00:17:07,880
+<font face="Roboto Medium" size="26">He looks like Ryusei.</font>
+
+221
+00:17:07,880 --> 00:17:09,050
+<font face="Roboto Medium" size="26">You think so too?</font>
+
+222
+00:17:14,180 --> 00:17:15,320
+<font face="Roboto Medium" size="26">Why...?</font>
+
+223
+00:17:15,930 --> 00:17:18,260
+<font face="Roboto Medium" size="26">Why did you leave us?</font>
+
+224
+00:17:18,820 --> 00:17:20,690
+<font face="Roboto Medium" size="26">What are we supposed to do now?!</font>
+
+225
+00:17:22,680 --> 00:17:24,190
+<font face="Roboto Medium" size="26">That's what I want to know.</font>
+
+226
+00:17:30,830 --> 00:17:32,510
+<font face="Roboto Medium" size="26">That just leaves Gai.</font>
+
+227
+00:17:33,590 --> 00:17:34,490
+<font face="Roboto Medium" size="26">Gai.</font>
+
+228
+00:17:35,050 --> 00:17:37,240
+<font face="Roboto Medium" size="26">What are you fighting for?</font>
+
+229
+00:17:38,970 --> 00:17:41,750
+<font face="Roboto Medium" size="26"><i>Gai is on the verge of really soaring.</i></font>
+
+230
+00:17:42,340 --> 00:17:44,960
+<font face="Roboto Medium" size="26"><i>As long as he stays obsessed with Ramaga,</i></font>
+
+231
+00:17:44,960 --> 00:17:47,000
+<font face="Roboto Medium" size="26"><i>he won't break out of his shell.</i></font>
+
+232
+00:17:49,550 --> 00:17:52,400
+<font face="Roboto Medium" size="26">You don't want to become 
+your father's next body?</font>
+
+233
+00:17:52,400 --> 00:17:53,420
+<font face="Roboto Medium" size="26">In that case—</font>
+
+234
+00:17:53,420 --> 00:17:55,680
+<font face="Roboto Medium" size="26">I'm not fighting for that anymore!</font>
+
+235
+00:17:57,030 --> 00:18:00,900
+<font face="Roboto Medium" size="26">My dad'll wreck this world 
+whether he makes me his Puppet or not.</font>
+
+236
+00:18:01,350 --> 00:18:03,860
+<font face="Roboto Medium" size="26">So I'm gonna stop him!</font>
+
+237
+00:18:05,110 --> 00:18:10,970
+<font face="Roboto Medium" size="26">I'm gonna end this stupid war quick 
+so no more blood gets spilled for nothing!</font>
+
+238
+00:18:11,680 --> 00:18:13,860
+<font face="Roboto Medium" size="26"><i>That's</i> what I'm fighting for!</font>
+
+239
+00:18:15,990 --> 00:18:20,120
+<font face="Roboto Medium" size="26">Awfully idealistic talk for a demon!</font>
+
+240
+00:18:22,650 --> 00:18:24,780
+<font face="Roboto Medium" size="26">I'm not a demon anymore.</font>
+
+241
+00:18:26,260 --> 00:18:28,260
+<font face="Roboto Medium" size="26">Ryusei told me.</font>
+
+242
+00:18:29,040 --> 00:18:33,470
+<font face="Roboto Medium" size="26">You're already a worthy emissary of Fire.</font>
+
+243
+00:18:33,960 --> 00:18:35,010
+<font face="Roboto Medium" size="26">I'm...</font>
+
+244
+00:18:36,450 --> 00:18:38,560
+<font face="Roboto Medium" size="26">a Samurai Trooper!</font>
+
+245
+00:18:50,860 --> 00:18:52,760
+<font face="Roboto Medium" size="26">Excellent.</font>
+
+246
+00:18:52,760 --> 00:18:54,280
+<font face="Roboto Medium" size="26">Now we're heating up.</font>
+
+247
+00:18:56,310 --> 00:19:00,120
+<font face="Roboto Medium" size="26">He's right. If we run away now,</font>
+
+248
+00:19:00,620 --> 00:19:03,750
+<font face="Roboto Medium" size="26">even more people are going to get hurt.</font>
+
+249
+00:19:05,620 --> 00:19:06,720
+<font face="Roboto Medium" size="26">Go...</font>
+
+250
+00:19:07,250 --> 00:19:09,000
+<font face="Roboto Medium" size="26">Go for it!</font>
+
+251
+00:19:09,290 --> 00:19:12,070
+<font face="Roboto Medium" size="26">Get him, Gai!</font>
+
+252
+00:19:12,070 --> 00:19:14,870
+<font face="Roboto Medium" size="26">Hey! Don't let him beat you!</font>
+
+253
+00:19:19,500 --> 00:19:20,560
+<font face="Roboto Medium" size="26"><i>You know...</i></font>
+
+254
+00:19:21,040 --> 00:19:22,930
+<font face="Roboto Medium" size="26"><i>I like them all.</i></font>
+
+255
+00:19:23,380 --> 00:19:25,360
+<font face="Roboto Medium" size="26"><i>Being with them reminds me</i></font>
+
+256
+00:19:26,530 --> 00:19:28,360
+<font face="Roboto Medium" size="26"><i>of the time I spent with you.</i></font>
+
+257
+00:19:46,380 --> 00:19:47,560
+<font face="Roboto Medium" size="26">He won.</font>
+
+258
+00:19:49,210 --> 00:19:51,150
+<font face="Roboto Medium" size="26">All right!</font>
+
+259
+00:19:49,700 --> 00:19:51,150
+<font face="Roboto Medium" size="26">{\an8}Way to go!</font>
+
+260
+00:19:51,150 --> 00:19:55,010
+<font face="Roboto Medium" size="26">I call this "Operation
+ Gotta Do It for Ryusei"!</font>
+
+261
+00:19:55,260 --> 00:19:58,350
+<font face="Roboto Medium" size="26">You can't call that an operation.</font>
+
+262
+00:19:59,330 --> 00:20:00,930
+<font face="Roboto Medium" size="26">Ow...</font>
+
+263
+00:20:02,230 --> 00:20:05,060
+<font face="Roboto Medium" size="26">Who knew the sky was so blue?</font>
+
+264
+00:20:05,790 --> 00:20:09,520
+<font face="Roboto Medium" size="26">This pain is a step 
+toward changing tomorrow.</font>
+
+265
+00:20:15,900 --> 00:20:18,160
+<font face="Roboto Medium" size="26">In your dreams, maybe.</font>
+
+266
+00:20:18,730 --> 00:20:20,450
+<font face="Roboto Medium" size="26">We win.</font>
+
+267
+00:20:20,450 --> 00:20:22,380
+<font face="Roboto Medium" size="26">Keep your promise.</font>
+
+268
+00:20:22,380 --> 00:20:23,700
+<font face="Roboto Medium" size="26">What promise?</font>
+
+269
+00:20:23,700 --> 00:20:25,590
+<font face="Roboto Medium" size="26">You're gonna join us.</font>
+
+270
+00:20:28,210 --> 00:20:30,640
+<font face="Roboto Medium" size="26">Weren't you going to quit?</font>
+
+271
+00:20:30,640 --> 00:20:32,950
+<font face="Roboto Medium" size="26">No one said anything about quitting.</font>
+
+272
+00:20:32,950 --> 00:20:35,730
+<font face="Roboto Medium" size="26">Heroes don't just turn tail and run.</font>
+
+273
+00:20:45,520 --> 00:20:48,180
+<font face="Roboto Medium" size="26">You can start by cleaning up.</font>
+
+274
+00:20:48,180 --> 00:20:48,970
+<font face="Roboto Medium" size="26">Why should I?</font>
+
+275
+00:20:48,970 --> 00:20:51,950
+<font face="Roboto Medium" size="26">Why? Because you're 
+the new kid on the block.</font>
+
+276
+00:20:51,950 --> 00:20:54,040
+<font face="Roboto Medium" size="26">Wait, wait, wait. 
+I'm older than all of you.</font>
+
+277
+00:20:54,040 --> 00:20:56,340
+<font face="Roboto Medium" size="26">Stop whining and get to work.</font>
+
+278
+00:20:56,340 --> 00:20:58,640
+<font face="Roboto Medium" size="26">When you finish wiping
+the place down, start sweeping.</font>
+
+279
+00:20:58,640 --> 00:21:00,330
+<font face="Roboto Medium" size="26">We're counting on you, new guy.</font>
+
+280
+00:21:00,930 --> 00:21:02,730
+<font face="Roboto Medium" size="26">Do you want to make me cry?</font>
+
+281
+00:21:04,340 --> 00:21:06,760
+<font face="Roboto Medium" size="26">We've gotta go rescue Mirei!</font>
+
+282
+00:21:06,760 --> 00:21:08,530
+<font face="Roboto Medium" size="26">Oh, that was a farce.</font>
+
+283
+00:21:09,540 --> 00:21:13,010
+<font face="Roboto Medium" size="26">See how I convey "Eek! Save me!" 
+with just a look?!</font>
+
+284
+00:21:13,010 --> 00:21:15,460
+<font face="Roboto Medium" size="26">Am I an actress or what?</font>
+
+285
+00:21:15,460 --> 00:21:17,700
+<font face="Roboto Medium" size="26">Man! You nearly gave me a heart attack!</font>
+
+286
+00:21:17,700 --> 00:21:20,480
+<font face="Roboto Medium" size="26">I can't believe you were in 
+on it too, Commander.</font>
+
+287
+00:21:20,480 --> 00:21:23,270
+<font face="Roboto Medium" size="26">All to get our new Samurai Troopers going.</font>
+
+288
+00:21:23,270 --> 00:21:27,520
+<font face="Roboto Medium" size="26">We need you all to reach 
+the next stage as soon as possible.</font>
+
+289
+00:21:27,520 --> 00:21:28,600
+<font face="Roboto Medium" size="26">What next stage?</font>
+
+290
+00:21:29,320 --> 00:21:31,350
+<font face="Roboto Medium" size="26">The Armor of the Supreme Emperor.</font>
+
+291
+00:21:31,350 --> 00:21:32,780
+<font face="Roboto Medium" size="26">The what?</font>
+
+292
+00:21:32,780 --> 00:21:35,390
+<font face="Roboto Medium" size="26">A legendary set of armor 
+that can defeat Ramaga.</font>
+
+293
+00:21:36,110 --> 00:21:38,740
+<font face="Roboto Medium" size="26">This boy holds the key to it.</font>
+
+294
+00:21:39,210 --> 00:21:45,490
+<font face="Roboto Medium" size="26">Jun Yamano, an ally from our fight
+against Demon Emperor Arago.</font>
+
+295
+00:21:45,490 --> 00:21:48,620
+<font face="Roboto Medium" size="26">And where is Mr. Yamano now?</font>
+
+296
+00:21:48,890 --> 00:21:50,690
+<font face="Roboto Medium" size="26">He's on this train.</font>
+
+297
+00:21:52,870 --> 00:21:55,880
+<font face="Roboto Medium" size="26">Mr. Yamano! Open the door!</font>
+
+298
+00:21:55,880 --> 00:21:57,600
+<font face="Roboto Medium" size="26">Is he really in there?</font>
+
+299
+00:21:57,600 --> 00:21:58,970
+<font face="Roboto Medium" size="26">Probably, yeah.</font>
+
+300
+00:21:58,970 --> 00:22:03,840
+<font face="Roboto Medium" size="26">He moved in while the train 
+was in storage and refused to leave.</font>
+
+301
+00:22:03,840 --> 00:22:05,970
+<font face="Roboto Medium" size="26">What a pain.</font>
+
+302
+00:22:05,970 --> 00:22:08,510
+<font face="Roboto Medium" size="26">If you're in there, come on out!</font>
+
+303
+00:22:11,730 --> 00:22:13,420
+<font face="Roboto Medium" size="26">What do you want?</font>
+
+304
+00:22:13,420 --> 00:22:16,110
+<font face="Roboto Medium" size="26">I've had enough of fighting!</font>
+
+305
+00:22:19,860 --> 00:22:22,710
+<font face="Roboto Medium" size="26"><i>This</i> guy is <i>this</i> kid?</font>
+
+306
+00:22:25,010 --> 00:22:28,720
+<font face="Roboto Medium" size="26">{\an8}<font face="Arial"><font size="8">Translation\h\h\h\h\h\h<font size="10">William Varteresian</font></font></font></font>
+
+307
+00:22:29,130 --> 00:22:32,600
+<font face="Roboto Medium" size="26">{\an8}<font face="Arial"><font size="8">Timing\h\h\h\h\h\h\h\h\h\h\h\h<font size="10">Mariana Martinez</font></font></font></font>
+
+308
+00:22:29,130 --> 00:22:32,600
+<font face="Roboto Medium" size="26"><font face="Arial"><font size="8">Editing\h\h\h\h\h\h\h\h\h\h\h\h<font size="10">Riley Dalton</font></font></font></font>
+
+309
+00:22:32,600 --> 00:22:36,220
+<font face="Roboto Medium" size="26">{\an8}<font face="Arial"><font size="8">Quality Check\h\h\h\h\h\h\h\h\h\h\h\h<font size="10">SMR</font></font></font></font>
+
+310
+00:22:32,600 --> 00:22:36,180
+<font face="Roboto Medium" size="26">{\an8}<font face="Arial"><font size="8">Translation Check\h\h\h\h\h\h\h\h\h\h\h\h<font size="10">Michelle Tymon</font></font></font></font>
+
+311
+00:23:54,620 --> 00:23:59,000
+<font face="Trebuchet MS" size="24">{\an8}EPISODE VII
+MEMORY</font>
+
+312
+00:23:55,320 --> 00:23:58,450
+<font face="Roboto Medium" size="26">Armor races through your heart.</font>
+
