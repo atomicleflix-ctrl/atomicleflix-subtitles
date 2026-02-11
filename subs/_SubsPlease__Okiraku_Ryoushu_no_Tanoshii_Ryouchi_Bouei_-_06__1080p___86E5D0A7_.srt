@@ -1,0 +1,1428 @@
+1
+00:00:01,800 --> 00:00:03,850
+<font face="Roboto Medium" size="26">How impressive.</font>
+
+2
+00:00:04,200 --> 00:00:06,900
+<font face="Roboto Medium" size="26">They look incredibly sturdy.</font>
+
+3
+00:00:07,330 --> 00:00:09,070
+<font face="Roboto Medium" size="26">That's Lord Van for you.</font>
+
+4
+00:00:09,070 --> 00:00:12,780
+<font face="Roboto Medium" size="26">Thanks to your help, 
+we finished the ramparts in two weeks.</font>
+
+5
+00:00:13,170 --> 00:00:15,160
+<font face="Roboto Medium" size="26">In so little time?</font>
+
+6
+00:00:15,690 --> 00:00:17,780
+<font face="Roboto Medium" size="26">I know we helped out,</font>
+
+7
+00:00:18,310 --> 00:00:20,790
+<font face="Roboto Medium" size="26">but I'm still shocked at what you can do.</font>
+
+8
+00:00:21,200 --> 00:00:24,570
+<font face="Roboto Medium" size="26"><i>Panamera's "ramparts" 
+are jutting out the most,</i></font>
+
+9
+00:00:24,570 --> 00:00:27,210
+<font face="Roboto Medium" size="26"><i>but I'm not foolish enough 
+to say that out loud.</i></font>
+
+10
+00:00:27,820 --> 00:00:33,620
+<font face="Roboto Medium" size="26">We'll build more houses as more people 
+like merchants and adventurers move here.</font>
+
+11
+00:00:34,090 --> 00:00:36,220
+<font face="Roboto Medium" size="26">I'm positively envious of you.</font>
+
+12
+00:00:36,580 --> 00:00:38,920
+<font face="Roboto Medium" size="26">It's been my dream to have my own land.</font>
+
+13
+00:00:39,430 --> 00:00:43,400
+<font face="Roboto Medium" size="26">In the next battle, I'll just have to earn
+ more glory than money can reward,</font>
+
+14
+00:00:43,400 --> 00:00:44,920
+<font face="Roboto Medium" size="26">and ask for my own patch.</font>
+
+15
+00:00:46,030 --> 00:00:46,900
+<font face="Roboto Medium" size="26">By the way...</font>
+
+16
+00:00:48,150 --> 00:00:49,600
+<font face="Roboto Medium" size="26">What are those things?</font>
+
+17
+00:00:49,600 --> 00:00:51,190
+<font face="Roboto Medium" size="26">Ballistae.</font>
+
+18
+00:00:51,500 --> 00:00:55,450
+<font face="Roboto Medium" size="26">I tried crafting larger versions of 
+the simple ballistae I'd made before.</font>
+
+19
+00:00:55,790 --> 00:00:58,320
+<font face="Roboto Medium" size="26">You made those, too, Lord Van?</font>
+
+20
+00:00:58,670 --> 00:01:03,580
+<font face="Roboto Medium" size="26">Yes. Top and bottom can fire separately,
+so they can loose two bolts in a row.</font>
+
+21
+00:01:04,820 --> 00:01:07,410
+<font face="Roboto Medium" size="26">Khamsin, could you test-fire one for us?</font>
+
+22
+00:01:07,410 --> 00:01:08,220
+<font face="Roboto Medium" size="26">Sure.</font>
+
+23
+00:01:12,040 --> 00:01:13,340
+<font face="Roboto Medium" size="26">Here I go.</font>
+
+24
+00:01:21,530 --> 00:01:24,370
+<font face="Roboto Medium" size="26">Yup, they came out quite well.</font>
+
+25
+00:01:36,330 --> 00:01:41,500
+<font face="Roboto Medium" size="26">{\an8}EASYGOING TERRITORY DEFENSE
+BY THE OPTIMISTIC LORD</font>
+
+26
+00:01:41,500 --> 00:01:44,080
+<font face="Roboto Medium" size="26">{\an8}EPISODE 6: SLAYING A DANGEROUS
+FOREST DRAGON WITH LARGE BALLISTAE</font>
+
+27
+00:02:55,020 --> 00:03:01,490
+<font face="Roboto Medium" size="26">{\an8}EPISODE 6: SLAYING A DANGEROUS
+FOREST DRAGON WITH LARGE BALLISTAE</font>
+
+28
+00:02:56,450 --> 00:03:01,490
+<font face="Roboto Medium" size="26">{\an8}You have ballistae that powerful
+ atop your ramparts?</font>
+
+29
+00:03:02,060 --> 00:03:04,200
+<font face="Roboto Medium" size="26">Yes, over a hundred of them.</font>
+
+30
+00:03:04,200 --> 00:03:05,370
+<font face="Roboto Medium" size="26">A hundred?!</font>
+
+31
+00:03:08,620 --> 00:03:11,080
+<font face="Roboto Medium" size="26">Name your price. I'll buy one.</font>
+
+32
+00:03:11,770 --> 00:03:14,670
+<font face="Roboto Medium" size="26">I'm sorry, but these aren't for sale.</font>
+
+33
+00:03:17,500 --> 00:03:21,060
+<font face="Roboto Medium" size="26">Then, I'll owe you a favor, Lord Van.</font>
+
+34
+00:03:21,060 --> 00:03:24,430
+<font face="Roboto Medium" size="26">In return, please let me 
+have one of these ballistae.</font>
+
+35
+00:03:25,060 --> 00:03:26,460
+<font face="Roboto Medium" size="26">I see.</font>
+
+36
+00:03:26,460 --> 00:03:28,910
+<font face="Roboto Medium" size="26">Very well. I'll give you one.</font>
+
+37
+00:03:28,910 --> 00:03:31,810
+<font face="Roboto Medium" size="26">I'll call in that favor later.</font>
+
+38
+00:03:31,810 --> 00:03:33,530
+<font face="Roboto Medium" size="26">You have my gratitude.</font>
+
+39
+00:03:33,530 --> 00:03:37,570
+<font face="Roboto Medium" size="26">How will you transport it? 
+And what about the bolts to load into it?</font>
+
+40
+00:03:37,870 --> 00:03:42,400
+<font face="Roboto Medium" size="26">It does look rather heavy. 
+I'll arrange a carriage.</font>
+
+41
+00:03:42,680 --> 00:03:45,980
+<font face="Roboto Medium" size="26">The bolts are made from iron, 
+so I can craft those on my end.</font>
+
+42
+00:03:45,980 --> 00:03:47,220
+<font face="Roboto Medium" size="26">Lady Panamera.</font>
+
+43
+00:03:48,510 --> 00:03:53,540
+<font face="Roboto Medium" size="26">I think you should take at least 
+one or two of Lord Van's bolts.</font>
+
+44
+00:03:53,540 --> 00:03:54,670
+<font face="Roboto Medium" size="26">Why?</font>
+
+45
+00:03:55,250 --> 00:03:56,670
+<font face="Roboto Medium" size="26">Take a look at this.</font>
+
+46
+00:03:57,730 --> 00:04:00,310
+<font face="Roboto Medium" size="26">I've never seen a sword that shape before.</font>
+
+47
+00:04:01,330 --> 00:04:06,180
+<font face="Roboto Medium" size="26">Seems like it'd make heavy work
+of foes with armor and shields.</font>
+
+48
+00:04:06,650 --> 00:04:08,740
+<font face="Roboto Medium" size="26">Got a sword you don't mind breaking?</font>
+
+49
+00:04:10,120 --> 00:04:11,580
+<font face="Roboto Medium" size="26">This is my spare sword.</font>
+
+50
+00:04:11,580 --> 00:04:13,150
+<font face="Roboto Medium" size="26">If it breaks, so be it,</font>
+
+51
+00:04:13,150 --> 00:04:16,190
+<font face="Roboto Medium" size="26">but this beauty has seen me
+ through several battles.</font>
+
+52
+00:04:16,190 --> 00:04:19,060
+<font face="Roboto Medium" size="26">I'd be impressed if you 
+even managed to chip it.</font>
+
+53
+00:04:19,950 --> 00:04:22,020
+<font face="Roboto Medium" size="26">Then, if I may...</font>
+
+54
+00:04:25,910 --> 00:04:29,400
+<font face="Roboto Medium" size="26"><i>There was hardly an impact. 
+Did he just graze it?</i></font>
+
+55
+00:04:33,340 --> 00:04:36,240
+<font face="Roboto Medium" size="26">Very impressive. 
+It has an incredible edge, doesn't it?</font>
+
+56
+00:04:36,240 --> 00:04:38,750
+<font face="Roboto Medium" size="26">Lord Van made it, after all.</font>
+
+57
+00:04:38,980 --> 00:04:41,570
+<font face="Roboto Medium" size="26">What material is that sword made of?</font>
+
+58
+00:04:41,570 --> 00:04:43,260
+<font face="Roboto Medium" size="26">Ordinary iron.</font>
+
+59
+00:04:43,630 --> 00:04:45,510
+<font face="Roboto Medium" size="26">That's impossible.</font>
+
+60
+00:04:45,880 --> 00:04:48,760
+<font face="Roboto Medium" size="26">Wait, you mean those bolts are also...</font>
+
+61
+00:04:49,080 --> 00:04:51,850
+<font face="Roboto Medium" size="26">I made them the same way
+ I did that sword.</font>
+
+62
+00:04:51,850 --> 00:04:55,520
+<font face="Roboto Medium" size="26">They pierce right through 
+two or three armored lizards.</font>
+
+63
+00:04:55,750 --> 00:04:58,220
+<font face="Roboto Medium" size="26">Pierce <i>through</i> armored lizards?</font>
+
+64
+00:04:59,090 --> 00:05:03,700
+<font face="Roboto Medium" size="26">Lord Van, could I have some bolts
+ in addition to the ballista?</font>
+
+65
+00:05:03,700 --> 00:05:06,350
+<font face="Roboto Medium" size="26">Of course. Pleasure doing business.</font>
+
+66
+00:05:07,320 --> 00:05:12,290
+<font face="Roboto Medium" size="26">Khamsin, you have my gratitude.
+ Thanks to you, I'll also have powerful bolts.</font>
+
+67
+00:05:12,290 --> 00:05:13,650
+<font face="Roboto Medium" size="26">I'm happy for you.</font>
+
+68
+00:05:14,780 --> 00:05:16,420
+<font face="Roboto Medium" size="26">Everyone!</font>
+
+69
+00:05:16,830 --> 00:05:19,100
+<font face="Roboto Medium" size="26">Run for your lives!</font>
+
+70
+00:05:19,100 --> 00:05:20,150
+<font face="Roboto Medium" size="26">Ortho?</font>
+
+71
+00:05:20,490 --> 00:05:23,110
+<font face="Roboto Medium" size="26">I'm sorry! We couldn't outrun it!</font>
+
+72
+00:05:26,750 --> 00:05:27,700
+<font face="Roboto Medium" size="26">A dragon!</font>
+
+73
+00:05:27,700 --> 00:05:29,140
+<font face="Roboto Medium" size="26">It's huge!</font>
+
+74
+00:05:29,140 --> 00:05:31,890
+<font face="Roboto Medium" size="26">We'll distract it to buy you some time!</font>
+
+75
+00:05:31,890 --> 00:05:35,140
+<font face="Roboto Medium" size="26">Use that to get everyone 
+back to the village!</font>
+
+76
+00:05:35,620 --> 00:05:37,640
+<font face="Roboto Medium" size="26"><i>They plan to be decoys for us?</i></font>
+
+77
+00:05:37,640 --> 00:05:40,020
+<font face="Roboto Medium" size="26"><i>But that puts Ortho's party in danger.</i></font>
+
+78
+00:05:40,520 --> 00:05:42,200
+<font face="Roboto Medium" size="26"><i>Should we fight back here?</i></font>
+
+79
+00:05:42,200 --> 00:05:45,180
+<font face="Roboto Medium" size="26"><i>But that could endanger the villagers.</i></font>
+
+80
+00:05:45,630 --> 00:05:46,770
+<font face="Roboto Medium" size="26">I'll aid you.</font>
+
+81
+00:05:47,150 --> 00:05:50,060
+<font face="Roboto Medium" size="26">It's only a matter of time 
+before it heads this way.</font>
+
+82
+00:05:52,310 --> 00:05:53,550
+<font face="Roboto Medium" size="26">Ortho, this way!</font>
+
+83
+00:05:53,550 --> 00:05:55,500
+<font face="Roboto Medium" size="26">We'll shoot it down with the ballistae!</font>
+
+84
+00:05:55,500 --> 00:05:57,040
+<font face="Roboto Medium" size="26">Got it!</font>
+
+85
+00:05:57,480 --> 00:06:02,270
+<font face="Roboto Medium" size="26">Today, we'll be fighting a forest dragon,
+ a mid-class dragon with no breath weapon.</font>
+
+86
+00:06:03,340 --> 00:06:05,640
+<font face="Roboto Medium" size="26">Someone escort Lady Arte 
+back to the village.</font>
+
+87
+00:06:05,640 --> 00:06:08,590
+<font face="Roboto Medium" size="26">The rest of you hurry up onto 
+the ramparts. I'm right behind you.</font>
+
+88
+00:06:08,590 --> 00:06:09,410
+<font face="Roboto Medium" size="26">Yes, ma'am.</font>
+
+89
+00:06:10,530 --> 00:06:11,520
+<font face="Roboto Medium" size="26">Lady Arte.</font>
+
+90
+00:06:12,350 --> 00:06:15,220
+<font face="Roboto Medium" size="26">I'm sorry for exposing you 
+to such terrifying danger.</font>
+
+91
+00:06:15,500 --> 00:06:18,340
+<font face="Roboto Medium" size="26">I believe forest dragons 
+are very powerful foes.</font>
+
+92
+00:06:19,080 --> 00:06:22,310
+<font face="Roboto Medium" size="26">But this time, we have
+ our enhanced ballistae.</font>
+
+93
+00:06:22,540 --> 00:06:23,980
+<font face="Roboto Medium" size="26">We have Panamera as well.</font>
+
+94
+00:06:22,820 --> 00:06:24,600
+<font face="Roboto Medium" size="26">{\an8}There's no time! Hurry!</font>
+
+95
+00:06:25,570 --> 00:06:29,070
+<font face="Roboto Medium" size="26">We might not be able to slay it, 
+but we won't be beaten.</font>
+
+96
+00:06:29,340 --> 00:06:32,070
+<font face="Roboto Medium" size="26">R-Right. Good luck.</font>
+
+97
+00:06:34,130 --> 00:06:36,830
+<font face="Roboto Medium" size="26">Till, escort Lady Arte.</font>
+
+98
+00:06:37,150 --> 00:06:40,270
+<font face="Roboto Medium" size="26">Could you also summon Dee 
+and his men from the village?</font>
+
+99
+00:06:40,270 --> 00:06:41,030
+<font face="Roboto Medium" size="26">Right.</font>
+
+100
+00:06:43,340 --> 00:06:45,360
+<font face="Roboto Medium" size="26">This is <i>too</i> scary!</font>
+
+101
+00:06:45,360 --> 00:06:47,690
+<font face="Roboto Medium" size="26">D-Don't close the gate!</font>
+
+102
+00:06:47,690 --> 00:06:49,810
+<font face="Roboto Medium" size="26">We'll be right there!</font>
+
+103
+00:06:50,260 --> 00:06:52,430
+<font face="Roboto Medium" size="26"><i>Flying foes are trouble.</i></font>
+
+104
+00:06:52,930 --> 00:06:54,920
+<font face="Roboto Medium" size="26"><i>It won't be good if it reaches the village.</i></font>
+
+105
+00:06:55,980 --> 00:06:57,310
+<font face="Roboto Medium" size="26">Ready the ballistae!</font>
+
+106
+00:06:57,540 --> 00:06:59,480
+<font face="Roboto Medium" size="26">Be sure not to hit Ortho's party!</font>
+
+107
+00:06:59,480 --> 00:07:00,190
+<font face="Roboto Medium" size="26">Yes, sir!</font>
+
+108
+00:07:00,710 --> 00:07:02,940
+<font face="Roboto Medium" size="26">First, we'll ground it.</font>
+
+109
+00:07:03,320 --> 00:07:04,670
+<font face="Roboto Medium" size="26">Aim for its wings!</font>
+
+110
+00:07:10,460 --> 00:07:12,040
+<font face="Roboto Medium" size="26">Don't worry about me! Just go!</font>
+
+111
+00:07:14,200 --> 00:07:15,700
+<font face="Roboto Medium" size="26">Come on. This way!</font>
+
+112
+00:07:17,810 --> 00:07:19,830
+<font face="Roboto Medium" size="26">Damn it. It's not working!</font>
+
+113
+00:07:19,830 --> 00:07:22,750
+<font face="Roboto Medium" size="26">Tsk. I don't have a choice!</font>
+
+114
+00:07:24,200 --> 00:07:25,850
+<font face="Roboto Medium" size="26">I-It's coming!</font>
+
+115
+00:07:26,730 --> 00:07:28,410
+<font face="Roboto Medium" size="26">Sorry! Thank you!</font>
+
+116
+00:07:29,720 --> 00:07:32,390
+<font face="Roboto Medium" size="26">Damn it! This is desperate now!</font>
+
+117
+00:07:32,390 --> 00:07:34,970
+<font face="Roboto Medium" size="26">Forget about me! All of you, run!</font>
+
+118
+00:07:35,350 --> 00:07:37,730
+<font face="Roboto Medium" size="26">All right! Everyone, 
+head for the ramparts!</font>
+
+119
+00:07:37,730 --> 00:07:40,230
+<font face="Roboto Medium" size="26">Huh?! Seriously, boss?!</font>
+
+120
+00:07:40,580 --> 00:07:43,600
+<font face="Roboto Medium" size="26">You're the fastest member of our party!</font>
+
+121
+00:07:43,890 --> 00:07:46,760
+<font face="Roboto Medium" size="26">I have faith you'll make it back alive!</font>
+
+122
+00:07:46,760 --> 00:07:48,860
+<font face="Roboto Medium" size="26">Do you <i>really</i> mean that?!</font>
+
+123
+00:07:48,860 --> 00:07:52,040
+<font face="Roboto Medium" size="26">Everyone, let's never 
+forget Kusala's sacrifice!</font>
+
+124
+00:07:52,040 --> 00:07:54,860
+<font face="Roboto Medium" size="26">I'll get you back for this, boss!</font>
+
+125
+00:07:55,450 --> 00:07:57,960
+<font face="Roboto Medium" size="26">Ballistae, once it is within range, fire!</font>
+
+126
+00:07:57,960 --> 00:08:00,370
+<font face="Roboto Medium" size="26">Before it can get a taste of Kusala!</font>
+
+127
+00:08:00,370 --> 00:08:03,570
+<font face="Roboto Medium" size="26">Hey! Are you sure you're not
+ <i>trying</i> to be mean, lord?!</font>
+
+128
+00:08:06,130 --> 00:08:08,380
+<font face="Roboto Medium" size="26"><i>We can't hit it. What do we do?</i></font>
+
+129
+00:08:09,000 --> 00:08:11,630
+<font face="Roboto Medium" size="26">I'm best suited to stopping its advance!</font>
+
+130
+00:08:11,630 --> 00:08:13,140
+<font face="Roboto Medium" size="26">Panamera!</font>
+
+131
+00:08:13,650 --> 00:08:15,780
+<font face="Roboto Medium" size="26">Here comes my first strike!</font>
+
+132
+00:08:16,340 --> 00:08:20,280
+<font face="Roboto Medium" size="26"><i>I figured as much. Being valued 
+by the count at such a young age</i></font>
+
+133
+00:08:20,280 --> 00:08:23,890
+<font face="Roboto Medium" size="26"><i>and being made viscountess for
+her exploits can only mean one thing.</i></font>
+
+134
+00:08:25,430 --> 00:08:28,770
+<font face="Roboto Medium" size="26"><i>She's undoubtedly 
+a top-class elemental mage,</i></font>
+
+135
+00:08:28,770 --> 00:08:31,970
+<font face="Roboto Medium" size="26"><i>and her aptitude will soon
+ become very obvious.</i></font>
+
+136
+00:08:32,500 --> 00:08:34,530
+<font face="Roboto Medium" size="26">Fire Javelin!</font>
+
+137
+00:08:44,310 --> 00:08:45,700
+<font face="Roboto Medium" size="26">Incredible.</font>
+
+138
+00:08:47,350 --> 00:08:48,420
+<font face="Roboto Medium" size="26">It's not down yet.</font>
+
+139
+00:08:50,370 --> 00:08:54,050
+<font face="Roboto Medium" size="26"><i>I grew arrogant after
+slaying those armored lizards.</i></font>
+
+140
+00:08:54,390 --> 00:08:55,340
+<font face="Roboto Medium" size="26"><i>But this...</i></font>
+
+141
+00:08:55,850 --> 00:08:57,450
+<font face="Roboto Medium" size="26"><i>is on a different level.</i></font>
+
+142
+00:09:08,350 --> 00:09:10,690
+<font face="Roboto Medium" size="26">Fire all ballistae!</font>
+
+143
+00:09:15,110 --> 00:09:17,570
+<font face="Roboto Medium" size="26"><i>Good. We shot through its wings.</i></font>
+
+144
+00:09:19,580 --> 00:09:22,080
+<font face="Roboto Medium" size="26">Second volley! Fire all bolts!</font>
+
+145
+00:09:26,100 --> 00:09:27,860
+<font face="Roboto Medium" size="26"><i>It read our second volley?</i></font>
+
+146
+00:09:29,340 --> 00:09:31,590
+<font face="Roboto Medium" size="26">W-We're saved.</font>
+
+147
+00:09:31,970 --> 00:09:35,340
+<font face="Roboto Medium" size="26">W-We made it back alive somehow.</font>
+
+148
+00:09:38,760 --> 00:09:42,180
+<font face="Roboto Medium" size="26">I-I won't forget how I was treated.</font>
+
+149
+00:09:43,190 --> 00:09:45,380
+<font face="Roboto Medium" size="26"><i>I'm glad to see everyone's safe for now.</i></font>
+
+150
+00:09:46,310 --> 00:09:48,420
+<font face="Roboto Medium" size="26"><i>But if we stay here, we'll be in danger.</i></font>
+
+151
+00:09:48,850 --> 00:09:50,820
+<font face="Roboto Medium" size="26"><i>I'd love to retreat to the village, but...</i></font>
+
+152
+00:09:50,820 --> 00:09:52,660
+<font face="Roboto Medium" size="26">I'll buy you time.</font>
+
+153
+00:09:53,380 --> 00:09:55,360
+<font face="Roboto Medium" size="26">Fire Javelin!</font>
+
+154
+00:09:57,700 --> 00:09:58,740
+<font face="Roboto Medium" size="26">Not good enough?</font>
+
+155
+00:10:06,890 --> 00:10:09,890
+<font face="Roboto Medium" size="26"><i>So that's the true pinnacle of fire magic.</i></font>
+
+156
+00:10:10,950 --> 00:10:12,790
+<font face="Roboto Medium" size="26"><i>If she wasn't facing a dragon,</i></font>
+
+157
+00:10:12,790 --> 00:10:15,260
+<font face="Roboto Medium" size="26"><i>that power and versatility
+would've been devastating.</i></font>
+
+158
+00:10:15,550 --> 00:10:16,800
+<font face="Roboto Medium" size="26">Lord Van!</font>
+
+159
+00:10:19,330 --> 00:10:22,260
+<font face="Roboto Medium" size="26">I'll head back first 
+and prepare to intercept it.</font>
+
+160
+00:10:22,260 --> 00:10:25,020
+<font face="Roboto Medium" size="26">Right. We'll be right behind you.</font>
+
+161
+00:10:26,130 --> 00:10:29,060
+<font face="Roboto Medium" size="26">Everyone! Let's take this chance 
+to flee to the village!</font>
+
+162
+00:10:29,060 --> 00:10:30,270
+<font face="Roboto Medium" size="26">Yes, sir.</font>
+
+163
+00:10:50,370 --> 00:10:52,940
+<font face="Roboto Medium" size="26"><i>It should've been seriously wounded.</i></font>
+
+164
+00:10:54,990 --> 00:10:56,050
+<font face="Roboto Medium" size="26">Esparda?</font>
+
+165
+00:10:57,140 --> 00:10:59,640
+<font face="Roboto Medium" size="26">What are you doing? Hurry up and run.</font>
+
+166
+00:11:01,490 --> 00:11:04,590
+<font face="Roboto Medium" size="26">I won't run unless you're with me, too!</font>
+
+167
+00:11:06,510 --> 00:11:08,290
+<font face="Roboto Medium" size="26">That would be troublesome.</font>
+
+168
+00:11:09,370 --> 00:11:12,470
+<font face="Roboto Medium" size="26">Just this once, let me buy some time,
+ and then I'll head back.</font>
+
+169
+00:11:30,600 --> 00:11:31,430
+<font face="Roboto Medium" size="26">Good.</font>
+
+170
+00:11:32,680 --> 00:11:35,210
+<font face="Roboto Medium" size="26">That should buy us 
+a fair amount of time.</font>
+
+171
+00:11:35,590 --> 00:11:38,810
+<font face="Roboto Medium" size="26">He just casually dropped
+one hell of a line.</font>
+
+172
+00:11:39,460 --> 00:11:40,600
+<font face="Roboto Medium" size="26"><i>That said...</i></font>
+
+173
+00:11:41,760 --> 00:11:43,410
+<font face="Roboto Medium" size="26"><i>That's </i>way<i> too casual.</i></font>
+
+174
+00:11:44,650 --> 00:11:47,460
+<font face="Roboto Medium" size="26">Don't <i>walk</i> away! Run!</font>
+
+175
+00:11:47,460 --> 00:11:50,770
+<font face="Roboto Medium" size="26">Put some effort into it and 
+I'll get you that red wine you like!</font>
+
+176
+00:11:51,100 --> 00:11:54,980
+<font face="Roboto Medium" size="26">Running is harsh on these old bones, 
+but I'll do my best.</font>
+
+177
+00:11:54,980 --> 00:11:58,480
+<font face="Roboto Medium" size="26">Lord Van, I'll stay by Sir Esparda's side.</font>
+
+178
+00:11:58,710 --> 00:12:01,210
+<font face="Roboto Medium" size="26">Go on ahead and take charge
+ of the village's defenses.</font>
+
+179
+00:12:01,210 --> 00:12:03,430
+<font face="Roboto Medium" size="26">Right. Keep Esparda safe.</font>
+
+180
+00:12:05,470 --> 00:12:07,620
+<font face="Roboto Medium" size="26"><i>But the village is quite a distance.</i></font>
+
+181
+00:12:07,620 --> 00:12:10,250
+<font face="Roboto Medium" size="26"><i>I'm running for all I'm worth,
+ but it's still so far away.</i></font>
+
+182
+00:12:11,110 --> 00:12:14,000
+<font face="Roboto Medium" size="26"><i>Ortho's party is almost fit to drop, too.</i></font>
+
+183
+00:12:14,230 --> 00:12:18,120
+<font face="Roboto Medium" size="26"><i>I need to buy more time 
+or the forest dragon will be on us again.</i></font>
+
+184
+00:12:18,120 --> 00:12:19,380
+<font face="Roboto Medium" size="26">Hey, boy!</font>
+
+185
+00:12:19,870 --> 00:12:22,010
+<font face="Roboto Medium" size="26">We're in position!</font>
+
+186
+00:12:22,460 --> 00:12:23,760
+<font face="Roboto Medium" size="26">Panamera!</font>
+
+187
+00:12:23,980 --> 00:12:27,050
+<font face="Roboto Medium" size="26">Mind if I call in that favor right now?</font>
+
+188
+00:12:29,080 --> 00:12:31,910
+<font face="Roboto Medium" size="26">Not at all. So? What am I doing?</font>
+
+189
+00:12:32,650 --> 00:12:34,920
+<font face="Roboto Medium" size="26">When the forest dragon 
+reaches the ramparts,</font>
+
+190
+00:12:34,920 --> 00:12:38,020
+<font face="Roboto Medium" size="26">use that magic you did earlier
+ to pin it down!</font>
+
+191
+00:12:38,250 --> 00:12:41,530
+<font face="Roboto Medium" size="26">Then, we'll hit it with a barrage
+ from the ballistae!</font>
+
+192
+00:12:43,030 --> 00:12:44,520
+<font face="Roboto Medium" size="26">Good plan.</font>
+
+193
+00:12:44,520 --> 00:12:48,780
+<font face="Roboto Medium" size="26">Still, who would've thought my magic 
+would be used to merely pin down a foe?</font>
+
+194
+00:12:48,780 --> 00:12:52,820
+<font face="Roboto Medium" size="26">Sorry about this! I'll share the dragon 
+meat with you, so please forgive me!</font>
+
+195
+00:12:54,370 --> 00:12:55,800
+<font face="Roboto Medium" size="26">Very well!</font>
+
+196
+00:12:59,020 --> 00:13:02,550
+<font face="Roboto Medium" size="26">Okay, the meat is on the move.</font>
+
+197
+00:13:03,090 --> 00:13:05,060
+<font face="Roboto Medium" size="26">Ballistae, prepare to fire.</font>
+
+198
+00:13:06,200 --> 00:13:09,470
+<font face="Roboto Medium" size="26">I know it's scary, but be sure 
+to draw back far enough before firing.</font>
+
+199
+00:13:09,470 --> 00:13:10,380
+<font face="Roboto Medium" size="26">Right.</font>
+
+200
+00:13:11,090 --> 00:13:13,530
+<font face="Roboto Medium" size="26"><i>If I could just buy a little more time...</i></font>
+
+201
+00:13:13,930 --> 00:13:15,940
+<font face="Roboto Medium" size="26">Leave it to me!</font>
+
+202
+00:13:16,210 --> 00:13:17,100
+<font face="Roboto Medium" size="26">Dee?</font>
+
+203
+00:13:18,230 --> 00:13:19,800
+<font face="Roboto Medium" size="26">Sorry we're late.</font>
+
+204
+00:13:19,800 --> 00:13:22,190
+<font face="Roboto Medium" size="26">Deputy Commander, we can't keep up.</font>
+
+205
+00:13:24,130 --> 00:13:26,200
+<font face="Roboto Medium" size="26">Uh, will you three be okay?</font>
+
+206
+00:13:26,200 --> 00:13:27,530
+<font face="Roboto Medium" size="26">It won't be a problem!</font>
+
+207
+00:13:27,530 --> 00:13:30,950
+<font face="Roboto Medium" size="26">We have the weapons you made, after all!</font>
+
+208
+00:13:54,570 --> 00:13:57,230
+<font face="Roboto Medium" size="26">Esparda! Khamsin! Hurry!</font>
+
+209
+00:13:59,490 --> 00:14:00,360
+<font face="Roboto Medium" size="26">Retreat!</font>
+
+210
+00:14:00,360 --> 00:14:01,420
+<font face="Roboto Medium" size="26">Yes, sir!</font>
+
+211
+00:14:07,830 --> 00:14:09,380
+<font face="Roboto Medium" size="26"><i>We've drawn it in close enough.</i></font>
+
+212
+00:14:09,880 --> 00:14:10,870
+<font face="Roboto Medium" size="26">Panamera!</font>
+
+213
+00:14:10,870 --> 00:14:12,120
+<font face="Roboto Medium" size="26">Right!</font>
+
+214
+00:14:13,620 --> 00:14:17,960
+<font face="Roboto Medium" size="26">Flare Blast!</font>
+
+215
+00:14:28,130 --> 00:14:29,010
+<font face="Roboto Medium" size="26">Now!</font>
+
+216
+00:14:29,010 --> 00:14:31,140
+<font face="Roboto Medium" size="26">Fire all ballistae!</font>
+
+217
+00:15:06,200 --> 00:15:07,630
+<font face="Roboto Medium" size="26">We did it.</font>
+
+218
+00:15:12,600 --> 00:15:15,760
+<font face="Roboto Medium" size="26">We won! Let's raise our voices in victory!</font>
+
+219
+00:15:22,270 --> 00:15:24,310
+<font face="Roboto Medium" size="26">Are you all right, Lord Van?</font>
+
+220
+00:15:24,740 --> 00:15:26,440
+<font face="Roboto Medium" size="26">You aren't hurt, are you?</font>
+
+221
+00:15:26,440 --> 00:15:29,310
+<font face="Roboto Medium" size="26">No, I'm fine, thanks to everyone.</font>
+
+222
+00:15:31,560 --> 00:15:33,820
+<font face="Roboto Medium" size="26">Lady Arte. So this is where you were.</font>
+
+223
+00:15:34,210 --> 00:15:35,560
+<font face="Roboto Medium" size="26">Lady Panamera.</font>
+
+224
+00:15:36,010 --> 00:15:38,830
+<font face="Roboto Medium" size="26">Don't worry. I'm unharmed, too.</font>
+
+225
+00:15:39,080 --> 00:15:40,360
+<font face="Roboto Medium" size="26">Thank goodness.</font>
+
+226
+00:15:41,780 --> 00:15:43,710
+<font face="Roboto Medium" size="26">You gave good commands, boy.</font>
+
+227
+00:15:44,140 --> 00:15:46,380
+<font face="Roboto Medium" size="26">Congratulations on slaying a dragon.</font>
+
+228
+00:15:46,380 --> 00:15:48,810
+<font face="Roboto Medium" size="26">We cut it very close, though.</font>
+
+229
+00:15:49,130 --> 00:15:52,380
+<font face="Roboto Medium" size="26">Regular villages would've 
+been wiped off the map.</font>
+
+230
+00:15:52,750 --> 00:15:54,890
+<font face="Roboto Medium" size="26">Heroes like your butler, Esparda,</font>
+
+231
+00:15:55,230 --> 00:15:58,700
+<font face="Roboto Medium" size="26">{\an8}Sir Dee, you were too cool
+ for words out there.</font>
+
+232
+00:15:55,230 --> 00:16:00,380
+<font face="Roboto Medium" size="26">and Dee, the man who beheaded that dragon
+ in one stroke, aren't very common.</font>
+
+233
+00:16:01,110 --> 00:16:03,270
+<font face="Roboto Medium" size="26">I'm proud to call them my friends.</font>
+
+234
+00:16:03,710 --> 00:16:07,620
+<font face="Roboto Medium" size="26">Not to mention, you had those ballistae 
+with their ridiculous force.</font>
+
+235
+00:16:08,630 --> 00:16:11,990
+<font face="Roboto Medium" size="26">I can't believe they were able 
+to pierce a dragon's scales.</font>
+
+236
+00:16:11,990 --> 00:16:14,940
+<font face="Roboto Medium" size="26">Still, I'll need to 
+upgrade them even more.</font>
+
+237
+00:16:14,940 --> 00:16:19,130
+<font face="Roboto Medium" size="26">They need to be capable of 
+firing ten successive bolts at least.</font>
+
+238
+00:16:19,130 --> 00:16:21,870
+<font face="Roboto Medium" size="26">I feel like you just said
+ something terrifying.</font>
+
+239
+00:16:22,300 --> 00:16:23,350
+<font face="Roboto Medium" size="26">Well, anyway...</font>
+
+240
+00:16:23,350 --> 00:16:26,440
+<font face="Roboto Medium" size="26">For now, we need to host 
+a dragon-slaying ceremony.</font>
+
+241
+00:16:26,440 --> 00:16:27,540
+<font face="Roboto Medium" size="26">A ceremony?</font>
+
+242
+00:16:28,220 --> 00:16:32,920
+<font face="Roboto Medium" size="26">The most distinguished in battle 
+receives the title of "Dragonslayer."</font>
+
+243
+00:16:32,920 --> 00:16:34,350
+<font face="Roboto Medium" size="26">That's Sir Dee.</font>
+
+244
+00:16:34,350 --> 00:16:34,980
+<font face="Roboto Medium" size="26">Huh?</font>
+
+245
+00:16:35,800 --> 00:16:38,950
+<font face="Roboto Medium" size="26">Dee's being made a Dragonslayer?</font>
+
+246
+00:16:43,150 --> 00:16:46,870
+<font face="Roboto Medium" size="26">Today, we have slain the lord 
+of the forest: a forest dragon.</font>
+
+247
+00:16:46,870 --> 00:16:51,430
+<font face="Roboto Medium" size="26">We are here to honor the deeds 
+of those who contributed the most.</font>
+
+248
+00:16:52,230 --> 00:16:57,530
+<font face="Roboto Medium" size="26">Now, over to the head of House Cayenne,
+Viscountess Panamera Carrera Cayenne.</font>
+
+249
+00:16:57,950 --> 00:17:04,210
+<font face="Roboto Medium" size="26">The forest dragon you slew today would've
+wiped most villages and towns off the map,</font>
+
+250
+00:17:04,530 --> 00:17:07,510
+<font face="Roboto Medium" size="26">and most fortress cities 
+wouldn't have fared much better.</font>
+
+251
+00:17:08,570 --> 00:17:12,960
+<font face="Roboto Medium" size="26">Yet this small village not only survived,
+ but suffered absolutely no casualties.</font>
+
+252
+00:17:13,340 --> 00:17:17,090
+<font face="Roboto Medium" size="26">Even the total damage was a small portion 
+of the ramparts and two ballistae.</font>
+
+253
+00:17:17,970 --> 00:17:21,470
+<font face="Roboto Medium" size="26">I will now call out the names 
+of those who contributed most.</font>
+
+254
+00:17:21,970 --> 00:17:25,770
+<font face="Roboto Medium" size="26">First up is Dee, deputy commander 
+of House Fertio's Chivalric Order.</font>
+
+255
+00:17:26,460 --> 00:17:29,350
+<font face="Roboto Medium" size="26">He beheaded the forest dragon
+ in one fell stroke,</font>
+
+256
+00:17:29,350 --> 00:17:32,610
+<font face="Roboto Medium" size="26">dealing the decisive blow in the battle.</font>
+
+257
+00:17:33,000 --> 00:17:37,780
+<font face="Roboto Medium" size="26">Next is the exceptional 
+elemental mage, Esparda.</font>
+
+258
+00:17:38,330 --> 00:17:43,090
+<font face="Roboto Medium" size="26">Words cannot describe his talent for magic
+that let him pin the dragon down.</font>
+
+259
+00:17:44,230 --> 00:17:48,790
+<font face="Roboto Medium" size="26">Last up is House Fertio's fourth son, 
+Van Nei Fertio.</font>
+
+260
+00:17:48,790 --> 00:17:50,920
+<font face="Roboto Medium" size="26">Yeah!</font>
+
+261
+00:17:50,920 --> 00:17:52,420
+<font face="Roboto Medium" size="26">W-Wow.</font>
+
+262
+00:17:52,930 --> 00:17:56,870
+<font face="Roboto Medium" size="26">His knowledge, decisiveness, and genius
+are rare in a boy of eight,</font>
+
+263
+00:17:56,870 --> 00:17:59,480
+<font face="Roboto Medium" size="26">and he has made 
+unprecedented use of his magic</font>
+
+264
+00:17:59,480 --> 00:18:02,670
+<font face="Roboto Medium" size="26">to greatly strengthen 
+this village's defenses in a short time.</font>
+
+265
+00:18:03,180 --> 00:18:05,470
+<font face="Roboto Medium" size="26">In the battle with the forest dragon,</font>
+
+266
+00:18:05,470 --> 00:18:08,690
+<font face="Roboto Medium" size="26">he took charge and led our men 
+to victory as lord of this land.</font>
+
+267
+00:18:09,460 --> 00:18:10,750
+<font face="Roboto Medium" size="26">Lord Van!</font>
+
+268
+00:18:10,750 --> 00:18:12,600
+<font face="Roboto Medium" size="26">{\an8}Lord Van!</font>
+
+269
+00:18:11,620 --> 00:18:13,290
+<font face="Roboto Medium" size="26">Lord Van!</font>
+
+270
+00:18:12,600 --> 00:18:14,830
+<font face="Roboto Medium" size="26">{\an8}Lord Van!</font>
+
+271
+00:18:13,290 --> 00:18:18,610
+<font face="Roboto Medium" size="26"><i>I've met people of every status
+on my rise from lowly knight.</i></font>
+
+272
+00:18:18,940 --> 00:18:21,030
+<font face="Roboto Medium" size="26"><i>Yet has there ever been a man like him?</i></font>
+
+273
+00:18:23,140 --> 00:18:27,250
+<font face="Roboto Medium" size="26"><i>I was born into a long line 
+of knights in the royal capital.</i></font>
+
+274
+00:18:27,480 --> 00:18:30,000
+<font face="Roboto Medium" size="26"><i>But when my aptitude
+ for magic was known,</i></font>
+
+275
+00:18:30,270 --> 00:18:34,310
+<font face="Roboto Medium" size="26"><i>I was quickly handed to the county
+that offered me the best conditions.</i></font>
+
+276
+00:18:35,230 --> 00:18:37,760
+<font face="Roboto Medium" size="26"><i>My grueling training 
+made me wish for death,</i></font>
+
+277
+00:18:37,760 --> 00:18:42,140
+<font face="Roboto Medium" size="26"><i>and I sacrificed sleep to study 
+in my quest to become a squad commander.</i></font>
+
+278
+00:18:42,620 --> 00:18:44,270
+<font face="Roboto Medium" size="26"><i>My feats were recognized,</i></font>
+
+279
+00:18:44,270 --> 00:18:47,560
+<font face="Roboto Medium" size="26"><i>and I was made commander of 
+the county's chivalric order at 16.</i></font>
+
+280
+00:18:47,560 --> 00:18:52,770
+<font face="Roboto Medium" size="26"><i>After that, I fought in several battles, 
+earning enough glory to be made a noble.</i></font>
+
+281
+00:18:53,190 --> 00:18:55,880
+<font face="Roboto Medium" size="26"><i>His Majesty was delighted
+with my success,</i></font>
+
+282
+00:18:55,880 --> 00:18:59,890
+<font face="Roboto Medium" size="26"><i>so six very short years later,
+I was given the title of viscountess.</i></font>
+
+283
+00:19:01,880 --> 00:19:05,690
+<font face="Roboto Medium" size="26"><i>Then one day, I was summoned 
+by Count Ferdinatto.</i></font>
+
+284
+00:19:06,290 --> 00:19:10,670
+<font face="Roboto Medium" size="26"><i>He told me he wished to wed his youngest
+daughter to the lord of some remote land.</i></font>
+
+285
+00:19:11,140 --> 00:19:14,410
+<font face="Roboto Medium" size="26">I-It's been a long time, Father.</font>
+
+286
+00:19:14,870 --> 00:19:16,310
+<font face="Roboto Medium" size="26">This is her.</font>
+
+287
+00:19:16,780 --> 00:19:17,790
+<font face="Roboto Medium" size="26">I see.</font>
+
+288
+00:19:19,170 --> 00:19:24,240
+<font face="Roboto Medium" size="26">Still, wouldn't a letter of introduction 
+suffice to someone with no title?</font>
+
+289
+00:19:24,240 --> 00:19:26,600
+<font face="Roboto Medium" size="26">In most circumstances, yes.</font>
+
+290
+00:19:26,600 --> 00:19:30,670
+<font face="Roboto Medium" size="26">Well, even if anything happens, 
+you're only dealing with a young boy.</font>
+
+291
+00:19:30,670 --> 00:19:31,850
+<font face="Roboto Medium" size="26">It won't be an issue.</font>
+
+292
+00:19:32,220 --> 00:19:33,310
+<font face="Roboto Medium" size="26">Understood.</font>
+
+293
+00:19:34,860 --> 00:19:38,500
+<font face="Roboto Medium" size="26">Well, depending on what he's like,
+ I can just bring her back.</font>
+
+294
+00:19:40,300 --> 00:19:43,360
+<font face="Roboto Medium" size="26">Hey, Lady Arte On Ferdinatto.</font>
+
+295
+00:19:43,910 --> 00:19:46,870
+<font face="Roboto Medium" size="26">I'm Viscountess Panamera
+ Carrera Cayenne.</font>
+
+296
+00:19:48,660 --> 00:19:55,630
+<font face="Roboto Medium" size="26">Did you hear? If he's talented,
+he'll become your fiancé.</font>
+
+297
+00:19:56,370 --> 00:20:00,470
+<font face="Roboto Medium" size="26">But if he's incompetent, I'll reject him
+ for you, so you don't need to worry.</font>
+
+298
+00:20:01,080 --> 00:20:04,330
+<font face="Roboto Medium" size="26">I-I'm unwanted?</font>
+
+299
+00:20:05,210 --> 00:20:08,210
+<font face="Roboto Medium" size="26">That's why they're forcing me 
+out of my home, isn't it?</font>
+
+300
+00:20:10,580 --> 00:20:11,960
+<font face="Roboto Medium" size="26">That's not why at all.</font>
+
+301
+00:20:13,700 --> 00:20:18,700
+<font face="Roboto Medium" size="26">I don't know if you know this, but all 
+of your siblings have fiancés already.</font>
+
+302
+00:20:18,700 --> 00:20:20,010
+<font face="Roboto Medium" size="26">You're the last one.</font>
+
+303
+00:20:22,990 --> 00:20:24,490
+<font face="Roboto Medium" size="26">I hope he's a nice boy.</font>
+
+304
+00:20:27,170 --> 00:20:30,810
+<font face="Roboto Medium" size="26"><i>When I left my parents long ago,
+ I was filled with anxiety.</i></font>
+
+305
+00:20:31,860 --> 00:20:35,670
+<font face="Roboto Medium" size="26"><i>So perhaps I projected myself
+ onto Lady Arte.</i></font>
+
+306
+00:20:37,000 --> 00:20:39,250
+<font face="Roboto Medium" size="26"><i>But my fears were all for nothing.</i></font>
+
+307
+00:20:39,250 --> 00:20:40,840
+<font face="Roboto Medium" size="26"><i>After meeting this boy,</i></font>
+
+308
+00:20:40,840 --> 00:20:46,120
+<font face="Roboto Medium" size="26"><i>the timid Lady Arte began taking 
+the initiative to push things forward.</i></font>
+
+309
+00:20:48,040 --> 00:20:53,300
+<font face="Roboto Medium" size="26"><i>This boy is a breath of fresh air
+ in a way I've never experienced before.</i></font>
+
+310
+00:20:56,870 --> 00:21:00,300
+<font face="Roboto Medium" size="26">I, Viscountess Panamera Carrera Cayenne,</font>
+
+311
+00:21:00,300 --> 00:21:04,620
+<font face="Roboto Medium" size="26">hereby vow to forge an equal alliance
+ with Van Nei Ferdinatto.</font>
+
+312
+00:21:05,180 --> 00:21:06,210
+<font face="Roboto Medium" size="26"><i>An alliance?</i></font>
+
+313
+00:21:06,890 --> 00:21:10,130
+<font face="Roboto Medium" size="26">Up until now, you haven't had any support
+ from the marquis, correct?</font>
+
+314
+00:21:10,130 --> 00:21:13,660
+<font face="Roboto Medium" size="26">But if you ally yourselves with me, 
+I can promise you support.</font>
+
+315
+00:21:14,350 --> 00:21:18,630
+<font face="Roboto Medium" size="26">You won't have to worry about 
+Count Ferdinatto's knights invading, either.</font>
+
+316
+00:21:19,090 --> 00:21:22,900
+<font face="Roboto Medium" size="26"><i>True, if I forge an alliance, 
+I'll replace enemies with allies.</i></font>
+
+317
+00:21:23,210 --> 00:21:26,670
+<font face="Roboto Medium" size="26"><i>It'll also help us financially,
+so it's a win-win.</i></font>
+
+318
+00:21:27,730 --> 00:21:30,910
+<font face="Roboto Medium" size="26">You managed to develop this village
+ in such a short time.</font>
+
+319
+00:21:31,370 --> 00:21:34,520
+<font face="Roboto Medium" size="26">Don't you think you should set
+your sights even higher?</font>
+
+320
+00:21:34,950 --> 00:21:36,830
+<font face="Roboto Medium" size="26">Forge an equal alliance with me,</font>
+
+321
+00:21:36,830 --> 00:21:42,780
+<font face="Roboto Medium" size="26">and the nobles of this kingdom will soon
+learn that Lord Van is my sworn friend.</font>
+
+322
+00:21:43,240 --> 00:21:45,500
+<font face="Roboto Medium" size="26">So? Will you accept?</font>
+
+323
+00:21:46,380 --> 00:21:50,320
+<font face="Roboto Medium" size="26"><i>With my father cutting me off and 
+few connections among the nobility,</i></font>
+
+324
+00:21:50,320 --> 00:21:53,230
+<font face="Roboto Medium" size="26"><i>this is a great opportunity 
+I may never get again.</i></font>
+
+325
+00:21:55,020 --> 00:21:57,970
+<font face="Roboto Medium" size="26">Thank you for the offer. 
+May our friendship hold strong.</font>
+
+326
+00:23:35,050 --> 00:23:40,250
+<font face="Roboto Medium" size="26">{\an8}NEXT EPISODE: EARNEST MERCHANTS
+AND RECEIVING A PROUD TITLE</font>
+
