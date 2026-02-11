@@ -1,0 +1,38 @@
+1
+00:00:59,170 --> 00:01:01,630
+<font face="Gandhi Sans" size="24"><b>{\an8}DUNGEON</b></font>
+
+2
+00:01:46,000 --> 00:01:48,250
+<font face="Gandhi Sans" size="24"><b>{\an8}HAJIME IN HIS YOUNGER DAYS</b></font>
+
+3
+00:02:28,790 --> 00:02:33,330
+<font face="Gandhi Sans" size="24"><b>{\an8}AN ADVENTURER'S DAILY GRIND AT AGE 29</b></font>
+
+4
+00:03:42,960 --> 00:03:48,210
+<font face="Gandhi Sans" size="24"><b>{\an8}EPISODE 4: FIRST LOVE'S OUTCOME</b></font>
+
+5
+00:04:41,540 --> 00:04:43,290
+<font face="Gandhi Sans" size="24"><b>{\an8}TREE STUMP DUNGEON
+SCARECROW KNIGHT</b></font>
+
+6
+00:11:15,750 --> 00:11:17,960
+<font face="Gandhi Sans" size="24"><b>{\an8}THE KIND OF SLIME SHE'S FAMILIAR WITH
+(PETRIFIED)</b></font>
+
+7
+00:14:19,960 --> 00:14:25,960
+<font face="Gandhi Sans" size="24"><b>{\an8}AN ADVENTURER'S DAILY GRIND AT AGE 29</b></font>
+
+8
+00:17:17,920 --> 00:17:19,920
+<font face="Gandhi Sans" size="24"><b>{\an8}LOVES TALK OF ROMANCE</b></font>
+
+9
+00:23:34,960 --> 00:23:40,000
+<font face="Gandhi Sans" size="24"><b>{\an8}NEXT TIME: WHAT'S HATCHING</b></font>
+
