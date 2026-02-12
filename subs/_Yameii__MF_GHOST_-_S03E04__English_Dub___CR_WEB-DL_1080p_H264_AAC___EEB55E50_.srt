@@ -1,0 +1,12 @@
+1
+00:02:18,170 --> 00:02:19,990
+<font face="Gandhi Sans" size="24"><b><font face="Impact"><font size="90"><b><font color="#d1082a">MF Ghost</font></b></font></font></b></font>
+
+2
+00:02:22,660 --> 00:02:23,260
+<font face="Gandhi Sans" size="24"><b><b><font face="Arial"><font color="#ff060f">m 0 0 l 100 0 100 100 0 100</font></font></b></b></font>
+
+3
+00:02:22,660 --> 00:02:27,080
+<font face="Gandhi Sans" size="24"><b><b><font face="Arial">Their First Kiss</font></b></b></font>
+
