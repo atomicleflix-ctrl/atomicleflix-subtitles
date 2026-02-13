@@ -1,0 +1,1212 @@
+1
+00:02:12,850 --> 00:02:15,140
+<font face="Roboto Medium" size="26">{\an8}Episode 7</font>
+
+2
+00:02:28,470 --> 00:02:31,880
+<font face="Roboto Medium" size="26">You fool!
+Now isn't the time to hold me back!</font>
+
+3
+00:02:39,180 --> 00:02:40,270
+<font face="Roboto Medium" size="26">Zhang Chulan!</font>
+
+4
+00:02:40,270 --> 00:02:41,430
+<font face="Roboto Medium" size="26">What a cunning move!</font>
+
+5
+00:02:47,040 --> 00:02:48,320
+<font face="Roboto Medium" size="26">Get out of the way!</font>
+
+6
+00:02:48,320 --> 00:02:49,600
+<font face="Roboto Medium" size="26">No one can stop us!</font>
+
+7
+00:03:01,760 --> 00:03:03,140
+<font face="Roboto Medium" size="26">Fine, Zhang Chulan.</font>
+
+8
+00:03:03,430 --> 00:03:04,890
+<font face="Roboto Medium" size="26">You win.</font>
+
+9
+00:03:04,890 --> 00:03:07,270
+<font face="Roboto Medium" size="26">You'd betray the Company 
+to achieve your goal!</font>
+
+10
+00:03:07,270 --> 00:03:09,010
+<font face="Roboto Medium" size="26">I underestimated you!</font>
+
+11
+00:03:20,350 --> 00:03:22,020
+<font face="Roboto Medium" size="26">Charge!</font>
+
+12
+00:04:16,700 --> 00:04:18,370
+<font face="Roboto Medium" size="26">Where is it?</font>
+
+13
+00:04:18,370 --> 00:04:21,160
+<font face="Roboto Medium" size="26">Tell me! Where's the treasure?</font>
+
+14
+00:04:21,720 --> 00:04:22,960
+<font face="Roboto Medium" size="26">Where is it?!</font>
+
+15
+00:04:25,660 --> 00:04:27,500
+<font face="Roboto Medium" size="26">There's nothing here.</font>
+
+16
+00:04:27,500 --> 00:04:29,220
+<font face="Roboto Medium" size="26">Where's the treasure?</font>
+
+17
+00:04:29,220 --> 00:04:30,430
+<font face="Roboto Medium" size="26">Where is it?</font>
+
+18
+00:04:48,470 --> 00:04:50,470
+<font face="Roboto Medium" size="26">Give me...</font>
+
+19
+00:04:51,370 --> 00:04:53,340
+<font face="Roboto Medium" size="26">my treasure!</font>
+
+20
+00:05:06,860 --> 00:05:08,400
+<font face="Roboto Medium" size="26">You still don't get it.</font>
+
+21
+00:05:08,400 --> 00:05:10,270
+<font face="Roboto Medium" size="26">This is a game of elimination!</font>
+
+22
+00:05:10,270 --> 00:05:13,390
+<font face="Roboto Medium" size="26">Ultimately, I am the chosen one!</font>
+
+23
+00:05:16,720 --> 00:05:19,670
+<font face="Roboto Medium" size="26">You seem pretty familiar with this place.</font>
+
+24
+00:05:19,670 --> 00:05:22,340
+<font face="Roboto Medium" size="26">Tell me! Where's the treasure?</font>
+
+25
+00:05:22,340 --> 00:05:25,300
+<font face="Roboto Medium" size="26">What on earth is this mysterious power?</font>
+
+26
+00:05:37,690 --> 00:05:39,560
+<font face="Roboto Medium" size="26">Judy, don't run off. It's dangerous!</font>
+
+27
+00:05:46,980 --> 00:05:47,600
+<font face="Roboto Medium" size="26">Chanon!</font>
+
+28
+00:05:52,320 --> 00:05:53,140
+<font face="Roboto Medium" size="26">So fast!</font>
+
+29
+00:07:17,420 --> 00:07:19,120
+<font face="Roboto Medium" size="26">Mine!</font>
+
+30
+00:07:19,120 --> 00:07:21,680
+<font face="Roboto Medium" size="26">It's mine!</font>
+
+31
+00:07:21,680 --> 00:07:24,430
+<font face="Roboto Medium" size="26">Give it to me...</font>
+
+32
+00:08:11,450 --> 00:08:12,550
+<font face="Roboto Medium" size="26">Something's wrong...</font>
+
+33
+00:08:13,100 --> 00:08:15,400
+<font face="Roboto Medium" size="26">For a while now,</font>
+
+34
+00:08:16,330 --> 00:08:18,890
+<font face="Roboto Medium" size="26">I haven't heard anything.</font>
+
+35
+00:08:18,890 --> 00:08:20,390
+<font face="Roboto Medium" size="26">It's too quiet.</font>
+
+36
+00:08:28,280 --> 00:08:29,260
+<font face="Roboto Medium" size="26">Bao'er?</font>
+
+37
+00:08:38,800 --> 00:08:41,020
+<font face="Roboto Medium" size="26">Bao'er, are you all right?</font>
+
+38
+00:08:41,020 --> 00:08:42,480
+<font face="Roboto Medium" size="26">I'm fine.</font>
+
+39
+00:08:42,480 --> 00:08:44,220
+<font face="Roboto Medium" size="26">Are you really giving up?</font>
+
+40
+00:08:44,510 --> 00:08:48,140
+<font face="Roboto Medium" size="26">Yeah, we have no reason
+ to stay here anymore.</font>
+
+41
+00:08:48,460 --> 00:08:50,070
+<font face="Roboto Medium" size="26">Given the current situation,</font>
+
+42
+00:08:50,070 --> 00:08:53,020
+<font face="Roboto Medium" size="26">we can't tell if the mission 
+succeeded or failed.</font>
+
+43
+00:08:53,020 --> 00:08:56,110
+<font face="Roboto Medium" size="26">We were tricked by Liu from the beginning.</font>
+
+44
+00:08:57,600 --> 00:09:00,050
+<font face="Roboto Medium" size="26">No, we fulfilled our duty.</font>
+
+45
+00:09:00,050 --> 00:09:02,600
+<font face="Roboto Medium" size="26">We don't care about Liu's objectives...</font>
+
+46
+00:09:02,970 --> 00:09:04,310
+<font face="Roboto Medium" size="26">It doesn't matter.</font>
+
+47
+00:09:06,050 --> 00:09:06,990
+<font face="Roboto Medium" size="26">Let's go!</font>
+
+48
+00:09:16,600 --> 00:09:18,840
+<font face="Roboto Medium" size="26">Are we just letting them leave like this?</font>
+
+49
+00:09:18,840 --> 00:09:19,890
+<font face="Roboto Medium" size="26">What else can we do?</font>
+
+50
+00:09:20,320 --> 00:09:22,490
+<font face="Roboto Medium" size="26">These people were just hired.</font>
+
+51
+00:09:22,490 --> 00:09:25,040
+<font face="Roboto Medium" size="26">The one who's actually 
+in the know is Baldy Liu.</font>
+
+52
+00:09:27,220 --> 00:09:29,220
+<font face="Roboto Medium" size="26">But Baldy Liu escaped.</font>
+
+53
+00:09:29,220 --> 00:09:31,430
+<font face="Roboto Medium" size="26">Zhang Chulan!</font>
+
+54
+00:09:31,430 --> 00:09:34,560
+<font face="Roboto Medium" size="26">Don't you owe us an explanation?</font>
+
+55
+00:09:34,900 --> 00:09:35,560
+<font face="Roboto Medium" size="26">Bao'er!</font>
+
+56
+00:09:35,560 --> 00:09:36,790
+<font face="Roboto Medium" size="26">Wang Zhenqiu! Xia! Baron!</font>
+
+57
+00:09:36,790 --> 00:09:39,390
+<font face="Roboto Medium" size="26">If any of these three 
+touches me, beat them up!</font>
+
+58
+00:09:39,390 --> 00:09:43,350
+<font face="Roboto Medium" size="26">Now's not the time for you guys to 
+settle scores with me, right, Granny?</font>
+
+59
+00:09:52,820 --> 00:09:54,980
+<font face="Roboto Medium" size="26">Is this the place, Jinfeng?</font>
+
+60
+00:09:54,980 --> 00:09:56,730
+<font face="Roboto Medium" size="26">There's nothing here...</font>
+
+61
+00:10:01,280 --> 00:10:04,720
+<font face="Roboto Medium" size="26">It's gone. It's all gone.</font>
+
+62
+00:10:05,070 --> 00:10:07,850
+<font face="Roboto Medium" size="26">Well, it's not exactly unexpected.</font>
+
+63
+00:10:07,850 --> 00:10:10,780
+<font face="Roboto Medium" size="26">We had considered this possibility before.</font>
+
+64
+00:10:12,810 --> 00:10:13,600
+<font face="Roboto Medium" size="26">Granny!</font>
+
+65
+00:10:14,040 --> 00:10:18,310
+<font face="Roboto Medium" size="26">I know I've wronged you by 
+coming here alone ahead of the others!</font>
+
+66
+00:10:18,310 --> 00:10:20,060
+<font face="Roboto Medium" size="26">But I really had no other choice!</font>
+
+67
+00:10:20,060 --> 00:10:22,850
+<font face="Roboto Medium" size="26">I had to get here before anyone else 
+to confirm something!</font>
+
+68
+00:10:23,400 --> 00:10:27,060
+<font face="Roboto Medium" size="26">What... did you need to confirm?</font>
+
+69
+00:10:29,490 --> 00:10:31,290
+<font face="Roboto Medium" size="26">Qi Genesis...</font>
+
+70
+00:10:35,990 --> 00:10:37,910
+<font face="Roboto Medium" size="26">Qi Genesis?</font>
+
+71
+00:10:40,140 --> 00:10:42,120
+<font face="Roboto Medium" size="26">I only learned about Qi Genesis</font>
+
+72
+00:10:42,120 --> 00:10:44,840
+<font face="Roboto Medium" size="26">when you Quan Xing came to me.</font>
+
+73
+00:10:44,840 --> 00:10:48,340
+<font face="Roboto Medium" size="26">I've always pretended to be repulsed 
+by the Eight Secret Arts, but...</font>
+
+74
+00:10:49,180 --> 00:10:51,650
+<font face="Roboto Medium" size="26">This was something my grandfather, 
+Zhang Huaiyi, discovered.</font>
+
+75
+00:10:51,650 --> 00:10:53,770
+<font face="Roboto Medium" size="26">It rightfully belongs to the Zhang clan!</font>
+
+76
+00:10:53,770 --> 00:10:57,160
+<font face="Roboto Medium" size="26">I must find out where it is 
+before anyone else!</font>
+
+77
+00:10:57,160 --> 00:10:59,520
+<font face="Roboto Medium" size="26">Later, I discovered that
+ it was created after</font>
+
+78
+00:10:59,520 --> 00:11:02,550
+<font face="Roboto Medium" size="26">your sect leader, Wu Gensheng, 
+had initiated the sworn brotherhood.</font>
+
+79
+00:11:02,550 --> 00:11:06,850
+<font face="Roboto Medium" size="26">I thought this matter must be 
+deeply connected to this godfather!</font>
+
+80
+00:11:07,200 --> 00:11:10,970
+<font face="Roboto Medium" size="26">In Biyou Village, I found out that 
+you were the closest person to him.</font>
+
+81
+00:11:10,970 --> 00:11:15,020
+<font face="Roboto Medium" size="26">That's why I wanted to help save you!</font>
+
+82
+00:11:15,020 --> 00:11:19,420
+<font face="Roboto Medium" size="26">I believe the collection might hold 
+the secrets of the sworn brotherhood!</font>
+
+83
+00:11:19,420 --> 00:11:22,680
+<font face="Roboto Medium" size="26">It might even have clues 
+to the Eight Secret Arts!</font>
+
+84
+00:11:22,680 --> 00:11:26,900
+<font face="Roboto Medium" size="26">Oh? If it contains 
+such an important secret,</font>
+
+85
+00:11:26,900 --> 00:11:29,020
+<font face="Roboto Medium" size="26">how come I never found it?</font>
+
+86
+00:11:29,020 --> 00:11:31,040
+<font face="Roboto Medium" size="26">Maybe you're feigning ignorance,</font>
+
+87
+00:11:31,040 --> 00:11:34,530
+<font face="Roboto Medium" size="26">but I believe you simply 
+wouldn't have noticed!</font>
+
+88
+00:11:34,530 --> 00:11:38,030
+<font face="Roboto Medium" size="26">Because anything left behind
+by Wu Gensheng</font>
+
+89
+00:11:38,030 --> 00:11:40,890
+<font face="Roboto Medium" size="26">was already precious enough to you!</font>
+
+90
+00:11:40,890 --> 00:11:44,010
+<font face="Roboto Medium" size="26">You wouldn't care about 
+the Eight Secret Arts or the 36 Thieves.</font>
+
+91
+00:11:44,010 --> 00:11:49,220
+<font face="Roboto Medium" size="26">The only thing you care about 
+is Wu Gensheng himself, right?</font>
+
+92
+00:11:49,220 --> 00:11:52,280
+<font face="Roboto Medium" size="26">I wanted to have an open 
+and honest discussion with you.</font>
+
+93
+00:11:52,280 --> 00:11:56,020
+<font face="Roboto Medium" size="26">But then that troublemaker Wang Zhenqiu 
+suddenly barged in!</font>
+
+94
+00:11:56,440 --> 00:11:58,890
+<font face="Roboto Medium" size="26">Hey, what did I do?</font>
+
+95
+00:11:58,890 --> 00:12:01,440
+<font face="Roboto Medium" size="26">This guy's had it in for me 
+since Biyou Village!</font>
+
+96
+00:12:01,440 --> 00:12:03,480
+<font face="Roboto Medium" size="26">He saw through my plan 
+to get to the collection,</font>
+
+97
+00:12:03,480 --> 00:12:05,100
+<font face="Roboto Medium" size="26">so he's been making life difficult for me.</font>
+
+98
+00:12:05,100 --> 00:12:06,640
+<font face="Roboto Medium" size="26">I had no choice, Granny.</font>
+
+99
+00:12:06,640 --> 00:12:09,890
+<font face="Roboto Medium" size="26">I trust you, but I don't trust 
+Wang Zhenqiu and his lot.</font>
+
+100
+00:12:09,890 --> 00:12:12,520
+<font face="Roboto Medium" size="26">I had to sneak in before everyone else!</font>
+
+101
+00:12:12,520 --> 00:12:14,820
+<font face="Roboto Medium" size="26">Granny, I'm sorry!</font>
+
+102
+00:12:14,820 --> 00:12:18,680
+<font face="Roboto Medium" size="26">I trespassed into 
+your and Wu Gensheng's domain.</font>
+
+103
+00:12:22,410 --> 00:12:26,320
+<font face="Roboto Medium" size="26">Never mind. It wasn't you 
+who trespassed here.</font>
+
+104
+00:12:26,320 --> 00:12:29,310
+<font face="Roboto Medium" size="26">It was those guys who kidnapped me.</font>
+
+105
+00:12:29,310 --> 00:12:33,770
+<font face="Roboto Medium" size="26">It was the ones who came here to 
+steal the Sect Leader's collection!</font>
+
+106
+00:12:33,770 --> 00:12:37,310
+<font face="Roboto Medium" size="26">Let me tell you, Jinfeng! That bastard Wang is exactly that kind of person!</font>
+
+107
+00:12:37,310 --> 00:12:39,430
+<font face="Roboto Medium" size="26">Stop having a go at me! Fine, Zhang!</font>
+
+108
+00:12:39,430 --> 00:12:41,600
+<font face="Roboto Medium" size="26">You're coming for me, tough guy!</font>
+
+109
+00:12:41,600 --> 00:12:42,850
+<font face="Roboto Medium" size="26">Now I'm the bad guy!</font>
+
+110
+00:12:42,850 --> 00:12:45,060
+<font face="Roboto Medium" size="26">Granny, now that things have come to this,</font>
+
+111
+00:12:45,340 --> 00:12:48,890
+<font face="Roboto Medium" size="26">please tell me: what exactly was 
+the Sect Leader's collection?</font>
+
+112
+00:12:53,520 --> 00:12:58,720
+<font face="Roboto Medium" size="26">Clay Figure Zhang, a cicada shell, 
+a conch shell, and a stone.</font>
+
+113
+00:12:58,980 --> 00:13:00,150
+<font face="Roboto Medium" size="26">A stone?</font>
+
+114
+00:13:00,150 --> 00:13:02,600
+<font face="Roboto Medium" size="26">Yes, a stone.</font>
+
+115
+00:13:03,000 --> 00:13:06,060
+<font face="Roboto Medium" size="26">A stone from the riverbank.</font>
+
+116
+00:13:07,760 --> 00:13:09,100
+<font face="Roboto Medium" size="26">Look, Jinfeng!</font>
+
+117
+00:13:09,400 --> 00:13:11,040
+<font face="Roboto Medium" size="26">Don't you think it's beautiful?</font>
+
+118
+00:13:11,040 --> 00:13:12,940
+<font face="Roboto Medium" size="26">It's so refreshing and relaxing!</font>
+
+119
+00:13:12,940 --> 00:13:14,880
+<font face="Roboto Medium" size="26">Refreshing and relaxing?</font>
+
+120
+00:13:16,400 --> 00:13:18,930
+<font face="Roboto Medium" size="26">Is it that beautiful? 
+Aren't there many like this?</font>
+
+121
+00:13:20,700 --> 00:13:21,810
+<font face="Roboto Medium" size="26">That's true.</font>
+
+122
+00:13:22,290 --> 00:13:24,430
+<font face="Roboto Medium" size="26">It's beautiful by my standards,</font>
+
+123
+00:13:24,800 --> 00:13:26,860
+<font face="Roboto Medium" size="26">but not by the world's standards.</font>
+
+124
+00:13:29,830 --> 00:13:33,600
+<font face="Roboto Medium" size="26">Maybe a few of them are valuable,</font>
+
+125
+00:13:33,600 --> 00:13:37,960
+<font face="Roboto Medium" size="26">but to Outcasts,
+they're all totally meaningless.</font>
+
+126
+00:13:37,960 --> 00:13:39,720
+<font face="Roboto Medium" size="26">Did you say there were books too?</font>
+
+127
+00:13:40,090 --> 00:13:43,750
+<font face="Roboto Medium" size="26">They're just random books 
+you can find anywhere.</font>
+
+128
+00:13:43,750 --> 00:13:45,680
+<font face="Roboto Medium" size="26">He even had <i>The Golden Lotus</i>,</font>
+
+129
+00:13:45,680 --> 00:13:49,350
+<font face="Roboto Medium" size="26">and he said the illustrations in it 
+were quite good.</font>
+
+130
+00:13:49,350 --> 00:13:52,930
+<font face="Roboto Medium" size="26">Maybe there's some secret hidden inside,</font>
+
+131
+00:13:52,930 --> 00:13:55,520
+<font face="Roboto Medium" size="26">but I don't know what it might be.</font>
+
+132
+00:14:03,380 --> 00:14:08,000
+<font face="Roboto Medium" size="26">Interesting. The people behind Ma Xianhong
+ took the collection beforehand,</font>
+
+133
+00:14:08,000 --> 00:14:10,130
+<font face="Roboto Medium" size="26">yet hired a group to wait here.</font>
+
+134
+00:14:10,130 --> 00:14:11,770
+<font face="Roboto Medium" size="26">Did they want to see us fight?</font>
+
+135
+00:14:11,770 --> 00:14:16,020
+<font face="Roboto Medium" size="26">Or did they want to observe 
+how those people changed?</font>
+
+136
+00:14:17,400 --> 00:14:20,770
+<font face="Roboto Medium" size="26">Zhang, what's with all this 
+black ash on the ground?</font>
+
+137
+00:14:20,770 --> 00:14:22,800
+<font face="Roboto Medium" size="26">It was like this when I got here.</font>
+
+138
+00:14:22,800 --> 00:14:23,370
+<font face="Roboto Medium" size="26">Huh?</font>
+
+139
+00:14:23,370 --> 00:14:24,850
+<font face="Roboto Medium" size="26">Hey, Jinfeng! Jinfeng!</font>
+
+140
+00:14:24,850 --> 00:14:26,210
+<font face="Roboto Medium" size="26">This...</font>
+
+141
+00:14:26,210 --> 00:14:28,650
+<font face="Roboto Medium" size="26">Hmm, these footprints?</font>
+
+142
+00:14:28,650 --> 00:14:31,210
+<font face="Roboto Medium" size="26">They've always been here...</font>
+
+143
+00:14:31,210 --> 00:14:32,310
+<font face="Roboto Medium" size="26">Oh?</font>
+
+144
+00:14:32,310 --> 00:14:35,720
+<font face="Roboto Medium" size="26">You think I haven't tried 
+doing that all these years?</font>
+
+145
+00:14:37,150 --> 00:14:40,470
+<font face="Roboto Medium" size="26">Everyone, since we haven't 
+found anything, let's leave.</font>
+
+146
+00:14:42,850 --> 00:14:45,570
+<font face="Roboto Medium" size="26">Bao'er really is a treasure.</font>
+
+147
+00:14:45,570 --> 00:14:47,750
+<font face="Roboto Medium" size="26">She's strong, stubborn, and obedient.</font>
+
+148
+00:14:47,750 --> 00:14:52,430
+<font face="Roboto Medium" size="26">Zhang, don't you feel even 
+the slightest bit of guilt,</font>
+
+149
+00:14:52,430 --> 00:14:55,540
+<font face="Roboto Medium" size="26">being in control of such 
+a single-minded creature?</font>
+
+150
+00:14:56,360 --> 00:14:57,980
+<font face="Roboto Medium" size="26">Why would I feel guilty?</font>
+
+151
+00:14:57,980 --> 00:15:01,850
+<font face="Roboto Medium" size="26">She does whatever I ask
+ because she trusts me completely.</font>
+
+152
+00:15:02,540 --> 00:15:03,960
+<font face="Roboto Medium" size="26">Are you jealous?</font>
+
+153
+00:15:03,960 --> 00:15:06,810
+<font face="Roboto Medium" size="26">Is there someone who trusts you like that?</font>
+
+154
+00:15:14,990 --> 00:15:16,310
+<font face="Roboto Medium" size="26">You're angry!</font>
+
+155
+00:15:16,310 --> 00:15:17,850
+<font face="Roboto Medium" size="26">I'm not angry.</font>
+
+156
+00:15:18,540 --> 00:15:21,590
+<font face="Roboto Medium" size="26">You're angry! It's the first time 
+I've seen you looking like that!</font>
+
+157
+00:15:21,590 --> 00:15:23,360
+<font face="Roboto Medium" size="26">I apologize!</font>
+
+158
+00:15:21,590 --> 00:15:24,200
+<font face="Roboto Medium" size="26">I'm not angry! Why are you apologizing?</font>
+
+159
+00:15:24,200 --> 00:15:26,020
+<font face="Roboto Medium" size="26">Why would I get angry at a moron like you?</font>
+
+160
+00:15:26,020 --> 00:15:29,270
+<font face="Roboto Medium" size="26">Why bother? You set me up 
+this time, but I'll get you back!</font>
+
+161
+00:15:28,750 --> 00:15:31,560
+<font face="Roboto Medium" size="26">{\an8}Kids these days are so hard to understand.</font>
+
+162
+00:15:29,270 --> 00:15:31,560
+<font face="Roboto Medium" size="26">Stay away! Stop bothering me!</font>
+
+163
+00:15:31,560 --> 00:15:33,430
+<font face="Roboto Medium" size="26">Just ignore me.</font>
+
+164
+00:15:39,970 --> 00:15:42,210
+<font face="Roboto Medium" size="26">What Ma Xianhong worked
+so hard to achieve,</font>
+
+165
+00:15:42,210 --> 00:15:43,470
+<font face="Roboto Medium" size="26">this valley can also accomplish.</font>
+
+166
+00:15:43,470 --> 00:15:47,060
+<font face="Roboto Medium" size="26">Indeed, the changes in those 
+people were truly astonishing.</font>
+
+167
+00:15:47,060 --> 00:15:49,020
+<font face="Roboto Medium" size="26">The most amazing thing 
+about this place is that</font>
+
+168
+00:15:49,020 --> 00:15:51,720
+<font face="Roboto Medium" size="26">it causes people to unconsciously 
+practice Zhou Tian cultivation.</font>
+
+169
+00:15:51,720 --> 00:15:53,730
+<font face="Roboto Medium" size="26">As it's not being consciously controlled,</font>
+
+170
+00:15:53,730 --> 00:15:56,430
+<font face="Roboto Medium" size="26">starting and stopping cultivation 
+is also beyond their control.</font>
+
+171
+00:15:57,500 --> 00:15:59,680
+<font face="Roboto Medium" size="26">No wonder they all died like this.</font>
+
+172
+00:15:59,680 --> 00:16:01,430
+<font face="Roboto Medium" size="26">After channeling their energy,</font>
+
+173
+00:16:01,430 --> 00:16:03,940
+<font face="Roboto Medium" size="26">these guys were like engines 
+that never stopped running,</font>
+
+174
+00:16:03,940 --> 00:16:06,440
+<font face="Roboto Medium" size="26">until they all ended up 
+exceeding their limits!</font>
+
+175
+00:16:07,160 --> 00:16:10,760
+<font face="Roboto Medium" size="26">The master of this valley shouldn't 
+just teach people to start cultivation</font>
+
+176
+00:16:10,760 --> 00:16:12,570
+<font face="Roboto Medium" size="26">without showing them how to stop!</font>
+
+177
+00:16:12,570 --> 00:16:14,020
+<font face="Roboto Medium" size="26">It's the Sect Leader.</font>
+
+178
+00:16:14,020 --> 00:16:17,560
+<font face="Roboto Medium" size="26">The Sect Leader altered 
+the patterns on this stone wall,</font>
+
+179
+00:16:17,560 --> 00:16:21,370
+<font face="Roboto Medium" size="26">which must be what prevents the 
+natural stopping of cultivation.</font>
+
+180
+00:16:21,370 --> 00:16:25,560
+<font face="Roboto Medium" size="26">But why aren't they affected 
+by the altered patterns?</font>
+
+181
+00:16:26,890 --> 00:16:28,060
+<font face="Roboto Medium" size="26">It's those two again.</font>
+
+182
+00:16:28,060 --> 00:16:30,810
+<font face="Roboto Medium" size="26">Only the Sect Leader knows why.</font>
+
+183
+00:16:30,810 --> 00:16:34,390
+<font face="Roboto Medium" size="26">But these monkeys are quite interesting.</font>
+
+184
+00:16:34,810 --> 00:16:37,730
+<font face="Roboto Medium" size="26">When the strongest monkey 
+takes over this place,</font>
+
+185
+00:16:37,730 --> 00:16:41,220
+<font face="Roboto Medium" size="26">it drives the others out of the valley.</font>
+
+186
+00:16:41,220 --> 00:16:45,310
+<font face="Roboto Medium" size="26">These two are probably the strongest 
+descendants of the previous generation.</font>
+
+187
+00:16:45,310 --> 00:16:52,510
+<font face="Roboto Medium" size="26">The offspring sometimes fight to 
+the death over control of the valley.</font>
+
+188
+00:16:52,510 --> 00:16:57,850
+<font face="Roboto Medium" size="26">Outside monkeys storm into the valley at
+times, taking advantage of their numbers.</font>
+
+189
+00:16:58,220 --> 00:17:03,970
+<font face="Roboto Medium" size="26">If they succeed, a new strongest 
+monkey will emerge from their ranks,</font>
+
+190
+00:17:05,110 --> 00:17:08,320
+<font face="Roboto Medium" size="26">and the cycle begins anew.</font>
+
+191
+00:17:11,910 --> 00:17:15,470
+<font face="Roboto Medium" size="26">These monkeys are learning how to 
+be like humans in this valley!</font>
+
+192
+00:17:22,220 --> 00:17:26,640
+<font face="Roboto Medium" size="26">Whoa. These guys got taken out 
+by the valley monkeys, right?</font>
+
+193
+00:17:37,440 --> 00:17:39,430
+<font face="Roboto Medium" size="26">If it's not at the site of the collection,</font>
+
+194
+00:17:39,880 --> 00:17:41,970
+<font face="Roboto Medium" size="26">then it's very likely it's here!</font>
+
+195
+00:17:42,290 --> 00:17:47,920
+<font face="Roboto Medium" size="26">Qiu, I've looked into every 
+suspicious location over the years.</font>
+
+196
+00:17:47,920 --> 00:17:50,160
+<font face="Roboto Medium" size="26">Anything you think of, 
+I've already considered...</font>
+
+197
+00:17:51,840 --> 00:17:52,430
+<font face="Roboto Medium" size="26">That's true.</font>
+
+198
+00:17:53,260 --> 00:17:55,430
+<font face="Roboto Medium" size="26">You haven't found it in all these years.</font>
+
+199
+00:17:55,430 --> 00:17:58,470
+<font face="Roboto Medium" size="26">It would be outrageous if I 
+found it on my first visit!</font>
+
+200
+00:18:08,800 --> 00:18:10,360
+<font face="Roboto Medium" size="26">Huh? Zhang?</font>
+
+201
+00:18:25,020 --> 00:18:27,430
+<font face="Roboto Medium" size="26">Huh? Has this kid lost his mind?</font>
+
+202
+00:18:29,820 --> 00:18:31,030
+<font face="Roboto Medium" size="26">Zhang Huaiyi.</font>
+
+203
+00:18:31,030 --> 00:18:33,130
+<font face="Roboto Medium" size="26">Since you share my grandfather's name,</font>
+
+204
+00:18:33,130 --> 00:18:34,560
+<font face="Roboto Medium" size="26">I'll give you some advice today.</font>
+
+205
+00:18:35,440 --> 00:18:37,740
+<font face="Roboto Medium" size="26">You must have experienced
+that weird feeling</font>
+
+206
+00:18:37,740 --> 00:18:39,560
+<font face="Roboto Medium" size="26">to be so obsessed with that place, right?</font>
+
+207
+00:18:39,960 --> 00:18:42,680
+<font face="Roboto Medium" size="26">Going through there once is enough.</font>
+
+208
+00:18:43,190 --> 00:18:46,680
+<font face="Roboto Medium" size="26">That valley teaches you only one thing:</font>
+
+209
+00:18:46,680 --> 00:18:48,430
+<font face="Roboto Medium" size="26">it teaches you how to be human.</font>
+
+210
+00:18:48,720 --> 00:18:50,870
+<font face="Roboto Medium" size="26">You can learn to be human in the valley,</font>
+
+211
+00:18:50,870 --> 00:18:52,880
+<font face="Roboto Medium" size="26">or you can be out here in the wild.</font>
+
+212
+00:18:52,880 --> 00:18:54,600
+<font face="Roboto Medium" size="26">There's no need to linger.</font>
+
+213
+00:18:54,600 --> 00:18:57,230
+<font face="Roboto Medium" size="26">It's just a matter of 
+the easy or the hard way.</font>
+
+214
+00:19:02,960 --> 00:19:05,270
+<font face="Roboto Medium" size="26">Remember what being human 
+was like in that valley?</font>
+
+215
+00:19:06,380 --> 00:19:09,050
+<font face="Roboto Medium" size="26">Straighten your spine,
+vertebra by vertebra!</font>
+
+216
+00:19:10,020 --> 00:19:11,660
+<font face="Roboto Medium" size="26">Experience it again!</font>
+
+217
+00:19:13,320 --> 00:19:15,430
+<font face="Roboto Medium" size="26">Although lying down is more comfortable,</font>
+
+218
+00:19:15,860 --> 00:19:17,850
+<font face="Roboto Medium" size="26">and moving on all fours is faster,</font>
+
+219
+00:19:17,850 --> 00:19:20,970
+<font face="Roboto Medium" size="26">there's a group of weirdos 
+who insist on standing upright.</font>
+
+220
+00:19:21,450 --> 00:19:22,870
+<font face="Roboto Medium" size="26">What is a human?</font>
+
+221
+00:19:23,870 --> 00:19:26,490
+<font face="Roboto Medium" size="26">A strange beast that
+ stands tall and upright!</font>
+
+222
+00:19:27,650 --> 00:19:29,600
+<font face="Roboto Medium" size="26">It's difficult,
+but it brings satisfaction.</font>
+
+223
+00:19:30,900 --> 00:19:32,680
+<font face="Roboto Medium" size="26">That's what it's like to be human.</font>
+
+224
+00:19:33,120 --> 00:19:35,680
+<font face="Roboto Medium" size="26">If one only goes
+after wonderful sensations,</font>
+
+225
+00:19:36,010 --> 00:19:39,220
+<font face="Roboto Medium" size="26">reverting to an animalistic 
+state is inevitable.</font>
+
+226
+00:19:40,650 --> 00:19:43,640
+<font face="Roboto Medium" size="26">Whoa, so you've already figured it out?</font>
+
+227
+00:19:43,640 --> 00:19:45,870
+<font face="Roboto Medium" size="26">The answer to 
+"What is human?" isn't difficult.</font>
+
+228
+00:19:45,870 --> 00:19:48,020
+<font face="Roboto Medium" size="26">Looking at this valley,</font>
+
+229
+00:19:48,020 --> 00:19:49,710
+<font face="Roboto Medium" size="26">the definition is clear.</font>
+
+230
+00:19:49,710 --> 00:19:52,720
+<font face="Roboto Medium" size="26">One who doesn't cultivate 
+can't be called a complete human.</font>
+
+231
+00:19:52,990 --> 00:19:56,220
+<font face="Roboto Medium" size="26">My grandfather taught me 
+that the first step was to</font>
+
+232
+00:19:56,220 --> 00:19:59,790
+<font face="Roboto Medium" size="26">achieve an upright state in 
+posture, spirit, and flesh,</font>
+
+233
+00:19:59,790 --> 00:20:02,200
+<font face="Roboto Medium" size="26">otherwise known as standing
+tall and upright,</font>
+
+234
+00:20:02,200 --> 00:20:04,400
+<font face="Roboto Medium" size="26">with a straight backbone.</font>
+
+235
+00:20:04,400 --> 00:20:06,770
+<font face="Roboto Medium" size="26">Only then can qi flow smoothly.</font>
+
+236
+00:20:07,200 --> 00:20:11,170
+<font face="Roboto Medium" size="26">This valley and cave clearly 
+symbolize the spine and skull.</font>
+
+237
+00:20:11,170 --> 00:20:15,890
+<font face="Roboto Medium" size="26">The corresponding acupoints within likely
+hold the secret Wu Gensheng spoke of.</font>
+
+238
+00:20:16,390 --> 00:20:19,850
+<font face="Roboto Medium" size="26">You examined the area symbolizing 
+Baihui in the cave earlier, right?</font>
+
+239
+00:20:21,150 --> 00:20:25,350
+<font face="Roboto Medium" size="26">So, the entrance to this valley 
+should represent the perineum.</font>
+
+240
+00:20:25,780 --> 00:20:27,720
+<font face="Roboto Medium" size="26">But there's nothing significant here.</font>
+
+241
+00:20:28,290 --> 00:20:30,250
+<font face="Roboto Medium" size="26">Looks like we can't
+find this place's secret</font>
+
+242
+00:20:30,250 --> 00:20:32,270
+<font face="Roboto Medium" size="26">without figuring out
+what "sincerity" means.</font>
+
+243
+00:20:33,110 --> 00:20:34,250
+<font face="Roboto Medium" size="26">Sincerity...</font>
+
+244
+00:20:34,820 --> 00:20:37,140
+<font face="Roboto Medium" size="26">I have no idea about that one...</font>
+
+245
+00:20:37,790 --> 00:20:41,310
+<font face="Roboto Medium" size="26">Granny, is there absolutely nothing here 
+related to the character for "sincerity"?</font>
+
+246
+00:20:41,660 --> 00:20:42,870
+<font face="Roboto Medium" size="26">No.</font>
+
+247
+00:20:42,870 --> 00:20:46,310
+<font face="Roboto Medium" size="26">"Sincerity"? Like "honesty," 
+"genuine," and "integrity"?</font>
+
+248
+00:20:46,310 --> 00:20:48,110
+<font face="Roboto Medium" size="26">Are you referring to attitude?</font>
+
+249
+00:20:48,110 --> 00:20:50,310
+<font face="Roboto Medium" size="26">Attitude? Attitude towards what?</font>
+
+250
+00:20:50,310 --> 00:20:53,700
+<font face="Roboto Medium" size="26">Forget it. If Granny couldn't 
+solve it all these years,</font>
+
+251
+00:20:53,700 --> 00:20:55,720
+<font face="Roboto Medium" size="26">no one else here has a chance.</font>
+
+252
+00:20:55,720 --> 00:20:57,510
+<font face="Roboto Medium" size="26">Wang Zhenqiu is a pain in the neck.</font>
+
+253
+00:20:57,510 --> 00:20:58,720
+<font face="Roboto Medium" size="26">I need to beat him to it.</font>
+
+254
+00:20:59,550 --> 00:21:02,140
+<font face="Roboto Medium" size="26">So you guys were saying earlier that</font>
+
+255
+00:21:02,140 --> 00:21:06,220
+<font face="Roboto Medium" size="26">the answer to "What is human?" 
+is "standing tall and upright"?</font>
+
+256
+00:21:06,220 --> 00:21:08,120
+<font face="Roboto Medium" size="26">Yeah. What's wrong?</font>
+
+257
+00:21:08,120 --> 00:21:08,960
+<font face="Roboto Medium" size="26">Why?</font>
+
+258
+00:21:08,960 --> 00:21:09,450
+<font face="Roboto Medium" size="26">Huh?</font>
+
+259
+00:21:09,450 --> 00:21:11,450
+<font face="Roboto Medium" size="26">Miss, have a look!</font>
+
+260
+00:21:11,450 --> 00:21:13,720
+<font face="Roboto Medium" size="26">These valleys are called 
+the 24 Heavenly Valleys.</font>
+
+261
+00:21:13,720 --> 00:21:16,380
+<font face="Roboto Medium" size="26">When you connect them to
+the cave at the end,</font>
+
+262
+00:21:16,380 --> 00:21:19,240
+<font face="Roboto Medium" size="26">doesn't it look like
+a human spine and skull?</font>
+
+263
+00:21:19,240 --> 00:21:20,390
+<font face="Roboto Medium" size="26">I know that.</font>
+
+264
+00:21:20,390 --> 00:21:22,350
+<font face="Roboto Medium" size="26">Don't humans stand tall and upright?</font>
+
+265
+00:21:22,350 --> 00:21:24,810
+<font face="Roboto Medium" size="26">That's what sets us apart from animals!</font>
+
+266
+00:21:25,280 --> 00:21:26,470
+<font face="Roboto Medium" size="26">I know that.</font>
+
+267
+00:21:26,820 --> 00:21:29,940
+<font face="Roboto Medium" size="26">Even if some animals walk on two legs,</font>
+
+268
+00:21:29,940 --> 00:21:33,060
+<font face="Roboto Medium" size="26">they don't have an
+upright spine and skull.</font>
+
+269
+00:21:33,580 --> 00:21:34,610
+<font face="Roboto Medium" size="26">I know that.</font>
+
+270
+00:21:34,610 --> 00:21:38,450
+<font face="Roboto Medium" size="26">So, if the question is "What is human?",</font>
+
+271
+00:21:38,450 --> 00:21:40,200
+<font face="Roboto Medium" size="26">the answer is "standing tall..."</font>
+
+272
+00:21:40,200 --> 00:21:41,270
+<font face="Roboto Medium" size="26">You're wrong.</font>
+
+273
+00:21:42,350 --> 00:21:44,680
+<font face="Roboto Medium" size="26">This valley doesn't match your answer.</font>
+
+274
+00:21:45,100 --> 00:21:46,230
+<font face="Roboto Medium" size="26">{\an8}Bao'er!</font>
+
+275
+00:21:45,100 --> 00:21:47,190
+<font face="Roboto Medium" size="26">Humans stand tall and upright,</font>
+
+276
+00:21:47,190 --> 00:21:49,100
+<font face="Roboto Medium" size="26">but this valley isn't 
+"standing tall and upright."</font>
+
+277
+00:21:54,050 --> 00:21:56,920
+<font face="Roboto Medium" size="26"><i>This</i> would be "standing tall and upright!"</font>
+
+278
+00:21:58,020 --> 00:22:00,020
+<font face="Roboto Medium" size="26">{\an8}Translation & Timing: Henry Lin
+Editing: Alicia Ashby
+QC: William Haggard 
+FQC: Sriram Gurunathan</font>
+
