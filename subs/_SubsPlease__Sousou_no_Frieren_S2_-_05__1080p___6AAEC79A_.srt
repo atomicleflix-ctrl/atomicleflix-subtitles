@@ -1,0 +1,1236 @@
+1
+00:00:25,250 --> 00:00:32,210
+<font size="24"><b>{\an8}<font size="33"><font face="Georgia"><font color="#9eccf8">Beyond Journey's End</font></font></font></b></font>
+
+2
+00:01:29,970 --> 00:01:33,970
+<font face="Times New Roman" size="12"><b>{\an9}29 years after the death of Himmel the Hero,
+in the Bier region, located on the Northern Plateau</b></font>
+
+3
+00:01:40,040 --> 00:01:43,110
+<font face="Roboto Medium" size="26">I guess there are cities 
+on the Northern Plateau.</font>
+
+4
+00:01:43,110 --> 00:01:45,010
+<font face="Roboto Medium" size="26">There are a lot of bars here.</font>
+
+5
+00:01:45,450 --> 00:01:49,570
+<font face="Roboto Medium" size="26">This area's the only grain-producing 
+region on the Northern Plateau.</font>
+
+6
+00:01:49,930 --> 00:01:52,400
+<font face="Roboto Medium" size="26">It's always had plenty of breweries.</font>
+
+7
+00:01:52,920 --> 00:01:54,670
+<font face="Roboto Medium" size="26">Huh.</font>
+
+8
+00:01:54,670 --> 00:01:56,800
+<font face="Roboto Medium" size="26">I was talking to Old Man Fass.</font>
+
+9
+00:01:57,100 --> 00:01:59,600
+<font face="Roboto Medium" size="26">He said he's almost found Boshaft.</font>
+
+10
+00:02:00,060 --> 00:02:01,420
+<font face="Roboto Medium" size="26">Really?</font>
+
+11
+00:02:01,420 --> 00:02:04,380
+<font face="Roboto Medium" size="26">{\an8}He's been talking about that 
+since my grandpa was a kid.</font>
+
+12
+00:02:02,260 --> 00:02:04,760
+<font face="Roboto Medium" size="26">What's Boshaft?</font>
+
+13
+00:02:04,760 --> 00:02:07,230
+<font face="Roboto Medium" size="26">I've heard about it from Mr. Heiter.</font>
+
+14
+00:02:07,460 --> 00:02:11,870
+<font face="Roboto Medium" size="26">Long ago, most of the continent was 
+ruled by a single great empire.</font>
+
+15
+00:02:11,870 --> 00:02:15,530
+<font face="Roboto Medium" size="26">It was an exquisite liquor 
+offered to the emperor.</font>
+
+16
+00:02:15,530 --> 00:02:16,740
+<font face="Roboto Medium" size="26">Huh.</font>
+
+17
+00:02:17,050 --> 00:02:20,630
+<font face="Roboto Medium" size="26">He would lament about how, because of 
+Ms. Frieren, he never got to drink it.</font>
+
+18
+00:02:23,700 --> 00:02:25,630
+<font face="Roboto Medium" size="26">There was a reason for that.</font>
+
+19
+00:02:31,240 --> 00:02:33,700
+<font face="Roboto Medium" size="26">I don't want to stay here for long.</font>
+
+20
+00:02:33,700 --> 00:02:34,860
+<font face="Roboto Medium" size="26">Once we're finished shopping—</font>
+
+21
+00:02:34,860 --> 00:02:35,640
+<font face="Roboto Medium" size="26">Frieren!</font>
+
+22
+00:02:36,360 --> 00:02:38,750
+<font face="Roboto Medium" size="26">It's you, Frieren!</font>
+
+23
+00:02:41,980 --> 00:02:44,080
+<font face="Roboto Medium" size="26">I haven't seen you in a century.</font>
+
+24
+00:02:44,080 --> 00:02:46,530
+<font face="Roboto Medium" size="26">It's been eighty years, Fass.</font>
+
+25
+00:02:46,530 --> 00:02:50,230
+<font face="Roboto Medium" size="26">You're a stickler for details now? 
+How unlike you.</font>
+
+26
+00:02:52,200 --> 00:02:54,270
+<font face="Roboto Medium" size="26">Your roster's changed.</font>
+
+27
+00:02:54,270 --> 00:02:57,620
+<font face="Roboto Medium" size="26">That young guy who liked 
+to drink isn't with you?</font>
+
+28
+00:02:57,920 --> 00:02:59,710
+<font face="Roboto Medium" size="26">Heiter's dead.</font>
+
+29
+00:03:00,290 --> 00:03:01,860
+<font face="Roboto Medium" size="26">He went peacefully.</font>
+
+30
+00:03:04,160 --> 00:03:07,330
+<font face="Roboto Medium" size="26">I see. I was too late.</font>
+
+31
+00:03:09,980 --> 00:03:13,730
+<font face="Roboto Medium" size="26">I've located Boshaft, 
+the Emperor's Spirits.</font>
+
+32
+00:03:13,730 --> 00:03:15,280
+<font face="Roboto Medium" size="26">Will you help me?</font>
+
+33
+00:03:15,280 --> 00:03:17,730
+<font face="Roboto Medium" size="26">You can use magic, right?</font>
+
+34
+00:03:18,430 --> 00:03:21,840
+<font face="Roboto Medium" size="26">What does magic have to do with Boshaft?</font>
+
+35
+00:03:22,360 --> 00:03:24,030
+<font face="Roboto Medium" size="26">Come with me, and you'll see.</font>
+
+36
+00:03:31,560 --> 00:03:33,070
+<font face="Roboto Medium" size="26">It's in here.</font>
+
+37
+00:03:33,070 --> 00:03:36,180
+<font face="Roboto Medium" size="26">Is this... a mine?</font>
+
+38
+00:03:36,180 --> 00:03:38,930
+<font face="Roboto Medium" size="26">I dug it all by myself.</font>
+
+39
+00:03:40,710 --> 00:03:45,310
+<font face="Roboto Medium" size="26">Most people think all dwarves are miners,</font>
+
+40
+00:03:45,830 --> 00:03:48,330
+<font face="Roboto Medium" size="26">but I grew up in the city.</font>
+
+41
+00:03:48,330 --> 00:03:50,280
+<font face="Roboto Medium" size="26">I had to study mining from scratch.</font>
+
+42
+00:03:52,080 --> 00:03:55,340
+<font face="Roboto Medium" size="26">I did it for that legendary liquor.</font>
+
+43
+00:03:56,320 --> 00:03:58,830
+<font face="Roboto Medium" size="26">Who is this old guy?</font>
+
+44
+00:03:58,830 --> 00:04:01,720
+<font face="Roboto Medium" size="26">Fass. No one loves liquor as much as him.</font>
+
+45
+00:04:02,220 --> 00:04:06,230
+<font face="Roboto Medium" size="26">He's spent over two hundred years 
+looking for Boshaft.</font>
+
+46
+00:04:06,770 --> 00:04:10,090
+<font face="Roboto Medium" size="26">He asked us for help 
+the last time we met,</font>
+
+47
+00:04:10,470 --> 00:04:15,350
+<font face="Roboto Medium" size="26">but we had a Demon King to defeat 
+at the time, so we said no.</font>
+
+48
+00:04:15,350 --> 00:04:18,360
+<font face="Roboto Medium" size="26">But Boshaft!</font>
+
+49
+00:04:16,690 --> 00:04:18,360
+<font face="Roboto Medium" size="26">{\an8}Let go!</font>
+
+50
+00:04:21,850 --> 00:04:24,950
+<font face="Roboto Medium" size="26">Pulling Heiter away was no mean feat.</font>
+
+51
+00:04:25,820 --> 00:04:29,670
+<font face="Roboto Medium" size="26">Why are you digging a mine 
+to find liquor?</font>
+
+52
+00:04:30,230 --> 00:04:36,380
+<font face="Roboto Medium" size="26">According to legend, there's Boshaft 
+stored in the ruins underground here.</font>
+
+53
+00:04:39,050 --> 00:04:41,380
+<font face="Roboto Medium" size="26">And two hundred years ago,</font>
+
+54
+00:04:41,380 --> 00:04:46,140
+<font face="Roboto Medium" size="26">when I found this stone monument, 
+I knew it was true.</font>
+
+55
+00:04:46,830 --> 00:04:48,760
+<font face="Roboto Medium" size="26">This is ancient elvish.</font>
+
+56
+00:04:49,740 --> 00:04:53,580
+<font face="Roboto Medium" size="26">The inscription proclaims that Boshaft is 
+the greatest liquor to have ever existed.</font>
+
+57
+00:04:55,010 --> 00:04:56,270
+<font face="Roboto Medium" size="26">"Milliarde."</font>
+
+58
+00:04:57,440 --> 00:04:59,990
+<font face="Roboto Medium" size="26">Perhaps that's who wrote 
+this inscription.</font>
+
+59
+00:05:01,550 --> 00:05:06,480
+<font face="Roboto Medium" size="26">You're well-educated if you can 
+read ancient elvish at your age.</font>
+
+60
+00:05:07,250 --> 00:05:10,990
+<font face="Roboto Medium" size="26">Ms. Frieren drilled it into me 
+when I was young.</font>
+
+61
+00:05:11,500 --> 00:05:15,130
+<font face="Roboto Medium" size="26">Most grimoires are written 
+in ancient elvish.</font>
+
+62
+00:05:15,130 --> 00:05:17,380
+<font face="Roboto Medium" size="26">You'll have to learn to read it.</font>
+
+63
+00:05:22,340 --> 00:05:24,410
+<font face="Roboto Medium" size="26">So it was Milliarde.</font>
+
+64
+00:05:25,760 --> 00:05:31,260
+<font face="Roboto Medium" size="26">Ever since discovering this inscription, 
+I've dedicated my life to finding Boshaft.</font>
+
+65
+00:05:31,640 --> 00:05:35,260
+<font face="Roboto Medium" size="26">And now, it's almost within my grasp.</font>
+
+66
+00:05:35,840 --> 00:05:37,710
+<font face="Roboto Medium" size="26">You found the ruins?</font>
+
+67
+00:05:38,160 --> 00:05:41,620
+<font face="Roboto Medium" size="26">The ruins themselves, yes.</font>
+
+68
+00:05:43,330 --> 00:05:47,140
+<font face="Roboto Medium" size="26">But as you can see, the doors to 
+this stone chamber won't open.</font>
+
+69
+00:05:47,140 --> 00:05:51,280
+<font face="Roboto Medium" size="26">A powerful barrier was erected 
+to preserve the liquor.</font>
+
+70
+00:05:51,590 --> 00:05:54,850
+<font face="Roboto Medium" size="26">You should be able to break it, though.</font>
+
+71
+00:05:58,260 --> 00:05:59,580
+<font face="Roboto Medium" size="26">I can't.</font>
+
+72
+00:05:59,580 --> 00:06:01,890
+<font face="Roboto Medium" size="26">Surely you can.</font>
+
+73
+00:06:01,890 --> 00:06:04,220
+<font face="Roboto Medium" size="26">It'll take time to remove.</font>
+
+74
+00:06:04,750 --> 00:06:06,930
+<font face="Roboto Medium" size="26">Those kids wouldn't be happy about that.</font>
+
+75
+00:06:06,930 --> 00:06:09,250
+<font face="Roboto Medium" size="26">I'll make it worth your while.</font>
+
+76
+00:06:09,690 --> 00:06:10,790
+<font face="Roboto Medium" size="26">With a grimoire?</font>
+
+77
+00:06:10,790 --> 00:06:14,180
+<font face="Roboto Medium" size="26">Money! I'll pay you twenty 
+Reich gold coins.</font>
+
+78
+00:06:16,650 --> 00:06:18,480
+<font face="Roboto Medium" size="26">That's not even worth considering.</font>
+
+79
+00:06:19,020 --> 00:06:20,690
+<font face="Roboto Medium" size="26">Please, Frieren!</font>
+
+80
+00:06:20,970 --> 00:06:24,200
+<font face="Roboto Medium" size="26">It's my dream to drink Boshaft!</font>
+
+81
+00:06:24,200 --> 00:06:26,700
+<font face="Roboto Medium" size="26">I've been searching for 
+over two hundred years!</font>
+
+82
+00:06:29,500 --> 00:06:30,700
+<font face="Roboto Medium" size="26">No.</font>
+
+83
+00:06:34,360 --> 00:06:37,700
+<font face="Roboto Medium" size="26">Ms. Frieren, perhaps we could help him.</font>
+
+84
+00:06:37,700 --> 00:06:40,840
+<font face="Roboto Medium" size="26">Yeah. I feel sorry for Old Man Fass.</font>
+
+85
+00:06:41,130 --> 00:06:43,430
+<font face="Roboto Medium" size="26">What's this about? 
+You're giving me the creeps.</font>
+
+86
+00:06:43,430 --> 00:06:45,590
+<font face="Roboto Medium" size="26">Normally, you'd be opposed 
+to this sort of thing.</font>
+
+87
+00:06:45,590 --> 00:06:49,340
+<font face="Roboto Medium" size="26">Ms. Frieren, he's offering twenty gold 
+coins. We can use that on our journey.</font>
+
+88
+00:06:49,340 --> 00:06:50,310
+<font face="Roboto Medium" size="26">That's a ton of money.</font>
+
+89
+00:06:50,310 --> 00:06:52,730
+<font face="Roboto Medium" size="26">We won't have to worry about 
+living expenses for a while.</font>
+
+90
+00:06:52,730 --> 00:06:54,220
+<font face="Roboto Medium" size="26">What?</font>
+
+91
+00:06:54,220 --> 00:06:57,970
+<font face="Roboto Medium" size="26">But the barrier will take 
+three months to remove.</font>
+
+92
+00:06:57,970 --> 00:06:59,310
+<font face="Roboto Medium" size="26">That's hardly any time at all.</font>
+
+93
+00:06:59,310 --> 00:07:00,230
+<font face="Roboto Medium" size="26">What?</font>
+
+94
+00:07:01,650 --> 00:07:03,230
+<font face="Roboto Medium" size="26">We'll do it.</font>
+
+95
+00:07:03,970 --> 00:07:06,350
+<font face="Roboto Medium" size="26">Don't come crying to me later.</font>
+
+96
+00:07:24,650 --> 00:07:27,170
+<font face="Roboto Medium" size="26">We're in the final stages 
+of removing the barrier.</font>
+
+97
+00:07:27,620 --> 00:07:30,130
+<font face="Roboto Medium" size="26">We should be able to finish tomorrow.</font>
+
+98
+00:07:34,150 --> 00:07:35,670
+<font face="Roboto Medium" size="26">You don't look very pleased.</font>
+
+99
+00:07:41,140 --> 00:07:42,600
+<font face="Roboto Medium" size="26">I guess not.</font>
+
+100
+00:07:43,460 --> 00:07:46,520
+<font face="Roboto Medium" size="26">Boshaft doesn't taste good.</font>
+
+101
+00:07:47,020 --> 00:07:50,060
+<font face="Roboto Medium" size="26">It's not worth devoting your life to.</font>
+
+102
+00:07:50,060 --> 00:07:52,040
+<font face="Roboto Medium" size="26">But the inscription said...</font>
+
+103
+00:07:53,950 --> 00:07:59,940
+<font face="Roboto Medium" size="26">Some elves pass the time 
+in ways you wouldn't believe.</font>
+
+104
+00:08:13,820 --> 00:08:17,850
+<font face="Roboto Medium" size="26">Milliarde, you never do anything. 
+You just gaze off into space.</font>
+
+105
+00:08:18,310 --> 00:08:24,500
+<font face="Roboto Medium" size="26">Many of our fellow elves spend their 
+long lives searching for something.</font>
+
+106
+00:08:24,500 --> 00:08:26,060
+<font face="Roboto Medium" size="26">Why do you think that is?</font>
+
+107
+00:08:26,500 --> 00:08:27,580
+<font face="Roboto Medium" size="26">Why?</font>
+
+108
+00:08:28,340 --> 00:08:30,850
+<font face="Roboto Medium" size="26">So that they don't end up like me.</font>
+
+109
+00:08:32,320 --> 00:08:36,640
+<font face="Roboto Medium" size="26">Frieren, could you imagine the thing 
+you spent your life searching for</font>
+
+110
+00:08:36,640 --> 00:08:40,330
+<font face="Roboto Medium" size="26">turning out to be worthless garbage?</font>
+
+111
+00:08:40,820 --> 00:08:43,830
+<font face="Roboto Medium" size="26">Not at all. What are you talking about?</font>
+
+112
+00:08:44,200 --> 00:08:48,090
+<font face="Roboto Medium" size="26">My distant past.</font>
+
+113
+00:08:51,910 --> 00:08:55,090
+<font face="Roboto Medium" size="26">This liquor really is terrible.</font>
+
+114
+00:08:55,610 --> 00:08:57,320
+<font face="Roboto Medium" size="26">Boshaft.</font>
+
+115
+00:08:57,320 --> 00:09:01,090
+<font face="Roboto Medium" size="26">That's the awful, cheap liquor 
+they served at the coronation.</font>
+
+116
+00:09:01,800 --> 00:09:07,110
+<font face="Roboto Medium" size="26">Before coming to this village, 
+I carved an inscription to pass the time.</font>
+
+117
+00:09:07,520 --> 00:09:11,260
+<font face="Roboto Medium" size="26">It says, "Boshaft is the greatest 
+liquor to have ever existed."</font>
+
+118
+00:09:12,160 --> 00:09:14,230
+<font face="Roboto Medium" size="26">What was the point of that?</font>
+
+119
+00:09:15,970 --> 00:09:18,170
+<font face="Roboto Medium" size="26">There was no point at all.</font>
+
+120
+00:09:22,710 --> 00:09:24,350
+<font face="Roboto Medium" size="26">It's finally time.</font>
+
+121
+00:09:45,290 --> 00:09:47,490
+<font face="Roboto Medium" size="26">It's well-preserved.</font>
+
+122
+00:09:47,490 --> 00:09:51,490
+<font face="Roboto Medium" size="26">I never thought I'd get to taste this.</font>
+
+123
+00:09:51,720 --> 00:09:55,140
+<font face="Roboto Medium" size="26">Let's toast. Drink with me.</font>
+
+124
+00:10:05,770 --> 00:10:07,200
+<font face="Roboto Medium" size="26">This is...</font>
+
+125
+00:10:11,020 --> 00:10:16,000
+<font face="Roboto Medium" size="26"><i>Frieren, why did you decline 
+to search for Boshaft?</i></font>
+
+126
+00:10:18,590 --> 00:10:21,020
+<font face="Roboto Medium" size="26">Heiter, you like liquor, right?</font>
+
+127
+00:10:21,020 --> 00:10:22,510
+<font face="Roboto Medium" size="26">Of course I do.</font>
+
+128
+00:10:22,510 --> 00:10:24,940
+<font face="Roboto Medium" size="26">Listen to this corrupt priest.</font>
+
+129
+00:10:25,500 --> 00:10:28,780
+<font face="Roboto Medium" size="26">What would you do if the liquor 
+you spent your life searching for</font>
+
+130
+00:10:28,780 --> 00:10:31,240
+<font face="Roboto Medium" size="26">turned out to be unbelievably terrible?</font>
+
+131
+00:10:34,870 --> 00:10:37,430
+<font face="Roboto Medium" size="26">Well...</font>
+
+132
+00:10:37,910 --> 00:10:39,360
+<font face="Roboto Medium" size="26">I think I'd laugh it off.</font>
+
+133
+00:10:39,740 --> 00:10:44,230
+<font face="Roboto Medium" size="26">It tastes bad, right? Then it's 
+best enjoyed with friends.</font>
+
+134
+00:10:48,870 --> 00:10:50,720
+<font face="Roboto Medium" size="26">It's so...</font>
+
+135
+00:10:52,830 --> 00:10:54,080
+<font face="Roboto Medium" size="26">It's terrible.</font>
+
+136
+00:10:54,710 --> 00:10:57,750
+<font face="Roboto Medium" size="26">It's the worst-tasting drink 
+I've ever had.</font>
+
+137
+00:11:00,660 --> 00:11:04,080
+<font face="Roboto Medium" size="26">Why are you just watching? Try it, Stark.</font>
+
+138
+00:11:04,080 --> 00:11:07,190
+<font face="Roboto Medium" size="26">What? No way. It's terrible, right?</font>
+
+139
+00:11:07,190 --> 00:11:08,690
+<font face="Roboto Medium" size="26">Just try it.</font>
+
+140
+00:11:12,720 --> 00:11:14,860
+<font face="Roboto Medium" size="26">It's freaking gross!</font>
+
+141
+00:11:17,860 --> 00:11:20,500
+<font face="Roboto Medium" size="26">Why is it so gross?</font>
+
+142
+00:11:21,200 --> 00:11:23,150
+<font face="Roboto Medium" size="26">It really is terrible.</font>
+
+143
+00:11:23,150 --> 00:11:24,140
+<font face="Roboto Medium" size="26">Try it.</font>
+
+144
+00:11:26,280 --> 00:11:28,200
+<font face="Roboto Medium" size="26">There's plenty to go around!</font>
+
+145
+00:11:28,200 --> 00:11:30,860
+<font face="Roboto Medium" size="26">I'll make the whole city suffer with me!</font>
+
+146
+00:11:34,630 --> 00:11:35,870
+<font face="Roboto Medium" size="26">Frieren.</font>
+
+147
+00:11:35,870 --> 00:11:41,260
+<font face="Roboto Medium" size="26">My search ended in disappointment, 
+but I've never had such a fun night.</font>
+
+148
+00:11:41,520 --> 00:11:44,630
+<font face="Roboto Medium" size="26">I'm glad you guys were here.</font>
+
+149
+00:11:47,210 --> 00:11:50,560
+<font face="Roboto Medium" size="26">Liquor's meant to be 
+enjoyed with good times.</font>
+
+150
+00:12:03,020 --> 00:12:06,030
+<font face="Times New Roman">{\an7}<font color="#f7fffa">Episode 33: Logistics in the Northern Plateau</font></font>
+
+151
+00:12:06,030 --> 00:12:10,030
+<font face="Times New Roman" size="12"><b>{\an9}30 years after the death of Himmel the Hero,
+in Norm Company territory, located on the Northern Plateau</b></font>
+
+152
+00:12:12,720 --> 00:12:15,670
+<font face="Roboto Medium" size="26">Here's your share of bread, Mr. Stark.</font>
+
+153
+00:12:18,970 --> 00:12:23,040
+<font face="Roboto Medium" size="26">Did you hear that? 
+This bread just went "clunk."</font>
+
+154
+00:12:23,620 --> 00:12:26,050
+<font face="Roboto Medium" size="26">That's not a sound food should make.</font>
+
+155
+00:12:26,310 --> 00:12:30,280
+<font face="Roboto Medium" size="26">We've been eating rock-hard 
+bread this whole week.</font>
+
+156
+00:12:30,850 --> 00:12:32,800
+<font face="Roboto Medium" size="26">Don't complain.</font>
+
+157
+00:12:33,370 --> 00:12:38,320
+<font face="Roboto Medium" size="26">The Northern Plateau is barren outside 
+of the grain-producing Bier region,</font>
+
+158
+00:12:39,200 --> 00:12:42,100
+<font face="Roboto Medium" size="26">and goods aren't even circulating now.</font>
+
+159
+00:12:42,670 --> 00:12:46,060
+<font face="Roboto Medium" size="26">We'll be eating mostly this while 
+we camp, at the very least.</font>
+
+160
+00:12:47,120 --> 00:12:48,620
+<font face="Roboto Medium" size="26">That's so sad.</font>
+
+161
+00:12:48,620 --> 00:12:53,520
+<font face="Roboto Medium" size="26">If we walk another half day, 
+we should be able to get a decent meal.</font>
+
+162
+00:13:07,210 --> 00:13:09,640
+<font face="Roboto Medium" size="26">That's an impressive fortress city.</font>
+
+163
+00:13:10,230 --> 00:13:12,540
+<font face="Roboto Medium" size="26">That's the Norm Company's estate.</font>
+
+164
+00:13:12,540 --> 00:13:14,770
+<font face="Roboto Medium" size="26">That structure in the center 
+is their headquarters.</font>
+
+165
+00:13:15,840 --> 00:13:20,320
+<font face="Roboto Medium" size="26">They deal in various goods, 
+primarily wheat from the Bier region.</font>
+
+166
+00:13:20,750 --> 00:13:23,580
+<font face="Roboto Medium" size="26">They're an armed trading company 
+with the logistics network</font>
+
+167
+00:13:23,580 --> 00:13:28,760
+<font face="Roboto Medium" size="26">and military force to supply the villages 
+dotted across the Northern Plateau.</font>
+
+168
+00:13:29,570 --> 00:13:31,690
+<font face="Roboto Medium" size="26">Not even the state can touch them.</font>
+
+169
+00:13:31,690 --> 00:13:36,080
+<font face="Roboto Medium" size="26">For all intents and purposes, they rule 
+humanity on the Northern Plateau.</font>
+
+170
+00:13:36,080 --> 00:13:40,320
+<font face="Roboto Medium" size="26">But Ms. Frieren, you said earlier 
+that goods aren't circulating.</font>
+
+171
+00:13:40,870 --> 00:13:42,540
+<font face="Roboto Medium" size="26">That's the problem.</font>
+
+172
+00:13:42,950 --> 00:13:46,800
+<font face="Roboto Medium" size="26">I don't know the specific cause, 
+but things change over time.</font>
+
+173
+00:13:47,410 --> 00:13:51,080
+<font face="Roboto Medium" size="26">Maybe the Norm Company 
+isn't as strong as it once was.</font>
+
+174
+00:13:51,940 --> 00:13:57,690
+<font face="Roboto Medium" size="26">But it's likely that they still have a lot
+of influence on the Northern Plateau.</font>
+
+175
+00:13:57,690 --> 00:14:00,400
+<font face="Roboto Medium" size="26">We should avoid making waves.</font>
+
+176
+00:14:09,090 --> 00:14:10,090
+<font face="Roboto Medium" size="26">I see.</font>
+
+177
+00:14:10,810 --> 00:14:13,330
+<font face="Roboto Medium" size="26">So you're Ms. Fern, a first-class mage.</font>
+
+178
+00:14:13,940 --> 00:14:15,590
+<font face="Roboto Medium" size="26">You may pass.</font>
+
+179
+00:14:17,820 --> 00:14:19,130
+<font face="Roboto Medium" size="26">That person...</font>
+
+180
+00:14:28,860 --> 00:14:30,490
+<font face="Roboto Medium" size="26">One moment, please.</font>
+
+181
+00:14:32,240 --> 00:14:33,920
+<font face="Roboto Medium" size="26">I wonder what's going on.</font>
+
+182
+00:14:40,100 --> 00:14:42,560
+<font face="Roboto Medium" size="26">I am Norm, the company president.</font>
+
+183
+00:14:43,000 --> 00:14:46,170
+<font face="Roboto Medium" size="26">Ms. Frieren, mage of the party of heroes,</font>
+
+184
+00:14:46,170 --> 00:14:51,630
+<font face="Roboto Medium" size="26">you will be paying off the debt 
+you've owed for eighty years in full.</font>
+
+185
+00:14:52,440 --> 00:14:55,950
+<font face="Roboto Medium" size="26">Ms. Frieren, you've been carrying debt?</font>
+
+186
+00:14:56,270 --> 00:14:57,470
+<font face="Roboto Medium" size="26">Just a little.</font>
+
+187
+00:14:57,470 --> 00:14:58,700
+<font face="Roboto Medium" size="26">Seriously?</font>
+
+188
+00:14:58,700 --> 00:15:01,960
+<font face="Roboto Medium" size="26">But I was told I could 
+pay it back anytime.</font>
+
+189
+00:15:02,170 --> 00:15:04,780
+<font face="Roboto Medium" size="26">That's not what the documents say.</font>
+
+190
+00:15:05,460 --> 00:15:07,760
+<font face="Roboto Medium" size="26">Verbal agreements are no good.</font>
+
+191
+00:15:07,760 --> 00:15:14,000
+<font face="Roboto Medium" size="26">It seems my predecessor's predecessor 
+was lax in that area, but I am not.</font>
+
+192
+00:15:16,160 --> 00:15:22,300
+<font face="Roboto Medium" size="26">Three Strahl gold, twenty Reich gold, 
+and various silvers and coppers.</font>
+
+193
+00:15:23,150 --> 00:15:25,720
+<font face="Roboto Medium" size="26">You're as wealthy as a minor noble.</font>
+
+194
+00:15:25,720 --> 00:15:26,560
+<font face="Roboto Medium" size="26">Right?</font>
+
+195
+00:15:26,560 --> 00:15:32,320
+<font face="Roboto Medium" size="26">Your grandfather did us a favor, 
+so you can keep the change.</font>
+
+196
+00:15:34,540 --> 00:15:35,320
+<font face="Roboto Medium" size="26">I see.</font>
+
+197
+00:15:37,100 --> 00:15:39,130
+<font face="Roboto Medium" size="26">This isn't nearly enough.</font>
+
+198
+00:15:41,010 --> 00:15:44,940
+<font face="Roboto Medium" size="26">Anyway, I have to work in the mines 
+for three hundred years.</font>
+
+199
+00:15:44,940 --> 00:15:48,080
+<font face="Roboto Medium" size="26">My journey ends here.</font>
+
+200
+00:15:50,550 --> 00:15:53,840
+<font face="Roboto Medium" size="26">What are you talking about, Ms. Frieren?</font>
+
+201
+00:15:53,840 --> 00:15:56,590
+<font face="Roboto Medium" size="26">Why are you dressed like that? 
+Where's your bag?</font>
+
+202
+00:15:57,030 --> 00:16:00,100
+<font face="Roboto Medium" size="26">They took everything as collateral.</font>
+
+203
+00:16:17,550 --> 00:16:20,230
+<font face="Roboto Medium" size="26">Bye, Fern and Stark.</font>
+
+204
+00:16:20,490 --> 00:16:21,740
+<font face="Roboto Medium" size="26">Take care.</font>
+
+205
+00:16:24,610 --> 00:16:25,750
+<font face="Roboto Medium" size="26">What?</font>
+
+206
+00:16:26,990 --> 00:16:28,680
+<font face="Roboto Medium" size="26">What are we going to do?</font>
+
+207
+00:16:29,670 --> 00:16:32,710
+<font face="Roboto Medium" size="26">All we can do is buy back Ms. Frieren.</font>
+
+208
+00:16:32,710 --> 00:16:34,860
+<font face="Roboto Medium" size="26">She's not a thing, you know.</font>
+
+209
+00:16:35,380 --> 00:16:39,380
+<font face="Roboto Medium" size="26">Unfortunately, there's nothing 
+you can do about it.</font>
+
+210
+00:16:39,670 --> 00:16:40,840
+<font face="Roboto Medium" size="26">Take a look.</font>
+
+211
+00:16:43,890 --> 00:16:46,370
+<font face="Roboto Medium" size="26">According to the documents,</font>
+
+212
+00:16:46,370 --> 00:16:48,890
+<font face="Roboto Medium" size="26">she owes over five hundred Strahl 
+gold coins including interest.</font>
+
+213
+00:16:48,890 --> 00:16:51,260
+<font face="Roboto Medium" size="26">Even when converted to Reich gold coins,</font>
+
+214
+00:16:51,260 --> 00:16:54,400
+<font face="Roboto Medium" size="26">the most trusted currency on the Northern 
+Plateau, she owes over three hundred.</font>
+
+215
+00:16:54,400 --> 00:16:57,900
+<font face="Roboto Medium" size="26">Do you think you can procure such a sum?</font>
+
+216
+00:16:58,610 --> 00:17:00,420
+<font face="Roboto Medium" size="26">No, that would be impossible.</font>
+
+217
+00:17:00,420 --> 00:17:02,370
+<font face="Roboto Medium" size="26">Seriously, what are we going to do?</font>
+
+218
+00:17:03,050 --> 00:17:05,800
+<font face="Roboto Medium" size="26">We can't wait three hundred years.</font>
+
+219
+00:17:11,610 --> 00:17:14,910
+<font face="Roboto Medium" size="26">I don't really like mines.</font>
+
+220
+00:17:14,910 --> 00:17:17,260
+<font face="Roboto Medium" size="26">They're hot and dusty.</font>
+
+221
+00:17:27,380 --> 00:17:31,400
+<font face="Roboto Medium" size="26">The president told us 
+about you, Ms. Frieren.</font>
+
+222
+00:17:33,290 --> 00:17:34,390
+<font face="Roboto Medium" size="26">I see.</font>
+
+223
+00:17:34,770 --> 00:17:36,730
+<font face="Roboto Medium" size="26">Shall we get started, then?</font>
+
+224
+00:18:28,390 --> 00:18:30,280
+<font face="Roboto Medium" size="26">We'll go straight through here.</font>
+
+225
+00:18:31,030 --> 00:18:32,660
+<font face="Roboto Medium" size="26">You're certain?</font>
+
+226
+00:18:33,210 --> 00:18:35,540
+<font face="Roboto Medium" size="26">Who do you think I am?</font>
+
+227
+00:18:37,350 --> 00:18:40,730
+<font face="Roboto Medium" size="26">All right, boys! Start digging!</font>
+
+228
+00:18:40,730 --> 00:18:41,940
+<font face="Roboto Medium" size="26">Yeah!</font>
+
+229
+00:18:56,390 --> 00:18:58,560
+<font face="Roboto Medium" size="26">The Norm Company president 
+of two generations ago</font>
+
+230
+00:18:58,920 --> 00:19:02,580
+<font face="Roboto Medium" size="26">started out as a backwater noble 
+cast out to the Northern Plateau.</font>
+
+231
+00:19:03,200 --> 00:19:09,770
+<font face="Roboto Medium" size="26">He was a great man who invested in this 
+barren land and built a logistics network,</font>
+
+232
+00:19:09,770 --> 00:19:13,380
+<font face="Roboto Medium" size="26">bringing stability to people's lives.</font>
+
+233
+00:19:14,900 --> 00:19:19,340
+<font face="Roboto Medium" size="26">At the time, nobody expected 
+much from our party of heroes,</font>
+
+234
+00:19:19,340 --> 00:19:22,600
+<font face="Roboto Medium" size="26">but he provided us with funds 
+with no repayment deadline.</font>
+
+235
+00:19:25,350 --> 00:19:30,080
+<font face="Roboto Medium" size="26">I never thought I'd be treated 
+like this by his grandson.</font>
+
+236
+00:19:31,230 --> 00:19:37,190
+<font face="Roboto Medium" size="26">But there must be a reason you came 
+all the way to this mine, right?</font>
+
+237
+00:19:38,450 --> 00:19:42,260
+<font face="Roboto Medium" size="26">Logistics in the Northern Plateau 
+are in a terrible state, aren't they?</font>
+
+238
+00:19:42,690 --> 00:19:44,070
+<font face="Roboto Medium" size="26">I suppose.</font>
+
+239
+00:19:44,070 --> 00:19:48,570
+<font face="Roboto Medium" size="26">Even my companions complained that 
+they'd never eaten such hard bread.</font>
+
+240
+00:19:48,570 --> 00:19:51,950
+<font face="Roboto Medium" size="26">I'm sure they hadn't. 
+I'm not fond of it either.</font>
+
+241
+00:19:52,970 --> 00:19:55,700
+<font face="Roboto Medium" size="26">Since conditions have worsened here,</font>
+
+242
+00:19:56,290 --> 00:20:01,960
+<font face="Roboto Medium" size="26">we've lost a third of our armed 
+caravans and army fighting demons.</font>
+
+243
+00:20:05,360 --> 00:20:07,970
+<font face="Roboto Medium" size="26">Our logistics network is in ruins, too.</font>
+
+244
+00:20:08,660 --> 00:20:12,800
+<font face="Roboto Medium" size="26">If the Norm Company were a nation, 
+we'd have fallen already.</font>
+
+245
+00:20:17,360 --> 00:20:20,590
+<font face="Roboto Medium" size="26">However, we are a trading company.</font>
+
+246
+00:20:21,540 --> 00:20:26,180
+<font face="Roboto Medium" size="26">As long as we have the funds, 
+we can always rebuild.</font>
+
+247
+00:20:27,540 --> 00:20:32,740
+<font face="Roboto Medium" size="26">When you arrived in this region, I felt 
+the Goddess must've brought you here.</font>
+
+248
+00:20:33,490 --> 00:20:39,320
+<font face="Roboto Medium" size="26">That scrap of paper representing your 
+party's debt gained tremendous value.</font>
+
+249
+00:20:40,390 --> 00:20:43,570
+<font face="Roboto Medium" size="26">This mine is still under development.</font>
+
+250
+00:20:43,570 --> 00:20:46,620
+<font face="Roboto Medium" size="26">If we strike silver ore, 
+we'll turn a huge profit.</font>
+
+251
+00:20:46,620 --> 00:20:50,740
+<font face="Roboto Medium" size="26">Enough to forgive the party 
+of heroes' debt and more.</font>
+
+252
+00:20:52,180 --> 00:20:55,760
+<font face="Roboto Medium" size="26">It should be easy for you 
+to find, Ms. Frieren.</font>
+
+253
+00:20:56,320 --> 00:21:01,930
+<font face="Roboto Medium" size="26">I see. So you're using that 
+scrap of paper to coerce me.</font>
+
+254
+00:21:02,960 --> 00:21:07,810
+<font face="Roboto Medium" size="26">If our logistics network falls apart 
+entirely, many people will starve and die.</font>
+
+255
+00:21:08,260 --> 00:21:13,130
+<font face="Roboto Medium" size="26">Please save the people of the 
+Northern Plateau, Ms. Frieren.</font>
+
+256
+00:21:15,880 --> 00:21:18,940
+<font face="Roboto Medium" size="26">Also, if you help us, you'll 
+have soft bread to eat</font>
+
+257
+00:21:18,940 --> 00:21:22,960
+<font face="Roboto Medium" size="26">even in the farthest reaches 
+of the Northern Plateau.</font>
+
+258
+00:21:23,810 --> 00:21:27,100
+<font face="Roboto Medium" size="26">You're as shrewd as your grandfather.</font>
+
+259
+00:21:27,500 --> 00:21:30,180
+<font face="Roboto Medium" size="26">This is why I can't stand merchants.</font>
+
+260
+00:21:30,770 --> 00:21:33,570
+<font face="Roboto Medium" size="26">Fine. You have a deal.</font>
+
+261
+00:21:34,160 --> 00:21:38,260
+<font face="Roboto Medium" size="26">Either way, I intended to repay 
+the debt I owed your grandfather.</font>
+
+262
+00:21:43,280 --> 00:21:47,620
+<font face="Roboto Medium" size="26">I can't believe we 
+actually struck silver.</font>
+
+263
+00:21:55,620 --> 00:21:58,200
+<font face="Roboto Medium" size="26">I'm back. Shall we go?</font>
+
+264
+00:21:58,990 --> 00:22:03,660
+<font face="Roboto Medium" size="26">Oh, good. We were discussing 
+how to save you.</font>
+
+265
+00:22:03,660 --> 00:22:06,600
+<font face="Roboto Medium" size="26">We were planning to raid the mine tonight.</font>
+
+266
+00:22:07,120 --> 00:22:10,150
+<font face="Roboto Medium" size="26">Sheesh. You're so hot-headed.</font>
+
+267
+00:22:10,820 --> 00:22:15,590
+<font face="Roboto Medium" size="26">More importantly, from now on, 
+we'll get to eat soft bread.</font>
+
+268
+00:22:16,380 --> 00:22:19,210
+<font face="Roboto Medium" size="26">Huh? What does that mean?</font>
+
+269
+00:22:20,980 --> 00:22:25,110
+<font face="Times New Roman" size="12" color="#000000">{\an7}<font size="10">Translation
+<font size="12">Sho Stifler
+
+<font size="10">Editing & Typesetting
+<font size="12">Geoff Mazzolini
+
+<font size="10">Subtitle Timing
+<font size="12">Edgar Cruz
+
+<font size="10">Quality Check
+<font size="12">Alicia Ashby
+
+<font size="10">Translation Check
+<font size="12">Elizabeth Ellis</font></font></font></font></font></font></font></font></font></font></font>
+
+270
+00:23:50,070 --> 00:23:52,530
+<font face="Roboto Medium" size="26">I was worried to death.</font>
+
+271
+00:23:50,620 --> 00:23:52,520
+<font face="Roboto Medium" size="26">I'll help you bury them.</font>
+
+272
+00:23:51,680 --> 00:23:53,310
+<font face="Roboto Medium" size="26">{\an8}Protect the villagers!</font>
+
+273
+00:23:52,550 --> 00:23:54,810
+<font face="Roboto Medium" size="26">Someone like that can't be saved.</font>
+
+274
+00:23:53,090 --> 00:23:55,410
+<font face="Roboto Medium" size="26">We were a bit too late.</font>
+
+275
+00:23:53,500 --> 00:23:55,510
+<font face="Roboto Medium" size="26">{\an8}Demons destroyed the village...</font>
+
+276
+00:23:54,970 --> 00:23:57,230
+<font face="Roboto Medium" size="26">{\an8}There are so few of them.</font>
+
+277
+00:23:55,800 --> 00:23:57,120
+<font face="Roboto Medium" size="26">{\an8}Are you praying?</font>
+
+278
+00:23:56,400 --> 00:24:00,110
+<font face="Roboto Medium" size="26">So Ms. Fern also received 
+a demon-slaying request.</font>
+
+279
+00:23:57,660 --> 00:24:00,070
+<font face="Times New Roman" size="24">{\an8}<font color="#000000">Episode 34
+
+
+
+
+
+
+
+A Demon-Slaying Request</font></font>
+
