@@ -1,0 +1,64 @@
+1
+00:01:30,540 --> 00:01:35,460
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="14"><font color="#f5f5f5">Episode <font size="21">3</font></font></font></font></b></font>
+
+2
+00:01:30,540 --> 00:01:35,460
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="14"><font color="#f5f5f5">Episode <font size="21">3</font></font></font></font></b></font>
+
+3
+00:01:30,540 --> 00:01:35,460
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="10"><font color="#effefb">The Misanthrope and the Lonely Castle Under the Full Moon</font></font></font></b></font>
+
+4
+00:01:30,540 --> 00:01:35,460
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="10"><font color="#effefb">The Misanthrope and the Lonely Castle Under the Full Moon</font></font></font></b></font>
+
+5
+00:02:05,180 --> 00:02:11,150
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Times New Roman"><font color="#60503c">Mentaiko Sandwich</font></font></b></font>
+
+6
+00:02:05,180 --> 00:02:11,150
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Times New Roman"><font color="#60503c">Mentaiko Sandwich</font></font></b></font>
+
+7
+00:02:32,000 --> 00:02:37,340
+<font face="Gandhi Sans" size="24"><b>{\an9}<b><font color="#fefdfe"><font size="20">The Whole Sausage</font></font></b></b></font>
+
+8
+00:02:32,000 --> 00:02:37,340
+<font face="Gandhi Sans" size="24"><b><b><font color="#fde506">Curry Bread</font></b></b></font>
+
+9
+00:02:32,000 --> 00:02:37,340
+<font face="Gandhi Sans" size="24"><b><b><font color="#fde506">Curry Bread</font></b></b></font>
+
+10
+00:03:12,750 --> 00:03:15,210
+<font face="Gandhi Sans" size="24"><b>{\an8}<b><font color="#656c6f"><font size="24">Teachers' Office</font></font></b></b></font>
+
+11
+00:05:05,650 --> 00:05:08,120
+<font face="Gandhi Sans" size="24"><b>{\an8}<b><font color="#7b8184"><font size="30">Advanced Class</font></font></b></b></font>
+
+12
+00:11:56,940 --> 00:11:59,150
+<font face="Gandhi Sans" size="24"><b>{\an8}<b><font color="#7b8184"><font size="30">Advanced Class</font></font></b></b></font>
+
+13
+00:20:31,290 --> 00:20:35,600
+<font face="Gandhi Sans" size="24"><b><font size="30"><font face="Arial"><font color="#716d61"><font color="#090a09">Dear Isaki</font></font></font></font></b></font>
+
+14
+00:20:58,080 --> 00:21:00,900
+<font face="Gandhi Sans" size="24"><b><font size="16"><font face="Arial"><font color="#716d61">Dear Isaki</font></font></font></b></font>
+
+15
+00:23:32,970 --> 00:23:40,250
+<font face="Gandhi Sans" size="24"><b>{\an8}<font size="18"><font face="Arial"><font color="#ebfeef"><b>Next Episode:</b></font></font></font></b></font>
+
+16
+00:23:32,970 --> 00:23:40,250
+<font face="Gandhi Sans" size="24"><b>{\an8}<font size="19"><font face="Arial"><font color="#ebfeef"><b>The Misanthrope and the Angel's Comet</b></font></font></font></b></font>
+
