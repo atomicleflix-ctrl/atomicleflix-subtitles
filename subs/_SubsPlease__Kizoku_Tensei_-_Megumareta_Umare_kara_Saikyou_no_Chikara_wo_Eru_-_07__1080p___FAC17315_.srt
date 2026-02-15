@@ -1,0 +1,1509 @@
+1
+00:00:14,580 --> 00:00:18,320
+<font face="Roboto Medium" size="26">We have awaited your 
+arrival, Wise Prince.</font>
+
+2
+00:00:19,410 --> 00:00:23,290
+<font size="20">{\an8}<b><font face="Times New Roman"><font size="15"><font color="#efeee8">Ministry of Justice</font></font></font></b></font>
+
+3
+00:00:27,510 --> 00:00:29,420
+<font face="Roboto Medium" size="26">It is truly an honor to meet you.</font>
+
+4
+00:00:29,930 --> 00:00:33,970
+<font face="Roboto Medium" size="26">I am Viny Aussie,
+Vice Minister of Justice.</font>
+
+5
+00:00:30,250 --> 00:00:33,880
+<font face="Times New Roman" size="18" color="#d7dad8"><b>{\an3}<font color="#efefeb">Viny Aussie
+<font size="13">Vice Minister of Justice</font></font></b></font>
+
+6
+00:00:33,970 --> 00:00:35,730
+<font face="Roboto Medium" size="26"><i>My number two, eh?</i></font>
+
+7
+00:00:35,730 --> 00:00:38,570
+<font face="Roboto Medium" size="26"><i>He's young. Still on the rise, I'm sure.</i></font>
+
+8
+00:00:39,270 --> 00:00:41,380
+<font face="Roboto Medium" size="26">What are my duties?</font>
+
+9
+00:00:41,980 --> 00:00:45,390
+<font face="Roboto Medium" size="26">Explain it to me.
+A rough outline will do.</font>
+
+10
+00:00:45,390 --> 00:00:48,320
+<font face="Roboto Medium" size="26">Of course. You have two primary duties.</font>
+
+11
+00:00:48,310 --> 00:00:53,280
+<font size="20">{\an8}<font size="15"><font face="Arial"><font color="#dcdcdc">Meeres Empire</font></font></font></font>
+
+12
+00:00:48,320 --> 00:00:52,860
+<font face="Roboto Medium" size="26">First is the coordination of all 
+courthouses across the empire.</font>
+
+13
+00:00:53,270 --> 00:00:59,100
+<font face="Roboto Medium" size="26">Our ministry also tries many 
+cases that occur in the capital.</font>
+
+14
+00:00:59,480 --> 00:01:02,590
+<font face="Roboto Medium" size="26">And, as with the rebellion six years ago,</font>
+
+15
+00:01:04,050 --> 00:01:08,230
+<font face="Roboto Medium" size="26">it is customary for the ministry 
+or the emperor himself</font>
+
+16
+00:01:08,690 --> 00:01:13,080
+<font face="Roboto Medium" size="26">to judge those who commit serious 
+crimes such as insurrection.</font>
+
+17
+00:01:13,080 --> 00:01:17,990
+<font face="Roboto Medium" size="26">So in other words, the ministry also 
+functions as a common courthouse.</font>
+
+18
+00:01:18,330 --> 00:01:19,730
+<font face="Roboto Medium" size="26">That is correct.</font>
+
+19
+00:01:20,210 --> 00:01:21,850
+<font face="Roboto Medium" size="26">Do you try cases, as well?</font>
+
+20
+00:01:23,060 --> 00:01:24,680
+<font face="Roboto Medium" size="26">Depending on the case.</font>
+
+21
+00:01:24,680 --> 00:01:27,690
+<font face="Roboto Medium" size="26">And how much do you receive in bribes?</font>
+
+22
+00:01:28,950 --> 00:01:31,070
+<font face="Roboto Medium" size="26">I-I do no such thing!</font>
+
+23
+00:01:31,690 --> 00:01:34,300
+<font face="Roboto Medium" size="26">I'm not trying to force 
+you into admitting guilt.</font>
+
+24
+00:01:34,730 --> 00:01:36,980
+<font face="Roboto Medium" size="26">I only want to know the real story.</font>
+
+25
+00:01:36,980 --> 00:01:39,500
+<font face="Roboto Medium" size="26">I'll forget as soon as I leave this room.</font>
+
+26
+00:01:39,500 --> 00:01:41,250
+<font face="Roboto Medium" size="26">Just tell me the truth.</font>
+
+27
+00:01:44,800 --> 00:01:46,460
+<font face="Roboto Medium" size="26">I might have expected as much.</font>
+
+28
+00:01:46,890 --> 00:01:48,980
+<font face="Roboto Medium" size="26">I, personally, do not accept many bribes.</font>
+
+29
+00:01:49,460 --> 00:01:52,930
+<font face="Roboto Medium" size="26">A few hundred rean annually,
+I suppose.</font>
+
+30
+00:01:55,060 --> 00:01:56,890
+<font face="Roboto Medium" size="26">I have a rule, you see.</font>
+
+31
+00:01:57,330 --> 00:02:00,540
+<font face="Roboto Medium" size="26">Those beneath me accept at 
+least ten times that much.</font>
+
+32
+00:02:00,540 --> 00:02:01,970
+<font face="Roboto Medium" size="26">What rule?</font>
+
+33
+00:02:02,370 --> 00:02:04,590
+<font face="Roboto Medium" size="26">I do not accept bribes 
+in cases of murder.</font>
+
+34
+00:02:04,880 --> 00:02:05,970
+<font face="Roboto Medium" size="26">Why is that?</font>
+
+35
+00:02:06,230 --> 00:02:07,680
+<font face="Roboto Medium" size="26">It is too easily exposed.</font>
+
+36
+00:02:07,680 --> 00:02:11,070
+<font face="Roboto Medium" size="26">If the accuser bears a grudge, 
+I could become a target for revenge,</font>
+
+37
+00:02:11,070 --> 00:02:13,230
+<font face="Roboto Medium" size="26">leading to irreparable damage.</font>
+
+38
+00:02:13,730 --> 00:02:18,870
+<font face="Roboto Medium" size="26">I accept bribes only in cases that 
+could easily go in either direction.</font>
+
+39
+00:02:24,620 --> 00:02:25,900
+<font face="Roboto Medium" size="26">Your Highness?</font>
+
+40
+00:02:28,540 --> 00:02:32,920
+<font face="Roboto Medium" size="26">Assuming you take 500 in a year, I'll 
+give you 5,000, ten times that.</font>
+
+41
+00:02:32,920 --> 00:02:35,510
+<font face="Roboto Medium" size="26">You will not accept bribes while I'm here.</font>
+
+42
+00:02:37,710 --> 00:02:41,470
+<font face="Roboto Medium" size="26">I want to live up to the emperor's 
+expectations. Please help me do so.</font>
+
+43
+00:02:43,800 --> 00:02:48,290
+<font face="Roboto Medium" size="26">I can see why the emperor gave you 
+the title of "the Wise" at age six</font>
+
+44
+00:02:48,770 --> 00:02:52,260
+<font face="Roboto Medium" size="26">and appointed you 
+minister-prince of justice.</font>
+
+45
+00:02:53,080 --> 00:02:55,020
+<font face="Roboto Medium" size="26">I don't need extra money,</font>
+
+46
+00:02:55,790 --> 00:02:57,720
+<font face="Roboto Medium" size="26">and I will stop accepting bribes.</font>
+
+47
+00:02:57,720 --> 00:03:01,240
+<font face="Roboto Medium" size="26">Please allow me to work for Your 
+Highness from this day forward.</font>
+
+48
+00:03:02,420 --> 00:03:05,890
+<font face="Roboto Medium" size="26"><i>I should be suspicious of 
+ulterior motives, but...</i></font>
+
+49
+00:03:07,120 --> 00:03:09,390
+<font size="20">{\an8}<font color="#f9ffff"><font face="Times New Roman"><b>Name</b></font></font></font>
+
+50
+00:03:07,120 --> 00:03:09,390
+<font size="20">{\an8}<font color="#f9ffff"><font face="Times New Roman"><b>Noah Ararat  Minister-Prince of Justice</b></font></font></font>
+
+51
+00:03:07,120 --> 00:03:09,390
+<font size="20">{\an8}<font color="#f9ffff"><font face="Times New Roman"><b>Sex</b></font></font></font>
+
+52
+00:03:07,120 --> 00:03:09,390
+<font size="20">{\an8}<font color="#f9ffff"><font face="Times New Roman"><b>Male</b></font></font></font>
+
+53
+00:03:07,120 --> 00:03:09,390
+<font size="20">{\an8}<font color="#f9ffff"><font face="Times New Roman"><b>Level</b></font></font></font>
+
+54
+00:03:07,120 --> 00:03:09,390
+<font size="20">{\an8}<font color="#f9ffff"><font face="Times New Roman"><b>Fire</b></font></font></font>
+
+55
+00:03:08,890 --> 00:03:11,080
+<font size="20">{\an8}<font size="32"><font color="#fcffff"><font face="Times New Roman"><b>Strength</b></font></font></font></font>
+
+56
+00:03:08,890 --> 00:03:11,080
+<font size="20">{\an8}<font size="32"><font color="#fcffff"><font face="Times New Roman"><b>Stamina</b></font></font></font></font>
+
+57
+00:03:08,890 --> 00:03:11,080
+<font size="20">{\an8}<font size="32"><font color="#fcffff"><font face="Times New Roman"><b>Intelligence</b></font></font></font></font>
+
+58
+00:03:12,120 --> 00:03:13,530
+<font face="Roboto Medium" size="26">I'm counting on you, Viny.</font>
+
+59
+00:03:13,530 --> 00:03:14,550
+<font face="Roboto Medium" size="26">Of course.</font>
+
+60
+00:03:33,580 --> 00:03:35,520
+<font size="20">{\an8}<font color="#817c4f"><font face="Times New Roman"><b><font size="10">Born Blessed, So I'll Obtain Ultimate Power</font></b></font></font></font>
+
+61
+00:03:33,580 --> 00:03:35,520
+<font size="20">{\an8}<font color="#051529">m 0 0 l 235 0 l 225 8 l 235 15 l 18 15 l 30 8 l 18 0</font></font>
+
+62
+00:04:57,340 --> 00:05:04,230
+<font face="Roboto Medium" size="26">Thank you for arranging this grand 
+celebration for me, Brother Oscar.</font>
+
+63
+00:05:04,230 --> 00:05:08,120
+<font face="Roboto Medium" size="26">Well, I'm happy, too. 
+After our brother Henry,</font>
+
+64
+00:05:05,240 --> 00:05:10,700
+<font face="Times New Roman" size="18" color="#d7dad8"><b>{\an3}<font color="#ece6dd">Oscar Ararat
+<font size="13">Eighth Prince</font></font></b></font>
+
+65
+00:05:08,520 --> 00:05:12,370
+<font face="Roboto Medium" size="26">you're the second minister-prince in 
+all of the emperor's fifty-year reign.</font>
+
+66
+00:05:13,050 --> 00:05:15,410
+<font face="Roboto Medium" size="26">Despite how it may seem, 
+I quite like you.</font>
+
+67
+00:05:15,880 --> 00:05:17,510
+<font face="Roboto Medium" size="26">Let me congratulate you.</font>
+
+68
+00:05:20,110 --> 00:05:21,440
+<font face="Roboto Medium" size="26">You aren't happy?</font>
+
+69
+00:05:21,900 --> 00:05:28,470
+<font face="Roboto Medium" size="26">It isn't that, but why did His Majesty 
+appoint us as minister-princes?</font>
+
+70
+00:05:28,850 --> 00:05:30,970
+<font face="Roboto Medium" size="26">Probably because you're so dear to him.</font>
+
+71
+00:05:31,500 --> 00:05:33,790
+<font face="Roboto Medium" size="26"><i>I can't completely rule that out.</i></font>
+
+72
+00:05:35,010 --> 00:05:39,650
+<font face="Roboto Medium" size="26"><i>In Henry's case, he had the legitimate 
+reason of suppressing the rebellion.</i></font>
+
+73
+00:05:40,630 --> 00:05:42,930
+<font face="Roboto Medium" size="26"><i>I don't have that kind of record,</i></font>
+
+74
+00:05:43,480 --> 00:05:46,630
+<font face="Roboto Medium" size="26"><i>so maybe it's natural to conclude that 
+His Majesty is showing me favoritism.</i></font>
+
+75
+00:05:46,630 --> 00:05:47,730
+<font face="Roboto Medium" size="26"><i>And yet...</i></font>
+
+76
+00:05:47,730 --> 00:05:53,430
+<font face="Roboto Medium" size="26">Brother, you're aware the empire nearly
+collapsed at one point, are you not?</font>
+
+77
+00:05:53,810 --> 00:05:54,960
+<font face="Roboto Medium" size="26">Yes.</font>
+
+78
+00:05:58,180 --> 00:06:02,590
+<font face="Roboto Medium" size="26"><i>It happened because of the empire's 
+system of choosing a crown prince to rule.</i></font>
+
+79
+00:06:02,870 --> 00:06:06,740
+<font face="Roboto Medium" size="26"><i>Because the emperor's successor 
+is determined at birth,</i></font>
+
+80
+00:06:08,570 --> 00:06:12,010
+<font face="Roboto Medium" size="26"><i>the princes who were not the crown 
+prince idled their lives away,</i></font>
+
+81
+00:06:12,010 --> 00:06:15,100
+<font face="Roboto Medium" size="26"><i>and domestic stability 
+was drastically shaken.</i></font>
+
+82
+00:06:15,470 --> 00:06:17,430
+<font size="20">{\an8}<font size="13"><font face="Arial"><font color="#dcdcdc">Thirteenth Prince</font></font></font></font>
+
+83
+00:06:15,470 --> 00:06:19,350
+<font size="20">{\an8}<font size="13"><font face="Arial"><font color="#dcdcdc">Twelfth Prince</font></font></font></font>
+
+84
+00:06:15,470 --> 00:06:19,900
+<font size="20">{\an8}<font size="13"><font face="Arial"><font color="#dcdcdc">Eleventh Prince</font></font></font></font>
+
+85
+00:06:15,470 --> 00:06:22,150
+<font size="20">{\an8}<font size="13"><font face="Arial"><font color="#dcdcdc">Ninth Prince</font></font></font></font>
+
+86
+00:06:15,470 --> 00:06:22,940
+<font size="20">{\an8}<font size="13"><font face="Arial"><font color="#dcdcdc">Eighth Prince</font></font></font></font>
+
+87
+00:06:15,470 --> 00:06:20,020
+<font size="20">{\an8}<font size="13"><font face="Arial"><font color="#dcdcdc">Tenth Prince</font></font></font></font>
+
+88
+00:06:15,470 --> 00:06:23,070
+<font size="20">{\an8}<font size="13"><font face="Arial"><font color="#dcdcdc">Seventh Prince</font></font></font></font>
+
+89
+00:06:15,600 --> 00:06:23,980
+<font size="20">{\an8}<font size="13"><font face="Arial"><font color="#dcdcdc">Imperial Castle</font></font></font></font>
+
+90
+00:06:15,770 --> 00:06:21,120
+<font face="Roboto Medium" size="26"><i>Following introspection, the empire 
+now grants every prince his own fief,</i></font>
+
+91
+00:06:18,100 --> 00:06:25,940
+<font size="20">{\an8}<font size="13"><font face="Arial"><font color="#dcdcdc">Sixth Prince</font></font></font></font>
+
+92
+00:06:18,980 --> 00:06:25,940
+<font size="20">{\an8}<font size="13"><font face="Arial"><font color="#dcdcdc">Fifth Prince</font></font></font></font>
+
+93
+00:06:19,350 --> 00:06:25,940
+<font size="20">{\an8}<font size="13"><font face="Arial"><font color="#dcdcdc">Fourth Prince</font></font></font></font>
+
+94
+00:06:21,610 --> 00:06:25,090
+<font face="Roboto Medium" size="26"><i>and ensures they get a proper education.</i></font>
+
+95
+00:06:21,690 --> 00:06:25,940
+<font size="20">{\an8}<font size="13"><font face="Arial"><font color="#dcdcdc">Third Prince</font></font></font></font>
+
+96
+00:06:22,190 --> 00:06:25,940
+<font size="20">{\an8}<font size="13"><font face="Arial"><font color="#dcdcdc">First Prince</font></font></font></font>
+
+97
+00:06:22,230 --> 00:06:25,940
+<font size="20">{\an8}<font size="13"><font face="Arial"><font color="#dcdcdc">Second Prince</font></font></font></font>
+
+98
+00:06:25,940 --> 00:06:28,190
+<font face="Roboto Medium" size="26">But what does that have to do with this?</font>
+
+99
+00:06:28,870 --> 00:06:33,570
+<font face="Roboto Medium" size="26">Don't you think appointing me minister 
+goes beyond "an education"?</font>
+
+100
+00:06:34,210 --> 00:06:35,360
+<font face="Roboto Medium" size="26">You can't mean...</font>
+
+101
+00:06:41,370 --> 00:06:44,240
+<font face="Roboto Medium" size="26">he wants to make <i>you</i> crown prince?</font>
+
+102
+00:06:44,790 --> 00:06:46,310
+<font face="Roboto Medium" size="26">I don't know.</font>
+
+103
+00:06:46,310 --> 00:06:50,300
+<font face="Roboto Medium" size="26">If he's merely doting on me, 
+there's no problem, but...</font>
+
+104
+00:06:51,970 --> 00:06:53,010
+<font face="Roboto Medium" size="26">Your Highness...</font>
+
+105
+00:06:56,060 --> 00:06:58,850
+<font face="Roboto Medium" size="26">Incredible. You were right.</font>
+
+106
+00:06:58,850 --> 00:06:59,680
+<font face="Roboto Medium" size="26">Hmm?</font>
+
+107
+00:07:00,170 --> 00:07:03,150
+<font face="Roboto Medium" size="26">I received a report from 
+a eunuch I've bought off.</font>
+
+108
+00:07:03,400 --> 00:07:05,160
+<font face="Roboto Medium" size="26">The emperor intends</font>
+
+109
+00:07:05,160 --> 00:07:09,150
+<font face="Roboto Medium" size="26">to name me minister-prince of finance 
+at tomorrow's morning assembly.</font>
+
+110
+00:07:11,380 --> 00:07:12,650
+<font face="Roboto Medium" size="26">It can't be...</font>
+
+111
+00:07:12,930 --> 00:07:15,550
+<font face="Roboto Medium" size="26"><i>The emperor is making Albert...</i></font>
+
+112
+00:07:19,950 --> 00:07:21,250
+<font face="Roboto Medium" size="26">At any rate...</font>
+
+113
+00:07:21,530 --> 00:07:25,770
+<font face="Roboto Medium" size="26">today, we're here to celebrate 
+you and toast your intuition.</font>
+
+114
+00:07:25,770 --> 00:07:26,800
+<font face="Roboto Medium" size="26">Right.</font>
+
+115
+00:07:29,580 --> 00:07:30,660
+<font face="Roboto Medium" size="26">What's this?!</font>
+
+116
+00:07:33,690 --> 00:07:34,630
+<font face="Roboto Medium" size="26">Stop!</font>
+
+117
+00:07:44,080 --> 00:07:49,040
+<font face="Roboto Medium" size="26">I am told that 167 were 
+arrested, including Keats.</font>
+
+118
+00:07:49,040 --> 00:07:53,230
+<font face="Roboto Medium" size="26">They intended to pressure
+Your Majesty into abdicating and,</font>
+
+119
+00:07:53,230 --> 00:07:56,310
+<font face="Roboto Medium" size="26">once you were deposed as emperor, have 
+the crown prince assume the throne.</font>
+
+120
+00:07:57,080 --> 00:08:00,320
+<font face="Roboto Medium" size="26">They confessed to the very 
+plot our intel indicated.</font>
+
+121
+00:08:03,090 --> 00:08:07,850
+<font face="Roboto Medium" size="26">He has been crown prince for
+thirty years of my fifty-year reign.</font>
+
+122
+00:08:07,850 --> 00:08:10,120
+<font face="Roboto Medium" size="26">I suppose he can wait no longer.</font>
+
+123
+00:08:10,120 --> 00:08:15,370
+<font face="Roboto Medium" size="26">Bear in mind that there is no evidence 
+of the crown prince's involvement</font>
+
+124
+00:08:15,370 --> 00:08:17,340
+<font face="Roboto Medium" size="26">in this incident.</font>
+
+125
+00:08:17,680 --> 00:08:21,230
+<font face="Roboto Medium" size="26">I am aware. I won't do 
+anything to Albert.</font>
+
+126
+00:08:21,760 --> 00:08:25,270
+<font face="Roboto Medium" size="26">This Keats man will be executed, 
+and that will be the end of it.</font>
+
+127
+00:08:29,890 --> 00:08:32,480
+<font face="Roboto Medium" size="26">What became of the incident with Oscar?</font>
+
+128
+00:08:32,480 --> 00:08:37,120
+<font face="Roboto Medium" size="26">I have just sent out a eunuch who 
+is friends with His Highness.</font>
+
+129
+00:08:37,120 --> 00:08:40,180
+<font face="Roboto Medium" size="26">It would seem His Highness 
+was aware of the situation.</font>
+
+130
+00:08:40,550 --> 00:08:41,450
+<font face="Roboto Medium" size="26">Oh?</font>
+
+131
+00:08:41,450 --> 00:08:44,490
+<font face="Roboto Medium" size="26">His Highness Noah was with him, as well.</font>
+
+132
+00:08:44,740 --> 00:08:48,900
+<font face="Roboto Medium" size="26">Then it must have been Noah who 
+caught on to my intentions.</font>
+
+133
+00:08:50,080 --> 00:08:51,630
+<font face="Roboto Medium" size="26">According to the report...</font>
+
+134
+00:08:52,030 --> 00:08:56,090
+<font face="Roboto Medium" size="26">Of course. Remarkable as ever, that Noah.</font>
+
+135
+00:08:58,720 --> 00:09:00,600
+<font face="Roboto Medium" size="26">Gilbert is no good.</font>
+
+136
+00:09:01,020 --> 00:09:02,730
+<font face="Roboto Medium" size="26">Albert is no good.</font>
+
+137
+00:09:02,730 --> 00:09:07,120
+<font face="Roboto Medium" size="26">Who, then? Who is worthy 
+of succeeding me?</font>
+
+138
+00:09:07,120 --> 00:09:10,550
+<font face="Roboto Medium" size="26">Henry? Oscar? Noah?</font>
+
+139
+00:09:14,510 --> 00:09:20,250
+<font face="Roboto Medium" size="26">Any of them will do as long 
+as he can overcome my trial.</font>
+
+140
+00:09:21,830 --> 00:09:26,580
+<font size="20">{\an8}<font face="Times New Roman"><b><font color="#0b0700">Episode 7</font></b></font></font>
+
+141
+00:09:21,830 --> 00:09:26,580
+<font size="20">{\an8}<font face="Times New Roman"><b><font color="#0b0700">The Emperor's Wishes</font></b></font></font>
+
+142
+00:09:29,710 --> 00:09:34,130
+<font face="Roboto Medium" size="26">The aforementioned are the leader and 
+accomplices in the attempted insurrection.</font>
+
+143
+00:09:36,180 --> 00:09:39,930
+<font face="Roboto Medium" size="26">And of course they're all 
+people close to Albert.</font>
+
+144
+00:09:40,650 --> 00:09:45,740
+<font face="Roboto Medium" size="26"><i>His confidant, his former tutor,
+his knights...</i></font>
+
+145
+00:09:45,740 --> 00:09:50,490
+<font face="Roboto Medium" size="26"><i>Anyone would conclude that this was a 
+revolt led by the crown prince's faction.</i></font>
+
+146
+00:09:51,490 --> 00:09:52,810
+<font face="Roboto Medium" size="26">What will you do?</font>
+
+147
+00:09:56,280 --> 00:09:58,370
+<font face="Roboto Medium" size="26"><i>That's the natural reaction.</i></font>
+
+148
+00:09:58,760 --> 00:10:01,720
+<font face="Roboto Medium" size="26"><i>As for whether Albert had 
+a hand in this or not...</i></font>
+
+149
+00:10:03,640 --> 00:10:07,480
+<font face="Roboto Medium" size="26"><i>Under imperial law, if one of the 
+imperial family commits a crime,</i></font>
+
+150
+00:10:07,480 --> 00:10:11,370
+<font face="Roboto Medium" size="26"><i>there are provisions that ensure 
+their penalty is light.</i></font>
+
+151
+00:10:11,760 --> 00:10:13,740
+<font face="Roboto Medium" size="26"><i>But there is just one exception:</i></font>
+
+152
+00:10:15,170 --> 00:10:16,370
+<font face="Roboto Medium" size="26"><i>insurrection.</i></font>
+
+153
+00:10:17,320 --> 00:10:19,850
+<font face="Roboto Medium" size="26"><i>Any member of the imperial family 
+who is involved in an insurrection</i></font>
+
+154
+00:10:20,870 --> 00:10:24,480
+<font face="Roboto Medium" size="26"><i>is to be cut in half at the waist, 
+be they leader or accomplice.</i></font>
+
+155
+00:10:24,750 --> 00:10:28,690
+<font face="Roboto Medium" size="26"><i>They face the same sentence if 
+they are aware of the scheme</i></font>
+
+156
+00:10:28,690 --> 00:10:30,940
+<font face="Roboto Medium" size="26"><i>and fail to report it to the emperor.</i></font>
+
+157
+00:10:31,200 --> 00:10:33,770
+<font face="Roboto Medium" size="26"><i>Given how many of his 
+people are involved,</i></font>
+
+158
+00:10:33,770 --> 00:10:36,960
+<font face="Roboto Medium" size="26"><i>there's no way Albert 
+didn't know about this.</i></font>
+
+159
+00:10:37,440 --> 00:10:38,310
+<font face="Roboto Medium" size="26"><i>But...</i></font>
+
+160
+00:10:38,770 --> 00:10:42,600
+<font face="Roboto Medium" size="26"><i>The crown prince's 
+insurrection and execution</i></font>
+
+161
+00:10:38,780 --> 00:10:42,950
+<font size="20">{\an8}<font color="#e8e6e1"><b><font face="Times New Roman">Emperor</font></b></font></font>
+
+162
+00:10:38,780 --> 00:10:41,360
+<font size="20">{\an8}<font size="15"><font color="#e8e6e1"><b><font face="Times New Roman">Crown Prince, Second Prince</font></b></font></font></font>
+
+163
+00:10:38,780 --> 00:10:41,360
+<font size="20">{\an8}<font size="15"><font color="#e8e6e1"><b><font face="Times New Roman">Albert</font></b></font></font></font>
+
+164
+00:10:38,780 --> 00:10:42,950
+<font size="20">{\an8}<font size="15"><font color="#e8e6e1"><b><font face="Times New Roman">Third Prince</font></b></font></font></font>
+
+165
+00:10:38,780 --> 00:10:42,950
+<font size="20">{\an8}<font size="15"><font color="#e8e6e1"><b><font face="Times New Roman">Kiro</font></b></font></font></font>
+
+166
+00:10:43,450 --> 00:10:49,560
+<font face="Roboto Medium" size="26"><i>would be a massive scandal that shakes 
+the very foundation of the empire.</i></font>
+
+167
+00:10:50,720 --> 00:10:52,260
+<font face="Roboto Medium" size="26">What has the emperor said?</font>
+
+168
+00:10:52,610 --> 00:10:56,110
+<font face="Roboto Medium" size="26">He said to state the relevant law,</font>
+
+169
+00:10:56,110 --> 00:10:59,090
+<font face="Roboto Medium" size="26">and to punish those involved accordingly.</font>
+
+170
+00:10:59,680 --> 00:11:01,020
+<font face="Roboto Medium" size="26">I see.</font>
+
+171
+00:11:01,670 --> 00:11:03,610
+<font face="Roboto Medium" size="26">I now understand the 
+emperor's intentions.</font>
+
+172
+00:11:06,480 --> 00:11:08,560
+<font face="Roboto Medium" size="26">I will now pass judgment.</font>
+
+173
+00:11:17,550 --> 00:11:18,990
+<font face="Roboto Medium" size="26">What is it?</font>
+
+174
+00:11:19,910 --> 00:11:23,670
+<font face="Roboto Medium" size="26">I have decided how to 
+sentence the insurgents.</font>
+
+175
+00:11:24,120 --> 00:11:25,150
+<font face="Roboto Medium" size="26">Proceed.</font>
+
+176
+00:11:25,790 --> 00:11:30,660
+<font face="Roboto Medium" size="26">From among those who were arrested, the 
+leader will be cut in half at the waist,</font>
+
+177
+00:11:30,660 --> 00:11:32,780
+<font face="Roboto Medium" size="26">and the accomplices will be executed.</font>
+
+178
+00:11:33,070 --> 00:11:36,290
+<font face="Roboto Medium" size="26">The executions will be carried out
+as soon as they are sentenced.</font>
+
+179
+00:11:39,250 --> 00:11:41,820
+<font face="Roboto Medium" size="26"><i>The fact that he limited 
+it only to those arrested</i></font>
+
+180
+00:11:41,820 --> 00:11:45,930
+<font face="Roboto Medium" size="26"><i>must mean that he currently has no 
+intention of bringing Albert into this.</i></font>
+
+181
+00:11:46,410 --> 00:11:50,310
+<font face="Roboto Medium" size="26"><i>That means only those on 
+the list will be judged.</i></font>
+
+182
+00:11:51,280 --> 00:11:53,040
+<font face="Roboto Medium" size="26"><i>I could postpone their deaths</i></font>
+
+183
+00:11:53,040 --> 00:11:56,180
+<font face="Roboto Medium" size="26"><i>until the day of the year when 
+all executions are carried out.</i></font>
+
+184
+00:11:57,020 --> 00:12:02,910
+<font face="Roboto Medium" size="26"><i>But Albert's involvement could be revealed,
+through a pardon or something similar.</i></font>
+
+185
+00:12:02,910 --> 00:12:05,360
+<font face="Roboto Medium" size="26"><i>So I must execute them as soon as possible.</i></font>
+
+186
+00:12:06,170 --> 00:12:08,930
+<font face="Roboto Medium" size="26"><i>This is all within the 
+bounds of imperial law.</i></font>
+
+187
+00:12:09,610 --> 00:12:11,890
+<font face="Roboto Medium" size="26">Well done.</font>
+
+188
+00:12:12,510 --> 00:12:13,660
+<font face="Roboto Medium" size="26">Cruz.</font>
+
+189
+00:12:13,660 --> 00:12:14,620
+<font face="Roboto Medium" size="26">Your Majesty.</font>
+
+190
+00:12:14,620 --> 00:12:16,750
+<font face="Roboto Medium" size="26">Noah has done well.</font>
+
+191
+00:12:17,140 --> 00:12:20,430
+<font face="Roboto Medium" size="26">Add a thousand rean to his annual salary.</font>
+
+192
+00:12:20,430 --> 00:12:24,390
+<font face="Roboto Medium" size="26"><i>This is not a feat worthy of a reward.</i></font>
+
+193
+00:12:24,770 --> 00:12:28,400
+<font face="Roboto Medium" size="26"><i>He really didn't want to 
+get Albert involved in this.</i></font>
+
+194
+00:12:28,980 --> 00:12:30,890
+<font face="Roboto Medium" size="26">Brilliant as usual, Noah.</font>
+
+195
+00:12:31,490 --> 00:12:35,490
+<font face="Roboto Medium" size="26">My hopes for you remain high. 
+Keep up the good work.</font>
+
+196
+00:12:45,360 --> 00:12:46,600
+<font face="Roboto Medium" size="26">Your Highness!</font>
+
+197
+00:12:53,960 --> 00:12:55,650
+<font face="Roboto Medium" size="26">Hey! What happened?</font>
+
+198
+00:12:56,610 --> 00:12:57,830
+<font face="Roboto Medium" size="26">Your... Highness...</font>
+
+199
+00:12:57,830 --> 00:13:02,830
+<font face="Roboto Medium" size="26">Intruders... still... inside...</font>
+
+200
+00:13:02,830 --> 00:13:03,780
+<font face="Roboto Medium" size="26">Hey!</font>
+
+201
+00:13:05,830 --> 00:13:07,610
+<font face="Roboto Medium" size="26">Send for reinforcements!</font>
+
+202
+00:13:07,610 --> 00:13:09,770
+<font face="Roboto Medium" size="26">Ask my brother at the Ministry 
+of Military Affairs to—</font>
+
+203
+00:13:09,770 --> 00:13:11,710
+<font face="Roboto Medium" size="26"><i>Wait... The timing of this...</i></font>
+
+204
+00:13:12,670 --> 00:13:13,560
+<font face="Roboto Medium" size="26">No.</font>
+
+205
+00:13:14,160 --> 00:13:16,480
+<font face="Roboto Medium" size="26">Gather our allies!</font>
+
+206
+00:13:16,480 --> 00:13:19,790
+<font face="Roboto Medium" size="26">Let no one inside or outside 
+the mansion other than me,</font>
+
+207
+00:13:19,790 --> 00:13:21,640
+<font face="Roboto Medium" size="26">even the other princes!</font>
+
+208
+00:13:21,960 --> 00:13:23,240
+<font face="Roboto Medium" size="26">Understood.</font>
+
+209
+00:13:31,650 --> 00:13:33,830
+<font face="Roboto Medium" size="26">Y-Your Highness...</font>
+
+210
+00:13:34,240 --> 00:13:35,710
+<font face="Roboto Medium" size="26">All officials, stand down!</font>
+
+211
+00:13:42,720 --> 00:13:43,790
+<font face="Roboto Medium" size="26">Not good enough!</font>
+
+212
+00:13:46,630 --> 00:13:47,920
+<font face="Roboto Medium" size="26">Damn it!</font>
+
+213
+00:13:48,270 --> 00:13:49,940
+<font face="Roboto Medium" size="26">I won't let you commit suicide.</font>
+
+214
+00:13:50,340 --> 00:13:52,460
+<font face="Roboto Medium" size="26">Hey! We're pulling out!</font>
+
+215
+00:14:04,780 --> 00:14:05,700
+<font face="Roboto Medium" size="26">Impossible!</font>
+
+216
+00:14:13,940 --> 00:14:15,140
+<font face="Roboto Medium" size="26">Your Highness!</font>
+
+217
+00:14:17,820 --> 00:14:21,280
+<font face="Roboto Medium" size="26">I don't believe it... 
+You defeated them all?</font>
+
+218
+00:14:21,280 --> 00:14:22,420
+<font face="Roboto Medium" size="26">Incredible...</font>
+
+219
+00:14:22,810 --> 00:14:23,910
+<font face="Roboto Medium" size="26">What's the situation?</font>
+
+220
+00:14:24,320 --> 00:14:27,000
+<font face="Roboto Medium" size="26">You can see the casualties 
+among our guards.</font>
+
+221
+00:14:27,000 --> 00:14:31,880
+<font face="Roboto Medium" size="26">And all the insurgents were killed.</font>
+
+222
+00:14:32,820 --> 00:14:34,090
+<font face="Roboto Medium" size="26">All of them?</font>
+
+223
+00:14:35,760 --> 00:14:37,350
+<font face="Roboto Medium" size="26"><i>They were silenced.</i></font>
+
+224
+00:14:38,800 --> 00:14:42,290
+<font face="Roboto Medium" size="26"><i>In other words, these are Albert's...</i></font>
+
+225
+00:14:42,770 --> 00:14:44,470
+<font face="Roboto Medium" size="26"><i>the crown prince's men.</i></font>
+
+226
+00:14:50,680 --> 00:14:51,520
+<font face="Roboto Medium" size="26">Your Highness?!</font>
+
+227
+00:14:52,680 --> 00:14:54,400
+<font face="Roboto Medium" size="26">Your Highness! What are you...</font>
+
+228
+00:14:57,210 --> 00:14:59,380
+<font face="Roboto Medium" size="26">These four did this to me.</font>
+
+229
+00:14:59,380 --> 00:15:04,040
+<font face="Roboto Medium" size="26">What is the heaviest punishment 
+for severely wounding a prince?</font>
+
+230
+00:15:06,900 --> 00:15:10,000
+<font face="Roboto Medium" size="26">Execution in all cases, 
+and by summary judgment.</font>
+
+231
+00:15:10,000 --> 00:15:12,640
+<font face="Roboto Medium" size="26">Then do that immediately!</font>
+
+232
+00:15:12,640 --> 00:15:13,670
+<font face="Roboto Medium" size="26">Of course!</font>
+
+233
+00:15:28,880 --> 00:15:31,370
+<font face="Roboto Medium" size="26">The executions have been carried out.</font>
+
+234
+00:15:31,370 --> 00:15:35,320
+<font face="Roboto Medium" size="26">Good. Now this whole matter is over.</font>
+
+235
+00:15:35,930 --> 00:15:38,810
+<font face="Roboto Medium" size="26">Your Highness never ceases to amaze.</font>
+
+236
+00:15:43,010 --> 00:15:47,260
+<font face="Roboto Medium" size="26"><i>I swear... One misstep and the whole 
+empire would've been on the rocks.</i></font>
+
+237
+00:15:47,260 --> 00:15:48,390
+<font face="Roboto Medium" size="26"><i>Damned crown prince.</i></font>
+
+238
+00:15:53,160 --> 00:15:54,920
+<font face="Roboto Medium" size="26">Pardon me.</font>
+
+239
+00:15:56,260 --> 00:15:58,750
+<font face="Roboto Medium" size="26">Sorry to summon you here.</font>
+
+240
+00:15:58,750 --> 00:16:02,800
+<font face="Roboto Medium" size="26">You are wounded, no less. 
+There's no need for formality.</font>
+
+241
+00:16:03,400 --> 00:16:04,980
+<font face="Roboto Medium" size="26">Thank you, Your Majesty.</font>
+
+242
+00:16:05,430 --> 00:16:09,350
+<font face="Roboto Medium" size="26">I could not be more 
+ashamed at my failure.</font>
+
+243
+00:16:10,110 --> 00:16:13,970
+<font face="Roboto Medium" size="26">No matter. You are not solely to blame.</font>
+
+244
+00:16:14,940 --> 00:16:19,950
+<font face="Roboto Medium" size="26">Still, to think they wounded 
+a man of your caliber.</font>
+
+245
+00:16:19,950 --> 00:16:22,620
+<font face="Roboto Medium" size="26">Were they truly so capable?</font>
+
+246
+00:16:23,280 --> 00:16:25,580
+<font face="Roboto Medium" size="26"><i>I figured he would ask that.</i></font>
+
+247
+00:16:25,580 --> 00:16:27,660
+<font face="Roboto Medium" size="26"><i>Given his intelligence network,</i></font>
+
+248
+00:16:28,100 --> 00:16:32,340
+<font face="Roboto Medium" size="26"><i>he probably already knows that 
+I gave myself this wound.</i></font>
+
+249
+00:16:33,040 --> 00:16:34,550
+<font face="Roboto Medium" size="26">I believe that strength...</font>
+
+250
+00:16:36,250 --> 00:16:39,070
+<font face="Roboto Medium" size="26">is not solely dependent on 
+one's skill with the sword.</font>
+
+251
+00:16:39,450 --> 00:16:41,690
+<font face="Roboto Medium" size="26">No matter how talented one is,</font>
+
+252
+00:16:41,690 --> 00:16:45,890
+<font face="Roboto Medium" size="26">he can falter if his mental 
+fragility is taken advantage of.</font>
+
+253
+00:16:45,890 --> 00:16:49,110
+<font face="Roboto Medium" size="26">I see. Truly, I have a fine son...</font>
+
+254
+00:16:49,110 --> 00:16:53,610
+<font face="Roboto Medium" size="26">no, a son I would be proud 
+to present to all.</font>
+
+255
+00:16:53,930 --> 00:16:59,260
+<font face="Roboto Medium" size="26"><i>It appears he understands the amount 
+of thought I put into handling that.</i></font>
+
+256
+00:16:59,800 --> 00:17:03,950
+<font face="Roboto Medium" size="26">I only wish all my sons were like you.</font>
+
+257
+00:17:07,790 --> 00:17:09,730
+<font face="Roboto Medium" size="26">Can you walk with me?</font>
+
+258
+00:17:15,580 --> 00:17:17,480
+<font face="Roboto Medium" size="26">Did you know, Noah,</font>
+
+259
+00:17:18,450 --> 00:17:21,530
+<font face="Roboto Medium" size="26">among emperors who come 
+to be known as great leaders,</font>
+
+260
+00:17:21,530 --> 00:17:25,480
+<font face="Roboto Medium" size="26">nine out of ten tarnish their 
+reputation later in life.</font>
+
+261
+00:17:26,710 --> 00:17:29,100
+<font face="Roboto Medium" size="26"><i>Is he talking about the
+crown prince's insurrection?</i></font>
+
+262
+00:17:31,730 --> 00:17:35,840
+<font face="Roboto Medium" size="26"><i>Our emperor led this nation into a golden 
+age like none it had known before.</i></font>
+
+263
+00:17:35,840 --> 00:17:39,750
+<font face="Roboto Medium" size="26"><i>He will most certainly be described 
+as a great leader in history books.</i></font>
+
+264
+00:17:40,420 --> 00:17:43,960
+<font face="Roboto Medium" size="26"><i>But if that insurrection 
+had been successful,</i></font>
+
+265
+00:17:43,960 --> 00:17:47,810
+<font face="Roboto Medium" size="26"><i>they would say he grew 
+senile in his old age</i></font>
+
+266
+00:17:48,470 --> 00:17:50,490
+<font face="Roboto Medium" size="26"><i>and couldn't even control his own sons.</i></font>
+
+267
+00:17:51,610 --> 00:17:55,920
+<font face="Roboto Medium" size="26"><i>Clearly, the emperor no longer 
+trusts the crown prince.</i></font>
+
+268
+00:17:56,330 --> 00:17:58,460
+<font face="Roboto Medium" size="26"><i>The reason he won't do 
+anything about it now</i></font>
+
+269
+00:17:59,160 --> 00:18:01,670
+<font face="Roboto Medium" size="26"><i>is because the very act of 
+forsaking the crown prince</i></font>
+
+270
+00:18:02,210 --> 00:18:04,630
+<font face="Roboto Medium" size="26"><i>would tarnish his reputation 
+in his later years.</i></font>
+
+271
+00:18:05,910 --> 00:18:10,650
+<font face="Roboto Medium" size="26">Your Majesty, if I may, 
+I have a favor to ask.</font>
+
+272
+00:18:10,650 --> 00:18:11,900
+<font face="Roboto Medium" size="26">What is it?</font>
+
+273
+00:18:11,900 --> 00:18:18,900
+<font face="Roboto Medium" size="26">You appointed Henry, Oscar, 
+and myself minister-princes,</font>
+
+274
+00:18:19,360 --> 00:18:21,650
+<font face="Roboto Medium" size="26">but as that in itself is a first,</font>
+
+275
+00:18:22,140 --> 00:18:24,940
+<font face="Roboto Medium" size="26">I fear some aspects of it will be handled 
+poorly somewhere down the line.</font>
+
+276
+00:18:25,360 --> 00:18:31,200
+<font face="Roboto Medium" size="26">So I would appreciate it if you could 
+appoint someone to coordinate all of us.</font>
+
+277
+00:18:31,530 --> 00:18:34,450
+<font face="Roboto Medium" size="26">Are you asking for my 
+first prime minister?</font>
+
+278
+00:18:34,450 --> 00:18:38,830
+<font face="Roboto Medium" size="26">No, as an example, you could appoint 
+someone above the three of us</font>
+
+279
+00:18:38,830 --> 00:18:40,930
+<font face="Roboto Medium" size="26">to bring order to all that we do.</font>
+
+280
+00:18:41,070 --> 00:18:46,850
+<font size="20">{\an8}<font size="40"><font face="Times New Roman"><b><font color="#fffffe">Prime Minister-Prince</font></b></font></font></font>
+
+281
+00:18:41,350 --> 00:18:45,840
+<font face="Roboto Medium" size="26">I am proposing the establishment of a new 
+role known as the prime minister-prince.</font>
+
+282
+00:18:48,400 --> 00:18:53,940
+<font face="Roboto Medium" size="26">And I would like His Highness the 
+Crown Prince to fill that role.</font>
+
+283
+00:18:55,050 --> 00:18:56,110
+<font face="Roboto Medium" size="26">Impossible.</font>
+
+284
+00:18:58,520 --> 00:19:02,290
+<font face="Roboto Medium" size="26">Your wounds aren't healed yet.
+Leave for today.</font>
+
+285
+00:19:05,670 --> 00:19:08,040
+<font face="Roboto Medium" size="26">A crown prince of thirty years...</font>
+
+286
+00:19:09,540 --> 00:19:13,030
+<font face="Roboto Medium" size="26">I can understand why my brother 
+would begin to feel impatient.</font>
+
+287
+00:19:13,900 --> 00:19:15,000
+<font face="Roboto Medium" size="26">In which case...</font>
+
+288
+00:19:15,290 --> 00:19:18,270
+<font face="Roboto Medium" size="26">{\an8}Your Majesty would still have 
+the final say in all decisions.</font>
+
+289
+00:19:15,690 --> 00:19:22,970
+<font size="20">{\an8}<font size="40"><font face="Times New Roman"><b><font color="#fcffff">Emperor</font></b></font></font></font>
+
+290
+00:19:18,820 --> 00:19:22,020
+<font face="Roboto Medium" size="26">{\an8}You need only allow him to emulate you.</font>
+
+291
+00:19:19,050 --> 00:19:22,970
+<font size="20">{\an8}<font size="32"><font face="Times New Roman"><b><font color="#fcffff">Prime Minister-Prince</font></b></font></font></font>
+
+292
+00:19:22,970 --> 00:19:26,930
+<font face="Roboto Medium" size="26">But he would still rank above 
+the ministers, would he not?</font>
+
+293
+00:19:26,930 --> 00:19:30,150
+<font face="Roboto Medium" size="26">What if the prime minister 
+dismisses an important matter</font>
+
+294
+00:19:26,930 --> 00:19:32,890
+<font size="20">{\an8}<font size="10"><font face="Times New Roman"><font color="#fdfeff"><b>Minister-Prince
+of Finance</b></font></font></font></font>
+
+295
+00:19:26,930 --> 00:19:32,890
+<font size="20">{\an8}<font size="10"><font face="Times New Roman"><font color="#fdfeff"><b>Minister-Prince
+of Justice</b></font></font></font></font>
+
+296
+00:19:26,930 --> 00:19:32,890
+<font size="20">{\an8}<font size="10"><font face="Times New Roman"><font color="#fdfeff"><b>Minister-Prince
+of Military Affairs</b></font></font></font></font>
+
+297
+00:19:26,950 --> 00:19:32,890
+<font size="20">{\an8}<font size="32"><font face="Times New Roman"><font color="#fdfeff"><b>Prime Minister-Prince</b></font></font></font></font>
+
+298
+00:19:30,150 --> 00:19:32,540
+<font face="Roboto Medium" size="26">and it never reaches me at all?</font>
+
+299
+00:19:30,250 --> 00:19:32,890
+<font size="20">{\an8}<font size="15"><font face="Times New Roman"><font color="#fdfeff"><b>(Final Say)</b></font></font></font></font>
+
+300
+00:19:30,250 --> 00:19:32,890
+<font size="20">{\an8}<font size="32"><font face="Times New Roman"><font color="#fdfeff"><b>Emperor</b></font></font></font></font>
+
+301
+00:19:32,890 --> 00:19:34,990
+<font face="Roboto Medium" size="26">To prevent that,</font>
+
+302
+00:19:34,990 --> 00:19:39,200
+<font face="Roboto Medium" size="26">each minister-prince will have the 
+right to file a direct appeal.</font>
+
+303
+00:19:39,190 --> 00:19:46,660
+<font size="20">{\an8}<font size="10"><font face="Times New Roman"><font color="#fdfeff"><b>Minister-Prince
+of Finance</b></font></font></font></font>
+
+304
+00:19:39,190 --> 00:19:46,660
+<font size="20">{\an8}<font size="10"><font face="Times New Roman"><font color="#fdfeff"><b>Minister-Prince
+of Justice</b></font></font></font></font>
+
+305
+00:19:39,190 --> 00:19:46,660
+<font size="20">{\an8}<font size="10"><font face="Times New Roman"><font color="#fdfeff"><b>Minister-Prince
+of Military Affairs</b></font></font></font></font>
+
+306
+00:19:39,210 --> 00:19:46,660
+<font size="20">{\an8}<font size="32"><font face="Times New Roman"><font color="#fdfeff"><b>Prime Minister-Prince</b></font></font></font></font>
+
+307
+00:19:39,560 --> 00:19:42,430
+<font face="Roboto Medium" size="26">If all of us feel equally 
+strongly about the matter,</font>
+
+308
+00:19:42,430 --> 00:19:45,850
+<font face="Roboto Medium" size="26">we can bypass the prime minister 
+and appeal directly to you.</font>
+
+309
+00:19:43,320 --> 00:19:46,660
+<font size="20">{\an8}<font size="15"><font face="Times New Roman"><font color="#fdfeff"><b>(Can Directly
+Appeal)</b></font></font></font></font>
+
+310
+00:19:43,320 --> 00:19:46,660
+<font size="20">{\an8}<font size="15"><font face="Times New Roman"><font color="#fdfeff"><b>(Final Say)</b></font></font></font></font>
+
+311
+00:19:43,340 --> 00:19:46,660
+<font size="20">{\an8}<font size="32"><font face="Times New Roman"><font color="#fdfeff"><b>Emperor</b></font></font></font></font>
+
+312
+00:19:49,130 --> 00:19:53,030
+<font face="Roboto Medium" size="26"><i>That prevents the crown prince 
+from holding any actual power.</i></font>
+
+313
+00:19:53,030 --> 00:19:58,190
+<font face="Roboto Medium" size="26"><i>It doesn't matter if the prime 
+minister-prince's role has any substance.</i></font>
+
+314
+00:19:58,190 --> 00:20:00,240
+<font face="Roboto Medium" size="26"><i>It will be no more than a title.</i></font>
+
+315
+00:20:04,240 --> 00:20:05,870
+<font face="Roboto Medium" size="26">Remarkable.</font>
+
+316
+00:20:09,080 --> 00:20:13,470
+<font face="Roboto Medium" size="26">You are right. If that will 
+work, it is the best choice.</font>
+
+317
+00:20:13,470 --> 00:20:16,370
+<font face="Roboto Medium" size="26">Thank you for your counsel, Noah.</font>
+
+318
+00:20:16,790 --> 00:20:19,080
+<font face="Roboto Medium" size="26">Consider it delivered to the throne.</font>
+
+319
+00:20:19,560 --> 00:20:21,260
+<font face="Roboto Medium" size="26">I am most grateful.</font>
+
+320
+00:20:25,590 --> 00:20:30,430
+<font face="Roboto Medium" size="26">It truly is a shame you 
+weren't born sooner.</font>
+
+321
+00:20:30,830 --> 00:20:34,290
+<font face="Roboto Medium" size="26"><i>He understood my proposal instantly.</i></font>
+
+322
+00:20:34,690 --> 00:20:37,330
+<font face="Roboto Medium" size="26"><i>He is truly worthy of being 
+called a great leader.</i></font>
+
+323
+00:20:38,080 --> 00:20:41,030
+<font face="Roboto Medium" size="26"><i>Preventing the tarnishing of 
+his reputation in his old age</i></font>
+
+324
+00:20:41,720 --> 00:20:45,020
+<font face="Roboto Medium" size="26"><i>will be the best way to ensure his 
+people can live peaceful lives.</i></font>
+
+325
+00:20:49,640 --> 00:20:51,970
+<font face="Roboto Medium" size="26">I must reward you.</font>
+
+326
+00:20:52,810 --> 00:20:56,160
+<font face="Roboto Medium" size="26">Money is not a sufficient 
+reward for such a proposal.</font>
+
+327
+00:20:56,160 --> 00:20:57,210
+<font face="Roboto Medium" size="26">Cruz.</font>
+
+328
+00:20:57,210 --> 00:20:58,100
+<font face="Roboto Medium" size="26">Your Majesty.</font>
+
+329
+00:21:00,710 --> 00:21:02,530
+<font face="Roboto Medium" size="26">We're going to the vault.</font>
+
+330
+00:21:21,630 --> 00:21:26,090
+<font face="Roboto Medium" size="26">It was by your own judgment that 
+you discovered that ring, correct?</font>
+
+331
+00:21:26,090 --> 00:21:27,130
+<font face="Roboto Medium" size="26">Yes.</font>
+
+332
+00:21:27,490 --> 00:21:29,650
+<font face="Roboto Medium" size="26">I wish to see that judgment in action.</font>
+
+333
+00:21:29,650 --> 00:21:32,200
+<font face="Roboto Medium" size="26">Choose any one item you like.</font>
+
+334
+00:21:32,200 --> 00:21:33,790
+<font face="Roboto Medium" size="26">Thank you, Your Majesty.</font>
+
+335
+00:21:39,200 --> 00:21:41,010
+<font face="Roboto Medium" size="26"><i>Search, Leviathan.</i></font>
+
+336
+00:21:52,290 --> 00:21:53,520
+<font face="Roboto Medium" size="26">This one?</font>
+
+337
+00:22:11,410 --> 00:22:12,930
+<font size="20">{\an8}<font face="Times New Roman"><b><font color="#ddd0c3"><font size="10">Translation:
+Timing:
+Editing:
+Quality Control:</font></font></b></font></font>
+
+338
+00:22:11,410 --> 00:22:12,930
+<font size="20">{\an8}<font face="Times New Roman"><b><font color="#ddd0c3"><font size="10">Becky Cottrill
+Edgar Cruz
+Gabriella Alabanza
+S Bilyeu</font></font></b></font></font>
+
+339
+00:22:12,930 --> 00:22:15,120
+<font size="20">{\an8}<font face="Times New Roman"><b><font color="#ddd0c3"><font size="10">Translation:
+Timing:
+Editing:
+Quality Control:</font></font></b></font></font>
+
+340
+00:22:12,930 --> 00:22:15,120
+<font size="20">{\an8}<font face="Times New Roman"><b><font color="#ddd0c3"><font size="10">Becky Cottrill
+Edgar Cruz
+Gabriella Alabanza
+S Bilyeu</font></font></b></font></font>
+
