@@ -1,0 +1,1739 @@
+1
+00:00:05,110 --> 00:00:06,490
+<font size="20">{\an7}<b><font size="15"><font color="#332f30">In Front of Saegusa Academy</font></font></b></font>
+
+2
+00:00:05,110 --> 00:00:06,490
+<font size="20">{\an7}<b><font size="18"><font color="#332f30">Harmonia Building Collapses! Caused by a Mysterious Giant Rock Pillar?!</font></font></b></font>
+
+3
+00:00:06,490 --> 00:00:10,240
+<font face="Roboto Medium" size="26">Oh man, the news has spread 
+all over the world.</font>
+
+4
+00:00:10,240 --> 00:00:14,240
+<font size="20"><font face="Trebuchet MS"><b>{\an7}Accelerating Collapse</b></font></font>
+
+5
+00:00:10,610 --> 00:00:14,240
+<font face="Roboto Medium" size="26">{\an8}Will the existence of XENOS finally 
+become public knowledge?</font>
+
+6
+00:00:14,240 --> 00:00:16,760
+<font face="Roboto Medium" size="26">I hope it doesn't cause panic.</font>
+
+7
+00:00:16,760 --> 00:00:20,620
+<font face="Roboto Medium" size="26">I'm worried about people's reaction, but 
+there's something even more concerning.</font>
+
+8
+00:00:20,930 --> 00:00:23,040
+<font face="Roboto Medium" size="26">Where the heck are Kyoya and Soji?</font>
+
+9
+00:00:23,040 --> 00:00:24,720
+<font face="Roboto Medium" size="26">I'm sure they're safe!</font>
+
+10
+00:00:24,720 --> 00:00:27,470
+<font face="Roboto Medium" size="26">Not only them, 
+but the rest of SI-VIS, too!</font>
+
+11
+00:00:27,470 --> 00:00:31,010
+<font face="Roboto Medium" size="26">All we can do right now 
+is believe in them.</font>
+
+12
+00:00:31,510 --> 00:00:35,570
+<font face="Roboto Medium" size="26"><i>{\an8}A calling arises from deep 
+within in my burning heart</i></font>
+
+13
+00:00:36,510 --> 00:00:38,070
+<font face="Roboto Medium" size="26"><i>{\an8}It's Show Time</i></font>
+
+14
+00:00:47,280 --> 00:00:50,270
+<font face="Roboto Medium" size="26"><i>{\an8}The price of living in the time of freedom</i></font>
+
+15
+00:00:50,270 --> 00:00:51,880
+<font face="Roboto Medium" size="26"><i>{\an8}"So, what do you want to do?"</i></font>
+
+16
+00:00:51,880 --> 00:00:57,250
+<font face="Roboto Medium" size="26"><i>{\an8}Just standing there with my empty body</i></font>
+
+17
+00:00:57,520 --> 00:01:02,010
+<font face="Roboto Medium" size="26"><i>{\an8}Like a calling to protect the world</i></font>
+
+18
+00:01:02,010 --> 00:01:08,410
+<font face="Roboto Medium" size="26"><i>{\an8}I craved an unequaled gift</i></font>
+
+19
+00:01:08,410 --> 00:01:11,180
+<font face="Roboto Medium" size="26"><i>{\an8}Lost in night's darkness</i></font>
+
+20
+00:01:11,510 --> 00:01:15,240
+<font face="Roboto Medium" size="26"><i>{\an8}Until a voice called out to me</i></font>
+
+21
+00:01:15,240 --> 00:01:18,690
+<font face="Roboto Medium" size="26"><i>{\an8}Like the light that declares the dawn</i></font>
+
+22
+00:01:19,360 --> 00:01:24,590
+<font face="Roboto Medium" size="26"><i>{\an8}I'll take you with me at 
+any cost (I pray and wish)</i></font>
+
+23
+00:01:22,530 --> 00:01:27,030
+<font face="Roboto Medium" size="26"><i>Beyond the Echo-verse (To the future)</i></font>
+
+24
+00:01:25,600 --> 00:01:28,360
+<font face="Roboto Medium" size="26"><i>{\an8}Just being with you makes me strong</i></font>
+
+25
+00:01:28,360 --> 00:01:29,740
+<font face="Roboto Medium" size="26"><i>{\an8}It's not an exaggeration</i></font>
+
+26
+00:01:29,740 --> 00:01:34,590
+<font face="Roboto Medium" size="26"><i>{\an8}That encounter was a supernova 
+(Our eyes were locked)</i></font>
+
+27
+00:01:32,370 --> 00:01:37,390
+<font face="Roboto Medium" size="26"><i>In an instant, everything that I am 
+(In an instant)</i></font>
+
+28
+00:01:35,730 --> 00:01:41,130
+<font face="Roboto Medium" size="26"><i>{\an8}Will be changed forever (Just to be)</i></font>
+
+29
+00:01:39,670 --> 00:01:43,510
+<font face="Roboto Medium" size="26"><i>A calling arises from deep
+ within in my burning heart</i></font>
+
+30
+00:01:43,510 --> 00:01:45,970
+<font face="Roboto Medium" size="26"><i>{\an8}Destiny is Calling us now</i></font>
+
+31
+00:01:45,970 --> 00:01:48,550
+<font face="Roboto Medium" size="26"><i>{\an8}Just to be who we are</i></font>
+
+32
+00:01:48,550 --> 00:01:51,090
+<font face="Roboto Medium" size="26"><i>{\an8}Destiny is Calling us now</i></font>
+
+33
+00:01:51,090 --> 00:01:53,730
+<font face="Roboto Medium" size="26"><i>{\an8}Just to be by your side</i></font>
+
+34
+00:02:10,210 --> 00:02:13,480
+<font face="Roboto Medium" size="26"><i>No remains have been found 
+at the accident site.</i></font>
+
+35
+00:02:13,480 --> 00:02:17,390
+<font face="Roboto Medium" size="26"><i>The survival of the fourteen 
+members of Harmonia Entertainment and</i></font>
+
+36
+00:02:13,990 --> 00:02:18,990
+<font size="20"><font size="8"><b>{\an9}<font color="#738491">Harmonia Building Collapses!
+ Caused by a Mysterious
+ Giant Rock Pillar?!</font></b></font></font>
+
+37
+00:02:17,390 --> 00:02:22,140
+<font face="Roboto Medium" size="26"><i>SI-VIS, who were believed to be inside
+ the building, has not been confirmed.</i></font>
+
+38
+00:02:22,140 --> 00:02:27,020
+<font face="Roboto Medium" size="26"><i>Here at Saegusa Academy, where 
+Saegusa Seina serves as the principal,</i></font>
+
+39
+00:02:26,700 --> 00:02:30,160
+<font face="Roboto Medium" size="26">{\an8}I feel bad troubling the students like this.</font>
+
+40
+00:02:27,020 --> 00:02:29,730
+<font face="Roboto Medium" size="26"><i>the staff members are busy 
+gathering information.</i></font>
+
+41
+00:02:30,500 --> 00:02:35,130
+<font face="Roboto Medium" size="26">But we can't have you back 
+in the public eye right now.</font>
+
+42
+00:02:35,660 --> 00:02:39,780
+<font face="Roboto Medium" size="26">If you do, then domestic and international
+governments, the media,</font>
+
+43
+00:02:39,780 --> 00:02:41,700
+<font face="Roboto Medium" size="26">and XENOS will come after you.</font>
+
+44
+00:02:41,700 --> 00:02:44,850
+<font face="Roboto Medium" size="26">It would cause serious disruption 
+to SI-VIS activities.</font>
+
+45
+00:02:44,850 --> 00:02:49,370
+<font face="Roboto Medium" size="26">I had no idea Harmonia 
+had a secret base like this.</font>
+
+46
+00:02:49,370 --> 00:02:51,150
+<font face="Roboto Medium" size="26">It was the president's idea.</font>
+
+47
+00:02:51,150 --> 00:02:54,260
+<font face="Roboto Medium" size="26">It also functions 
+as the backup center for Metis.</font>
+
+48
+00:02:54,260 --> 00:02:59,040
+<font face="Roboto Medium" size="26">I see. Since it's located in countryside, 
+there's almost no threat of the Mirage.</font>
+
+49
+00:02:59,040 --> 00:03:00,160
+<font face="Roboto Medium" size="26">That's smart.</font>
+
+50
+00:03:00,500 --> 00:03:02,830
+<font face="Roboto Medium" size="26">We escaped by the skin of our teeth, huh?</font>
+
+51
+00:03:02,830 --> 00:03:05,660
+<font face="Roboto Medium" size="26">We can still resist XENOS's attack!</font>
+
+52
+00:03:05,660 --> 00:03:08,840
+<font face="Roboto Medium" size="26">By the way, where are Rui-san 
+and the members of SI-VIS?</font>
+
+53
+00:03:10,860 --> 00:03:14,100
+<font face="Roboto Medium" size="26">Entertaining our savior.</font>
+
+54
+00:03:14,990 --> 00:03:19,550
+<font face="Roboto Medium" size="26">We weren't supposed to 
+survive that attack.</font>
+
+55
+00:03:19,820 --> 00:03:22,560
+<font face="Roboto Medium" size="26">But μ said she saw something.</font>
+
+56
+00:03:37,450 --> 00:03:39,450
+<font face="Roboto Medium" size="26">You saved our lives.</font>
+
+57
+00:03:40,010 --> 00:03:41,950
+<font face="Roboto Medium" size="26">With a mysterious power.</font>
+
+58
+00:03:43,150 --> 00:03:44,700
+<font face="Roboto Medium" size="26">It's called Elpis.</font>
+
+59
+00:03:45,580 --> 00:03:51,460
+<font face="Roboto Medium" size="26">We XENOS are endowed 
+with two powers from Priest Archon.</font>
+
+60
+00:03:51,790 --> 00:03:53,560
+<font face="Roboto Medium" size="26">One is Pandora.</font>
+
+61
+00:03:53,560 --> 00:03:56,510
+<font face="Roboto Medium" size="26">It has tremendous power, 
+fueled by enormous Idea.</font>
+
+62
+00:03:56,510 --> 00:03:59,320
+<font face="Roboto Medium" size="26">It's a power to conquer the earthlings.</font>
+
+63
+00:03:59,800 --> 00:04:01,760
+<font face="Roboto Medium" size="26">The other one is Elpis.</font>
+
+64
+00:04:02,160 --> 00:04:04,810
+<font face="Roboto Medium" size="26">This doesn't require much Idea to wield.</font>
+
+65
+00:04:05,440 --> 00:04:08,820
+<font face="Roboto Medium" size="26">All you need is to release 
+everything that's left in you,</font>
+
+66
+00:04:08,820 --> 00:04:11,360
+<font face="Roboto Medium" size="26">and it will grant your final wish.</font>
+
+67
+00:04:12,080 --> 00:04:14,440
+<font face="Roboto Medium" size="26">You mean it's 
+a self-destruction technique?!</font>
+
+68
+00:04:14,730 --> 00:04:16,940
+<font face="Roboto Medium" size="26">Is that what Lukos used?</font>
+
+69
+00:04:17,240 --> 00:04:21,450
+<font face="Roboto Medium" size="26">Yes, to simultaneously strike each other 
+with that knight over there.</font>
+
+70
+00:04:22,030 --> 00:04:24,550
+<font face="Roboto Medium" size="26">Not that it worked, in the end.</font>
+
+71
+00:04:28,030 --> 00:04:30,100
+<font face="Roboto Medium" size="26">Talk about being unflappable.</font>
+
+72
+00:04:30,100 --> 00:04:32,000
+<font face="Roboto Medium" size="26">You're a scary bunch.</font>
+
+73
+00:04:32,000 --> 00:04:37,150
+<font face="Roboto Medium" size="26">Yes. I used Elpis
+knowing that I would disappear.</font>
+
+74
+00:04:37,150 --> 00:04:41,890
+<font face="Roboto Medium" size="26">So I really shouldn't have 
+survived like this.</font>
+
+75
+00:04:41,890 --> 00:04:46,020
+<font face="Roboto Medium" size="26">We don't care why you survived.</font>
+
+76
+00:04:46,020 --> 00:04:47,450
+<font face="Roboto Medium" size="26">Wow, scary.</font>
+
+77
+00:04:47,450 --> 00:04:49,630
+<font face="Roboto Medium" size="26">It's your fault for telling Rui-san</font>
+
+78
+00:04:49,630 --> 00:04:52,100
+<font face="Roboto Medium" size="26">that she and Yosuke had 
+a complicated relationship!</font>
+
+79
+00:04:54,430 --> 00:04:58,360
+<font face="Roboto Medium" size="26">Why did you help us? 
+You're XENOS, after all.</font>
+
+80
+00:04:58,990 --> 00:05:00,540
+<font face="Roboto Medium" size="26">Do you have to ask?</font>
+
+81
+00:05:00,540 --> 00:05:02,110
+<font face="Roboto Medium" size="26">I'm sure you know already.</font>
+
+82
+00:05:02,450 --> 00:05:06,670
+<font face="Roboto Medium" size="26">About our comrade who
+gave his life to try to save you,</font>
+
+83
+00:05:06,670 --> 00:05:08,580
+<font face="Roboto Medium" size="26">even though he was 
+from a different species.</font>
+
+84
+00:05:09,540 --> 00:05:11,240
+<font face="Roboto Medium" size="26">Oh, a counterattack!</font>
+
+85
+00:05:11,240 --> 00:05:12,920
+<font face="Roboto Medium" size="26">Hey, aren't they kind of similar?</font>
+
+86
+00:05:13,310 --> 00:05:15,580
+<font face="Roboto Medium" size="26">Whose side are you on?</font>
+
+87
+00:05:15,580 --> 00:05:18,960
+<font face="Roboto Medium" size="26">XENOS? The earthlings? Or...</font>
+
+88
+00:05:19,310 --> 00:05:22,470
+<font face="Roboto Medium" size="26">If you're on Yosuke-kun's side, 
+then that's all I need.</font>
+
+89
+00:05:22,970 --> 00:05:25,780
+<font face="Roboto Medium" size="26">Medea-san, is it? I'm—</font>
+
+90
+00:05:25,780 --> 00:05:28,030
+<font face="Roboto Medium" size="26">I saw you in Orphe's memory.</font>
+
+91
+00:05:28,030 --> 00:05:30,600
+<font face="Roboto Medium" size="26">The knight who protects the Diva, Kyoya.</font>
+
+92
+00:05:31,910 --> 00:05:36,480
+<font face="Roboto Medium" size="26">Yeah. I'm a wing 
+who protects Nagi, our center.</font>
+
+93
+00:05:37,420 --> 00:05:40,430
+<font face="Roboto Medium" size="26">Well, I failed to protect her.</font>
+
+94
+00:05:40,990 --> 00:05:42,490
+<font face="Roboto Medium" size="26">There was nothing you could do.</font>
+
+95
+00:05:42,490 --> 00:05:46,490
+<font face="Roboto Medium" size="26">Because compared to Orphe, 
+you're not enough.</font>
+
+96
+00:05:47,030 --> 00:05:52,670
+<font face="Roboto Medium" size="26">Your individual strength, your 
+leadership, your resolution, your wishes.</font>
+
+97
+00:05:52,670 --> 00:05:54,650
+<font face="Roboto Medium" size="26">Nothing about you is enough.</font>
+
+98
+00:05:54,650 --> 00:05:56,050
+<font face="Roboto Medium" size="26">Hey now—</font>
+
+99
+00:05:56,050 --> 00:05:58,500
+<font face="Roboto Medium" size="26">It's okay, Rui-san. She's right.</font>
+
+100
+00:05:59,870 --> 00:06:04,220
+<font face="Roboto Medium" size="26">So, Medea-san, please help me. 
+I'm not enough on my own.</font>
+
+101
+00:06:05,490 --> 00:06:08,170
+<font face="Roboto Medium" size="26">What was Yosuke-kun trying to do?</font>
+
+102
+00:06:08,720 --> 00:06:13,080
+<font face="Roboto Medium" size="26">What did Yosuke-kun want 
+for XENOS and the earthlings?</font>
+
+103
+00:06:13,550 --> 00:06:14,760
+<font face="Roboto Medium" size="26">Tell me.</font>
+
+104
+00:06:15,620 --> 00:06:17,190
+<font face="Roboto Medium" size="26">I'm not enough.</font>
+
+105
+00:06:17,190 --> 00:06:20,230
+<font face="Roboto Medium" size="26">I may never catch up to Yosuke-kun 
+for the rest of my life.</font>
+
+106
+00:06:20,580 --> 00:06:22,490
+<font face="Roboto Medium" size="26">Even then, I'll protect Nagi.</font>
+
+107
+00:06:22,860 --> 00:06:25,440
+<font face="Roboto Medium" size="26">I have to figure it out with who I am now.</font>
+
+108
+00:06:30,150 --> 00:06:32,860
+<font face="Roboto Medium" size="26">Please give me a hand, Medea-san.</font>
+
+109
+00:06:38,720 --> 00:06:40,240
+<font face="Roboto Medium" size="26">Lord Archon.</font>
+
+110
+00:06:40,960 --> 00:06:43,850
+<font face="Roboto Medium" size="26">Please take a look, Lord Apollo.</font>
+
+111
+00:06:43,850 --> 00:06:48,350
+<font face="Roboto Medium" size="26">Lady Eden looks 
+even more rejuvenated today.</font>
+
+112
+00:06:48,350 --> 00:06:52,350
+<font face="Roboto Medium" size="26">Ah, so that's what the blood can do.</font>
+
+113
+00:06:52,350 --> 00:06:53,100
+<font face="Roboto Medium" size="26">What?</font>
+
+114
+00:07:01,560 --> 00:07:04,700
+<font face="Roboto Medium" size="26">Is she the Diva of XENOS?</font>
+
+115
+00:07:04,700 --> 00:07:08,380
+<font face="Roboto Medium" size="26">Yeah, Lady Eden. She might be your mother.</font>
+
+116
+00:07:08,740 --> 00:07:11,800
+<font face="Roboto Medium" size="26">My mother?</font>
+
+117
+00:07:12,240 --> 00:07:14,750
+<font face="Roboto Medium" size="26">S-So this girl is...</font>
+
+118
+00:07:17,740 --> 00:07:22,230
+<font face="Roboto Medium" size="26">The video I'm about to show you 
+is the record Orphe left behind.</font>
+
+119
+00:07:23,910 --> 00:07:25,510
+<font face="Roboto Medium" size="26">This is Nagi?</font>
+
+120
+00:07:25,510 --> 00:07:26,860
+<font face="Roboto Medium" size="26">Hold on a minute!</font>
+
+121
+00:07:26,860 --> 00:07:29,790
+<font face="Roboto Medium" size="26">You say, "the daughter 
+of the Diva," but this is...</font>
+
+122
+00:07:29,790 --> 00:07:36,360
+<font face="Roboto Medium" size="26">Right. It wasn't Lady Eden's fruit 
+of love, nor a blessed child.</font>
+
+123
+00:07:36,360 --> 00:07:38,020
+<font face="Roboto Medium" size="26">Who would do such a horrible thing?</font>
+
+124
+00:07:40,060 --> 00:07:42,480
+<font face="Roboto Medium" size="26">That guy? He did this to Nagi?!</font>
+
+125
+00:07:42,830 --> 00:07:47,060
+<font face="Roboto Medium" size="26">Right. Now we know who our true enemy is.</font>
+
+126
+00:07:49,330 --> 00:07:51,580
+<font face="Roboto Medium" size="26">Yosuke did that to me?</font>
+
+127
+00:07:51,900 --> 00:07:59,330
+<font face="Roboto Medium" size="26">It's rumored that Lord Orphe raised
+a baby who was the Diva's kin in secret.</font>
+
+128
+00:07:59,330 --> 00:08:05,340
+<font face="Roboto Medium" size="26">Not "raised." He created it 
+in an unethical manner.</font>
+
+129
+00:08:05,610 --> 00:08:08,340
+<font face="Roboto Medium" size="26">When Lord Apollo discovered what happened,</font>
+
+130
+00:08:08,810 --> 00:08:11,360
+<font face="Roboto Medium" size="26">Lord Orphe took you and left this land.</font>
+
+131
+00:08:12,500 --> 00:08:16,480
+<font face="Roboto Medium" size="26">In a strange land, you were 
+constantly deprived of Idea,</font>
+
+132
+00:08:16,480 --> 00:08:21,320
+<font face="Roboto Medium" size="26">being forced to teeter 
+between life and death.</font>
+
+133
+00:08:22,790 --> 00:08:24,730
+<font face="Roboto Medium" size="26">That's not true.</font>
+
+134
+00:08:25,630 --> 00:08:30,740
+<font face="Roboto Medium" size="26">Orphe... Yosuke truly cared for me.</font>
+
+135
+00:08:31,310 --> 00:08:33,640
+<font face="Roboto Medium" size="26">He was a strong and kind man.</font>
+
+136
+00:08:41,250 --> 00:08:44,980
+<font face="Roboto Medium" size="26">You believe it was Orphe 
+who made that girl?</font>
+
+137
+00:08:44,980 --> 00:08:46,510
+<font face="Roboto Medium" size="26">Who else could've done it?</font>
+
+138
+00:08:48,570 --> 00:08:51,120
+<font face="Roboto Medium" size="26">Who's to say?</font>
+
+139
+00:08:52,480 --> 00:08:57,170
+<font face="Roboto Medium" size="26">I can't say that my suspicion of you 
+is completely clear.</font>
+
+140
+00:08:57,600 --> 00:09:01,180
+<font face="Roboto Medium" size="26">But since the president says 
+she believes in you,</font>
+
+141
+00:09:01,180 --> 00:09:03,110
+<font face="Roboto Medium" size="26">I have no choice 
+but to allow you to be here.</font>
+
+142
+00:09:03,110 --> 00:09:05,220
+<font face="Roboto Medium" size="26">It's not that I believe her.</font>
+
+143
+00:09:05,220 --> 00:09:07,860
+<font face="Roboto Medium" size="26">Kyoya-kun said he needed her help.</font>
+
+144
+00:09:08,180 --> 00:09:10,610
+<font face="Roboto Medium" size="26">As always, this company's 
+too soft on the talent.</font>
+
+145
+00:09:10,610 --> 00:09:11,610
+<font face="Roboto Medium" size="26">Hayama-san!</font>
+
+146
+00:09:11,610 --> 00:09:13,540
+<font face="Roboto Medium" size="26">That's the story.</font>
+
+147
+00:09:13,540 --> 00:09:15,910
+<font face="Roboto Medium" size="26">Would you consider lending me your hand</font>
+
+148
+00:09:15,910 --> 00:09:19,120
+<font face="Roboto Medium" size="26">for the sake of our 
+precious talent, Medea-san?</font>
+
+149
+00:09:21,150 --> 00:09:27,620
+<font face="Roboto Medium" size="26">I saved you. You're going to 
+trust me on that alone?</font>
+
+150
+00:09:27,620 --> 00:09:31,700
+<font face="Roboto Medium" size="26">I was just in a deadly battle 
+against you.</font>
+
+151
+00:09:32,390 --> 00:09:34,890
+<font face="Roboto Medium" size="26">The current leader of our group 
+is that kind of kid,</font>
+
+152
+00:09:35,470 --> 00:09:38,530
+<font face="Roboto Medium" size="26">even if he may 
+not be enough in your eyes.</font>
+
+153
+00:09:39,200 --> 00:09:42,210
+<font face="Roboto Medium" size="26">I'm sure it'll be a tough 
+decision for you.</font>
+
+154
+00:09:42,210 --> 00:09:44,310
+<font face="Roboto Medium" size="26">Choosing to betray your homeland</font>
+
+155
+00:09:44,310 --> 00:09:48,180
+<font face="Roboto Medium" size="26">and the person you've served 
+all these years,</font>
+
+156
+00:09:48,180 --> 00:09:49,080
+<font face="Roboto Medium" size="26">I'm sure you'll need a good—</font>
+
+157
+00:09:49,080 --> 00:09:51,780
+<font face="Roboto Medium" size="26">You saved me.</font>
+
+158
+00:09:53,150 --> 00:09:57,620
+<font face="Roboto Medium" size="26">After using Elpis, the only thing 
+left for me was to rot away.</font>
+
+159
+00:09:57,620 --> 00:10:00,440
+<font face="Roboto Medium" size="26">But you carried me here and healed me.</font>
+
+160
+00:10:01,630 --> 00:10:04,210
+<font face="Roboto Medium" size="26">I have no reason not to help you.</font>
+
+161
+00:10:08,230 --> 00:10:10,840
+<font face="Roboto Medium" size="26">We'd say, "We're in the same boat."</font>
+
+162
+00:10:13,220 --> 00:10:15,840
+<font face="Roboto Medium" size="26">Then let's both do everything we can.</font>
+
+163
+00:10:16,390 --> 00:10:18,350
+<font face="Roboto Medium" size="26">Your Orphe loved XENOS dearly,</font>
+
+164
+00:10:18,950 --> 00:10:21,490
+<font face="Roboto Medium" size="26">and our Yosuke loved Earth so much.</font>
+
+165
+00:10:22,100 --> 00:10:24,760
+<font face="Roboto Medium" size="26">We'll save both of his homes.</font>
+
+166
+00:10:27,380 --> 00:10:30,360
+<font face="Roboto Medium" size="26">So it's not just Earth?</font>
+
+167
+00:10:31,390 --> 00:10:35,440
+<font face="Roboto Medium" size="26">Are you saying you'd be 
+willing to save XENOS, too?</font>
+
+168
+00:10:36,190 --> 00:10:39,370
+<font face="Roboto Medium" size="26">I'm not, but my talent is.</font>
+
+169
+00:10:42,250 --> 00:10:44,870
+<font face="Roboto Medium" size="26">Then I will believe....</font>
+
+170
+00:10:45,230 --> 00:10:50,170
+<font face="Roboto Medium" size="26">in your talent, and in you, 
+who must have indulged Orphe.</font>
+
+171
+00:10:50,880 --> 00:10:53,880
+<font size="20"><b><font face="Comic Sans MS"><font color="#3f3a39"><font size="20">{\an8}Team formation for the next concert
+ Center! Soji</font></font></font></b></font>
+
+172
+00:10:52,510 --> 00:10:56,510
+<font face="Roboto Medium" size="26">How about I be a solo center 
+for the next battle?</font>
+
+173
+00:10:56,510 --> 00:10:57,640
+<font face="Roboto Medium" size="26">You've got no flare.</font>
+
+174
+00:10:57,640 --> 00:10:58,740
+<font face="Roboto Medium" size="26">Your key's too low.</font>
+
+175
+00:10:58,740 --> 00:10:59,760
+<font face="Roboto Medium" size="26">Too niche?</font>
+
+176
+00:10:59,760 --> 00:11:00,900
+<font face="Roboto Medium" size="26">The heck, guys?!</font>
+
+177
+00:11:00,900 --> 00:11:03,700
+<font face="Roboto Medium" size="26">But if Soji isn't the wing, 
+then it's unbalanced—</font>
+
+178
+00:11:03,700 --> 00:11:07,520
+<font face="Roboto Medium" size="26">I can be the wing, too! 
+I know I can do both perfectly!</font>
+
+179
+00:11:07,520 --> 00:11:09,080
+<font face="Roboto Medium" size="26">Chase two rabbits, and...?</font>
+
+180
+00:11:09,080 --> 00:11:10,120
+<font face="Roboto Medium" size="26">Say what?!</font>
+
+181
+00:11:10,120 --> 00:11:14,240
+<font face="Roboto Medium" size="26">Your physicality is essential in 
+breaking through the front line.</font>
+
+182
+00:11:14,650 --> 00:11:17,050
+<font face="Roboto Medium" size="26">You're a godsend wing.</font>
+
+183
+00:11:17,050 --> 00:11:18,700
+<font face="Roboto Medium" size="26">Please understand that, Soji.</font>
+
+184
+00:11:19,670 --> 00:11:21,030
+<font face="Roboto Medium" size="26">Yeah, I know that.</font>
+
+185
+00:11:21,030 --> 00:11:22,120
+<font face="Roboto Medium" size="26">Too easy.</font>
+
+186
+00:11:23,040 --> 00:11:24,120
+<font face="Roboto Medium" size="26">Here!</font>
+
+187
+00:11:23,040 --> 00:11:24,120
+<font size="20"><b><font face="Comic Sans MS"><font color="#484242">Center! Soji</font></font></b></font>
+
+188
+00:11:23,040 --> 00:11:24,120
+<font size="20"><b><font face="Comic Sans MS"><font color="#484242">Kyoya</font></font></b></font>
+
+189
+00:11:23,040 --> 00:11:24,120
+<font size="20"><b><font face="Comic Sans MS"><font color="#484242">μ</font></font></b></font>
+
+190
+00:11:23,040 --> 00:11:24,120
+<font size="20"><b><font face="Comic Sans MS"><font color="#484242">June</font></font></b></font>
+
+191
+00:11:24,120 --> 00:11:26,940
+<font face="Roboto Medium" size="26">Hey! What are you doing, 
+taking advantage of this mess?!</font>
+
+192
+00:11:26,940 --> 00:11:30,340
+<font face="Roboto Medium" size="26">But when you think about the balance, 
+that's the only option for now.</font>
+
+193
+00:11:30,740 --> 00:11:33,090
+<font face="Roboto Medium" size="26">Purely from the process of elimination.</font>
+
+194
+00:11:33,090 --> 00:11:35,100
+<font face="Roboto Medium" size="26">You trying to pick a fight with me?</font>
+
+195
+00:11:35,100 --> 00:11:36,090
+<font face="Roboto Medium" size="26">Which means,</font>
+
+196
+00:11:36,090 --> 00:11:38,920
+<font face="Roboto Medium" size="26">we can have Soji in front 
+and Kyoya and June on both sides</font>
+
+197
+00:11:38,920 --> 00:11:41,600
+<font face="Roboto Medium" size="26">to surround μ in the center.</font>
+
+198
+00:11:41,600 --> 00:11:45,100
+<font size="20"><b><font face="Comic Sans MS"><font color="#3e3b42">Front</font></font></b></font>
+
+199
+00:11:41,600 --> 00:11:45,100
+<font size="20"><b><font face="Comic Sans MS"><font color="#3e3b42">Soji</font></font></b></font>
+
+200
+00:11:41,600 --> 00:11:45,100
+<font size="20"><b><font face="Comic Sans MS"><font color="#3e3b42">μ</font></font></b></font>
+
+201
+00:11:41,600 --> 00:11:45,100
+<font size="20"><b><font face="Comic Sans MS"><font color="#3e3b42">center</font></font></b></font>
+
+202
+00:11:41,600 --> 00:11:45,100
+<font size="20"><b><font face="Comic Sans MS"><font color="#3e3b42">Kyoya</font></font></b></font>
+
+203
+00:11:41,600 --> 00:11:44,260
+<font face="Roboto Medium" size="26">Looks like the princess 
+of an otaku circle.</font>
+
+204
+00:11:41,760 --> 00:11:45,100
+<font size="20"><b><font face="Comic Sans MS"><font color="#3e3b42">June</font></font></b></font>
+
+205
+00:11:44,260 --> 00:11:48,240
+<font face="Roboto Medium" size="26">But you know, if Siren learns 
+I'm the center of the group,</font>
+
+206
+00:11:48,240 --> 00:11:49,780
+<font face="Roboto Medium" size="26">she may not stay quiet.</font>
+
+207
+00:11:49,780 --> 00:11:52,880
+<font face="Roboto Medium" size="26">She'll either scoff at you or hit you.</font>
+
+208
+00:11:52,880 --> 00:11:53,740
+<font face="Roboto Medium" size="26">What was that?!</font>
+
+209
+00:11:53,740 --> 00:11:55,510
+<font face="Roboto Medium" size="26">Rui-san, where's Siren?</font>
+
+210
+00:11:55,510 --> 00:11:57,930
+<font face="Roboto Medium" size="26">She discharged herself without permission,</font>
+
+211
+00:11:57,930 --> 00:12:01,810
+<font face="Roboto Medium" size="26">and she's not answering my calls or 
+checking my messages on social media.</font>
+
+212
+00:12:01,810 --> 00:12:04,240
+<font face="Roboto Medium" size="26">Who knows where she is 
+and what she's doing?</font>
+
+213
+00:12:05,090 --> 00:12:07,790
+<font face="Roboto Medium" size="26">Either way, we can't rely 
+on Siren right now.</font>
+
+214
+00:12:07,790 --> 00:12:09,750
+<font face="Roboto Medium" size="26">We'll have to take the plunge.</font>
+
+215
+00:12:10,050 --> 00:12:12,790
+<font face="Roboto Medium" size="26">For now, yeah. I know that.</font>
+
+216
+00:12:13,270 --> 00:12:16,720
+<font face="Roboto Medium" size="26">But when can we start relying on her?</font>
+
+217
+00:12:17,840 --> 00:12:20,340
+<font face="Roboto Medium" size="26">It won't help to 
+dwell on that now, will it?</font>
+
+218
+00:12:20,620 --> 00:12:24,350
+<font face="Roboto Medium" size="26">Exactly. Now's not the time 
+to be hung up on that.</font>
+
+219
+00:12:24,740 --> 00:12:27,410
+<font face="Roboto Medium" size="26">Even if we don't have Nagi or Siren,</font>
+
+220
+00:12:27,410 --> 00:12:30,000
+<font face="Roboto Medium" size="26">we'll put on the best performance we can.</font>
+
+221
+00:12:30,000 --> 00:12:32,280
+<font face="Roboto Medium" size="26">That's the goal of SI-VIS, right?</font>
+
+222
+00:12:33,480 --> 00:12:34,900
+<font face="Roboto Medium" size="26">I don't care if it won't help.</font>
+
+223
+00:12:35,510 --> 00:12:37,120
+<font face="Roboto Medium" size="26">I want to dwell on it!</font>
+
+224
+00:12:37,520 --> 00:12:40,460
+<font face="Roboto Medium" size="26">I want to be hung up on it!</font>
+
+225
+00:12:41,160 --> 00:12:43,500
+<font face="Roboto Medium" size="26">You selfish, spoiled brat.</font>
+
+226
+00:12:43,500 --> 00:12:45,410
+<font face="Roboto Medium" size="26">You're seriously new here.</font>
+
+227
+00:12:45,700 --> 00:12:48,220
+<font face="Roboto Medium" size="26">I get where Medea is coming from.</font>
+
+228
+00:12:48,220 --> 00:12:49,630
+<font face="Roboto Medium" size="26">Um...</font>
+
+229
+00:12:50,100 --> 00:12:53,130
+<font face="Roboto Medium" size="26">The double centers, Siren and Nagi.</font>
+
+230
+00:12:53,130 --> 00:12:55,290
+<font face="Roboto Medium" size="26">That's the final form of SI-VIS.</font>
+
+231
+00:12:56,550 --> 00:12:59,170
+<font face="Roboto Medium" size="26">I'll never give up on that 
+version on SI-VIS.</font>
+
+232
+00:12:59,970 --> 00:13:03,300
+<font face="Roboto Medium" size="26">I'm going to take back 
+both Nagi and Siren!</font>
+
+233
+00:13:05,310 --> 00:13:07,570
+<font face="Roboto Medium" size="26">Not giving up on <i>both</i> women?</font>
+
+234
+00:13:07,570 --> 00:13:09,810
+<font face="Roboto Medium" size="26">I smell a total schmuck.</font>
+
+235
+00:13:10,550 --> 00:13:12,400
+<font face="Roboto Medium" size="26">As the members, I mean!</font>
+
+236
+00:13:13,940 --> 00:13:15,940
+<font size="20"><b><font color="#d6967a">Kabukicho Ichiban-gai</font></b></font>
+
+237
+00:13:15,940 --> 00:13:18,920
+<font face="Roboto Medium" size="26">Hey, is SI-VIS still missing?</font>
+
+238
+00:13:18,920 --> 00:13:21,070
+<font face="Roboto Medium" size="26">That was a crazy accident.</font>
+
+239
+00:13:21,070 --> 00:13:23,200
+<font face="Roboto Medium" size="26">I hope Kyoya-kun is okay.</font>
+
+240
+00:13:24,150 --> 00:13:26,370
+<font face="Roboto Medium" size="26">Siren got badly hurt, right?</font>
+
+241
+00:13:26,370 --> 00:13:29,640
+<font face="Roboto Medium" size="26">Even a superstar 
+can't beat an injury, you know?</font>
+
+242
+00:13:32,950 --> 00:13:40,340
+<font face="Roboto Medium" size="26"><i>To you, my dearest, I'll sing a song 
+of hope that leads to eternity</i></font>
+
+243
+00:13:41,880 --> 00:13:44,790
+<font face="Roboto Medium" size="26"><i>Feuding in search of peace</i></font>
+
+244
+00:13:44,790 --> 00:13:48,900
+<font face="Roboto Medium" size="26"><i>For these heroes in prayer</i></font>
+
+245
+00:13:48,900 --> 00:13:51,350
+<font face="Roboto Medium" size="26"><i>This irony cannot be erased</i></font>
+
+246
+00:13:52,960 --> 00:13:55,920
+<font face="Roboto Medium" size="26"><i>Learning to cherish solitude</i></font>
+
+247
+00:13:55,920 --> 00:14:03,210
+<font face="Roboto Medium" size="26"><i>The front and back sides 
+of this world always overlap</i></font>
+
+248
+00:14:08,320 --> 00:14:10,060
+<font face="Roboto Medium" size="26">Hey, what's that?</font>
+
+249
+00:14:10,060 --> 00:14:11,290
+<font face="Roboto Medium" size="26">A mirage?</font>
+
+250
+00:14:14,010 --> 00:14:15,960
+<font face="Roboto Medium" size="26">Why would it be here though?</font>
+
+251
+00:14:22,420 --> 00:14:23,910
+<font face="Roboto Medium" size="26">Hey, what the heck is this?!</font>
+
+252
+00:14:23,910 --> 00:14:24,810
+<font face="Roboto Medium" size="26">Impossible!</font>
+
+253
+00:14:25,420 --> 00:14:26,430
+<font face="Roboto Medium" size="26">What happened?!</font>
+
+254
+00:14:26,980 --> 00:14:27,800
+<font face="Roboto Medium" size="26">It's the Mirage.</font>
+
+255
+00:14:27,800 --> 00:14:30,340
+<font face="Roboto Medium" size="26">Where?! Let's get SI-VIS ready—</font>
+
+256
+00:14:30,340 --> 00:14:31,060
+<font face="Roboto Medium" size="26">That's impossible.</font>
+
+257
+00:14:31,060 --> 00:14:32,660
+<font face="Roboto Medium" size="26">It's not impossible!</font>
+
+258
+00:14:32,660 --> 00:14:35,270
+<font face="Roboto Medium" size="26">They were defeated once, 
+but their motivation isn't—</font>
+
+259
+00:14:35,270 --> 00:14:37,400
+<font face="Roboto Medium" size="26">That's not the problem!</font>
+
+260
+00:14:37,400 --> 00:14:39,060
+<font face="Roboto Medium" size="26">Six locations in Japan alone.</font>
+
+261
+00:14:39,060 --> 00:14:41,400
+<font face="Roboto Medium" size="26">Forty-eight all over the world.</font>
+
+262
+00:14:41,400 --> 00:14:45,860
+<font face="Roboto Medium" size="26">Are these the Mirages exudating 
+simultaneously right now?</font>
+
+263
+00:14:46,120 --> 00:14:46,910
+<font face="Roboto Medium" size="26">What's that?</font>
+
+264
+00:14:46,910 --> 00:14:48,290
+<font face="Roboto Medium" size="26">A sudden torrential rain?</font>
+
+265
+00:14:48,290 --> 00:14:51,410
+<font face="Roboto Medium" size="26">Is it related to the disaster 
+at the Harmonia Building by any chance?</font>
+
+266
+00:14:51,410 --> 00:14:53,060
+<font face="Roboto Medium" size="26">None of the estimated values we had</font>
+
+267
+00:14:53,060 --> 00:14:55,170
+<font face="Roboto Medium" size="26">like the speed or the range of
+ the exudation are helping!</font>
+
+268
+00:14:55,170 --> 00:14:57,170
+<font face="Roboto Medium" size="26">Exudation completed in 
+thirteen locations already.</font>
+
+269
+00:14:58,130 --> 00:15:00,230
+<font face="Roboto Medium" size="26">There are 35 more to go!</font>
+
+270
+00:15:00,230 --> 00:15:02,130
+<font face="Roboto Medium" size="26">How could this happen?</font>
+
+271
+00:15:02,410 --> 00:15:05,010
+<font face="Roboto Medium" size="26">Apollo must have made up his mind.</font>
+
+272
+00:15:05,010 --> 00:15:07,560
+<font face="Roboto Medium" size="26">You mean he wasn't serious until now?</font>
+
+273
+00:15:08,110 --> 00:15:11,720
+<font face="Roboto Medium" size="26">Exudation of the Mirage 
+requires a lot of Idea.</font>
+
+274
+00:15:11,720 --> 00:15:14,390
+<font face="Roboto Medium" size="26">A few million people's worth of Idea.</font>
+
+275
+00:15:14,870 --> 00:15:22,000
+<font face="Roboto Medium" size="26">I can't even imagine how much Idea and 
+XENOS lives he's sacrificing to do this.</font>
+
+276
+00:15:23,870 --> 00:15:26,530
+<font face="Roboto Medium" size="26">A-Anyway, we should send SI-VIS 
+to at least a location—</font>
+
+277
+00:15:26,530 --> 00:15:28,910
+<font face="Roboto Medium" size="26">That would be a pointless operation.</font>
+
+278
+00:15:29,930 --> 00:15:32,890
+<font face="Roboto Medium" size="26">After allowing 47 locations to be invaded,</font>
+
+279
+00:15:32,890 --> 00:15:36,460
+<font face="Roboto Medium" size="26">what strategic value is there</font>
+
+280
+00:15:36,460 --> 00:15:39,750
+<font face="Roboto Medium" size="26">in protecting only one location 
+at a high cost?</font>
+
+281
+00:15:39,750 --> 00:15:40,680
+<font face="Roboto Medium" size="26">How can you—</font>
+
+282
+00:15:40,680 --> 00:15:43,460
+<font face="Roboto Medium" size="26">No, she's right, Rui.</font>
+
+283
+00:15:43,460 --> 00:15:44,760
+<font face="Roboto Medium" size="26">President?</font>
+
+284
+00:15:44,760 --> 00:15:46,760
+<font face="Roboto Medium" size="26">I can't deploy SI-VIS right now.</font>
+
+285
+00:15:47,090 --> 00:15:50,910
+<font face="Roboto Medium" size="26">In order to take back this land 
+Orphe tried to protect...</font>
+
+286
+00:15:56,470 --> 00:15:57,770
+<font face="Roboto Medium" size="26">Mirage.</font>
+
+287
+00:15:58,710 --> 00:15:59,660
+<font face="Roboto Medium" size="26">Rui.</font>
+
+288
+00:16:02,390 --> 00:16:04,260
+<font face="Roboto Medium" size="26">I didn't bring my phone.</font>
+
+289
+00:16:06,220 --> 00:16:09,980
+<font face="Roboto Medium" size="26">Then I'll have to do it on my own.</font>
+
+290
+00:16:15,210 --> 00:16:17,450
+<font face="Roboto Medium" size="26"><i>{\an8}The world veiled from sight</i></font>
+
+291
+00:16:17,450 --> 00:16:22,790
+<font face="Roboto Medium" size="26"><i>{\an8}Touch once and you'll never awaken 
+from the nightmare</i></font>
+
+292
+00:16:22,790 --> 00:16:26,090
+<font face="Roboto Medium" size="26"><i>{\an8}The days that are swallowed up</i></font>
+
+293
+00:16:26,090 --> 00:16:28,120
+<font face="Roboto Medium" size="26"><i>{\an8}Everyone has forgotten</i></font>
+
+294
+00:16:28,120 --> 00:16:33,160
+<font face="Roboto Medium" size="26"><i>{\an8}Remembering you, 
+I'm flooded with a symphony</i></font>
+
+295
+00:16:33,470 --> 00:16:36,860
+<font face="Roboto Medium" size="26"><i>{\an8}Let it out</i></font>
+
+296
+00:16:36,860 --> 00:16:41,230
+<font face="Roboto Medium" size="26"><i>{\an8}No matter how the truth 
+becomes unrecognizable</i></font>
+
+297
+00:16:41,510 --> 00:16:44,610
+<font face="Roboto Medium" size="26"><i>{\an8}I want to protect this undying wish</i></font>
+
+298
+00:16:44,610 --> 00:16:46,250
+<font face="Roboto Medium" size="26"><i>{\an8}With every ounce of my being</i></font>
+
+299
+00:16:46,250 --> 00:16:47,190
+<font face="Roboto Medium" size="26"><i>{\an8}Let it sound</i></font>
+
+300
+00:16:47,190 --> 00:16:49,780
+<font face="Roboto Medium" size="26"><i>{\an8}My voice and your voice</i></font>
+
+301
+00:16:49,780 --> 00:16:52,020
+<font face="Roboto Medium" size="26"><i>{\an8}The moment they turn into a song</i></font>
+
+302
+00:16:52,020 --> 00:16:56,850
+<font face="Roboto Medium" size="26"><i>{\an8}Our hearts become one 
+with resonating fantasia</i></font>
+
+303
+00:16:53,600 --> 00:16:58,230
+<font face="Roboto Medium" size="26"><i>Oh, man. What the hell?</i></font>
+
+304
+00:16:56,850 --> 00:17:00,390
+<font face="Roboto Medium" size="26"><i>{\an8}Even if tomorrow never comes</i></font>
+
+305
+00:16:58,920 --> 00:17:01,900
+<font face="Roboto Medium" size="26"><i>Wasn't I supposed to be a superstar?</i></font>
+
+306
+00:17:00,390 --> 00:17:02,500
+<font face="Roboto Medium" size="26"><i>{\an8}With all the wishes in my heart</i></font>
+
+307
+00:17:02,500 --> 00:17:08,470
+<font face="Roboto Medium" size="26"><i>{\an8}I'll fight on MELODEA</i></font>
+
+308
+00:17:03,840 --> 00:17:05,880
+<font face="Roboto Medium" size="26"><i>If only you were here.</i></font>
+
+309
+00:17:07,690 --> 00:17:08,970
+<font face="Roboto Medium" size="26"><i>Kyoya.</i></font>
+
+310
+00:17:15,400 --> 00:17:19,380
+<font face="Roboto Medium" size="26">To gain the Idea of 
+100 million earthlings,</font>
+
+311
+00:17:19,380 --> 00:17:22,740
+<font face="Roboto Medium" size="26">you sacrificed the Idea of 
+100 million XENOS.</font>
+
+312
+00:17:23,150 --> 00:17:26,580
+<font face="Roboto Medium" size="26">Lose everything or lose 100 million.</font>
+
+313
+00:17:26,580 --> 00:17:29,200
+<font face="Roboto Medium" size="26">Someone had to make a decision.</font>
+
+314
+00:17:29,200 --> 00:17:32,410
+<font face="Roboto Medium" size="26">Well, I admire your decisiveness.</font>
+
+315
+00:17:32,980 --> 00:17:38,140
+<font face="Roboto Medium" size="26">But don't you think that your tendency 
+to shoulder everything yourself</font>
+
+316
+00:17:38,140 --> 00:17:41,070
+<font face="Roboto Medium" size="26">without relying on anyone 
+invited Medea's defection?</font>
+
+317
+00:17:41,910 --> 00:17:45,900
+<font face="Roboto Medium" size="26">There's only a few of us left, 
+and we get a traitor.</font>
+
+318
+00:17:45,900 --> 00:17:49,170
+<font face="Roboto Medium" size="26">That's the work of our 
+highly esteemed leader.</font>
+
+319
+00:17:49,170 --> 00:17:51,960
+<font face="Roboto Medium" size="26">I don't care how you evaluate me.</font>
+
+320
+00:17:51,960 --> 00:17:57,820
+<font face="Roboto Medium" size="26">Once XENOS is revived, then those who 
+are restored to life are free to judge me.</font>
+
+321
+00:17:58,570 --> 00:18:01,940
+<font face="Roboto Medium" size="26">I have no intention of complaining.</font>
+
+322
+00:18:02,250 --> 00:18:08,190
+<font face="Roboto Medium" size="26">But aren't you sad to be hated 
+by those you have saved?</font>
+
+323
+00:18:08,190 --> 00:18:11,530
+<font face="Roboto Medium" size="26">Is that why you didn't finish off Medea?</font>
+
+324
+00:18:12,530 --> 00:18:15,780
+<font face="Roboto Medium" size="26">You can't stand to be loathed 
+even by a traitor?</font>
+
+325
+00:18:16,790 --> 00:18:18,790
+<font face="Roboto Medium" size="26">Will you purge me?</font>
+
+326
+00:18:18,790 --> 00:18:21,040
+<font face="Roboto Medium" size="26">I can do that anytime.</font>
+
+327
+00:18:21,340 --> 00:18:24,570
+<font face="Roboto Medium" size="26">As long as you bare fangs 
+to the earthlings, I'll keep you alive.</font>
+
+328
+00:18:27,460 --> 00:18:31,620
+<font face="Roboto Medium" size="26">Listen, Adam, Logos, and Lilith.</font>
+
+329
+00:18:32,670 --> 00:18:38,220
+<font face="Roboto Medium" size="26">This place is probably colder 
+than the place where you sleep.</font>
+
+330
+00:18:39,330 --> 00:18:42,060
+<font face="Roboto Medium" size="26">Why did you wish for me?</font>
+
+331
+00:18:42,430 --> 00:18:46,030
+<font face="Roboto Medium" size="26">The person named Apollo 
+said he wasn't interested in me.</font>
+
+332
+00:18:46,530 --> 00:18:49,780
+<font face="Roboto Medium" size="26">But he said you were looking for me.</font>
+
+333
+00:18:50,580 --> 00:18:54,100
+<font face="Roboto Medium" size="26">If you are Lady Eden's kin,</font>
+
+334
+00:18:54,900 --> 00:19:00,310
+<font face="Roboto Medium" size="26">then I thought if you stayed by her, 
+she might not be lonely.</font>
+
+335
+00:19:01,870 --> 00:19:04,330
+<font face="Roboto Medium" size="26">But I'm lonely.</font>
+
+336
+00:19:05,330 --> 00:19:10,500
+<font face="Roboto Medium" size="26">It makes me sad to be away 
+from the people I love.</font>
+
+337
+00:19:11,440 --> 00:19:13,830
+<font face="Roboto Medium" size="26">I see.</font>
+
+338
+00:19:16,210 --> 00:19:18,200
+<font face="Roboto Medium" size="26">Are you her...</font>
+
+339
+00:19:18,730 --> 00:19:22,500
+<font face="Roboto Medium" size="26">Her priest, her chamberlain, and...</font>
+
+340
+00:19:24,220 --> 00:19:26,770
+<font face="Roboto Medium" size="26">Do you feel lonely?</font>
+
+341
+00:19:27,760 --> 00:19:31,770
+<font face="Roboto Medium" size="26">No less lonely than
+you're feeling right now.</font>
+
+342
+00:19:32,230 --> 00:19:33,830
+<font face="Roboto Medium" size="26">No matter how many years may pass,</font>
+
+343
+00:19:33,830 --> 00:19:36,800
+<font face="Roboto Medium" size="26">I swear your loneliness 
+will never catch up to mine.</font>
+
+344
+00:19:39,880 --> 00:19:44,450
+<font face="Roboto Medium" size="26">But coming from me, 
+who's stolen everything from you,</font>
+
+345
+00:19:44,450 --> 00:19:47,290
+<font face="Roboto Medium" size="26">that might be hard to accept.</font>
+
+346
+00:19:48,490 --> 00:19:50,700
+<font face="Roboto Medium" size="26">What happens to me?</font>
+
+347
+00:19:51,290 --> 00:19:53,920
+<font face="Roboto Medium" size="26">What happens to Earth?</font>
+
+348
+00:19:55,790 --> 00:20:00,510
+<font face="Roboto Medium" size="26">Lord Apollo only thinks of saving XENOS.</font>
+
+349
+00:20:00,510 --> 00:20:03,920
+<font face="Roboto Medium" size="26">He will sacrifice everything else.</font>
+
+350
+00:20:04,420 --> 00:20:07,800
+<font face="Roboto Medium" size="26">The Earth, people who live there,</font>
+
+351
+00:20:08,190 --> 00:20:11,940
+<font face="Roboto Medium" size="26">the heart to love others, and...</font>
+
+352
+00:20:12,250 --> 00:20:14,530
+<font face="Roboto Medium" size="26">How can I stop him?</font>
+
+353
+00:20:14,980 --> 00:20:20,530
+<font face="Roboto Medium" size="26">If both Earth and XENOS can be saved, 
+will you let me see Kyoya again?</font>
+
+354
+00:20:21,110 --> 00:20:22,950
+<font face="Roboto Medium" size="26">Is that what you...</font>
+
+355
+00:20:23,260 --> 00:20:24,870
+<font face="Roboto Medium" size="26">You understand it, right?</font>
+
+356
+00:20:25,270 --> 00:20:28,710
+<font face="Roboto Medium" size="26">You understand my loneliness, don't you?</font>
+
+357
+00:20:31,220 --> 00:20:33,840
+<font face="Roboto Medium" size="26">If you wish strong enough,</font>
+
+358
+00:20:34,300 --> 00:20:39,470
+<font face="Roboto Medium" size="26">if your wish to save everything 
+calls for a miracle...</font>
+
+359
+00:20:39,860 --> 00:20:41,300
+<font face="Roboto Medium" size="26">But how?</font>
+
+360
+00:20:42,150 --> 00:20:43,750
+<font face="Roboto Medium" size="26">Follow me.</font>
+
+361
+00:20:44,840 --> 00:20:48,830
+<font face="Roboto Medium" size="26">0.02% of Earth's surface area is gone.</font>
+
+362
+00:20:48,830 --> 00:20:51,230
+<font face="Roboto Medium" size="26">The population is even worse.</font>
+
+363
+00:20:51,230 --> 00:20:53,700
+<font face="Roboto Medium" size="26">3% of the population, gone.</font>
+
+364
+00:20:53,700 --> 00:20:56,120
+<font face="Roboto Medium" size="26">Over 100 million people disappeared.</font>
+
+365
+00:20:57,080 --> 00:20:58,430
+<font face="Roboto Medium" size="26">It can't be!</font>
+
+366
+00:20:58,430 --> 00:21:01,900
+<font face="Roboto Medium" size="26">But... But no one has noticed it.</font>
+
+367
+00:21:02,310 --> 00:21:06,240
+<font face="Roboto Medium" size="26">The world has yet to see 
+the same nightmare that we are.</font>
+
+368
+00:21:06,530 --> 00:21:07,950
+<font face="Roboto Medium" size="26">Hey, you.</font>
+
+369
+00:21:07,950 --> 00:21:10,900
+<font face="Roboto Medium" size="26">You said you'd cooperate with us.</font>
+
+370
+00:21:10,900 --> 00:21:13,500
+<font face="Roboto Medium" size="26">Then bring back the people 
+who disappeared.</font>
+
+371
+00:21:14,260 --> 00:21:17,340
+<font face="Roboto Medium" size="26">Restore the Earth!</font>
+
+372
+00:21:17,640 --> 00:21:18,720
+<font face="Roboto Medium" size="26">Hayama-kun.</font>
+
+373
+00:21:19,590 --> 00:21:23,850
+<font face="Roboto Medium" size="26">Is it your wish to watch me 
+cry and apologize?</font>
+
+374
+00:21:23,850 --> 00:21:29,040
+<font face="Roboto Medium" size="26">Blowing off steam by watching me 
+be tormented by regret.</font>
+
+375
+00:21:29,580 --> 00:21:32,230
+<font face="Roboto Medium" size="26">Is that what you want?</font>
+
+376
+00:21:32,500 --> 00:21:37,500
+<font face="Roboto Medium" size="26">What we want is your knowledge 
+and skills as XENOS.</font>
+
+377
+00:21:38,320 --> 00:21:40,420
+<font face="Roboto Medium" size="26">Tell us, Medea.</font>
+
+378
+00:21:40,420 --> 00:21:42,240
+<font face="Roboto Medium" size="26">What can you do?</font>
+
+379
+00:21:42,810 --> 00:21:45,030
+<font face="Roboto Medium" size="26">What can we do?</font>
+
+380
+00:21:48,270 --> 00:21:51,750
+<font face="Roboto Medium" size="26">I will invite SI-VIS to a certain stage.</font>
+
+381
+00:21:52,060 --> 00:21:57,660
+<font face="Roboto Medium" size="26">And you will hold a live concert that 
+involves the entire world on that stage.</font>
+
+382
+00:21:58,100 --> 00:22:00,880
+<font face="Roboto Medium" size="26">A live concert? Where?</font>
+
+383
+00:22:01,870 --> 00:22:04,010
+<font face="Roboto Medium" size="26">Our home world...</font>
+
+384
+00:22:05,040 --> 00:22:07,640
+<font face="Roboto Medium" size="26">where the people of XENOS sleep.</font>
+
+385
+00:22:11,810 --> 00:22:16,940
+<font size="20">{\an9}<font size="14"><b><font color="#7279e2">Translator:
+Timer:
+Editor:
+Quality Control:
+Final Quality Control:</font></b></font></font>
+
+386
+00:22:11,810 --> 00:22:16,940
+<font size="20">{\an7}<font size="14"><b><font color="#7279e2">Tomoko Takedani Sater
+Krzysztof Kunc
+Salem Alabanza
+Gabriella Alabanza
+Michelle Tymon</font></b></font></font>
+
+387
+00:22:27,780 --> 00:22:31,280
+<font face="Roboto Medium" size="26"><i>{\an8}In the musical stave</i></font>
+
+388
+00:22:31,280 --> 00:22:33,750
+<font face="Roboto Medium" size="26"><i>{\an8}WOW, I let my feelings play</i></font>
+
+389
+00:22:33,750 --> 00:22:36,690
+<font face="Roboto Medium" size="26"><i>{\an8}My bright future</i></font>
+
+390
+00:22:36,690 --> 00:22:39,160
+<font face="Roboto Medium" size="26"><i>{\an8}WOW, started to shine</i></font>
+
+391
+00:22:39,160 --> 00:22:40,690
+<font face="Roboto Medium" size="26"><i>{\an8}Unparalleled</i></font>
+
+392
+00:22:41,760 --> 00:22:43,400
+<font face="Roboto Medium" size="26"><i>{\an8}With a smile on my face</i></font>
+
+393
+00:22:44,440 --> 00:22:49,860
+<font face="Roboto Medium" size="26"><i>{\an8}I feel like I can even change 
+the world with you</i></font>
+
+394
+00:22:49,860 --> 00:22:52,520
+<font face="Roboto Medium" size="26"><i>{\an8}(3, 2, 1, Singing over)</i></font>
+
+395
+00:22:52,520 --> 00:22:59,200
+<font face="Roboto Medium" size="26"><i>{\an8}Intertwining harmony (Harmony)</i></font>
+
+396
+00:22:59,200 --> 00:23:03,200
+<font face="Roboto Medium" size="26"><i>{\an8}I wouldn't have believed in miracles alone</i></font>
+
+397
+00:23:03,580 --> 00:23:10,060
+<font face="Roboto Medium" size="26"><i>{\an8}This breathless heartbeat (Heart Beat)</i></font>
+
+398
+00:23:10,060 --> 00:23:13,660
+<font face="Roboto Medium" size="26"><i>{\an8}I'll let it resonate in
+ the night sky with my voice</i></font>
+
+399
+00:23:15,100 --> 00:23:21,100
+<font face="Roboto Medium" size="26"><i>{\an8}Our dream at full blast</i></font>
+
+400
+00:23:25,210 --> 00:23:28,180
+<font face="Roboto Medium" size="26"><i>{\an8}Singing over, forever</i></font>
+
+401
+00:23:28,180 --> 00:23:31,140
+<font face="Roboto Medium" size="26"><i>{\an8}Lan lan la la la</i></font>
+
