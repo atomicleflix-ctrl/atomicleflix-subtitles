@@ -1,0 +1,24 @@
+1
+00:01:45,540 --> 00:01:50,510
+<font face="Times New Roman" size="20"><b>The Samurai Code and Carnage</b></font>
+
+2
+00:20:39,550 --> 00:20:48,060
+<font face="Arial Black" size="20"><b>{\an8}<font color="#575d61">Wood</font></b></font>
+
+3
+00:20:39,550 --> 00:20:51,310
+<font face="Arial Black" size="20"><b>{\an8}<font color="#575d61">Metal</font></b></font>
+
+4
+00:20:41,180 --> 00:20:51,150
+<font face="Arial Black" size="20"><b>{\an8}<font color="#575d61">Fire</font></b></font>
+
+5
+00:20:41,180 --> 00:20:49,940
+<font face="Arial Black" size="20"><b>{\an8}<font color="#575d61">Water</font></b></font>
+
+6
+00:20:46,100 --> 00:20:51,310
+<font face="Arial Black" size="20"><b>{\an8}<font color="#575d61">Earth</font></b></font>
+
