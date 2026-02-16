@@ -1,0 +1,246 @@
+1
+00:00:00,000 --> 00:00:01,980
+<font size="20">{\an8}<b><font color="#585a5c">Campus Store</font></b></font>
+
+2
+00:01:00,250 --> 00:01:01,080
+<font size="20">{\an8}<font size="40"><font face="Arial Black"><font color="#e02d43">EXTRA <font color="#f08649">EXTRA <font color="#f6ee46">HOT</font></font></font></font></font></font>
+
+3
+00:01:00,250 --> 00:01:01,080
+<font size="20">{\an8}<font size="40"><font face="Arial Black"><font color="#e02d43">EXTRA <font color="#f08649">EXTRA <font color="#f6ee46">HOT</font></font></font></font></font></font>
+
+4
+00:01:02,460 --> 00:01:03,750
+<font size="20">{\an8}<font color="#cf873e"><font face="Arial Black"><font size="8">LIMITED EDITION</font></font></font></font>
+
+5
+00:01:02,460 --> 00:01:03,750
+<font size="20">{\an8}<font size="18"><font face="Arial Black"><font color="#e02d43">EXTRA <font color="#f08649">EXTRA <font color="#f6ee46">HOT</font></font></font></font></font></font>
+
+6
+00:01:02,460 --> 00:01:03,750
+<font size="20">{\an8}<font size="18"><font face="Arial Black"><font color="#e02d43">EXTRA <font color="#f08649">EXTRA <font color="#f6ee46">HOT</font></font></font></font></font></font>
+
+7
+00:01:02,460 --> 00:01:03,750
+<font size="20">{\an8}3<font size="18"><font face="Arial Black"><font color="#e02d43">CUR<font color="#f08649">RY BR<font color="#f6ee46">EAD</font></font></font></font></font></font>
+
+8
+00:01:02,460 --> 00:01:03,750
+<font size="20">{\an8}<font size="18"><font face="Arial Black"><font color="#e02d43">CUR<font color="#f08649">RY BR<font color="#f6ee46">EAD</font></font></font></font></font></font>
+
+9
+00:01:18,350 --> 00:01:23,400
+<font size="20">{\an8}<font face="Arial"><font size="24"><b><font color="#0f100d">You Can't Be in a <font color="#29e1ef">Ro<font color="#ee3c51">m-<font color="#953db6">Co<font color="#f5a309">m <font color="#0f100d">with
+Your Childhood Friends!</font></font></font></font></font></font></b></font></font></font>
+
+10
+00:02:36,010 --> 00:02:39,010
+<font size="20">{\an8}<font color="#cf873e"><font face="Arial Black"><font size="8">LIMITED EDITION</font></font></font></font>
+
+11
+00:02:36,010 --> 00:02:39,010
+<font size="20">{\an8}<font size="18"><font face="Arial Black"><font color="#e02d43">EXTRA <font color="#f08649">EXTRA <font color="#f6ee46">HOT</font></font></font></font></font></font>
+
+12
+00:02:36,010 --> 00:02:39,010
+<font size="20">{\an8}<font size="18"><font face="Arial Black"><font color="#e02d43">EXTRA <font color="#f08649">EXTRA <font color="#f6ee46">HOT</font></font></font></font></font></font>
+
+13
+00:02:36,010 --> 00:02:39,010
+<font size="20">{\an8}<font size="18"><font face="Arial Black"><font color="#e02d43">CUR<font color="#f08649">RY BR<font color="#f6ee46">EAD</font></font></font></font></font></font>
+
+14
+00:02:36,010 --> 00:02:39,010
+<font size="20">{\an8}<font size="18"><font face="Arial Black"><font color="#e02d43">CUR<font color="#f08649">RY BR<font color="#f6ee46">EAD</font></font></font></font></font></font>
+
+15
+00:03:06,790 --> 00:03:13,050
+<font size="20">{\an8}<font color="#d5af09"><font face="Arial Black"><font size="40">EXTRA <font color="#d93415">EXTRA <font color="#c4001b">HOT</font></font></font></font></font></font>
+
+16
+00:03:25,890 --> 00:03:30,400
+<font size="20">{\an8}<font face="Times New Roman"><font color="#0a4ee2">Haunted <font color="#13c8f6">House</font></font></font></font>
+
+17
+00:03:48,040 --> 00:03:50,630
+<font size="20">{\an8}<b><font face="Times New Roman"><font size="10"><font color="#d50012">Microwaved It</font></font></font></b></font>
+
+18
+00:03:48,040 --> 00:03:50,630
+<font size="20">{\an8}<b><font face="Times New Roman"><font size="10"><font color="#d50012">Microwaved It</font></font></font></b></font>
+
+19
+00:04:27,830 --> 00:04:29,330
+<font size="20">{\an8}<font size="12"><font face="Arial Black"><font color="#e02d43">EXTRA <font color="#f08649">EXTRA <font color="#f6ee46">HOT</font></font></font></font></font></font>
+
+20
+00:04:27,830 --> 00:04:29,330
+<font size="20">{\an8}<font size="12"><font face="Arial Black"><font color="#e02d43">EXTRA <font color="#f08649">EXTRA <font color="#f6ee46">HOT</font></font></font></font></font></font>
+
+21
+00:05:03,780 --> 00:05:04,990
+<font size="20">{\an8}<b><font color="#3d955c">Watch me...</font></b></font>
+
+22
+00:05:03,780 --> 00:05:04,990
+<font size="20">{\an8}<b><font color="#3d955c">Watch me...</font></b></font>
+
+23
+00:05:05,780 --> 00:05:07,450
+<font size="20">{\an8}<b><font color="#3d955c">finish it!</font></b></font>
+
+24
+00:05:05,780 --> 00:05:07,450
+<font size="20">{\an8}<b><font color="#3d955c">finish it!</font></b></font>
+
+25
+00:06:33,710 --> 00:06:36,680
+<font face="Gandhi Sans" size="24"><b>{\an8}Don't die, Akari!</b></font>
+
+26
+00:07:34,140 --> 00:07:37,640
+<font size="20">{\an8}<font face="Comic Sans MS"><font size="12"><b><font color="#f2f2f3">Distracting Thought 1</font></b></font></font></font>
+
+27
+00:07:34,140 --> 00:07:37,640
+<font size="20">{\an8}<font face="Comic Sans MS"><font size="12"><b><font color="#f2f2f3">Distracting Thought 2</font></b></font></font></font>
+
+28
+00:10:50,800 --> 00:10:53,300
+<font size="20">{\an8}<font color="#f38ad7"><b><font size="24">swim</font></b></font></font>
+
+29
+00:10:50,800 --> 00:10:53,300
+<font size="20">{\an8}<font color="#f38ad7"><b><font size="24">swim</font></b></font></font>
+
+30
+00:10:50,800 --> 00:10:53,300
+<font size="20">{\an8}<font color="#f38ad7"><b><font size="24">swim</font></b></font></font>
+
+31
+00:10:50,800 --> 00:10:53,300
+<font size="20">{\an8}<font color="#f38ad7"><b><font size="24">swim</font></b></font></font>
+
+32
+00:10:50,800 --> 00:10:53,300
+<font size="20">{\an8}<font color="#f38ad7"><b><font size="24">swim</font></b></font></font>
+
+33
+00:10:52,580 --> 00:10:53,300
+<font size="20">{\an8}<font color="#f38ad7"><b><font size="24">swim</font></b></font></font>
+
+34
+00:10:55,050 --> 00:10:56,550
+<font size="20">{\an8}<font color="#f25a7a"><b><font size="24">bounce</font></b></font></font>
+
+35
+00:10:55,050 --> 00:10:57,550
+<font size="20">{\an8}<font color="#f25a7a"><b><font size="24">bounce</font></b></font></font>
+
+36
+00:10:55,050 --> 00:10:57,550
+<font size="20">{\an8}<font color="#f25a7a"><b><font size="24">bounce</font></b></font></font>
+
+37
+00:10:55,050 --> 00:10:57,550
+<font size="20">{\an8}<font color="#f25a7a"><b><font size="24">bounce</font></b></font></font>
+
+38
+00:10:55,050 --> 00:10:57,550
+<font size="20">{\an8}<font color="#f25a7a"><b><font size="24">bounce</font></b></font></font>
+
+39
+00:11:05,690 --> 00:11:08,440
+<font size="20">{\an8}<font color="#e8b94b"><b><font face="Georgia"><font size="10">Enjoy the views of the ocean
+and the highlands all to yourself</font></font></b></font></font>
+
+40
+00:13:57,440 --> 00:13:58,190
+<font size="20">{\an8}<font size="40"><font color="#33357e"><b>bump</b></font></font></font>
+
+41
+00:14:05,990 --> 00:14:06,320
+<font size="20">{\an8}<b><font size="32"><font color="#333c57">d<font color="#464386">r<font color="#645bbc">a<font color="#7b55dc">g</font></font></font></font></font></b></font>
+
+42
+00:14:06,320 --> 00:14:06,740
+<font size="20">{\an8}<b><font size="32"><font color="#333c57">d<font color="#464386">r<font color="#645bbc">a<font color="#7b55dc">g</font></font></font></font></font></b></font>
+
+43
+00:14:06,990 --> 00:14:07,360
+<font size="20">{\an8}<b><font size="32"><font color="#333c57">d<font color="#464386">r<font color="#645bbc">a<font color="#7b55dc">g</font></font></font></font></font></b></font>
+
+44
+00:14:07,360 --> 00:14:07,740
+<font size="20">{\an8}<b><font size="32"><font color="#333c57">d<font color="#464386">r<font color="#645bbc">a<font color="#7b55dc">g</font></font></font></font></font></b></font>
+
+45
+00:16:45,360 --> 00:16:49,070
+<font size="20">{\an8}<b><font color="#f26189">blush</font></b></font>
+
+46
+00:16:45,360 --> 00:16:49,070
+<font size="20">{\an8}<b><font color="#f26189">blush</font></b></font>
+
+47
+00:19:00,830 --> 00:19:02,330
+<font size="20">{\an8}<font size="24"><font size="40"><b><font face="Comic Sans MS"><font color="#f7e679">We've Got This!</font></font></b></font></font></font>
+
+48
+00:19:06,210 --> 00:19:08,210
+<font size="20">{\an8}<font size="10"><b><font color="#63696f">Please be quiet in the library</font></b></font></font>
+
+49
+00:19:57,130 --> 00:20:01,970
+<font size="20">{\an8}<font color="#72777f"><b><font face="Comic Sans MS">English</font></b></font></font>
+
+50
+00:20:01,970 --> 00:20:02,050
+<font size="20">{\an8}<font color="#72777f"><b><font face="Comic Sans MS">English</font></b></font></font>
+
+51
+00:20:02,050 --> 00:20:02,130
+<font size="20">{\an8}<font color="#72777f"><b><font face="Comic Sans MS">English</font></b></font></font>
+
+52
+00:20:02,130 --> 00:20:02,220
+<font size="20">{\an8}<font color="#72777f"><b><font face="Comic Sans MS">English</font></b></font></font>
+
+53
+00:20:02,220 --> 00:20:02,300
+<font size="20">{\an8}<font color="#72777f"><b><font face="Comic Sans MS">English</font></b></font></font>
+
+54
+00:20:02,300 --> 00:20:03,640
+<font size="20">{\an8}<font color="#72777f"><b><font face="Comic Sans MS">English</font></b></font></font>
+
+55
+00:22:01,320 --> 00:22:06,740
+<font size="20">{\an8}<font color="#c8c2ec"><font face="Times New Roman"><font size="10">Translator:
+Timer:
+Editor:
+Quality Control:
+Final Quality Control:</font></font></font></font>
+
+56
+00:22:01,320 --> 00:22:06,740
+<font size="20">{\an8}<font color="#c8c2ec"><font face="Times New Roman"><font size="10">Sachiko Takahashi
+Mariana Martinez
+Gabriella Alabanza
+S Bilyeu
+Rei Miyasaka</font></font></font></font>
+
+57
+00:23:44,360 --> 00:23:49,990
+<font size="20">{\an8}<font face="Arial"><b><font size="12"><font color="#fdffff">Episode 5</font></font></b></font></font>
+
+58
+00:23:44,490 --> 00:23:49,990
+<font size="20">{\an8}<font size="18"><font face="Arial Black">Extra Extra Hot? Finals Done? Bath Episode?</font></font></font>
+
+59
+00:23:45,030 --> 00:23:49,990
+<font size="20">{\an8}<font size="18"><font face="Arial Black">Things Will Never Change? Still Won't Start a <font size="22"><font color="#10c7e6">Ro<font color="#f13d50">m-<font color="#9341b3">Co<font color="#f8a103">m</font></font></font></font></font></font></font></font>
+
