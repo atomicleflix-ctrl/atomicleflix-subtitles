@@ -1,0 +1,1580 @@
+1
+00:00:16,380 --> 00:00:19,370
+<font face="Roboto Medium" size="26">I'm sure you had your own plans,</font>
+
+2
+00:00:19,770 --> 00:00:21,340
+<font face="Roboto Medium" size="26">but it was all for nothing.</font>
+
+3
+00:00:22,130 --> 00:00:25,130
+<font face="Roboto Medium" size="26">Whatever you do, don't fight the Tensen.</font>
+
+4
+00:00:25,130 --> 00:00:27,510
+<font face="Roboto Medium" size="26">If we do, our plan will fail.</font>
+
+5
+00:00:27,510 --> 00:00:28,880
+<font face="Roboto Medium" size="26">Gabimaru.</font>
+
+6
+00:00:32,590 --> 00:00:33,810
+<font face="Roboto Medium" size="26">It's over.</font>
+
+7
+00:00:34,390 --> 00:00:36,300
+<font face="Roboto Medium" size="26">Over?</font>
+
+8
+00:00:36,300 --> 00:00:38,890
+<font face="Roboto Medium" size="26">What should we do 
+if we actually have to face them?</font>
+
+9
+00:00:38,890 --> 00:00:40,900
+<font face="Roboto Medium" size="26">Simply run away?</font>
+
+10
+00:00:42,380 --> 00:00:44,900
+<font face="Roboto Medium" size="26">The moment that happens, the plan is over.</font>
+
+11
+00:00:46,820 --> 00:00:48,530
+<font face="Roboto Medium" size="26">It's time for plan B.</font>
+
+12
+00:00:49,700 --> 00:00:51,280
+<font face="Roboto Medium" size="26">Prepare yourselves.</font>
+
+13
+00:00:51,280 --> 00:00:53,280
+<font face="Roboto Medium" size="26">Fight with everything you've got.</font>
+
+14
+00:00:53,820 --> 00:00:56,790
+<font face="Roboto Medium" size="26">Once the Tensen are engaged, 
+it's impossible to flee from them.</font>
+
+15
+00:00:57,350 --> 00:00:58,700
+<font face="Roboto Medium" size="26">We will not run.</font>
+
+16
+00:00:58,700 --> 00:01:00,210
+<font face="Roboto Medium" size="26">We won't give up either.</font>
+
+17
+00:01:01,290 --> 00:01:03,790
+<font face="Roboto Medium" size="26">We will defeat you and leave the island.</font>
+
+18
+00:01:23,220 --> 00:01:24,140
+<font face="Times New Roman" size="20"><b>{\an8}<font size="40"><font color="#2d1508">Hell's Paradise</font></font></b></font>
+
+19
+00:01:24,190 --> 00:01:29,550
+<font face="Roboto Medium" size="26"><i>A faint flower was blooming 
+unnoticed by anyone</i></font>
+
+20
+00:01:29,550 --> 00:01:34,550
+<font face="Roboto Medium" size="26"><i>Not a burning red, 
+but flickering serenely in red</i></font>
+
+21
+00:01:34,550 --> 00:01:39,900
+<font face="Roboto Medium" size="26"><i>I've been pausing for a long time 
+dragging my past at my feet</i></font>
+
+22
+00:01:39,900 --> 00:01:42,500
+<font face="Roboto Medium" size="26"><i>If I break free from this ambivalence,</i></font>
+
+23
+00:01:42,500 --> 00:01:45,910
+<font face="Roboto Medium" size="26"><i>will I be able to bloom by its side?</i></font>
+
+24
+00:01:45,910 --> 00:01:48,550
+<font face="Roboto Medium" size="26"><i>The future is slipping away 
+between my fingers</i></font>
+
+25
+00:01:48,550 --> 00:01:51,070
+<font face="Roboto Medium" size="26"><i>What mistake did I make 
+to pay this price?</i></font>
+
+26
+00:01:51,070 --> 00:01:55,920
+<font face="Roboto Medium" size="26"><i>Always hurting myself</i></font>
+
+27
+00:01:55,920 --> 00:02:01,270
+<font face="Roboto Medium" size="26"><i>and hesitant even to a small joy</i></font>
+
+28
+00:02:01,780 --> 00:02:03,470
+<font face="Roboto Medium" size="26"><i>I want to stop now</i></font>
+
+29
+00:02:03,470 --> 00:02:05,990
+<font face="Roboto Medium" size="26"><i>The flower just bloomed in dignity</i></font>
+
+30
+00:02:05,990 --> 00:02:08,610
+<font face="Roboto Medium" size="26"><i>and that was all I needed to be happy</i></font>
+
+31
+00:02:08,610 --> 00:02:13,380
+<font face="Roboto Medium" size="26"><i>I just wanted to protect this one flower</i></font>
+
+32
+00:02:13,730 --> 00:02:16,440
+<font face="Roboto Medium" size="26"><i>Wishing to be strong, I</i></font>
+
+33
+00:02:16,440 --> 00:02:19,100
+<font face="Roboto Medium" size="26"><i>picked up the vulnerability 
+I had once cast away</i></font>
+
+34
+00:02:19,100 --> 00:02:21,050
+<font face="Roboto Medium" size="26"><i>Can't break free from the ambivalence</i></font>
+
+35
+00:02:21,050 --> 00:02:24,240
+<font face="Roboto Medium" size="26"><i>In ambivalence, I become myself</i></font>
+
+36
+00:02:24,240 --> 00:02:26,950
+<font face="Roboto Medium" size="26"><i>Like rooting strongly into the soil</i></font>
+
+37
+00:02:26,950 --> 00:02:29,500
+<font face="Roboto Medium" size="26"><i>like swaying ephemerally to the wind</i></font>
+
+38
+00:02:29,500 --> 00:02:32,730
+<font face="Roboto Medium" size="26"><i>I'm slowly loosening myself to bloom</i></font>
+
+39
+00:02:32,590 --> 00:02:35,670
+<font face="Times New Roman" size="20"><b>{\an8}<font size="40">Hell's Paradise</font></b></font>
+
+40
+00:02:39,560 --> 00:02:43,640
+<font face="Times New Roman" size="20"><b>Hindering and Restoration</b></font>
+
+41
+00:02:39,560 --> 00:02:43,640
+<font face="Roboto Medium" size="26">To be blunt, any effort 
+to fight back is pointless.</font>
+
+42
+00:02:47,150 --> 00:02:49,970
+<font face="Roboto Medium" size="26">Plan B? You mean using brute force?</font>
+
+43
+00:02:49,970 --> 00:02:52,990
+<font face="Roboto Medium" size="26">No. I have an idea.</font>
+
+44
+00:02:57,350 --> 00:02:58,910
+<font face="Roboto Medium" size="26">Sister.</font>
+
+45
+00:02:58,910 --> 00:03:02,020
+<font face="Roboto Medium" size="26">You should return to our brother 
+and the Grandmaster.</font>
+
+46
+00:03:02,020 --> 00:03:06,040
+<font face="Roboto Medium" size="26">After all, our brother 
+banished you out of love.</font>
+
+47
+00:03:06,320 --> 00:03:09,290
+<font face="Roboto Medium" size="26">It saddens me to see you at odds.</font>
+
+48
+00:03:09,790 --> 00:03:14,590
+<font face="Roboto Medium" size="26">If you still oppose the 
+Waitanhua Flower, it is pointless.</font>
+
+49
+00:03:14,590 --> 00:03:18,910
+<font face="Roboto Medium" size="26">The perfect tan—the Elixir of Life—
+will be completed soon.</font>
+
+50
+00:03:19,370 --> 00:03:21,430
+<font face="Roboto Medium" size="26">Tan that does not turn people into trees.</font>
+
+51
+00:03:21,430 --> 00:03:23,560
+<font face="Roboto Medium" size="26">What...?</font>
+
+52
+00:03:23,840 --> 00:03:28,320
+<font face="Roboto Medium" size="26">We learned how to refine it 
+with help from a human.</font>
+
+53
+00:03:28,810 --> 00:03:31,800
+<font face="Roboto Medium" size="26">Our research on the 
+Waitanhua Flower is complete.</font>
+
+54
+00:03:32,320 --> 00:03:34,990
+<font face="Roboto Medium" size="26">We have no reason to fight anymore.</font>
+
+55
+00:03:35,320 --> 00:03:37,680
+<font face="Roboto Medium" size="26">Now we need only acquire enough tan.</font>
+
+56
+00:03:37,680 --> 00:03:41,020
+<font face="Roboto Medium" size="26">We need more higher-quality materials.</font>
+
+57
+00:03:41,020 --> 00:03:43,620
+<font face="Roboto Medium" size="26">To that end, our brother 
+has begun the ritual.</font>
+
+58
+00:03:43,620 --> 00:03:46,740
+<font face="Roboto Medium" size="26">The Hekiji Fukusho ritual.</font>
+
+59
+00:03:47,770 --> 00:03:51,980
+<font face="Roboto Medium" size="26">You're not yet aware 
+of our brother's anguish,</font>
+
+60
+00:03:51,980 --> 00:03:55,130
+<font face="Roboto Medium" size="26">but you could surely reach 
+an understanding now.</font>
+
+61
+00:03:55,130 --> 00:03:59,890
+<font face="Roboto Medium" size="26">But I want to see Rien and 
+Grandmaster one more time.</font>
+
+62
+00:04:00,710 --> 00:04:02,390
+<font face="Roboto Medium" size="26">Mei-san...</font>
+
+63
+00:04:04,530 --> 00:04:08,540
+<font face="Roboto Medium" size="26">I missed everyone, too.</font>
+
+64
+00:04:08,540 --> 00:04:11,380
+<font face="Roboto Medium" size="26">But I understand now.</font>
+
+65
+00:04:11,380 --> 00:04:16,020
+<font face="Roboto Medium" size="26">I am different from rest of you.</font>
+
+66
+00:04:26,490 --> 00:04:30,120
+<font face="Roboto Medium" size="26">Both dying and not being 
+able to die are sad.</font>
+
+67
+00:04:31,500 --> 00:04:33,380
+<font face="Roboto Medium" size="26">I came to see all of you.</font>
+
+68
+00:04:36,840 --> 00:04:39,740
+<font face="Roboto Medium" size="26">I came to say goodbye.</font>
+
+69
+00:04:40,490 --> 00:04:42,540
+<font face="Roboto Medium" size="26">I am leaving the island.</font>
+
+70
+00:04:51,420 --> 00:04:52,730
+<font face="Roboto Medium" size="26">Then you leave me no choice.</font>
+
+71
+00:04:52,730 --> 00:04:54,530
+<font face="Roboto Medium" size="26">Let us finish this first.</font>
+
+72
+00:04:54,910 --> 00:04:57,330
+<font face="Roboto Medium" size="26">The ritual has already begun.</font>
+
+73
+00:04:57,880 --> 00:05:00,030
+<font face="Roboto Medium" size="26">The last thing we need are the offerings.</font>
+
+74
+00:05:00,560 --> 00:05:04,000
+<font face="Roboto Medium" size="26">In other words, all of you.</font>
+
+75
+00:05:09,680 --> 00:05:13,090
+<font face="Roboto Medium" size="26">We know of only one way to win.</font>
+
+76
+00:05:13,090 --> 00:05:15,760
+<font face="Roboto Medium" size="26">Destroy their tanden 
+using hindering tao—</font>
+
+77
+00:05:15,760 --> 00:05:18,860
+<font face="Roboto Medium" size="26">in other words, one with 
+a favorable attribute matchup.</font>
+
+78
+00:05:18,860 --> 00:05:23,800
+<font face="Roboto Medium" size="26">The situation changes according 
+to the attribute of your opponent's tao.</font>
+
+79
+00:05:24,060 --> 00:05:28,890
+<font face="Roboto Medium" size="26">For example, Gabimaru, your tao is 
+strong against Gui Fa's metal attribute.</font>
+
+80
+00:05:29,060 --> 00:05:39,900
+<font face="Comic Sans MS" size="20"><b>{\an8}<font color="#ffffff">Wood</font></b></font>
+
+81
+00:05:29,060 --> 00:05:39,900
+<font face="Comic Sans MS" size="20"><b>{\an8}<font color="#ffffff">Fire</font></b></font>
+
+82
+00:05:29,060 --> 00:05:39,900
+<font face="Comic Sans MS" size="20"><b>{\an8}<font color="#ffffff">Earth</font></b></font>
+
+83
+00:05:29,060 --> 00:05:39,900
+<font face="Comic Sans MS" size="20"><b>{\an8}<font color="#ffffff">Metal</font></b></font>
+
+84
+00:05:29,060 --> 00:05:39,900
+<font face="Comic Sans MS" size="20"><b>{\an8}<font color="#ffffff">Water</font></b></font>
+
+85
+00:05:29,690 --> 00:05:33,140
+<font face="Roboto Medium" size="26">But facing Ran, whose attribute is water, 
+puts you in a difficult position.</font>
+
+86
+00:05:33,140 --> 00:05:36,040
+<font face="Roboto Medium" size="26">Touching your opponent 
+will weaken your fire tao.</font>
+
+87
+00:05:36,040 --> 00:05:38,860
+<font face="Roboto Medium" size="26">Even if you destroy their tanden, 
+it won't kill them.</font>
+
+88
+00:05:38,860 --> 00:05:42,070
+<font face="Roboto Medium" size="26">In other words, you cannot defeat them.</font>
+
+89
+00:05:42,470 --> 00:05:45,390
+<font face="Roboto Medium" size="26">And besides, they have 
+far more tao than us.</font>
+
+90
+00:05:46,060 --> 00:05:47,390
+<font face="Roboto Medium" size="26">What do you intend to do?</font>
+
+91
+00:05:48,920 --> 00:05:50,290
+<font face="Roboto Medium" size="26">I have an idea.</font>
+
+92
+00:05:50,290 --> 00:05:54,640
+<font face="Roboto Medium" size="26"><i>Why did we have to encounter 
+Gabimaru's worst matchup?</i></font>
+
+93
+00:05:54,640 --> 00:05:55,380
+<font face="Roboto Medium" size="26">Sagiri.</font>
+
+94
+00:05:55,380 --> 00:05:56,370
+<font face="Roboto Medium" size="26">What?</font>
+
+95
+00:05:56,370 --> 00:05:59,200
+<font face="Roboto Medium" size="26">Take Mei and go to the room 
+with the Elixir.</font>
+
+96
+00:05:59,200 --> 00:06:01,090
+<font face="Roboto Medium" size="26">Yuzuriha and I will handle this.</font>
+
+97
+00:06:01,090 --> 00:06:03,180
+<font face="Roboto Medium" size="26">What? Why me?</font>
+
+98
+00:06:03,180 --> 00:06:04,920
+<font face="Roboto Medium" size="26">Ran's tao is water.</font>
+
+99
+00:06:05,210 --> 00:06:08,450
+<font face="Roboto Medium" size="26">You're the only one with earth tao, 
+the hindering attribute.</font>
+
+100
+00:06:10,440 --> 00:06:14,120
+<font face="Roboto Medium" size="26">Gabimaru, not here.</font>
+
+101
+00:06:14,120 --> 00:06:17,310
+<font face="Roboto Medium" size="26">Not rentan palace. No Elixir.</font>
+
+102
+00:06:17,310 --> 00:06:18,440
+<font face="Roboto Medium" size="26">What?!</font>
+
+103
+00:06:25,050 --> 00:06:25,780
+<font face="Roboto Medium" size="26">They're fast.</font>
+
+104
+00:06:31,970 --> 00:06:33,610
+<font face="Roboto Medium" size="26">My sister is correct.</font>
+
+105
+00:06:33,610 --> 00:06:36,310
+<font face="Roboto Medium" size="26">This is not the rentan palace.</font>
+
+106
+00:06:36,810 --> 00:06:39,920
+<font face="Roboto Medium" size="26">It is my doin palace.</font>
+
+107
+00:06:39,920 --> 00:06:41,210
+<font face="Roboto Medium" size="26">How?</font>
+
+108
+00:06:41,670 --> 00:06:45,810
+<font face="Roboto Medium" size="26"><i>But we confirmed the locations 
+of the rentan palace, tan, and tao.</i></font>
+
+109
+00:06:45,810 --> 00:06:50,400
+<font face="Roboto Medium" size="26">The tan of inanimate objects is far easier 
+to manipulate than that of living things.</font>
+
+110
+00:06:51,830 --> 00:06:53,930
+<font face="Roboto Medium" size="26">You simply command it to change shape.</font>
+
+111
+00:06:54,220 --> 00:06:57,310
+<font face="Roboto Medium" size="26">The construction of the buildings 
+and stone statues on the island.</font>
+
+112
+00:06:57,630 --> 00:07:01,370
+<font face="Roboto Medium" size="26">Renovations based on feng shui 
+are my responsibility.</font>
+
+113
+00:07:01,850 --> 00:07:07,980
+<font face="Roboto Medium" size="26">Changing the castle layout 
+to counter your intrusion was simple.</font>
+
+114
+00:07:07,980 --> 00:07:10,720
+<font face="Roboto Medium" size="26">The tao of corpses behaves like 
+that of inanimate objects.</font>
+
+115
+00:07:10,720 --> 00:07:13,870
+<font face="Roboto Medium" size="26">I created the illusion 
+that the tan was here.</font>
+
+116
+00:07:14,690 --> 00:07:15,370
+<font face="Roboto Medium" size="26">Mei-san!</font>
+
+117
+00:07:16,500 --> 00:07:19,000
+<font face="Roboto Medium" size="26">See?</font>
+
+118
+00:07:19,000 --> 00:07:22,500
+<font face="Roboto Medium" size="26">Now be still, Sister.</font>
+
+119
+00:07:22,500 --> 00:07:25,670
+<font face="Roboto Medium" size="26"><i>We'll have to settle this here after all.</i></font>
+
+120
+00:07:25,670 --> 00:07:26,560
+<font face="Roboto Medium" size="26">Gabimaru!</font>
+
+121
+00:07:26,560 --> 00:07:27,300
+<font face="Roboto Medium" size="26">Yuzuriha!</font>
+
+122
+00:07:27,300 --> 00:07:29,060
+<font face="Roboto Medium" size="26">Follow the plan!</font>
+
+123
+00:07:34,480 --> 00:07:37,060
+<font face="Roboto Medium" size="26">Marvelous! Such lively flesh!</font>
+
+124
+00:07:37,360 --> 00:07:38,840
+<font face="Roboto Medium" size="26">It's a shame, though.</font>
+
+125
+00:07:38,840 --> 00:07:42,900
+<font face="Roboto Medium" size="26">With your tao, no matter how many 
+times you hit me, you cannot kill me.</font>
+
+126
+00:07:45,190 --> 00:07:48,210
+<font face="Roboto Medium" size="26">So this must be what you're really after.</font>
+
+127
+00:07:49,150 --> 00:07:52,310
+<font face="Roboto Medium" size="26">It's possible to imbue weapons 
+with tao, right?</font>
+
+128
+00:07:52,310 --> 00:07:53,480
+<font face="Roboto Medium" size="26">Yes.</font>
+
+129
+00:07:53,480 --> 00:07:57,510
+<font face="Roboto Medium" size="26">Then aren't ranged 
+weapons better than melee?</font>
+
+130
+00:07:57,510 --> 00:08:00,610
+<font face="Roboto Medium" size="26">They're safer, and it's easier 
+to catch someone off-guard.</font>
+
+131
+00:08:00,610 --> 00:08:02,350
+<font face="Roboto Medium" size="26">Maybe it's because they can regenerate,</font>
+
+132
+00:08:02,350 --> 00:08:04,880
+<font face="Roboto Medium" size="26">but the Tensen leave 
+themselves defenseless.</font>
+
+133
+00:08:06,630 --> 00:08:07,800
+<font face="Roboto Medium" size="26">Yikes!</font>
+
+134
+00:08:07,800 --> 00:08:09,800
+<font face="Roboto Medium" size="26">Why? I should be hindering!</font>
+
+135
+00:08:14,470 --> 00:08:17,850
+<font face="Roboto Medium" size="26"><i>As I thought, simply blocking 
+their attacks takes a lot of effort.</i></font>
+
+136
+00:08:17,850 --> 00:08:20,330
+<font face="Roboto Medium" size="26"><i>Is this the effect of hindering, too?</i></font>
+
+137
+00:08:20,330 --> 00:08:24,180
+<font face="Roboto Medium" size="26"><i>But most of all, this is different 
+from fighting Zhu Jin.</i></font>
+
+138
+00:08:24,180 --> 00:08:26,110
+<font face="Roboto Medium" size="26"><i>Why are they so hard?</i></font>
+
+139
+00:08:29,390 --> 00:08:32,990
+<font face="Roboto Medium" size="26">I stretch my tao thin 
+and bundle it together.</font>
+
+140
+00:08:33,330 --> 00:08:37,240
+<font face="Roboto Medium" size="26">It makes it tough and supple, 
+like muscle fibers.</font>
+
+141
+00:08:37,240 --> 00:08:39,620
+<font face="Roboto Medium" size="26">Uh, in other words?</font>
+
+142
+00:08:40,620 --> 00:08:43,880
+<font face="Roboto Medium" size="26">Their entire body is covered 
+in hard tao armor.</font>
+
+143
+00:08:44,260 --> 00:08:48,160
+<font face="Roboto Medium" size="26">If that coordinated attack 
+was your plan, then it is pointless.</font>
+
+144
+00:08:49,570 --> 00:08:53,930
+<font face="Roboto Medium" size="26">Unlike a suit of armor, 
+tao has no gaps or blind spots.</font>
+
+145
+00:08:53,930 --> 00:08:57,360
+<font face="Roboto Medium" size="26">This is harmony between muscles and tao.</font>
+
+146
+00:08:57,360 --> 00:08:59,430
+<font face="Roboto Medium" size="26">True flesh.</font>
+
+147
+00:08:59,690 --> 00:09:02,120
+<font face="Roboto Medium" size="26">Are all the Tensen this crazy?</font>
+
+148
+00:09:02,120 --> 00:09:03,190
+<font face="Roboto Medium" size="26">Don't ask me.</font>
+
+149
+00:09:03,490 --> 00:09:05,290
+<font face="Roboto Medium" size="26">We should remove that 
+while we have the chance.</font>
+
+150
+00:09:22,670 --> 00:09:24,320
+<font face="Roboto Medium" size="26"><i>Ninpo: Stone Storm.</i></font>
+
+151
+00:09:28,510 --> 00:09:29,790
+<font face="Roboto Medium" size="26">Gabimaru!</font>
+
+152
+00:09:30,910 --> 00:09:33,140
+<font face="Roboto Medium" size="26"><i>They're not just tough.</i></font>
+
+153
+00:09:33,540 --> 00:09:36,870
+<font face="Roboto Medium" size="26"><i>They know more actual combat 
+techniques than Mu Dan.</i></font>
+
+154
+00:09:36,870 --> 00:09:38,300
+<font face="Roboto Medium" size="26"><i>At this rate...</i></font>
+
+155
+00:09:39,640 --> 00:09:41,440
+<font face="Roboto Medium" size="26">Don't worry.</font>
+
+156
+00:09:42,900 --> 00:09:44,650
+<font face="Roboto Medium" size="26">I expected this.</font>
+
+157
+00:09:45,150 --> 00:09:46,880
+<font face="Roboto Medium" size="26">I've got the gist of it now.</font>
+
+158
+00:09:46,880 --> 00:09:48,690
+<font face="Roboto Medium" size="26">Let's begin, Yuzuriha.</font>
+
+159
+00:09:49,540 --> 00:09:51,510
+<font face="Roboto Medium" size="26">Yeah, yeah. Finally, huh?</font>
+
+160
+00:09:51,510 --> 00:09:53,280
+<font face="Roboto Medium" size="26">I thought we were going to die.</font>
+
+161
+00:09:53,930 --> 00:09:55,280
+<font face="Roboto Medium" size="26"><i>Begin?</i></font>
+
+162
+00:09:55,930 --> 00:09:58,370
+<font face="Roboto Medium" size="26"><i>They haven't been executing their plan?</i></font>
+
+163
+00:10:00,620 --> 00:10:03,870
+<font face="Roboto Medium" size="26"><i>The amount and attributes 
+of their tao hasn't changed.</i></font>
+
+164
+00:10:03,870 --> 00:10:07,630
+<font face="Roboto Medium" size="26"><i>They shouldn't even be able 
+to damage my muscles.</i></font>
+
+165
+00:10:07,630 --> 00:10:10,210
+<font face="Roboto Medium" size="26">Try all you want. The result 
+will always be the same.</font>
+
+166
+00:10:19,500 --> 00:10:21,100
+<font face="Roboto Medium" size="26">That seems to have worked.</font>
+
+167
+00:10:26,020 --> 00:10:28,270
+<font face="Roboto Medium" size="26">We've tried the first method.</font>
+
+168
+00:10:28,270 --> 00:10:30,540
+<font face="Roboto Medium" size="26">Now let's try the second.</font>
+
+169
+00:10:31,270 --> 00:10:35,030
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#03020f"><font size="25">Hell's Paradise</font></font></b></font>
+
+170
+00:10:41,540 --> 00:10:43,290
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#d36751"><font size="15">Yuzuriha</font></font></b></font>
+
+171
+00:10:41,540 --> 00:10:43,290
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#d36751"><font size="15">Gabimaru</font></font></b></font>
+
+172
+00:10:41,540 --> 00:10:43,290
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#d36751"><font size="15">Yamada Asaemon Sagiri</font></font></b></font>
+
+173
+00:10:43,290 --> 00:10:46,160
+<font face="Times New Roman" size="20"><b><font color="#7f1519">{\an8}<font size="30">Gabimaru</font></font></b></font>
+
+174
+00:10:43,780 --> 00:10:46,160
+<font face="Roboto Medium" size="26">The names of those who landed.</font>
+
+175
+00:10:46,160 --> 00:10:48,990
+<font face="Roboto Medium" size="26">Rituals and curses require names.</font>
+
+176
+00:10:48,990 --> 00:10:52,810
+<font face="Roboto Medium" size="26">We'll use their names 
+for the Hekiji Fukusho ritual.</font>
+
+177
+00:10:52,810 --> 00:10:55,090
+<font face="Roboto Medium" size="26">Then should we capture them 
+and force them to tell us?</font>
+
+178
+00:10:55,090 --> 00:10:56,550
+<font face="Roboto Medium" size="26">Gabimaru.</font>
+
+179
+00:10:56,550 --> 00:11:00,490
+<font face="Roboto Medium" size="26">Gabimaru the Hollow, Tamiya Gantetsusai.</font>
+
+180
+00:11:00,970 --> 00:11:06,130
+<font face="Roboto Medium" size="26">I remember all the names on the roster, 
+including the criminals.</font>
+
+181
+00:11:06,130 --> 00:11:09,170
+<font face="Roboto Medium" size="26">Not that I know who's survived.</font>
+
+182
+00:11:09,750 --> 00:11:11,990
+<font face="Roboto Medium" size="26">My brother is among them.</font>
+
+183
+00:11:12,330 --> 00:11:14,630
+<font face="Roboto Medium" size="26">We already fought you once.</font>
+
+184
+00:11:15,290 --> 00:11:17,600
+<font face="Roboto Medium" size="26">There's no point in hiding it now.</font>
+
+185
+00:11:17,600 --> 00:11:20,270
+<font face="Roboto Medium" size="26">I have one condition for helping you.</font>
+
+186
+00:11:20,660 --> 00:11:22,510
+<font face="Roboto Medium" size="26">My brother's safety.</font>
+
+187
+00:11:22,510 --> 00:11:25,840
+<font face="Roboto Medium" size="26">I'm willing to side 
+with you guys to ensure that.</font>
+
+188
+00:11:25,840 --> 00:11:29,840
+<font face="Roboto Medium" size="26">Take me to your whatever ritual.</font>
+
+189
+00:11:30,270 --> 00:11:33,270
+<font face="Roboto Medium" size="26">I'll recruit my own brother.</font>
+
+190
+00:11:33,270 --> 00:11:35,220
+<font face="Roboto Medium" size="26">Stay out of it.</font>
+
+191
+00:11:36,960 --> 00:11:39,380
+<font face="Roboto Medium" size="26">Then tell us all of their names.</font>
+
+192
+00:11:40,050 --> 00:11:43,060
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#9b0510"><font size="30">Keiun</font></font></b></font>
+
+193
+00:11:40,050 --> 00:11:42,430
+<font face="Roboto Medium" size="26">I'll use talismans to view 
+their current condition.</font>
+
+194
+00:11:43,980 --> 00:11:45,830
+<font face="Roboto Medium" size="26">Twisted Keiun.</font>
+
+195
+00:11:49,650 --> 00:11:52,100
+<font face="Roboto Medium" size="26">Yamada Asaemon Kisho.</font>
+
+196
+00:11:53,940 --> 00:11:55,650
+<font face="Roboto Medium" size="26">Rokurota.</font>
+
+197
+00:11:56,760 --> 00:11:59,040
+<font face="Roboto Medium" size="26">Yamada Asaemon Eizen.</font>
+
+198
+00:12:00,540 --> 00:12:01,990
+<font face="Roboto Medium" size="26">Akaginu.</font>
+
+199
+00:12:03,470 --> 00:12:05,800
+<font face="Roboto Medium" size="26">Yamada Asaemon Shion.</font>
+
+200
+00:12:06,790 --> 00:12:10,170
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#c24848">Yamada Asaemon Shion</font></b></font>
+
+201
+00:12:16,210 --> 00:12:19,290
+<font face="Roboto Medium" size="26">Alive. Wood. Male.</font>
+
+202
+00:12:19,290 --> 00:12:22,190
+<font face="Roboto Medium" size="26">Strong mastery of tao.</font>
+
+203
+00:12:20,550 --> 00:12:23,970
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#c24848"><font size="15">Yamada Asaemon Shion</font></font></b></font>
+
+204
+00:12:20,550 --> 00:12:23,970
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#c24848"><font size="15">Nurugai</font></font></b></font>
+
+205
+00:12:23,000 --> 00:12:25,810
+<font face="Roboto Medium" size="26">They encountered Zhu Jin 
+in the taisoku palace.</font>
+
+206
+00:12:27,310 --> 00:12:31,660
+<font face="Roboto Medium" size="26">Shion does not hinder 
+Zhu Jin's water attribute.</font>
+
+207
+00:12:31,660 --> 00:12:34,400
+<font face="Roboto Medium" size="26">Therefore, he has no way to kill them.</font>
+
+208
+00:12:34,400 --> 00:12:36,990
+<font face="Roboto Medium" size="26">He's accompanied by Nurugai, 
+whose attribute is water.</font>
+
+209
+00:12:36,990 --> 00:12:39,200
+<font face="Roboto Medium" size="26">Their attacks against 
+Zhu Jin are effective,</font>
+
+210
+00:12:39,200 --> 00:12:41,040
+<font face="Roboto Medium" size="26">but their skill with tao is weak.</font>
+
+211
+00:12:41,040 --> 00:12:42,730
+<font face="Roboto Medium" size="26">They don't stand a chance.</font>
+
+212
+00:12:50,290 --> 00:12:52,750
+<font face="Roboto Medium" size="26">However, I detect a powerful rage.</font>
+
+213
+00:12:53,580 --> 00:12:56,740
+<font face="Roboto Medium" size="26">Emotions dramatically 
+impact a human's tao.</font>
+
+214
+00:12:55,960 --> 00:12:58,880
+<font face="Times New Roman" size="20"><b>{\an7}<font color="#a62221"><font size="15">Yamada Asaemon Toma</font></font></b></font>
+
+215
+00:12:55,960 --> 00:12:58,880
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#a62221"><font size="15">Yamada Asaemon Fuchi</font></font></b></font>
+
+216
+00:12:55,960 --> 00:12:58,880
+<font face="Times New Roman" size="20"><b>{\an9}<font color="#a62221"><font size="15">Tamiya Gantetsusai</font></font></b></font>
+
+217
+00:12:56,740 --> 00:12:58,460
+<font face="Roboto Medium" size="26">We mustn't underestimate them.</font>
+
+218
+00:12:58,880 --> 00:13:02,800
+<font face="Roboto Medium" size="26">Yamada Asaemon Fuchi 
+and Tamiya Gantetsusai.</font>
+
+219
+00:13:03,950 --> 00:13:07,660
+<font face="Roboto Medium" size="26">They encountered Tao Fa 
+and Ju Fa in the bochu palace.</font>
+
+220
+00:13:07,660 --> 00:13:11,290
+<font face="Roboto Medium" size="26">Fuchi's metal attribute hinders Tao Fa,</font>
+
+221
+00:13:11,290 --> 00:13:14,430
+<font face="Roboto Medium" size="26">but their training 
+with tao is insufficient.</font>
+
+222
+00:13:14,430 --> 00:13:16,980
+<font face="Roboto Medium" size="26">Instead, Ju Fa's fire 
+attribute hinders Fuchi.</font>
+
+223
+00:13:16,980 --> 00:13:19,490
+<font face="Roboto Medium" size="26">They will kill them both.</font>
+
+224
+00:13:19,860 --> 00:13:21,030
+<font face="Roboto Medium" size="26">And...</font>
+
+225
+00:13:26,990 --> 00:13:29,990
+<font face="Roboto Medium" size="26">Chobe will recruit his younger brother.</font>
+
+226
+00:13:29,990 --> 00:13:31,590
+<font face="Roboto Medium" size="26">It should be easy.</font>
+
+227
+00:13:33,210 --> 00:13:35,340
+<font face="Roboto Medium" size="26">Our focus should be...</font>
+
+228
+00:13:35,340 --> 00:13:36,210
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#ce423b">Gabimaru</font></b></font>
+
+229
+00:13:35,340 --> 00:13:37,020
+<font face="Roboto Medium" size="26">on this man.</font>
+
+230
+00:13:39,150 --> 00:13:42,720
+<font face="Roboto Medium" size="26"><i>Is this the first method 
+Gabimaru mentioned?</i></font>
+
+231
+00:13:44,840 --> 00:13:48,060
+<font face="Roboto Medium" size="26">Tao is like a current 
+surrounding your body.</font>
+
+232
+00:13:48,060 --> 00:13:50,190
+<font face="Roboto Medium" size="26">It's a physical phenomenon.</font>
+
+233
+00:13:50,190 --> 00:13:53,420
+<font face="Roboto Medium" size="26">The speed and size of the current 
+determines its strength.</font>
+
+234
+00:13:56,190 --> 00:13:59,370
+<font face="Roboto Medium" size="26">Attributes describe 
+the direction of the flow.</font>
+
+235
+00:13:59,730 --> 00:14:03,450
+<font face="Roboto Medium" size="26">Restoration is a flow that supports yours.</font>
+
+236
+00:14:03,860 --> 00:14:06,160
+<font face="Roboto Medium" size="26">Hindrance is one that halts it.</font>
+
+237
+00:14:07,310 --> 00:14:12,560
+<font face="Roboto Medium" size="26">But the Tensen's currents are too strong, 
+so the standard principles don't apply.</font>
+
+238
+00:14:13,110 --> 00:14:14,960
+<font face="Roboto Medium" size="26">There are three countermeasures.</font>
+
+239
+00:14:15,510 --> 00:14:18,750
+<font face="Roboto Medium" size="26">Temporarily or locally exert 
+more tao,</font>
+
+240
+00:14:19,130 --> 00:14:24,830
+<font face="Roboto Medium" size="26">or do the opposite and locally 
+weaken your tao to deflect attacks.</font>
+
+241
+00:14:25,440 --> 00:14:29,470
+<font face="Roboto Medium" size="26">To prevent both the acceleration from 
+restoration and rebound from hindering,</font>
+
+242
+00:14:29,470 --> 00:14:34,100
+<font face="Roboto Medium" size="26">join your opponent's current 
+and turn it back on them.</font>
+
+243
+00:14:39,880 --> 00:14:43,360
+<font face="Roboto Medium" size="26">It's similar to what's known as 
+hua jin or silk reeling in tai chi.</font>
+
+244
+00:14:43,890 --> 00:14:46,970
+<font face="Roboto Medium" size="26">They're techniques for turning your 
+opponent's strength back on them.</font>
+
+245
+00:14:46,970 --> 00:14:48,960
+<font face="Roboto Medium" size="26">Is that even possible?</font>
+
+246
+00:14:48,960 --> 00:14:52,700
+<font face="Roboto Medium" size="26">It's not easy, but it's an application 
+of what we've learned.</font>
+
+247
+00:14:52,970 --> 00:14:56,280
+<font face="Roboto Medium" size="26">I've learned to use another person's 
+tao through training with Nurugai.</font>
+
+248
+00:14:56,960 --> 00:14:59,690
+<font face="Roboto Medium" size="26">I've learned to dampen my tao 
+as much as possible from Yuzuriha.</font>
+
+249
+00:15:00,210 --> 00:15:03,590
+<font face="Roboto Medium" size="26">I've learned to control it 
+locally from Shion.</font>
+
+250
+00:15:03,590 --> 00:15:04,720
+<font face="Roboto Medium" size="26">And...</font>
+
+251
+00:15:10,350 --> 00:15:13,490
+<font face="Roboto Medium" size="26">In order to match my breaths 
+to my opponent's tao...</font>
+
+252
+00:15:16,100 --> 00:15:19,060
+<font face="Roboto Medium" size="26">I must possess both 
+stillness and intensity.</font>
+
+253
+00:15:19,490 --> 00:15:23,150
+<font face="Roboto Medium" size="26">By attuning my mind to the middle path, 
+I deflect my opponent's attacks.</font>
+
+254
+00:15:23,150 --> 00:15:28,530
+<font face="Roboto Medium" size="26">I once learned that from you, Sagiri.</font>
+
+255
+00:15:28,850 --> 00:15:30,760
+<font face="Roboto Medium" size="26">So this is the sum 
+of everything you've learned.</font>
+
+256
+00:15:30,760 --> 00:15:34,290
+<font face="Roboto Medium" size="26">Yeah. I'll hit them 
+with everything I have.</font>
+
+257
+00:15:38,590 --> 00:15:41,980
+<font face="Roboto Medium" size="26"><i>Dampening my tao weakens my own defense.</i></font>
+
+258
+00:15:42,340 --> 00:15:45,500
+<font face="Roboto Medium" size="26"><i>I'm fine if I can keep 
+deflecting their attacks,</i></font>
+
+259
+00:15:45,500 --> 00:15:47,970
+<font face="Roboto Medium" size="26"><i>but even a scratch takes a massive toll.</i></font>
+
+260
+00:15:48,350 --> 00:15:50,270
+<font face="Roboto Medium" size="26"><i>A direct hit would be really bad.</i></font>
+
+261
+00:15:52,240 --> 00:15:54,330
+<font face="Roboto Medium" size="26">Impressive.</font>
+
+262
+00:15:54,330 --> 00:15:55,850
+<font face="Roboto Medium" size="26">If I look closely,</font>
+
+263
+00:15:55,850 --> 00:15:59,980
+<font face="Roboto Medium" size="26">I can tell you began developing your tao 
+after you arrived on the island.</font>
+
+264
+00:15:59,980 --> 00:16:02,980
+<font face="Roboto Medium" size="26">And yet, you've achieved such skill.</font>
+
+265
+00:16:06,590 --> 00:16:11,460
+<font face="Roboto Medium" size="26">Many become aware of tao 
+when they're exposed to the dense tao</font>
+
+266
+00:16:11,460 --> 00:16:14,660
+<font face="Roboto Medium" size="26">that hangs about the island.</font>
+
+267
+00:16:14,660 --> 00:16:19,400
+<font face="Roboto Medium" size="26">In fact, that's one of 
+the purposes of this island.</font>
+
+268
+00:16:19,930 --> 00:16:23,730
+<font face="Roboto Medium" size="26">But your adaptability can't 
+be explained by that alone.</font>
+
+269
+00:16:23,730 --> 00:16:25,260
+<font face="Roboto Medium" size="26">You possess true talent.</font>
+
+270
+00:16:25,260 --> 00:16:27,630
+<font face="Roboto Medium" size="26">Enough to impress me.</font>
+
+271
+00:16:28,010 --> 00:16:29,600
+<font face="Roboto Medium" size="26">Talent?</font>
+
+272
+00:16:30,230 --> 00:16:31,980
+<font face="Roboto Medium" size="26">Talent, you say?</font>
+
+273
+00:16:32,860 --> 00:16:34,970
+<font face="Roboto Medium" size="26">This isn't talent.</font>
+
+274
+00:16:35,680 --> 00:16:38,890
+<font face="Roboto Medium" size="26">It's the last resort I desperately 
+struggled to come up with.</font>
+
+275
+00:16:41,550 --> 00:16:46,690
+<font face="Roboto Medium" size="26">The combined knowledge gleaned from 
+the many sacrifices that were made.</font>
+
+276
+00:16:46,970 --> 00:16:49,830
+<font face="Roboto Medium" size="26">All to kill you.</font>
+
+277
+00:16:49,830 --> 00:16:52,750
+<font face="Roboto Medium" size="26">But you'd ignore that 
+and call it talent instead.</font>
+
+278
+00:16:52,750 --> 00:16:55,200
+<font face="Roboto Medium" size="26">That's an awfully carefree way to put it.</font>
+
+279
+00:16:56,580 --> 00:16:57,630
+<font face="Roboto Medium" size="26">You're free.</font>
+
+280
+00:16:58,340 --> 00:17:02,840
+<font face="Roboto Medium" size="26">Gabimaru, we'll go to the 
+rentan palace and get the Elixir.</font>
+
+281
+00:17:02,840 --> 00:17:04,590
+<font face="Roboto Medium" size="26">Stay where you are!</font>
+
+282
+00:17:05,500 --> 00:17:06,920
+<font face="Roboto Medium" size="26"><i>The Elixir.</i></font>
+
+283
+00:17:06,920 --> 00:17:08,380
+<font face="Roboto Medium" size="26"><i>This is our chance.</i></font>
+
+284
+00:17:08,380 --> 00:17:10,470
+<font face="Roboto Medium" size="26"><i>The other sages are engaged in battle.</i></font>
+
+285
+00:17:10,470 --> 00:17:11,960
+<font face="Roboto Medium" size="26"><i>The ritual.</i></font>
+
+286
+00:17:11,960 --> 00:17:13,470
+<font face="Roboto Medium" size="26"><i>What's the risk?</i></font>
+
+287
+00:17:13,470 --> 00:17:14,220
+<font face="Roboto Medium" size="26">Do it!</font>
+
+288
+00:17:14,220 --> 00:17:14,970
+<font face="Roboto Medium" size="26">Got it!</font>
+
+289
+00:17:16,680 --> 00:17:17,850
+<font face="Roboto Medium" size="26">Wait...</font>
+
+290
+00:17:18,530 --> 00:17:22,040
+<font face="Roboto Medium" size="26"><i>Is he planning to use my tao again?</i></font>
+
+291
+00:17:22,040 --> 00:17:24,480
+<font face="Roboto Medium" size="26"><i>Then I'll weaken mine instead.</i></font>
+
+292
+00:17:28,690 --> 00:17:30,490
+<font face="Roboto Medium" size="26"><i>The hindering woman.</i></font>
+
+293
+00:17:30,490 --> 00:17:32,990
+<font face="Roboto Medium" size="26"><i>This is what she was waiting for.</i></font>
+
+294
+00:17:33,530 --> 00:17:37,230
+<font face="Roboto Medium" size="26"><i>Such impressive physical 
+abilities and teamwork.</i></font>
+
+295
+00:17:37,230 --> 00:17:41,240
+<font face="Roboto Medium" size="26"><i>They could surely reach 
+even greater heights of tao.</i></font>
+
+296
+00:17:41,240 --> 00:17:43,030
+<font face="Roboto Medium" size="26"><i>They are the ultimate opponents.</i></font>
+
+297
+00:17:43,030 --> 00:17:44,750
+<font face="Roboto Medium" size="26"><i>However...</i></font>
+
+298
+00:17:44,750 --> 00:17:45,750
+<font face="Roboto Medium" size="26">Again!</font>
+
+299
+00:17:45,750 --> 00:17:46,930
+<font face="Roboto Medium" size="26">Wait!</font>
+
+300
+00:18:00,390 --> 00:18:03,720
+<font face="Roboto Medium" size="26">Unfortunately, this is a ritual.</font>
+
+301
+00:18:03,720 --> 00:18:05,760
+<font face="Roboto Medium" size="26">I don't have time to play.</font>
+
+302
+00:18:09,360 --> 00:18:10,500
+<font face="Roboto Medium" size="26">Is this...?</font>
+
+303
+00:18:10,500 --> 00:18:11,510
+<font face="Roboto Medium" size="26">Yeah.</font>
+
+304
+00:18:14,930 --> 00:18:16,190
+<font face="Roboto Medium" size="26">It's coming.</font>
+
+305
+00:18:16,190 --> 00:18:17,910
+<font face="Roboto Medium" size="26">The real battle starts now.</font>
+
+306
+00:18:38,530 --> 00:18:40,430
+<font face="Roboto Medium" size="26">It's really such a shame.</font>
+
+307
+00:18:45,530 --> 00:18:47,990
+<font face="Roboto Medium" size="26">So Ran transformed.</font>
+
+308
+00:18:51,110 --> 00:18:58,580
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#a22020">Gabimaru</font></b></font>
+
+309
+00:18:51,110 --> 00:18:53,440
+<font face="Roboto Medium" size="26">That hasn't happened in centuries.</font>
+
+310
+00:18:53,440 --> 00:18:58,580
+<font face="Roboto Medium" size="26">He's that powerful a man. 
+That incredible a material.</font>
+
+311
+00:18:59,770 --> 00:19:01,330
+<font face="Roboto Medium" size="26">Grandmaster.</font>
+
+312
+00:19:01,610 --> 00:19:05,070
+<font face="Roboto Medium" size="26">The starter for the Elixir is complete.</font>
+
+313
+00:19:05,070 --> 00:19:08,960
+<font face="Roboto Medium" size="26">We will first grow it using 
+those who came to the island</font>
+
+314
+00:19:08,960 --> 00:19:11,590
+<font face="Roboto Medium" size="26">and then cross the sea 
+to gather more materials.</font>
+
+315
+00:19:12,920 --> 00:19:16,750
+<font face="Roboto Medium" size="26">It will finally all end tonight.</font>
+
+316
+00:19:17,340 --> 00:19:19,600
+<font face="Roboto Medium" size="26">Such a shame.</font>
+
+317
+00:19:20,600 --> 00:19:23,950
+<font face="Roboto Medium" size="26"><i>First, we need to identify 
+the idiosyncrasies of their tao</i></font>
+
+318
+00:19:23,950 --> 00:19:25,600
+<font face="Roboto Medium" size="26"><i>like we did before.</i></font>
+
+319
+00:19:25,600 --> 00:19:27,350
+<font face="Roboto Medium" size="26"><i>Will I be able to handle it?</i></font>
+
+320
+00:19:30,320 --> 00:19:36,950
+<font face="Roboto Medium" size="26">L-L-Lively flesh!</font>
+
+321
+00:19:49,980 --> 00:19:52,970
+<font face="Roboto Medium" size="26"><i>It's too powerful.</i></font>
+
+322
+00:20:03,060 --> 00:20:04,580
+<font face="Roboto Medium" size="26">We can go this way.</font>
+
+323
+00:20:04,580 --> 00:20:05,580
+<font face="Roboto Medium" size="26">Okay.</font>
+
+324
+00:20:11,240 --> 00:20:15,070
+<font face="Roboto Medium" size="26">G-Gabimaru will be okay.</font>
+
+325
+00:20:29,320 --> 00:20:33,370
+<font face="Roboto Medium" size="26"><i>They're measuring our stamina 
+and avoiding fatal blows.</i></font>
+
+326
+00:20:33,880 --> 00:20:36,020
+<font face="Roboto Medium" size="26"><i>Is it so they can turn us into tan?</i></font>
+
+327
+00:20:36,460 --> 00:20:38,600
+<font face="Roboto Medium" size="26"><i>They're not like Zhu Jin or Mu Dan.</i></font>
+
+328
+00:20:39,300 --> 00:20:42,130
+<font face="Roboto Medium" size="26"><i>Ran retains their sense of reason 
+even when transformed.</i></font>
+
+329
+00:20:42,130 --> 00:20:44,400
+<font face="Roboto Medium" size="26"><i>They're using techniques and strategies.</i></font>
+
+330
+00:20:44,770 --> 00:20:45,810
+<font face="Roboto Medium" size="26"><i>This is bad.</i></font>
+
+331
+00:20:46,390 --> 00:20:47,610
+<font face="Roboto Medium" size="26"><i>My consciousness is fading.</i></font>
+
+332
+00:20:48,520 --> 00:20:50,020
+<font face="Roboto Medium" size="26">There's a problem.</font>
+
+333
+00:20:50,490 --> 00:20:52,730
+<font face="Roboto Medium" size="26">Tao is also life itself.</font>
+
+334
+00:20:52,730 --> 00:20:56,900
+<font face="Roboto Medium" size="26">Using it while badly injured 
+could shorten your lifespan.</font>
+
+335
+00:20:56,900 --> 00:20:59,370
+<font face="Roboto Medium" size="26">Lively flesh.</font>
+
+336
+00:21:06,190 --> 00:21:10,270
+<font face="Roboto Medium" size="26">Ninpo: Stone Storm...</font>
+
+337
+00:21:10,270 --> 00:21:16,500
+<font face="Roboto Medium" size="26">So depending on the matchup, 
+it may make sense for me to protect you.</font>
+
+338
+00:21:17,250 --> 00:21:21,750
+<font face="Roboto Medium" size="26">We're both shinobi, 
+but you and I are nothing alike.</font>
+
+339
+00:21:22,840 --> 00:21:26,730
+<font face="Roboto Medium" size="26">In desperate situations, 
+I only protect myself.</font>
+
+340
+00:21:38,660 --> 00:21:39,990
+<font face="Roboto Medium" size="26">We should retreat for now.</font>
+
+341
+00:21:40,420 --> 00:21:42,100
+<font face="Roboto Medium" size="26">We'll wait for another opportunity.</font>
+
+342
+00:21:42,100 --> 00:21:44,990
+<font face="Roboto Medium" size="26">As long as we don't die, 
+we can figure something out.</font>
+
+343
+00:21:44,990 --> 00:21:48,080
+<font face="Roboto Medium" size="26">Nothing's more important 
+to me than my life.</font>
+
+344
+00:21:48,080 --> 00:21:50,310
+<font face="Roboto Medium" size="26">I'm not risking it for anything.</font>
+
+345
+00:22:06,850 --> 00:22:09,600
+<font face="Roboto Medium" size="26">Enough.</font>
+
+346
+00:22:13,900 --> 00:22:22,280
+<font face="Roboto Medium" size="26">The ingredient for tan is your life, 
+but you are simply too tough.</font>
+
+347
+00:22:23,250 --> 00:22:26,060
+<font face="Roboto Medium" size="26">Enough is enough.</font>
+
+348
+00:22:33,930 --> 00:22:35,290
+<font face="Roboto Medium" size="26">I agree.</font>
+
+349
+00:22:39,670 --> 00:22:41,940
+<font face="Roboto Medium" size="26">My own life is my top priority.</font>
+
+350
+00:22:41,940 --> 00:22:43,300
+<font face="Roboto Medium" size="26">I don't intend to die.</font>
+
+351
+00:22:44,940 --> 00:22:47,670
+<font face="Roboto Medium" size="26">My goal is to make it back home alive.</font>
+
+352
+00:22:49,390 --> 00:22:53,160
+<font face="Roboto Medium" size="26">To live and see my wife.</font>
+
+353
+00:23:08,100 --> 00:23:14,230
+<font face="Roboto Medium" size="26"><i>On the other side, even today</i></font>
+
+354
+00:23:14,230 --> 00:23:20,190
+<font face="Roboto Medium" size="26"><i>Someone is unraveling, 
+yet they still stand</i></font>
+
+355
+00:23:20,190 --> 00:23:26,100
+<font face="Roboto Medium" size="26"><i>A stab to the chest, this loneliness</i></font>
+
+356
+00:23:26,100 --> 00:23:31,930
+<font face="Roboto Medium" size="26"><i>Points and lines, 
+breaking off and vanishing</i></font>
+
+357
+00:23:31,930 --> 00:23:34,830
+<font face="Roboto Medium" size="26"><i>My shattered mask</i></font>
+
+358
+00:23:34,830 --> 00:23:37,910
+<font face="Roboto Medium" size="26"><i>It's more than I can bear</i></font>
+
+359
+00:23:37,910 --> 00:23:40,900
+<font face="Roboto Medium" size="26"><i>But I must keep on living</i></font>
+
+360
+00:23:40,900 --> 00:23:45,690
+<font face="Roboto Medium" size="26"><i>Tomorrow awaits to greet me</i></font>
+
+361
+00:23:45,690 --> 00:23:48,650
+<font face="Roboto Medium" size="26"><i>It's endless</i></font>
+
+362
+00:23:48,650 --> 00:23:51,220
+<font face="Roboto Medium" size="26"><i>And so fragile</i></font>
+
+363
+00:23:51,220 --> 00:23:57,450
+<font face="Roboto Medium" size="26"><i>Is it better to believe 
+hearts don't exist at all?</i></font>
+
+364
+00:23:57,450 --> 00:24:03,010
+<font face="Roboto Medium" size="26"><i>Radiant and soft</i></font>
+
+365
+00:24:03,010 --> 00:24:04,720
+<font face="Roboto Medium" size="26"><i>Was the hand</i></font>
+
+366
+00:24:04,720 --> 00:24:13,300
+<font face="Roboto Medium" size="26"><i>I squeezed back on that day</i></font>
+
