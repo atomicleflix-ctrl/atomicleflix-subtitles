@@ -1,0 +1,41 @@
+1
+00:05:33,270 --> 00:05:35,770
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="14"><font color="#161314">Staff Only</font></font></font></b></font>
+
+2
+00:07:58,160 --> 00:08:02,420
+<font face="Gandhi Sans" size="24"><b>{\an9}<font face="Impact"><font size="22"><font color="#5d72a8">It's Not Like We Could Become Lovers</font></font></font></b></font>
+
+3
+00:10:24,060 --> 00:10:29,060
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="10"><font color="#353a3b">Beware Bears</font></font></font></b></font>
+
+4
+00:17:19,930 --> 00:17:22,600
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font color="#ef326c">Shaved Ice</font></font></b></font>
+
+5
+00:17:19,930 --> 00:17:22,600
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font color="#ef326c">Shaved Ice</font></font></b></font>
+
+6
+00:17:23,750 --> 00:17:25,350
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="20"><font color="#463f3d">Showers</font></font></b></font></b></font>
+
+7
+00:17:25,350 --> 00:17:30,360
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="12"><b>{\an8}<font color="#4e3130">Restaurant</font></b></font></font></b></font>
+
+8
+00:17:25,350 --> 00:17:30,360
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="8"><b>{\an8}<font color="#cc5248">Seafood 
+Bowls</font></b></font></font></b></font>
+
+9
+00:23:58,100 --> 00:24:09,550
+<font face="Gandhi Sans" size="24"><b><font size="20"><font face="Impact"><font color="#c7377d">Next Time</font></font></font></b></font>
+
+10
+00:23:58,100 --> 00:24:09,550
+<font face="Gandhi Sans" size="24"><b><font face="Impact">{\an8}<font color="#c7377d">Can Things Stay This Way?</font></font></b></font>
+
