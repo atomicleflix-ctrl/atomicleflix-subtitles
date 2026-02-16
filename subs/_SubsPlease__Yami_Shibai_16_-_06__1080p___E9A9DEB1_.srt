@@ -1,0 +1,313 @@
+1
+00:00:07,610 --> 00:00:10,480
+<font face="Roboto Medium" size="26">Step right up and have a look...</font>
+
+2
+00:00:10,480 --> 00:00:13,910
+<font face="Roboto Medium" size="26">It's time for Yamishibai.</font>
+
+3
+00:00:10,530 --> 00:00:17,540
+<font face="Times New Roman" size="44" color="#593826"><b>{\an8}<font color="#5e3623"><font color="#5c352c">Theatre of Darkness: Yamishibai</font></font></b></font>
+
+4
+00:00:13,370 --> 00:00:17,540
+<font face="Times New Roman" size="22" color="#3d2b20"><font color="#2b1f0a">Password</font></font>
+
+5
+00:00:17,500 --> 00:00:22,340
+<font face="Roboto Medium" size="26">This is the story of some 
+grade schoolers on their way home...</font>
+
+6
+00:00:22,340 --> 00:00:25,000
+<font face="Roboto Medium" size="26">Hey, it's Ohashi and Iwata!</font>
+
+7
+00:00:26,820 --> 00:00:27,810
+<font face="Roboto Medium" size="26">Mine now!</font>
+
+8
+00:00:27,810 --> 00:00:28,990
+<font face="Roboto Medium" size="26">Haruto!</font>
+
+9
+00:00:28,990 --> 00:00:30,610
+<font face="Roboto Medium" size="26">We're gonna tell a teacher!</font>
+
+10
+00:00:30,610 --> 00:00:31,420
+<font face="Roboto Medium" size="26">Wait up!</font>
+
+11
+00:00:35,310 --> 00:00:36,850
+<font face="Roboto Medium" size="26">What's up?</font>
+
+12
+00:00:36,850 --> 00:00:39,600
+<font face="Roboto Medium" size="26">Has this old building always been here?</font>
+
+13
+00:00:39,600 --> 00:00:41,010
+<font face="Roboto Medium" size="26">Now that you mention it...</font>
+
+14
+00:00:42,510 --> 00:00:45,620
+<font face="Roboto Medium" size="26">Looks deserted. Let's check it out.</font>
+
+15
+00:00:45,620 --> 00:00:46,960
+<font face="Roboto Medium" size="26">Sounds fun.</font>
+
+16
+00:00:49,390 --> 00:00:51,980
+<font face="Roboto Medium" size="26">Come on, we'll get in trouble if
+we take too long getting home.</font>
+
+17
+00:00:52,360 --> 00:00:54,310
+<font face="Roboto Medium" size="26">It's fine.</font>
+
+18
+00:00:54,310 --> 00:00:58,280
+<font face="Roboto Medium" size="26">What a big yard! 
+Whoever lived here must've been rich.</font>
+
+19
+00:00:58,710 --> 00:01:00,610
+<font face="Roboto Medium" size="26">Hey, it's not locked.</font>
+
+20
+00:01:02,270 --> 00:01:04,620
+<font face="Roboto Medium" size="26">This place is a real mess.</font>
+
+21
+00:01:10,390 --> 00:01:11,920
+<font face="Roboto Medium" size="26">There's graffiti.</font>
+
+22
+00:01:11,930 --> 00:01:14,390
+<font face="Roboto Medium" size="26">{\an8}<font face="Arial"><b><font color="#92114f"><font size="30">Unite!</font></font></b></font></font>
+
+23
+00:01:12,520 --> 00:01:14,390
+<font face="Roboto Medium" size="26">"Unite"?</font>
+
+24
+00:01:14,390 --> 00:01:16,720
+<font face="Roboto Medium" size="26">Let's make this our password.</font>
+
+25
+00:01:16,720 --> 00:01:18,120
+<font face="Roboto Medium" size="26">What're you talking about?</font>
+
+26
+00:01:18,120 --> 00:01:21,510
+<font face="Roboto Medium" size="26">When we leave, one of us will 
+ask, "What's the password?"</font>
+
+27
+00:01:21,510 --> 00:01:25,360
+<font face="Roboto Medium" size="26">And you've gotta answer, 
+"Unite," or you're a ghost.</font>
+
+28
+00:01:25,680 --> 00:01:27,140
+<font face="Roboto Medium" size="26">I get it.</font>
+
+29
+00:01:35,820 --> 00:01:37,470
+<font face="Roboto Medium" size="26">What's his problem?</font>
+
+30
+00:01:37,470 --> 00:01:40,540
+<font face="Roboto Medium" size="26">Probably just saw his own shadow.</font>
+
+31
+00:01:40,540 --> 00:01:42,370
+<font face="Roboto Medium" size="26">I could see Ryosuke doing that.</font>
+
+32
+00:01:44,050 --> 00:01:47,540
+<font face="Roboto Medium" size="26">Who were those people I saw 
+looking into the house?</font>
+
+33
+00:01:48,360 --> 00:01:49,420
+<font face="Roboto Medium" size="26">Someone's coming.</font>
+
+34
+00:01:50,690 --> 00:01:52,930
+<font face="Roboto Medium" size="26">Hey! What's wrong?</font>
+
+35
+00:01:52,930 --> 00:01:54,000
+<font face="Roboto Medium" size="26">What happened?</font>
+
+36
+00:01:54,850 --> 00:01:56,420
+<font face="Roboto Medium" size="26">Is it really you?</font>
+
+37
+00:01:56,420 --> 00:01:59,120
+<font face="Roboto Medium" size="26">What do you mean, "is it really you"?</font>
+
+38
+00:01:59,120 --> 00:02:00,880
+<font face="Roboto Medium" size="26">Let's go home already.</font>
+
+39
+00:02:02,210 --> 00:02:03,790
+<font face="Roboto Medium" size="26">What's the password?</font>
+
+40
+00:02:04,710 --> 00:02:06,600
+<font face="Roboto Medium" size="26">If you're really them, you know it.</font>
+
+41
+00:02:06,600 --> 00:02:07,870
+<font face="Roboto Medium" size="26">The password?</font>
+
+42
+00:02:07,870 --> 00:02:10,700
+<font face="Roboto Medium" size="26">What difference does it make? 
+Come on out already.</font>
+
+43
+00:02:10,700 --> 00:02:13,300
+<font face="Roboto Medium" size="26">She's right. Open up.</font>
+
+44
+00:02:13,300 --> 00:02:16,630
+<font face="Roboto Medium" size="26">You're impostors! 
+I'm not opening this door!</font>
+
+45
+00:02:19,720 --> 00:02:21,220
+<font face="Roboto Medium" size="26">We're just messing with you.</font>
+
+46
+00:02:21,220 --> 00:02:22,530
+<font face="Roboto Medium" size="26">Ready? And...</font>
+
+47
+00:02:22,530 --> 00:02:24,470
+<font face="Roboto Medium" size="26">Unite!</font>
+
+48
+00:02:24,470 --> 00:02:26,050
+<font face="Roboto Medium" size="26">Happy now?</font>
+
+49
+00:02:28,450 --> 00:02:30,530
+<font face="Roboto Medium" size="26">Guys, don't mess around like that.</font>
+
+50
+00:02:32,430 --> 00:02:36,370
+<font face="Roboto Medium" size="26">You should've seen the look on 
+your face, Ryosuke. Hilarious!</font>
+
+51
+00:02:36,370 --> 00:02:39,100
+<font face="Roboto Medium" size="26">Why did you run away like that, anyway?</font>
+
+52
+00:02:39,100 --> 00:02:40,800
+<font face="Roboto Medium" size="26">Like I said, it was nothing.</font>
+
+53
+00:02:42,820 --> 00:02:44,600
+<font face="Roboto Medium" size="26">Huh? It won't open.</font>
+
+54
+00:02:44,600 --> 00:02:46,200
+<font face="Roboto Medium" size="26">That can't be right.</font>
+
+55
+00:02:46,200 --> 00:02:47,400
+<font face="Roboto Medium" size="26">What's the password?</font>
+
+56
+00:02:47,840 --> 00:02:49,880
+<font face="Roboto Medium" size="26">There's someone on the 
+other side of the door.</font>
+
+57
+00:02:49,880 --> 00:02:51,430
+<font face="Roboto Medium" size="26">Come on, say the password.</font>
+
+58
+00:02:51,430 --> 00:02:53,570
+<font face="Roboto Medium" size="26">It's pretty suspicious 
+that you won't say it.</font>
+
+59
+00:02:53,570 --> 00:02:55,080
+<font face="Roboto Medium" size="26">Yep, something's wrong.</font>
+
+60
+00:02:55,080 --> 00:02:56,410
+<font face="Roboto Medium" size="26">It's them...</font>
+
+61
+00:02:56,410 --> 00:02:57,380
+<font face="Roboto Medium" size="26">Who?</font>
+
+62
+00:02:57,380 --> 00:02:59,160
+<font face="Roboto Medium" size="26">Just open up already!</font>
+
+63
+00:02:59,160 --> 00:03:00,650
+<font face="Roboto Medium" size="26">Let us out!</font>
+
+64
+00:03:00,650 --> 00:03:03,820
+<font face="Roboto Medium" size="26">You're impostors! 
+I'm not opening this door!</font>
+
+65
+00:03:03,820 --> 00:03:05,810
+<font face="Roboto Medium" size="26">Hey! Let us out!</font>
+
+66
+00:03:07,660 --> 00:03:08,770
+<font face="Roboto Medium" size="26">Should we go?</font>
+
+67
+00:03:08,770 --> 00:03:09,840
+<font face="Roboto Medium" size="26">I think so.</font>
+
+68
+00:03:12,090 --> 00:03:14,680
+<font face="Roboto Medium" size="26">Hey, what was the password again?</font>
+
+69
+00:03:14,680 --> 00:03:16,390
+<font face="Roboto Medium" size="26">"Resolve."</font>
+
+70
+00:03:16,390 --> 00:03:19,090
+<font face="Roboto Medium" size="26">No, it was "Speak the secret."</font>
+
+71
+00:03:19,090 --> 00:03:21,680
+<font face="Roboto Medium" size="26">I thought it was "Assemble."</font>
+
+72
+00:03:21,680 --> 00:03:22,880
+<font face="Roboto Medium" size="26">I guess it doesn't matter!</font>
+
+73
+00:03:23,600 --> 00:03:26,190
+<font face="Roboto Medium" size="26"><font face="Arial"><b><font color="#745f76">{\an5}Produce Center
+<font color="#7b264f">Unite!</font></font></b></font></font>
+
+74
+00:03:26,190 --> 00:03:30,190
+<font face="Times New Roman" size="44" color="#593826"><b>{\an8}<font size="34">Theatre of Darkness: Yamishibai</font></b></font>
+
+75
+00:03:26,860 --> 00:03:28,970
+<font face="Roboto Medium" size="26">The end.</font>
+
