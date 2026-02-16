@@ -1,0 +1,46 @@
+1
+00:03:44,360 --> 00:03:51,410
+<font face="Times New Roman" size="20"><b>{\an1}<font size="40"><font color="#c5000e">flashback</font></font></b></font>
+
+2
+00:03:45,900 --> 00:03:51,410
+<font face="Times New Roman" size="20"><b>{\an7}Recollections of the past.
+ During a story, they will sometimes act as an
+interlude to show what happened prior to current events, as in a "flashback scene."</b></font>
+
+3
+00:03:50,240 --> 00:03:52,410
+<font face="Verdana" size="20"><b><i>{\an1}<font size="30"><font color="#ffe640">Glass Sky</font></font></i></b></font>
+
+4
+00:04:40,750 --> 00:04:44,630
+<font face="Verdana" size="20"><b><font color="#151517">Work Study Student
+Midnight</font></b></font>
+
+5
+00:04:45,090 --> 00:04:46,510
+<font face="Verdana" size="20"><b><font color="#151517">{\an8}Work Study Student
+Loud Cloud</font></b></font>
+
+6
+00:05:27,180 --> 00:05:28,510
+<font face="Verdana" size="20"><b><font color="#151517">Work Study Student
+Eraser Head</font></b></font>
+
+7
+00:05:48,190 --> 00:05:50,110
+<font face="Verdana" size="20"><b>{\an7}<i><font color="#172922"><font size="20">Head of the Purple Revolution Agency
+<font size="35">His Purple Highness</font></font></font></i></b></font>
+
+8
+00:09:18,820 --> 00:09:21,030
+<font face="Verdana" size="20"><b>{\an1}<font color="#151517">A few days later</font></b></font>
+
+9
+00:12:05,950 --> 00:12:08,660
+<font face="Verdana" size="20"><b>{\an1}<i><font color="#172922"><font size="35">The next term</font></font></i></b></font>
+
+10
+00:22:34,410 --> 00:22:37,880
+<font face="Times New Roman" size="20"><b>{\an1}<font color="#151517">One week later—</font></b></font>
+
