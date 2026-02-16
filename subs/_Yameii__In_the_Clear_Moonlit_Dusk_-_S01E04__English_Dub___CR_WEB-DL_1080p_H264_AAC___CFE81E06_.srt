@@ -1,0 +1,75 @@
+1
+00:02:53,480 --> 00:02:55,820
+<font size="20">{\an8}<font size="16"><b><font color="#d0057e">Choco Anpan</font></b></font></font>
+
+2
+00:02:53,480 --> 00:02:55,820
+<font size="20">{\an8}<font size="16"><b><font color="#d0057e">Choco Anpan</font></b></font></font>
+
+3
+00:08:27,860 --> 00:08:32,070
+<font size="20">{\an8}<font color="#efcfa6"><font face="Times New Roman"><b>Chinese Cuisine</b></font></font></font>
+
+4
+00:17:54,030 --> 00:17:56,930
+<font size="20">{\an8}<font face="Comic Sans MS"><b><font size="24"><font color="#290039">Gehehe</font></font></b></font></font>
+
+5
+00:18:06,100 --> 00:18:08,060
+<font size="20">{\an8}<b><font color="#f2fdfd"><font size="18">Yoi Takiguichi</font></font></b></font>
+
+6
+00:18:06,100 --> 00:18:08,060
+<font size="20">{\an8}<font color="#413f3d"><font size="15">Good evening.
+This is my first time messaging.
+It's Takiguichi.
+After thinking a little on what we
+spoke about today, I would like to 
+propose the following:
+How about a date next Saturday 
+or Sunday?</font></font></font>
+
+7
+00:18:06,100 --> 00:18:08,060
+<font size="20">{\an8}<font color="#f9f7f5">m 0 0 l 220 0 220 57 0 57</font></font>
+
+8
+00:18:06,100 --> 00:18:08,060
+<font size="20">{\an8}<font color="#3da38e">m 0 0 l 45 0 45 8 0 8</font></font>
+
+9
+00:18:06,100 --> 00:18:08,060
+<font size="20">{\an8}<font color="#f2fdfd"><font size="14">Got it.</font></font></font>
+
+10
+00:21:46,610 --> 00:21:51,390
+<font size="20">{\an8}<font size="18"><font color="#1f2139"><b><font face="Comic Sans MS">Temperature of Love</font></b></font></font></font>
+
+11
+00:21:54,060 --> 00:21:58,030
+<font size="20">{\an8}<font size="10"><font face="Times New Roman"><b><font color="#dcdcdc">Translation:
+Timing:
+Editing:
+Quality Control:
+Final Quality Control:</font></b></font></font></font>
+
+12
+00:21:54,060 --> 00:21:58,030
+<font size="20">{\an8}<font size="10"><font face="Times New Roman"><b><font color="#dcdcdc">Yukari Murase-Louden
+Andy Ellis
+Gabriella Alabanza
+Salem Alabanza
+Elizabeth Ellis</font></b></font></font></font>
+
+13
+00:23:28,050 --> 00:23:31,550
+<font size="20">{\an8}<font face="Comic Sans MS"><font color="#070502"><b><font size="32">Nasu Oyaji Curry</font></b></font></font></font>
+
+14
+00:23:28,050 --> 00:23:31,550
+<font size="20">{\an8}<font face="Comic Sans MS"><font color="#070502"><b><font size="32">Hiring Part-timer</font></b></font></font></font>
+
+15
+00:23:28,050 --> 00:23:31,550
+<font size="20">{\an8}<font face="Comic Sans MS"><font color="#070502"><b><font size="24">Telephone number</font></b></font></font></font>
+
