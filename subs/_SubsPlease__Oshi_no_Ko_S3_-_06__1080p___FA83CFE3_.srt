@@ -1,0 +1,1538 @@
+1
+00:00:00,000 --> 00:00:03,310
+<font size="36" color="#070508"><b>{\an5}m 0 0 l 0 102 32 102 b 3 75 3 32 32 0</b></font>
+
+2
+00:00:00,000 --> 00:00:03,310
+<font size="36" color="#070508"><b>{\an5}<font face="Georgia">OSHI <font color="#cb0085">NO <font color="#070508">KO</font></font></font></b></font>
+
+3
+00:00:00,000 --> 00:00:03,310
+<font size="36" color="#070508"><b>{\an5}m 0 0 l 0 102 32 102 b 3 75 3 32 32 0</b></font>
+
+4
+00:01:31,020 --> 00:01:39,240
+<font size="24"><b>{\an8}<font size="32"><font face="Arial Black"><font color="#75d4f0">Top of the Idols</font></font></font></b></font>
+
+5
+00:01:31,020 --> 00:01:39,240
+<font size="24"><b>{\an8}<font size="32"><font face="Arial Black"><font color="#4375cb">Top of the <font color="#ef8bb8">Idols</font></font></font></font></b></font>
+
+6
+00:01:35,810 --> 00:01:39,250
+<font face="Roboto Medium" size="26">Do you ever go out with boys, Ruby-chan?</font>
+
+7
+00:01:39,670 --> 00:01:42,860
+<font face="Roboto Medium" size="26">With boys? Oh, just the other day,</font>
+
+8
+00:01:42,860 --> 00:01:45,420
+<font face="Roboto Medium" size="26">my brother and I went out 
+to get curry buns at the store.</font>
+
+9
+00:01:45,420 --> 00:01:49,460
+<font face="Roboto Medium" size="26">Uh, I don't think he qualifies as a "boy."</font>
+
+10
+00:01:49,950 --> 00:01:50,750
+<font face="Roboto Medium" size="26">No?</font>
+
+11
+00:01:51,520 --> 00:01:54,730
+<font face="Roboto Medium" size="26">Does that mean Onii-chan is a girl?</font>
+
+12
+00:01:54,730 --> 00:01:56,330
+<font face="Roboto Medium" size="26">Like hell he is!</font>
+
+13
+00:01:58,150 --> 00:02:00,820
+<font face="Roboto Medium" size="26">How about you? Don't you ever 
+want to go on dates and stuff?</font>
+
+14
+00:02:00,820 --> 00:02:02,570
+<font face="Roboto Medium" size="26">Oh, never!</font>
+
+15
+00:02:02,570 --> 00:02:04,440
+<font face="Roboto Medium" size="26">I don't even have anyone to go with!</font>
+
+16
+00:02:10,720 --> 00:02:15,820
+<font face="Roboto Medium" size="26">Why do they keep asking us 
+about boys and dates and all that stuff?</font>
+
+17
+00:02:16,140 --> 00:02:19,950
+<font face="Roboto Medium" size="26">Those are the topics that attract 
+the most interest, probably.</font>
+
+18
+00:02:19,910 --> 00:02:21,780
+<font size="24"><b>{\an8}<font size="18"><font color="#46312f">Top of the Idols
+<font size="14">Guest Idols
+Dressing Room</font></font></font></b></font>
+
+19
+00:02:22,300 --> 00:02:25,450
+<font face="Roboto Medium" size="26">Here's B-Komachi to have 
+their makeup retouched.</font>
+
+20
+00:02:25,450 --> 00:02:27,250
+<font face="Roboto Medium" size="26">Thanks in advance!</font>
+
+21
+00:02:27,250 --> 00:02:29,800
+<font face="Roboto Medium" size="26">Oh, hey there.</font>
+
+22
+00:02:29,800 --> 00:02:32,760
+<font face="Roboto Medium" size="26">Kana-san, MEMcho-san, 
+please sit down here.</font>
+
+23
+00:02:32,760 --> 00:02:35,720
+<font face="Roboto Medium" size="26">Ruby-san, could you wait 
+over there for a bit?</font>
+
+24
+00:02:38,160 --> 00:02:40,430
+<font face="Roboto Medium" size="26">Hey, Iwasaki-chan.</font>
+
+25
+00:02:40,430 --> 00:02:43,670
+<font face="Roboto Medium" size="26">Can you cover this up with concealer?</font>
+
+26
+00:02:43,670 --> 00:02:45,930
+<font face="Roboto Medium" size="26">Oh? Is that a hickey?</font>
+
+27
+00:02:45,930 --> 00:02:51,040
+<font face="Roboto Medium" size="26">My boyfriend actually 
+has this thing for biting.</font>
+
+28
+00:02:51,040 --> 00:02:54,650
+<font face="Roboto Medium" size="26">He keeps trying to mark me before gigs.</font>
+
+29
+00:02:54,650 --> 00:02:57,200
+<font face="Roboto Medium" size="26">Oh, wow. That's risky.</font>
+
+30
+00:02:57,200 --> 00:02:58,320
+<font face="Roboto Medium" size="26">I know, right?</font>
+
+31
+00:02:58,320 --> 00:03:01,470
+<font face="Roboto Medium" size="26">You've been living with your 
+boyfriend for what, four years?</font>
+
+32
+00:03:01,470 --> 00:03:04,140
+<font face="Roboto Medium" size="26">Are you getting married once you retire?</font>
+
+33
+00:03:04,140 --> 00:03:07,960
+<font face="Roboto Medium" size="26">Nah, that's probably not happening 
+until I'm thirty or so.</font>
+
+34
+00:03:07,960 --> 00:03:12,190
+<font face="Roboto Medium" size="26">By the way, does Anmi-chan 
+still go drinking in Kabukicho?</font>
+
+35
+00:03:12,190 --> 00:03:15,420
+<font face="Roboto Medium" size="26">You bet. She's totally 
+a dude on the inside.</font>
+
+36
+00:03:15,420 --> 00:03:17,280
+<font face="Roboto Medium" size="26">Seriously?</font>
+
+37
+00:03:17,280 --> 00:03:19,380
+<font face="Roboto Medium" size="26">When is she gonna grow out of that?</font>
+
+38
+00:03:19,380 --> 00:03:22,280
+<font face="Roboto Medium" size="26"><i>My first thought after diving 
+into this business was,</i></font>
+
+39
+00:03:22,780 --> 00:03:26,440
+<font face="Roboto Medium" size="26"><i>"Wow, a surprising number of 
+these girls have boyfriends."</i></font>
+
+40
+00:03:27,090 --> 00:03:32,920
+<font face="Roboto Medium" size="26"><i>The idea that idols can't date really only
+exists in the minds of the consumers.</i></font>
+
+41
+00:03:33,230 --> 00:03:40,190
+<font size="24"><b>{\an8}<font size="16"><font color="#c0c4c9">Enter Passcode</font></font></b></font>
+
+42
+00:03:33,530 --> 00:03:35,470
+<font face="Roboto Medium" size="26"><i>If you do, cover it up.</i></font>
+
+43
+00:03:35,470 --> 00:03:39,580
+<font face="Roboto Medium" size="26"><i>Don't get caught. That's how many insiders
+define professionalism in this biz.</i></font>
+
+44
+00:03:40,200 --> 00:03:44,360
+<font face="Roboto Medium" size="26"><i>When idols go eat with the opposite sex, 
+they always pick private rooms</i></font>
+
+45
+00:03:44,360 --> 00:03:46,960
+<font face="Roboto Medium" size="26"><i>and choose restaurants 
+far away from concert venues.</i></font>
+
+46
+00:03:46,950 --> 00:03:56,170
+<font size="24"><b>{\an8}<font face="Arial Black"><font color="#cb92c7">*Here we have a girl whose lack of popularity
+with the boys drove her crazy</font></font></b></font>
+
+47
+00:03:47,830 --> 00:03:50,910
+<font face="Roboto Medium" size="26"><i>{\an8}YouTubers don't talk about their partners,</i></font>
+
+48
+00:03:50,910 --> 00:03:55,560
+<font face="Roboto Medium" size="26"><i>{\an8}and they're careful to keep their 
+relationships low-key in public.</i></font>
+
+49
+00:03:56,570 --> 00:04:00,390
+<font face="Roboto Medium" size="26"><i>Many male voice actors keep 
+their marital status under wraps.</i></font>
+
+50
+00:04:00,380 --> 00:04:07,600
+<font size="24"><b>{\an8}<font size="20"><font color="#26242c">Merry Christmas!
+We got together to have Christmas cake!
+<font color="#5599c2">#MerryXmas</font></font></font></b></font>
+
+51
+00:04:00,390 --> 00:04:01,880
+<font face="Roboto Medium" size="26"><i>And some female VAs</i></font>
+
+52
+00:04:01,880 --> 00:04:06,790
+<font face="Roboto Medium" size="26"><i>meet up to take Christmas pics in advance 
+to make it look like they're single.</i></font>
+
+53
+00:04:08,280 --> 00:04:10,540
+<font face="Roboto Medium" size="26"><i>Half the human race is the opposite sex.</i></font>
+
+54
+00:04:10,540 --> 00:04:15,480
+<font face="Roboto Medium" size="26"><i>Living life avoiding the other half 
+may seem possible, but it's really not.</i></font>
+
+55
+00:04:16,030 --> 00:04:19,640
+<font face="Roboto Medium" size="26"><i>So what risks do you or don't you take 
+to live your own life?</i></font>
+
+56
+00:04:19,640 --> 00:04:22,630
+<font face="Roboto Medium" size="26"><i>That dilemma is a huge part 
+of an entertainer's job.</i></font>
+
+57
+00:04:23,830 --> 00:04:25,000
+<font face="Roboto Medium" size="26"><i>Or at least, it used to be.</i></font>
+
+58
+00:04:25,430 --> 00:04:29,770
+<font face="Roboto Medium" size="26"><i>That idea of professionalism has 
+started to change a bit in recent years.</i></font>
+
+59
+00:04:30,830 --> 00:04:36,830
+<font size="24"><b>{\an8}<font size="14"><font color="#f0f15b">Hot topic!</font></font></b></font>
+
+60
+00:04:30,830 --> 00:04:36,830
+<font size="24"><b>{\an8}<font size="28"><font face="Arial Black"><font color="#261818">Actor E Remarries & Purchases Luxury Home
+\h\h\h\h\h\h\hNew Life In a Highly Desirable Residence</font></font></font></b></font>
+
+61
+00:04:30,830 --> 00:04:36,830
+<font size="24"><b>{\an8}<font size="18"><font color="#f8cee9">His partner, a classmate from high school</font></font></b></font>
+
+62
+00:04:30,830 --> 00:04:36,830
+<font size="24"><b>{\an8}<font face="Arial Black"><font color="#3a272b"><font size="16">Popular Idol H and Actor K Affair Discovered!</font></font></font></b></font>
+
+63
+00:04:30,950 --> 00:04:36,830
+<font size="24"><b>{\an8}<font size="26"><font color="#a43d46">Women's Heaven</font></font></b></font>
+
+64
+00:04:31,870 --> 00:04:36,020
+<font face="Roboto Medium" size="26"><i>{\an8}The cause is a shift 
+in the nature of gossip reporting.</i></font>
+
+65
+00:04:36,830 --> 00:04:46,800
+<font size="24"><b>{\an8}<font size="32"><font face="Times New Roman"><font color="#1b1b1b">2.5D Actor Caught Two-Timing</font></font></font></b></font>
+
+66
+00:04:36,830 --> 00:04:46,800
+<font size="24"><b>{\an8}<font size="32"><font face="Times New Roman"><font color="#dbddde">2.5D Actor Caught Two-Timing</font></font></font></b></font>
+
+67
+00:04:36,830 --> 00:04:46,800
+<font size="24"><b>{\an8}<font size="20"><font face="Times New Roman"><font color="#1b1b1b">Actress Momoka Kotori With Coactor</font></font></font></b></font>
+
+68
+00:04:36,830 --> 00:04:46,800
+<font size="24"><b>{\an8}<font size="20"><font face="Times New Roman"><font color="#dbddde">Actress Momoka Kotori With Coactor</font></font></font></b></font>
+
+69
+00:04:36,830 --> 00:04:46,800
+<font size="24"><b>{\an8}<font size="40"><font face="Times New Roman"><font color="#1b1b1b">Fans Livid</font></font></font></b></font>
+
+70
+00:04:36,830 --> 00:04:46,800
+<font size="24"><b>{\an8}<font size="40"><font face="Times New Roman"><font color="#dbddde">Fans Livid</font></font></font></b></font>
+
+71
+00:04:36,830 --> 00:04:46,800
+<font size="24"><b>{\an8}<font size="32"><font face="Times New Roman"><font color="#1b1b1b">Heroine In Affair</font></font></font></b></font>
+
+72
+00:04:36,830 --> 00:04:46,800
+<font size="24"><b>{\an8}<font size="32"><font face="Times New Roman"><font color="#dbddde">Heroine In Affair</font></font></font></b></font>
+
+73
+00:04:36,830 --> 00:04:46,800
+<font size="24"><b>{\an8}<font size="20"><font face="Times New Roman"><font color="#1b1b1b">Steamy Love</font></font></font></b></font>
+
+74
+00:04:36,830 --> 00:04:46,800
+<font size="24"><b>{\an8}<font size="20"><font face="Times New Roman"><font color="#dbddde">Steamy Love</font></font></font></b></font>
+
+75
+00:04:37,320 --> 00:04:42,620
+<font face="Roboto Medium" size="26"><i>While the rise of social media has led 
+to a huge increase in gossip stories,</i></font>
+
+76
+00:04:37,880 --> 00:04:46,800
+<font size="24"><b>{\an8}<font size="32"><font face="Times New Roman"><font color="#1b1b1b">Lover Found</font></font></font></b></font>
+
+77
+00:04:37,880 --> 00:04:46,800
+<font size="24"><b>{\an8}<font size="32"><font face="Times New Roman"><font color="#dbddde">Lover Found</font></font></font></b></font>
+
+78
+00:04:39,880 --> 00:04:46,800
+<font size="24"><b>{\an8}<font size="32"><font face="Times New Roman"><font color="#1b1b1b">Attitude Changes Overnight</font></font></font></b></font>
+
+79
+00:04:39,880 --> 00:04:46,800
+<font size="24"><b>{\an8}<font size="32"><font face="Times New Roman"><font color="#dbddde">Attitude Changes Overnight</font></font></font></b></font>
+
+80
+00:04:42,880 --> 00:04:46,800
+<font size="24"><b>{\an8}<font size="32"><font face="Times New Roman"><font color="#1b1b1b">Model's Apartment</font></font></font></b></font>
+
+81
+00:04:42,880 --> 00:04:46,800
+<font size="24"><b>{\an8}<font size="32"><font face="Times New Roman"><font color="#dbddde">Model's Apartment</font></font></font></b></font>
+
+82
+00:04:43,090 --> 00:04:46,270
+<font face="Roboto Medium" size="26"><i>it's also watered down 
+the significance of each individual one.</i></font>
+
+83
+00:04:46,800 --> 00:04:54,020
+<font size="24"><b>{\an8}<font size="28"><font face="Arial Black"><font color="#fdfeff">Exclusive: "It was Hell"</font></font></font></b></font>
+
+84
+00:04:46,800 --> 00:04:54,020
+<font size="24"><b>{\an8}<font size="28"><font face="Arial Black"><font color="#414141">Decides on Comeback</font></font></font></b></font>
+
+85
+00:04:47,390 --> 00:04:51,270
+<font face="Roboto Medium" size="26"><i>Scandals no longer do 
+lethal damage to entertainers.</i></font>
+
+86
+00:04:51,270 --> 00:04:58,000
+<font face="Roboto Medium" size="26"><i>Now, even the ones who get outed 
+can make a full comeback in time.</i></font>
+
+87
+00:04:54,020 --> 00:04:59,610
+<font size="24"><b>{\an8}<font size="20"><font color="#414141">You didn't break any laws or anything,
+so the fans will understand!!
+
+
+Welcome back!!
+
+
+Ignore the haters!
+I'll root for you no matter what!!</font></font></b></font>
+
+88
+00:04:59,990 --> 00:05:03,560
+<font face="Roboto Medium" size="26"><i>This trend has probably given a fair few 
+idols some much-needed peace of mind.</i></font>
+
+89
+00:05:05,050 --> 00:05:06,290
+<font face="Roboto Medium" size="26"><i>After all...</i></font>
+
+90
+00:05:06,640 --> 00:05:09,290
+<font face="Roboto Medium" size="26"><i>most "steamy romance" gossip about idols</i></font>
+
+91
+00:05:09,790 --> 00:05:12,620
+<font face="Roboto Medium" size="26"><i>is leaked by members 
+of their inner circle.</i></font>
+
+92
+00:05:14,510 --> 00:05:18,180
+<font face="Roboto Medium" size="26"><i>Showbiz is hardly just glitz and glamour.</i></font>
+
+93
+00:05:25,830 --> 00:05:31,100
+<font face="Roboto Medium" size="26"><i>It's such a cruel and harsh place that 
+sometimes you just want to run away.</i></font>
+
+94
+00:05:32,810 --> 00:05:35,060
+<font size="24"><b>{\an8}<font size="12">Tokyo</font></b></font>
+
+95
+00:05:32,810 --> 00:05:35,060
+<font size="24"><b>{\an8}<font face="Arial Black"><font color="#e91105">Super Hot</font></font></b></font>
+
+96
+00:05:32,810 --> 00:05:35,060
+<font size="24"><b>{\an8}<font size="12"><font color="#f09b52">Weekly Social Media Hit Chart</font></font></b></font>
+
+97
+00:05:32,810 --> 00:05:35,060
+<font size="24"><b>{\an8}<font size="9"><font color="#81533a">PM Sakaichi Meets With President Stump
+
+
+
+Niigata Records Largest Snowfall in History
+
+
+
+Brohei Kotani Prepares for New Season</font></font></b></font>
+
+98
+00:05:32,810 --> 00:05:35,060
+<font size="24"><b>{\an8}<font size="11"><font color="#cd3e37">Popular Idol Holds Retirement
+
+
+
+Press Conference</font></font></b></font>
+
+99
+00:05:32,810 --> 00:05:35,060
+<font size="24"><b>{\an8}<font size="9"><font color="#81533a">JP Burger Chain Lands in USA
+
+
+
+Another Bear Spotted in Tokyo
+
+
+
+Spring Fashion Lineup Revealed
+
+
+
+Popular VTuber Holds First Budokan Concert
+
+
+
+Reiwa's Noodle War
+
+
+
+Food Researcher Launches Channel</font></font></b></font>
+
+100
+00:05:32,810 --> 00:05:37,320
+<font face="Roboto Medium" size="26"><i>{\an8}Nina-san suddenly announced 
+her retirement last night.</i></font>
+
+101
+00:05:33,950 --> 00:05:35,060
+<font face="Roboto Medium" size="26">Wow.</font>
+
+102
+00:05:35,060 --> 00:05:37,060
+<font face="Roboto Medium" size="26">She's quitting?</font>
+
+103
+00:05:37,060 --> 00:05:40,280
+<font face="Roboto Medium" size="26">Her group had really been 
+picking up in popularity, too.</font>
+
+104
+00:05:37,320 --> 00:05:40,280
+<font face="Roboto Medium" size="26"><i>{\an8}We asked her fans for their thoughts.</i></font>
+
+105
+00:05:40,280 --> 00:05:42,020
+<font face="Roboto Medium" size="26">What a shame.</font>
+
+106
+00:05:43,630 --> 00:05:45,770
+<font face="Roboto Medium" size="26">Doesn't matter if you're popular or not.</font>
+
+107
+00:05:46,310 --> 00:05:49,500
+<font face="Roboto Medium" size="26">Some girls just aren't cut out for this.</font>
+
+108
+00:05:50,190 --> 00:05:56,000
+<font face="Roboto Medium" size="26">Sticking with a job can be pure torture 
+if it feels like a bad fit for your life.</font>
+
+109
+00:05:57,960 --> 00:06:00,940
+<font face="Roboto Medium" size="26">Hey, hey! What's with the doom and gloom?</font>
+
+110
+00:06:00,940 --> 00:06:02,760
+<font face="Roboto Medium" size="26">What's the matter? Wanna talk?</font>
+
+111
+00:06:02,760 --> 00:06:04,950
+<font face="Roboto Medium" size="26">Why don't we go out and get smashed?</font>
+
+112
+00:06:04,950 --> 00:06:07,450
+<font face="Roboto Medium" size="26">Wait, you're only 18! Can't drink yet!</font>
+
+113
+00:06:07,450 --> 00:06:08,240
+<font face="Roboto Medium" size="26">Drink...</font>
+
+114
+00:06:10,180 --> 00:06:11,240
+<font face="Roboto Medium" size="26">Sorry.</font>
+
+115
+00:06:12,630 --> 00:06:14,730
+<font face="Roboto Medium" size="26">It's nothing. Don't worry about me.</font>
+
+116
+00:06:15,560 --> 00:06:18,450
+<font face="Roboto Medium" size="26">I'd just like to be 
+left alone for a while.</font>
+
+117
+00:06:29,620 --> 00:06:30,910
+<font face="Roboto Medium" size="26">Aqu-tan! Aqu-tan! Aqu-tan!</font>
+
+118
+00:06:31,230 --> 00:06:33,160
+<font face="Roboto Medium" size="26">Whoa, why so frantic?</font>
+
+119
+00:06:33,160 --> 00:06:36,620
+<font size="24"><b>{\an8}<font size="21"><font face="Times New Roman"><font color="#3c1918">MEMcho, I bet your scalp smells good as hell.
+I'll pay 100,000 yen for your dandruff. Deal?</font></font></font></b></font>
+
+120
+00:06:33,610 --> 00:06:37,040
+<font face="Roboto Medium" size="26">Did you get a creepy message 
+in your Marshmallow Q&As?</font>
+
+121
+00:06:36,620 --> 00:06:36,750
+<font size="24"><b>{\an8}<font size="21"><font face="Times New Roman"><font color="#3c1918">MEMcho, I bet your scalp smells good as hell.
+I'll pay 100,000 yen for your dandruff. Deal?</font></font></font></b></font>
+
+122
+00:06:37,040 --> 00:06:38,710
+<font face="Roboto Medium" size="26">Swing and a miss!</font>
+
+123
+00:06:38,710 --> 00:06:41,840
+<font face="Roboto Medium" size="26">That happens all the time! 
+Why would I pitch a fit over it now?!</font>
+
+124
+00:06:42,360 --> 00:06:45,550
+<font face="Roboto Medium" size="26">We need to do something! 
+Kana-chan might leave B-Komachi!</font>
+
+125
+00:06:47,550 --> 00:06:49,360
+<font face="Roboto Medium" size="26">What makes you think so?</font>
+
+126
+00:06:52,190 --> 00:06:58,110
+<font face="Roboto Medium" size="26">You know how she always runs her mouth 
+but never lets her actual feelings show?</font>
+
+127
+00:06:58,740 --> 00:07:04,590
+<font face="Roboto Medium" size="26">She's always talking smack to cover up 
+what she's thinking on the inside.</font>
+
+128
+00:07:05,810 --> 00:07:10,350
+<font face="Roboto Medium" size="26">But lately, she's been making it 
+obvious that she's in a funk.</font>
+
+129
+00:07:11,280 --> 00:07:14,390
+<font face="Roboto Medium" size="26">It seems like a pretty clear yellow flag.</font>
+
+130
+00:07:15,180 --> 00:07:18,960
+<font face="Roboto Medium" size="26">If this keeps up, 
+things might really turn sour.</font>
+
+131
+00:07:21,420 --> 00:07:23,580
+<font face="Roboto Medium" size="26">Look after her somehow.</font>
+
+132
+00:07:23,580 --> 00:07:26,080
+<font face="Roboto Medium" size="26">I'm doing everything I can, okay?</font>
+
+133
+00:07:26,690 --> 00:07:27,470
+<font face="Roboto Medium" size="26">But...</font>
+
+134
+00:07:28,010 --> 00:07:31,760
+<font face="Roboto Medium" size="26">I bet nothing I say 
+will get through to her.</font>
+
+135
+00:07:34,020 --> 00:07:36,550
+<font face="Roboto Medium" size="26">And you know how Ruby is now.</font>
+
+136
+00:07:38,250 --> 00:07:40,360
+<font face="Roboto Medium" size="26">The only one who can 
+really fix Kana-chan is...</font>
+
+137
+00:07:40,360 --> 00:07:42,540
+<font face="Roboto Medium" size="26">Don't come to me for help with Arima.</font>
+
+138
+00:07:43,660 --> 00:07:47,320
+<font face="Roboto Medium" size="26">Like I told you before, 
+I'm not going to half-ass this.</font>
+
+139
+00:07:47,890 --> 00:07:49,490
+<font face="Roboto Medium" size="26">I won't be irresponsible.</font>
+
+140
+00:07:51,140 --> 00:07:53,320
+<font face="Roboto Medium" size="26">I have no right to.</font>
+
+141
+00:07:54,020 --> 00:07:56,150
+<font face="Roboto Medium" size="26">I get what you're saying.</font>
+
+142
+00:07:56,630 --> 00:07:58,750
+<font face="Roboto Medium" size="26">You don't want to lead her on...</font>
+
+143
+00:07:59,710 --> 00:08:03,590
+<font face="Roboto Medium" size="26">You don't wanna hurt her any more, right?</font>
+
+144
+00:08:05,140 --> 00:08:09,730
+<font face="Roboto Medium" size="26">But hey, listen... Kana-chan...</font>
+
+145
+00:08:11,070 --> 00:08:15,030
+<font face="Roboto Medium" size="26">Kana-chan's probably only being 
+an idol for you, Aqu-tan.</font>
+
+146
+00:08:16,490 --> 00:08:19,960
+<font face="Roboto Medium" size="26">She believed in and took this path 
+because you asked her to.</font>
+
+147
+00:08:20,900 --> 00:08:23,930
+<font face="Roboto Medium" size="26">She became an idol 
+because that's what you wanted.</font>
+
+148
+00:08:25,110 --> 00:08:28,930
+<font face="Roboto Medium" size="26">You're the one who 
+dragged her into this world.</font>
+
+149
+00:08:32,800 --> 00:08:34,760
+<font face="Roboto Medium" size="26">It doesn't have to be a lot.</font>
+
+150
+00:08:35,400 --> 00:08:37,200
+<font face="Roboto Medium" size="26">Just give her something, anything.</font>
+
+151
+00:09:23,940 --> 00:09:25,670
+<font face="Roboto Medium" size="26">Excuse me.</font>
+
+152
+00:09:26,000 --> 00:09:28,680
+<font face="Roboto Medium" size="26">You're Kana Arima-san, yes?</font>
+
+153
+00:09:31,260 --> 00:09:39,270
+<font size="24"><b>{\an8}<font color="#fcfcfc">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+154
+00:09:31,260 --> 00:09:39,270
+<font size="24"><b>{\an8}<font color="#50423f"><font size="20">Questions Regarding Kana Arima-san
+
+<font size="16">Dear Saitou-sama of Strawberry Productions,
+
+My apologies for contacting you out of the blue.
+I'm Itano, part of the editorial team for Houdensha's
+<i>True Showbiz Weekly</i>. We plan to publish a story
+on your talent, Kana Arima-san, in our next issue.
+We're sure you would like to review the content
+and/or contest certain points.
+So it might be best for both parties
+if we could conduct an official interview.</font></font></font></b></font>
+
+155
+00:09:39,270 --> 00:09:42,020
+<font size="24"><b>{\an8}<font size="40"><font color="#1b38d9">2 Attachments</font></font></b></font>
+
+156
+00:09:39,270 --> 00:09:42,020
+<font size="24"><b>{\an8}<font size="40"><font color="#342019">File 1</font></font></b></font>
+
+157
+00:09:39,270 --> 00:09:42,020
+<font size="24"><b>{\an8}<font size="40"><font color="#342019">File 2</font></font></b></font>
+
+158
+00:09:43,430 --> 00:09:45,020
+<font face="Roboto Medium" size="26">Oh, no.</font>
+
+159
+00:09:45,850 --> 00:09:48,620
+<font face="Roboto Medium" size="26">This is going to be a real mess.</font>
+
+160
+00:09:52,490 --> 00:09:54,040
+<font face="Roboto Medium" size="26">Excuse me.</font>
+
+161
+00:09:54,040 --> 00:09:56,530
+<font face="Roboto Medium" size="26">You're Kana Arima-san, yes?</font>
+
+162
+00:09:56,830 --> 00:10:00,790
+<font face="Roboto Medium" size="26">I'm a reporter with <i>True Showbiz Weekly</i>.</font>
+
+163
+00:10:00,790 --> 00:10:04,040
+<font face="Roboto Medium" size="26">I'd like to ask you a few questions 
+about your relationship</font>
+
+164
+00:10:04,040 --> 00:10:05,960
+<font face="Roboto Medium" size="26">with Director Masanori Shima.</font>
+
+165
+00:10:08,880 --> 00:10:10,010
+<font face="Roboto Medium" size="26"><i>Huh?</i></font>
+
+166
+00:10:10,010 --> 00:10:13,130
+<font face="Roboto Medium" size="26"><i>A tabloid reporter? Why?</i></font>
+
+167
+00:10:14,780 --> 00:10:17,280
+<font face="Roboto Medium" size="26"><i>Is this about that night?</i></font>
+
+168
+00:10:17,900 --> 00:10:22,560
+<font face="Roboto Medium" size="26">The two of you went into 
+his apartment the other night, yes?</font>
+
+169
+00:10:22,860 --> 00:10:26,770
+<font face="Roboto Medium" size="26">{\an8}His staff had all left by that time.</font>
+
+170
+00:10:24,520 --> 00:10:25,980
+<font face="Roboto Medium" size="26"><i>What do I do?</i></font>
+
+171
+00:10:27,250 --> 00:10:30,730
+<font face="Roboto Medium" size="26">{\an8}He's a married man, and yet 
+you spent all night together.</font>
+
+172
+00:10:28,400 --> 00:10:29,840
+<font face="Roboto Medium" size="26"><i>What do I say?</i></font>
+
+173
+00:10:31,100 --> 00:10:32,740
+<font face="Roboto Medium" size="26">{\an8}What were you two doing?</font>
+
+174
+00:10:31,800 --> 00:10:33,340
+<font face="Roboto Medium" size="26"><i>What do I say?</i></font>
+
+175
+00:10:33,190 --> 00:10:34,700
+<font face="Roboto Medium" size="26">{\an8}Arima-san.</font>
+
+176
+00:10:34,980 --> 00:10:37,530
+<font face="Roboto Medium" size="26">{\an8}This <i>is</i> you, is it not?</font>
+
+177
+00:10:37,190 --> 00:10:38,440
+<font face="Roboto Medium" size="26"><i>What </i>can<i> I say?</i></font>
+
+178
+00:10:37,530 --> 00:10:40,720
+<font face="Roboto Medium" size="26">{\an8}You two seem quite close.</font>
+
+179
+00:10:42,120 --> 00:10:43,620
+<font face="Roboto Medium" size="26">Why are you silent?</font>
+
+180
+00:10:43,620 --> 00:10:44,450
+<font face="Roboto Medium" size="26">Could you—</font>
+
+181
+00:10:46,620 --> 00:10:48,960
+<font face="Roboto Medium" size="26">Huh? Wait, Arima-san?</font>
+
+182
+00:10:50,420 --> 00:10:53,530
+<font face="Roboto Medium" size="26">Does running away mean you admit it?</font>
+
+183
+00:10:55,900 --> 00:10:58,640
+<font face="Roboto Medium" size="26">Why won't you explain yourself?</font>
+
+184
+00:10:59,070 --> 00:11:00,260
+<font face="Roboto Medium" size="26">Arima-san!</font>
+
+185
+00:11:14,490 --> 00:11:17,240
+<font size="24"><b>{\an8}<font color="#798ecd">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+186
+00:11:14,490 --> 00:11:17,240
+<font size="24"><b>{\an8}<font size="12"><font color="#343a46">< Mako Azami</font></font></b></font>
+
+187
+00:11:14,490 --> 00:11:17,240
+<font size="24"><b>{\an8}<font size="12"><font color="#343a46">Are you free rn?!</font></font></b></font>
+
+188
+00:11:14,490 --> 00:11:17,240
+<font size="24"><b>{\an8}<font size="12"><font color="#343a46">I'm having dinner
+in Roppongi</font></font></b></font>
+
+189
+00:11:14,490 --> 00:11:17,240
+<font size="24"><b>{\an8}<font size="12"><font color="#343a46">Director Shima's
+gonna join me</font></font></b></font>
+
+190
+00:11:14,490 --> 00:11:17,240
+<font size="24"><b>{\an8}<font size="12"><font color="#343a46">Wanna come??</font></font></b></font>
+
+191
+00:11:17,240 --> 00:11:19,490
+<font face="Roboto Medium" size="26">There you are, Shima!</font>
+
+192
+00:11:19,820 --> 00:11:22,740
+<font face="Roboto Medium" size="26">If he takes a liking to you, 
+you could land an acting gig.</font>
+
+193
+00:11:23,720 --> 00:11:24,830
+<font face="Roboto Medium" size="26">Go for it.</font>
+
+194
+00:11:25,270 --> 00:11:28,280
+<font face="Roboto Medium" size="26">He's not a playboy or anything.</font>
+
+195
+00:11:43,750 --> 00:11:45,450
+<font face="Roboto Medium" size="26"><i>Is this going to be in the news?</i></font>
+
+196
+00:11:45,850 --> 00:11:48,020
+<font face="Roboto Medium" size="26"><i>I didn't do anything!</i></font>
+
+197
+00:11:48,790 --> 00:11:53,200
+<font face="Roboto Medium" size="26"><i>But I did follow him into a private room.</i></font>
+
+198
+00:11:53,200 --> 00:11:56,320
+<font face="Roboto Medium" size="26"><i>I was alone with a man all night...</i></font>
+
+199
+00:11:57,130 --> 00:12:00,150
+<font face="Roboto Medium" size="26"><i>I definitely look guilty!</i></font>
+
+200
+00:12:04,210 --> 00:12:08,940
+<font face="Roboto Medium" size="26"><i>This is gonna hurt the other B-Komachi 
+members and the agency staff, too.</i></font>
+
+201
+00:12:12,110 --> 00:12:13,610
+<font face="Roboto Medium" size="26"><i>What do I do?</i></font>
+
+202
+00:12:15,530 --> 00:12:17,100
+<font face="Roboto Medium" size="26"><i>What do I do?</i></font>
+
+203
+00:12:37,740 --> 00:12:40,700
+<font face="Roboto Medium" size="26">{\an8}So I looked up 
+"how to keep white ants as pets"...</font>
+
+204
+00:12:38,430 --> 00:12:40,700
+<font face="Roboto Medium" size="26">Huh? You can't get in touch with her?</font>
+
+205
+00:12:40,700 --> 00:12:44,360
+<font face="Roboto Medium" size="26"><i>No. And we have no idea where she's gone.</i></font>
+
+206
+00:12:44,360 --> 00:12:46,700
+<font face="Roboto Medium" size="26"><i>Did Ruby get anything?</i></font>
+
+207
+00:12:46,700 --> 00:12:48,750
+<font face="Roboto Medium" size="26"><i>A message? A call?</i></font>
+
+208
+00:12:48,750 --> 00:12:52,430
+<font face="Roboto Medium" size="26">Sorry, Ruby-san's shoot is running 
+behind schedule right now.</font>
+
+209
+00:12:52,430 --> 00:12:54,130
+<font face="Roboto Medium" size="26">I'll ask her once she's done.</font>
+
+210
+00:12:54,380 --> 00:12:57,170
+<font face="Roboto Medium" size="26">Okay, please do.</font>
+
+211
+00:13:04,590 --> 00:13:07,650
+<font face="Roboto Medium" size="26">Nope, Kana-chan's not answering.</font>
+
+212
+00:13:12,110 --> 00:13:14,480
+<font face="Roboto Medium" size="26">She wasn't in the studio, either.</font>
+
+213
+00:13:16,790 --> 00:13:21,150
+<font face="Roboto Medium" size="26">She's never once skipped lessons before.</font>
+
+214
+00:13:21,850 --> 00:13:22,960
+<font face="Roboto Medium" size="26">I...</font>
+
+215
+00:13:23,650 --> 00:13:25,280
+<font face="Roboto Medium" size="26">I'm gonna go look for her!</font>
+
+216
+00:13:25,280 --> 00:13:26,120
+<font face="Roboto Medium" size="26">Hold it.</font>
+
+217
+00:13:26,510 --> 00:13:30,850
+<font face="Roboto Medium" size="26">Do you have any leads? 
+Just running around isn't going to help.</font>
+
+218
+00:13:32,130 --> 00:13:33,460
+<font face="Roboto Medium" size="26">I know that...</font>
+
+219
+00:13:33,890 --> 00:13:36,250
+<font face="Roboto Medium" size="26">But I can't just sit around and wait!</font>
+
+220
+00:13:41,630 --> 00:13:45,330
+<font face="Roboto Medium" size="26">It could be that Arima-san's 
+already heard the news.</font>
+
+221
+00:13:46,080 --> 00:13:47,520
+<font face="Roboto Medium" size="26">I swear...</font>
+
+222
+00:13:48,450 --> 00:13:53,760
+<font face="Roboto Medium" size="26">We need to hear the details from her 
+to figure out how to counter this, too.</font>
+
+223
+00:13:56,060 --> 00:13:58,530
+<font face="Roboto Medium" size="26">But she may not come back today.</font>
+
+224
+00:13:59,890 --> 00:14:00,980
+<font face="Roboto Medium" size="26">She will.</font>
+
+225
+00:14:01,590 --> 00:14:03,610
+<font face="Roboto Medium" size="26">You don't get it.</font>
+
+226
+00:14:03,610 --> 00:14:06,540
+<font face="Roboto Medium" size="26">I know you're an exception,</font>
+
+227
+00:14:06,540 --> 00:14:11,500
+<font face="Roboto Medium" size="26">but kids around her age 
+normally aren't that tough.</font>
+
+228
+00:14:12,620 --> 00:14:15,580
+<font face="Roboto Medium" size="26">Publishers, fans, and us agencies...</font>
+
+229
+00:14:15,970 --> 00:14:19,050
+<font face="Roboto Medium" size="26">We prey on young, fragile kids</font>
+
+230
+00:14:19,050 --> 00:14:21,050
+<font size="24"><b>{\an8}<font color="#463838">You're an idol.
+Please act more responsibly.</font></b></font>
+
+231
+00:14:19,300 --> 00:14:23,010
+<font size="24"><b>{\an8}<font color="#463838">you're so unserious</font></b></font>
+
+232
+00:14:19,460 --> 00:14:22,480
+<font face="Roboto Medium" size="26">and put too much pressure 
+and responsibility on their shoulders.</font>
+
+233
+00:14:21,760 --> 00:14:23,010
+<font size="24"><b>{\an8}<font color="#463838">please think about
+how your fans might feel</font></b></font>
+
+234
+00:14:23,350 --> 00:14:28,910
+<font face="Roboto Medium" size="26">This business thrives on breaking 
+the hearts and lives of you kids.</font>
+
+235
+00:14:33,730 --> 00:14:35,160
+<font face="Roboto Medium" size="26">I'm heading out, too.</font>
+
+236
+00:14:36,960 --> 00:14:39,950
+<font face="Roboto Medium" size="26">I have to bring MEM back, at least.</font>
+
+237
+00:14:57,790 --> 00:15:00,250
+<font face="Roboto Medium" size="26"><i>An idol, falling for a guy?</i></font>
+
+238
+00:15:00,250 --> 00:15:02,210
+<font face="Roboto Medium" size="26"><i>Talk about unprofessional.</i></font>
+
+239
+00:15:07,080 --> 00:15:09,720
+<font face="Roboto Medium" size="26"><i>Hurting your peers doesn't bother you?</i></font>
+
+240
+00:15:11,440 --> 00:15:13,270
+<font face="Roboto Medium" size="26">{\an8}That was so cute, right?</font>
+
+241
+00:15:13,270 --> 00:15:14,410
+<font face="Roboto Medium" size="26">{\an8}Yeah!</font>
+
+242
+00:15:13,600 --> 00:15:15,770
+<font face="Roboto Medium" size="26"><i>Way to ruin your image.</i></font>
+
+243
+00:15:15,770 --> 00:15:18,680
+<font face="Roboto Medium" size="26"><i>You're just so... filthy.</i></font>
+
+244
+00:15:18,680 --> 00:15:20,150
+<font face="Roboto Medium" size="26"><i>I trusted you.</i></font>
+
+245
+00:15:20,150 --> 00:15:23,280
+<font face="Roboto Medium" size="26"><i>Gimme back all the money I spent on you.</i></font>
+
+246
+00:15:27,910 --> 00:15:32,170
+<font face="Roboto Medium" size="26"><i>I've seen what happens to disgraced idols 
+too many times to count.</i></font>
+
+247
+00:15:32,840 --> 00:15:33,920
+<font face="Roboto Medium" size="26"><i>{\an8}You let me down.</i></font>
+
+248
+00:15:33,290 --> 00:15:36,870
+<font face="Roboto Medium" size="26"><i>I know exactly what fans say to them.</i></font>
+
+249
+00:15:33,920 --> 00:15:37,320
+<font face="Roboto Medium" size="26"><i>{\an8}If you cared about your fans at all, 
+you never would've done this.</i></font>
+
+250
+00:15:37,320 --> 00:15:38,720
+<font face="Roboto Medium" size="26"><i>I tore up your trading cards.</i></font>
+
+251
+00:15:38,020 --> 00:15:39,440
+<font face="Roboto Medium" size="26"><i>{\an8}I'm done being an otaku.</i></font>
+
+252
+00:15:39,440 --> 00:15:41,710
+<font face="Roboto Medium" size="26"><i>Disgusting. I can't.</i></font>
+
+253
+00:15:42,070 --> 00:15:44,100
+<font face="Roboto Medium" size="26"><i>Scamming little whore.</i></font>
+
+254
+00:15:44,100 --> 00:15:45,730
+<font face="Roboto Medium" size="26"><i>Just quit already. Get out of my sight.</i></font>
+
+255
+00:15:45,730 --> 00:15:48,610
+<font face="Roboto Medium" size="26"><i>Some guy's probably 
+consoling her right now.</i></font>
+
+256
+00:15:47,510 --> 00:15:50,980
+<font face="Roboto Medium" size="26"><i>{\an8}If you're gonna be a pro idol, 
+be a pro all the way.</i></font>
+
+257
+00:15:49,470 --> 00:15:51,740
+<font face="Roboto Medium" size="26"><i>I trusted her, and she betrayed me.</i></font>
+
+258
+00:15:50,980 --> 00:15:53,780
+<font face="Roboto Medium" size="26"><i>{\an8}Nobody would care if she'd 
+done this after she retired.</i></font>
+
+259
+00:15:51,920 --> 00:15:55,760
+<font face="Roboto Medium" size="26"><i>{\an3}"I spent the money you spent on
+me on dates with a guy, lol!"</i></font>
+
+260
+00:15:53,780 --> 00:15:57,180
+<font face="Roboto Medium" size="26"><i>{\an8}She didn't even stop to think 
+this would hurt her group.</i></font>
+
+261
+00:15:54,820 --> 00:15:58,040
+<font face="Roboto Medium" size="26"><i>{\an1}I only stanned her 'cuz I
+thought she'd never do this.</i></font>
+
+262
+00:15:56,000 --> 00:15:58,040
+<font face="Roboto Medium" size="26"><i>{\an3}The girl lost to horny.</i></font>
+
+263
+00:15:57,190 --> 00:16:01,690
+<font face="Roboto Medium" size="26"><i>{\an8}Don't be an idol 
+if you want a love life.</i></font>
+
+264
+00:15:57,600 --> 00:16:00,380
+<font face="Roboto Medium" size="26"><i>{\an8}Lack of character,
+plain and simple.</i></font>
+
+265
+00:15:58,240 --> 00:16:01,020
+<font face="Roboto Medium" size="26"><i>{\an3}You do this after acting 
+all high and mighty?</i></font>
+
+266
+00:15:58,970 --> 00:16:01,690
+<font face="Roboto Medium" size="26"><i>{\an1}Can't even stick to
+her own word, huh?</i></font>
+
+267
+00:16:03,880 --> 00:16:09,280
+<font face="Roboto Medium" size="26"><i>In the end, you only saw being an idol 
+as a way to stay in the industry.</i></font>
+
+268
+00:16:23,290 --> 00:16:25,130
+<font size="18" color="#0a5107">{\an7}<font size="25"><font color="#56556b">read</font></font></font>
+
+269
+00:16:23,290 --> 00:16:25,130
+<font size="18" color="#0a5107">{\an7}<font size="25"><font color="#173c08">Where'd you go?</font></font></font>
+
+270
+00:16:25,130 --> 00:16:27,250
+<font size="18" color="#0a5107">{\an7}<font size="25"><font color="#56556b">read</font></font></font>
+
+271
+00:16:25,130 --> 00:16:27,250
+<font size="18" color="#0a5107">{\an7}<font size="25"><font color="#173c08">Where'd you go?</font></font></font>
+
+272
+00:16:25,130 --> 00:16:27,260
+<font size="18" color="#0a5107">{\an7}<font size="25"><font color="#173c08">Come back already</font></font></font>
+
+273
+00:16:27,260 --> 00:16:29,510
+<font face="Roboto Medium" size="26">Sheesh, that MEM...</font>
+
+274
+00:16:31,470 --> 00:16:33,180
+<font size="18" color="#0a5107">{\an7}<font size="22"><font color="#573f44"><b>Miyako
+
+
+
+<font color="#7e6066"></font></b>Got it</font></font></font>
+
+275
+00:16:31,470 --> 00:16:33,180
+<font size="18" color="#0a5107">{\an7}<font size="22"><font color="#573f44"><b>Kana Arima
+
+
+
+<font color="#7e6066"></font></b>Sent a sticker</font></font></font>
+
+276
+00:16:36,000 --> 00:16:41,040
+<font face="Roboto Medium" size="26">There aren't many people in my life I can 
+empty my head and shoot the breeze with.</font>
+
+277
+00:16:44,640 --> 00:16:47,410
+<font face="Roboto Medium" size="26">But I don't have to care 
+about all that with you.</font>
+
+278
+00:16:47,410 --> 00:16:49,030
+<font face="Roboto Medium" size="26">Care a little, damn you!</font>
+
+279
+00:16:51,030 --> 00:16:52,030
+<font face="Roboto Medium" size="26">But hey...</font>
+
+280
+00:16:52,030 --> 00:16:56,810
+<font face="Roboto Medium" size="26">Being chosen for that role 
+doesn't feel so bad, I guess!</font>
+
+281
+00:17:17,000 --> 00:17:21,350
+<font face="Roboto Medium" size="26"><i>If I quit, will they let me off the hook?</i></font>
+
+282
+00:17:22,240 --> 00:17:26,280
+<font face="Roboto Medium" size="26"><i>I guess I never was meant to be an idol.</i></font>
+
+283
+00:17:27,480 --> 00:17:30,590
+<font face="Roboto Medium" size="26"><i>I have a foul mouth 
+and a nasty personality,</i></font>
+
+284
+00:17:30,590 --> 00:17:34,850
+<font face="Roboto Medium" size="26"><i>and I'm always whining about 
+not getting the gigs I really want.</i></font>
+
+285
+00:17:35,670 --> 00:17:39,370
+<font face="Roboto Medium" size="26"><i>I'm nothing like the ideal 
+idol in everyone's minds.</i></font>
+
+286
+00:17:40,540 --> 00:17:45,820
+<font face="Roboto Medium" size="26"><i>I'm not genuine enough to believe 
+I'm "doing it for the fans."</i></font>
+
+287
+00:17:47,050 --> 00:17:51,050
+<font face="Roboto Medium" size="26"><i>I'm the furthest thing 
+from sweet and innocent.</i></font>
+
+288
+00:17:52,320 --> 00:17:55,540
+<font face="Roboto Medium" size="26"><i>I tried to hang in there somehow, 
+and look where it got me.</i></font>
+
+289
+00:17:56,560 --> 00:18:00,240
+<font face="Roboto Medium" size="26"><i>I don't know what I'm 
+supposed to do anymore.</i></font>
+
+290
+00:18:01,570 --> 00:18:03,390
+<font face="Roboto Medium" size="26"><i>Somebody tell me.</i></font>
+
+291
+00:18:05,330 --> 00:18:09,400
+<font face="Roboto Medium" size="26"><i>Nobody wants the real Kana Arima.</i></font>
+
+292
+00:18:16,280 --> 00:18:17,740
+<font face="Roboto Medium" size="26"><i>I'm not cut out for this.</i></font>
+
+293
+00:18:35,430 --> 00:18:37,030
+<font face="Roboto Medium" size="26">I'm not meant for this!</font>
+
+294
+00:18:45,650 --> 00:18:46,940
+<font face="Roboto Medium" size="26">Help me...</font>
+
+295
+00:18:48,350 --> 00:18:51,000
+<font face="Roboto Medium" size="26">Help me, Aqua.</font>
+
+296
+00:19:09,360 --> 00:19:11,700
+<font face="Roboto Medium" size="26">What the hell did I just say?</font>
+
+297
+00:19:12,320 --> 00:19:16,220
+<font face="Roboto Medium" size="26">I turn to a guy for help 
+only when <i>I</i> need it?</font>
+
+298
+00:19:17,690 --> 00:19:20,570
+<font face="Roboto Medium" size="26">How gross can I be?</font>
+
+299
+00:19:21,540 --> 00:19:25,310
+<font face="Roboto Medium" size="26">Am I trying to make myself feel better 
+by playing the damsel in distress?</font>
+
+300
+00:19:26,020 --> 00:19:29,940
+<font face="Roboto Medium" size="26">Am I begging and pleading 
+for forgiveness and approval?</font>
+
+301
+00:19:35,160 --> 00:19:36,680
+<font face="Roboto Medium" size="26">Shame on me.</font>
+
+302
+00:19:37,740 --> 00:19:42,960
+<font face="Roboto Medium" size="26">Oh, man. They're gonna say I'm a slut 
+who's sleeping her way up.</font>
+
+303
+00:19:52,500 --> 00:19:54,580
+<font face="Roboto Medium" size="26">Talk all the shit you want, you losers!</font>
+
+304
+00:19:54,580 --> 00:19:58,510
+<font face="Roboto Medium" size="26">I've been dealing with that crap 
+since I was a preschooler!</font>
+
+305
+00:19:58,810 --> 00:20:06,100
+<font face="Roboto Medium" size="26">I don't even like the fans! 
+What do I care what they say about me?</font>
+
+306
+00:20:06,620 --> 00:20:10,350
+<font face="Roboto Medium" size="26">Somebody else can play 
+the sweet and innocent role.</font>
+
+307
+00:20:10,690 --> 00:20:13,850
+<font face="Roboto Medium" size="26">No matter what, no matter how...</font>
+
+308
+00:20:13,850 --> 00:20:16,730
+<font face="Roboto Medium" size="26">I'm gonna be myself!</font>
+
+309
+00:20:16,730 --> 00:20:20,820
+<font face="Roboto Medium" size="26">And I'm gonna survive in showbiz 
+as just little ol' me!</font>
+
+310
+00:20:24,270 --> 00:20:25,250
+<font face="Roboto Medium" size="26"><i>See?</i></font>
+
+311
+00:20:25,570 --> 00:20:29,080
+<font face="Roboto Medium" size="26"><i>It'll take way more than this 
+to break Kana Arima.</i></font>
+
+312
+00:20:29,710 --> 00:20:31,410
+<font size="18" color="#0a5107">{\an7}<font size="16">I'm heading out to look for her too
+Let me know if you find anything</font></font>
+
+313
+00:20:29,710 --> 00:20:31,410
+<font size="18" color="#424242">{\an7}<font size="16">Thanks, Aqu-tan.</font></font>
+
+314
+00:20:29,710 --> 00:20:31,410
+<font size="18" color="#424242">{\an7}<font size="16">I'll hit up places she's likely to go</font></font>
+
+315
+00:20:29,710 --> 00:20:31,410
+<font size="18" color="#0a5107">{\an7}<font size="16">Where'd you go?</font></font>
+
+316
+00:20:29,710 --> 00:20:31,410
+<font size="18" color="#0a5107">{\an7}<font size="16">Come back already</font></font>
+
+317
+00:20:30,350 --> 00:20:32,800
+<font face="Roboto Medium" size="26"><i>Arima will be fine.</i></font>
+
+318
+00:20:32,670 --> 00:20:34,170
+<font size="18" color="#0a5107">{\an7}<font size="16">Look around here</font></font>
+
+319
+00:20:38,130 --> 00:20:41,560
+<font face="Roboto Medium" size="26"><i>She has B-Komachi and the rest.</i></font>
+
+320
+00:20:44,430 --> 00:20:45,560
+<font face="Roboto Medium" size="26"><i>Me?</i></font>
+
+321
+00:20:46,660 --> 00:20:48,060
+<font face="Roboto Medium" size="26"><i>She doesn't need me.</i></font>
+
+322
+00:21:10,920 --> 00:21:18,880
+<font size="24"><b>{\an8}<font size="16"><font face="Comic Sans MS"><font color="#0e1c25">Hikaru Kamiki
+
+<font size="13">Started an agency at 25
+
+Was in Lalalai for six years,
+from the age of 10 to 16
+
+No details on later activity
+
+Might have an accomplice?</font></font></font></font></b></font>
+
+323
+00:21:10,920 --> 00:21:18,880
+<font size="24"><b>{\an8}<font size="16"><font face="Comic Sans MS"><font color="#0e1c25">Aqua Hoshino
+
+<font size="13">Been in showbiz since childhood
+
+Thinks the target of his revenge is dead
+
+Must not be allowed to come in contact</font></font></font></font></b></font>
+
+324
+00:21:13,290 --> 00:21:14,800
+<font face="Roboto Medium" size="26"><i>Hikaru Kamiki.</i></font>
+
+325
+00:21:15,230 --> 00:21:18,000
+<font face="Roboto Medium" size="26"><i>He started his own agency when he was 25.</i></font>
+
+326
+00:21:19,760 --> 00:21:24,600
+<font face="Roboto Medium" size="26"><i>Getting information on someone is easy 
+once you know who you're investigating.</i></font>
+
+327
+00:21:24,890 --> 00:21:31,340
+<font face="Roboto Medium" size="26"><i>I couldn't figure out what he did from 
+16, when he quit Lalalai, until 25...</i></font>
+
+328
+00:21:34,270 --> 00:21:37,230
+<font size="24"><b>{\an8}<font face="Verdana"><font size="36"><font color="#342c31">Media EYES, Inc.</font></font></font></b></font>
+
+329
+00:21:35,530 --> 00:21:36,710
+<font face="Roboto Medium" size="26"><i>But that's the place.</i></font>
+
+330
+00:21:43,260 --> 00:21:46,910
+<font face="Roboto Medium" size="26">Maybe I should have become 
+a private eye, not an actress.</font>
+
+331
+00:22:05,470 --> 00:22:09,970
+<font face="Times New Roman" size="32" color="#0a0a0a"><b>{\an8}Episode 30
+
+
+
+
+
+
+
+
+
+
+Idols and Relationships</b></font>
+
+332
+00:22:11,890 --> 00:22:15,440
+<font face="Times New Roman" size="13">{\an7}<font size="11">Translation
+<font size="13">Sriram Gurunathan
+
+<font size="11">Editing & Typesetting
+<font size="13">Geoff Mazzolini
+
+<font size="11">Subtitle Timing
+<font size="13">Krzysztof Kunc
+
+<font size="11">Quality Check
+<font size="13">Gabriella Alabanza
+
+<font size="11">Translation Check
+<font size="13">Michelle Tymon</font></font></font></font></font></font></font></font></font></font></font>
+
