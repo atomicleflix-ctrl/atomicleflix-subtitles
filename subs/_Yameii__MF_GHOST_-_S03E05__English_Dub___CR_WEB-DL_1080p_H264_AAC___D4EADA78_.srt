@@ -1,0 +1,37 @@
+1
+00:01:47,130 --> 00:01:49,000
+<font face="Gandhi Sans" size="24"><b><font face="Impact"><font size="90"><b><font color="#d1082a">MF Ghost</font></b></font></font></b></font>
+
+2
+00:01:50,630 --> 00:01:51,230
+<font face="Gandhi Sans" size="24"><b><b><font face="Arial"><font color="#ff060f">m 0 0 l 100 0 100 100 0 100</font></font></b></b></font>
+
+3
+00:01:50,630 --> 00:01:55,050
+<font face="Gandhi Sans" size="24"><b><b><font face="Arial">Grandma's Kei Truck</font></b></b></font>
+
+4
+00:02:47,270 --> 00:02:50,190
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Arial"><font size="26"><font color="#2f455b">Ogata Automotive</font></font></font></b></font>
+
+5
+00:11:53,540 --> 00:11:55,360
+<font face="Gandhi Sans" size="24"><b><font color="#f3e83a">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+6
+00:11:53,540 --> 00:11:55,360
+<font face="Gandhi Sans" size="24"><b><b><font size="15">{\an7}<font color="#37372a">* This is actually dangerous, so don't try it at home</font></font></b></b></font>
+
+7
+00:15:45,590 --> 00:15:48,840
+<font face="Gandhi Sans" size="24"><b>{\an8}<b><font face="Impact"><font size="18"><font color="#c0637b">Komari</font></font></font></b></b></font>
+
+8
+00:15:45,590 --> 00:15:48,840
+<font face="Gandhi Sans" size="24"><b>{\an8}<b><font face="Impact"><font size="16"><font color="#402d3c">Komari</font></font></font></b></b></font>
+
+9
+00:18:42,100 --> 00:18:51,480
+<font face="Gandhi Sans" size="24"><b><font face="Georgia"><font size="8">{\an8}<font color="#c1c2c5">Ancestral
+Grave</font></font></font></b></font>
+
