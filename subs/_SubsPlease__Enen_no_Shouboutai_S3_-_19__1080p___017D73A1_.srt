@@ -1,0 +1,1531 @@
+1
+00:00:03,480 --> 00:00:04,940
+<font face="Verdana" size="20"><b>{\an8}<font size="40">Four</font></b></font>
+
+2
+00:00:07,480 --> 00:00:08,910
+<font face="Roboto Medium" size="26"><i>Where am I?</i></font>
+
+3
+00:00:09,370 --> 00:00:10,700
+<font face="Roboto Medium" size="26"><i>Adolla?</i></font>
+
+4
+00:00:15,430 --> 00:00:16,930
+<font face="Roboto Medium" size="26">A pillar...</font>
+
+5
+00:00:17,730 --> 00:00:18,830
+<font face="Roboto Medium" size="26">Where's Sho?</font>
+
+6
+00:00:18,830 --> 00:00:19,760
+<font face="Roboto Medium" size="26">Where's everyone else?</font>
+
+7
+00:00:21,800 --> 00:00:23,740
+<font face="Roboto Medium" size="26">What's happening with the Great Cataclysm?</font>
+
+8
+00:00:24,500 --> 00:00:26,950
+<font face="Roboto Medium" size="26">If I don't stop the Great Cataclysm...</font>
+
+9
+00:01:24,850 --> 00:01:25,730
+<font face="Verdana" size="20"><b>{\an8}<font size="40">Two</font></b></font>
+
+10
+00:03:03,660 --> 00:03:06,410
+<font face="Times New Roman" size="20"><b>{\an8}<font size="40">Fire Force</font></b></font>
+
+11
+00:03:03,660 --> 00:03:06,410
+<font face="Times New Roman" size="20"><b>{\an8}<font size="25">Chapter 3</font></b></font>
+
+12
+00:03:08,950 --> 00:03:11,960
+<font face="Times New Roman" size="20"><b>{\an1}<font size="33"><font color="#000000">Episode 19
+<font size="31">Those Who Fight Back</font></font></font></b></font>
+
+13
+00:03:29,230 --> 00:03:30,770
+<font face="Roboto Medium" size="26">There's no end to them.</font>
+
+14
+00:03:34,400 --> 00:03:36,360
+<font face="Roboto Medium" size="26">Hinawa! We're out of time!</font>
+
+15
+00:03:40,460 --> 00:03:44,560
+<font face="Roboto Medium" size="26"><i>We have to hurry. I have 
+a bad feeling about this.</i></font>
+
+16
+00:03:50,660 --> 00:03:53,510
+<font face="Roboto Medium" size="26">You lose, Company 8!</font>
+
+17
+00:03:53,510 --> 00:03:56,970
+<font face="Roboto Medium" size="26">Our victory is telling the whole story!</font>
+
+18
+00:03:57,330 --> 00:04:00,420
+<font face="Roboto Medium" size="26">It says that the source of this 
+world's imaginings is death!</font>
+
+19
+00:04:00,420 --> 00:04:05,080
+<font face="Roboto Medium" size="26">And the response to that 
+is the Great Cataclysm!</font>
+
+20
+00:04:07,020 --> 00:04:10,480
+<font face="Roboto Medium" size="26">There's a limit to how much 
+energy you can absorb!</font>
+
+21
+00:04:10,480 --> 00:04:12,130
+<font face="Roboto Medium" size="26">I will end this!</font>
+
+22
+00:04:12,430 --> 00:04:16,140
+<font face="Roboto Medium" size="26">As you say, I'm nearing my limit!</font>
+
+23
+00:04:16,960 --> 00:04:19,680
+<font face="Roboto Medium" size="26">Sorry I've kept you waiting, Haumea!</font>
+
+24
+00:04:22,820 --> 00:04:23,940
+<font face="Roboto Medium" size="26">Haumea?</font>
+
+25
+00:04:24,950 --> 00:04:26,310
+<font face="Roboto Medium" size="26">Haumea?</font>
+
+26
+00:04:26,630 --> 00:04:27,930
+<font face="Roboto Medium" size="26">Hey!</font>
+
+27
+00:04:28,540 --> 00:04:30,920
+<font face="Roboto Medium" size="26">Where are you, Haumea?</font>
+
+28
+00:04:31,540 --> 00:04:34,480
+<font face="Roboto Medium" size="26">I look away for one second, 
+and she's gone.</font>
+
+29
+00:04:34,480 --> 00:04:35,560
+<font face="Roboto Medium" size="26">Haumea!</font>
+
+30
+00:04:39,430 --> 00:04:41,940
+<font face="Roboto Medium" size="26">Haumea. Are you all right?</font>
+
+31
+00:04:41,940 --> 00:04:44,970
+<font face="Roboto Medium" size="26">My head... is splitting.</font>
+
+32
+00:04:46,360 --> 00:04:49,120
+<font face="Roboto Medium" size="26">Everyone's bad feelings...</font>
+
+33
+00:04:49,120 --> 00:04:51,480
+<font face="Roboto Medium" size="26">are coming into Haumea's head...</font>
+
+34
+00:04:50,510 --> 00:04:52,000
+<font face="Roboto Medium" size="26">Haumea.</font>
+
+35
+00:04:52,000 --> 00:04:53,460
+<font face="Roboto Medium" size="26">Haumea!</font>
+
+36
+00:04:53,460 --> 00:04:57,480
+<font face="Roboto Medium" size="26">Haumea! Haumea!</font>
+
+37
+00:04:59,400 --> 00:05:00,530
+<font face="Roboto Medium" size="26">Haumea.</font>
+
+38
+00:05:04,110 --> 00:05:06,450
+<font face="Roboto Medium" size="26">Don't worry about Haumea!</font>
+
+39
+00:05:06,450 --> 00:05:09,120
+<font face="Roboto Medium" size="26">Haumea can hear inside your head!</font>
+
+40
+00:05:09,120 --> 00:05:12,140
+<font face="Roboto Medium" size="26">If it will make your burden 
+even a little easier to carry,</font>
+
+41
+00:05:12,140 --> 00:05:13,860
+<font face="Roboto Medium" size="26">then hit me until you feel better.</font>
+
+42
+00:05:32,910 --> 00:05:34,640
+<font face="Roboto Medium" size="26">She wore herself out, eh?</font>
+
+43
+00:05:35,290 --> 00:05:37,320
+<font face="Roboto Medium" size="26">Did Haumea give you those wounds?</font>
+
+44
+00:05:37,320 --> 00:05:38,770
+<font face="Roboto Medium" size="26">Your face looks awful.</font>
+
+45
+00:05:38,770 --> 00:05:41,570
+<font face="Roboto Medium" size="26">Even in sleep, there 
+is no rest for Haumea.</font>
+
+46
+00:05:42,120 --> 00:05:46,850
+<font face="Roboto Medium" size="26">All of humanity's emotions 
+pour into her little head.</font>
+
+47
+00:05:47,330 --> 00:05:52,610
+<font face="Roboto Medium" size="26">The only escape available to her 
+is to enjoy the madness and malice.</font>
+
+48
+00:05:52,610 --> 00:05:55,140
+<font face="Roboto Medium" size="26">You're Charon the Reflector, aren't you?</font>
+
+49
+00:05:55,140 --> 00:05:57,320
+<font face="Roboto Medium" size="26">Why don't you absorb the damage?</font>
+
+50
+00:05:57,620 --> 00:06:00,580
+<font face="Roboto Medium" size="26">Her violence is her pain.</font>
+
+51
+00:06:01,090 --> 00:06:06,050
+<font face="Roboto Medium" size="26">If it helps me to understand her pain 
+even a little, I will accept all of it.</font>
+
+52
+00:06:06,050 --> 00:06:07,560
+<font face="Roboto Medium" size="26">How pointless.</font>
+
+53
+00:06:07,560 --> 00:06:10,770
+<font face="Roboto Medium" size="26">Haumea's pain is my pain, too.</font>
+
+54
+00:06:10,770 --> 00:06:13,950
+<font face="Roboto Medium" size="26">If you become a Guardian, 
+you'll understand.</font>
+
+55
+00:06:15,470 --> 00:06:18,700
+<font face="Roboto Medium" size="26">Continuously receiving the 
+collective unconscious...</font>
+
+56
+00:06:18,700 --> 00:06:21,340
+<font face="Roboto Medium" size="26">Anyone other than Haumea
+would have broken.</font>
+
+57
+00:06:21,750 --> 00:06:25,320
+<font face="Roboto Medium" size="26">She was born to be the symbol 
+of all female saints.</font>
+
+58
+00:06:25,840 --> 00:06:29,610
+<font face="Roboto Medium" size="26">She's always had the goodness of heart 
+necessary to accept people's wickedness.</font>
+
+59
+00:06:30,120 --> 00:06:33,750
+<font face="Roboto Medium" size="26">Even now, after taking in all 
+that malice, she's still alive.</font>
+
+60
+00:06:34,630 --> 00:06:37,160
+<font face="Roboto Medium" size="26">She's swallowing all of humanity's evil</font>
+
+61
+00:06:37,160 --> 00:06:39,930
+<font face="Roboto Medium" size="26">with that little body of hers.</font>
+
+62
+00:06:46,890 --> 00:06:49,520
+<font face="Roboto Medium" size="26">Lady Haumea, it's time for mass.</font>
+
+63
+00:06:53,930 --> 00:06:55,760
+<font face="Times New Roman" size="20"><b><font color="#020000">Curiosity</font></b></font>
+
+64
+00:06:53,950 --> 00:06:58,020
+<font face="Roboto Medium" size="26"><i>It's been ten years since the saintess 
+awakened to her Adolla Burst.</i></font>
+
+65
+00:06:54,680 --> 00:06:59,560
+<font face="Times New Roman" size="20"><b><font color="#020000">Desire</font></b></font>
+
+66
+00:06:54,930 --> 00:06:57,220
+<font face="Times New Roman" size="20"><b><font color="#020000">{\an8}Interest</font></b></font>
+
+67
+00:06:55,810 --> 00:06:58,140
+<font face="Times New Roman" size="20"><b><font color="#020000">{\an8}Fear</font></b></font>
+
+68
+00:06:56,970 --> 00:06:58,770
+<font face="Times New Roman" size="20"><b><font color="#020000">{\an8}Taboo</font></b></font>
+
+69
+00:06:57,270 --> 00:06:59,390
+<font face="Times New Roman" size="20"><b><font color="#020000">Respect</font></b></font>
+
+70
+00:06:57,930 --> 00:06:59,560
+<font face="Times New Roman" size="20"><b><font color="#020000">{\an8}<font size="15">Wickedness</font></font></b></font>
+
+71
+00:06:58,420 --> 00:07:00,060
+<font face="Roboto Medium" size="26"><i>It's changed her so much.</i></font>
+
+72
+00:06:59,560 --> 00:07:01,770
+<font face="Times New Roman" size="20"><b><font color="#020000">{\an8}<font size="15">Wickedness</font></font></b></font>
+
+73
+00:06:59,560 --> 00:07:01,230
+<font face="Times New Roman" size="20"><b><font color="#020000">{\an8}<font size="15">Growth</font></font></b></font>
+
+74
+00:06:59,560 --> 00:07:00,810
+<font face="Times New Roman" size="20"><b><font color="#020000">{\an8}<font size="15">Interest</font></font></b></font>
+
+75
+00:06:59,730 --> 00:07:01,770
+<font face="Times New Roman" size="20"><b><font color="#020000">{\an8}<font size="15">Temptation</font></font></b></font>
+
+76
+00:06:59,980 --> 00:07:01,520
+<font face="Times New Roman" size="20"><b><font color="#020000">Curiosity</font></b></font>
+
+77
+00:07:00,850 --> 00:07:01,770
+<font face="Times New Roman" size="20"><b><font color="#020000"><font size="15">Respect</font></font></b></font>
+
+78
+00:07:01,760 --> 00:07:02,890
+<font face="Roboto Medium" size="26"><i>No.</i></font>
+
+79
+00:07:02,890 --> 00:07:04,710
+<font face="Roboto Medium" size="26"><i>I must not think about anything.</i></font>
+
+80
+00:07:05,170 --> 00:07:06,920
+<font face="Roboto Medium" size="26"><i>Lady Haumea knows all.</i></font>
+
+81
+00:07:08,600 --> 00:07:10,030
+<font face="Roboto Medium" size="26"><i>Still...</i></font>
+
+82
+00:07:10,030 --> 00:07:14,740
+<font face="Times New Roman" size="20"><b><font color="#020000">Desire</font></b></font>
+
+83
+00:07:10,030 --> 00:07:12,280
+<font face="Times New Roman" size="20"><b><font color="#020000">Respect</font></b></font>
+
+84
+00:07:10,030 --> 00:07:11,360
+<font face="Times New Roman" size="20"><b><font color="#020000">Curiosity</font></b></font>
+
+85
+00:07:10,030 --> 00:07:14,740
+<font face="Times New Roman" size="20"><b><font color="#020000">Fear</font></b></font>
+
+86
+00:07:10,030 --> 00:07:14,740
+<font face="Times New Roman" size="20"><b><font color="#020000">Temptation</font></b></font>
+
+87
+00:07:10,290 --> 00:07:11,890
+<font face="Roboto Medium" size="26"><i>She's grown so beautiful.</i></font>
+
+88
+00:07:10,820 --> 00:07:14,140
+<font face="Times New Roman" size="20"><b><font color="#020000"><font size="15">Wickedness</font></font></b></font>
+
+89
+00:07:11,110 --> 00:07:13,820
+<font face="Times New Roman" size="20"><b><font color="#020000">Taboo</font></b></font>
+
+90
+00:07:11,820 --> 00:07:14,740
+<font face="Times New Roman" size="20"><b><font color="#020000">{\an8}Interest</font></b></font>
+
+91
+00:07:12,580 --> 00:07:14,750
+<font face="Roboto Medium" size="26"><i>I wonder what lies beneath that crown.</i></font>
+
+92
+00:07:14,750 --> 00:07:15,710
+<font face="Roboto Medium" size="26">All right.</font>
+
+93
+00:07:16,510 --> 00:07:17,990
+<font face="Roboto Medium" size="26">Thank you!</font>
+
+94
+00:07:28,380 --> 00:07:37,350
+<font face="Times New Roman" size="20"><b>{\an9}<font color="#020000"><font size="15">Hate
+Deceit
+ Nothingness
+Cunning
+Evil
+Humiliation
+Desire
+Despair
+Hate
+Futility</font></font></b></font>
+
+95
+00:07:28,380 --> 00:07:37,350
+<font face="Times New Roman" size="20"><b>{\an7}<font color="#020000"><font size="15">Regret
+Futility
+ Depravity
+ Regret
+ Indolence</font></font></b></font>
+
+96
+00:07:38,720 --> 00:07:41,760
+<font face="Roboto Medium" size="26"><i>I can't break yet.</i></font>
+
+97
+00:07:46,310 --> 00:07:49,030
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#020000">Hate Futility Despair Regret Malice Humiliation Fear Desire</font></b></font>
+
+98
+00:07:46,560 --> 00:07:49,030
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#020000">Indolence Desire Futility Despair Humiliation Fear Hate Regret Malice</font></b></font>
+
+99
+00:07:50,830 --> 00:07:53,840
+<font face="Roboto Medium" size="26"><i>Let's enjoy all this wickedness.</i></font>
+
+100
+00:08:05,620 --> 00:08:07,110
+<font face="Roboto Medium" size="26">Calm down, Haumea!</font>
+
+101
+00:08:07,110 --> 00:08:09,300
+<font face="Roboto Medium" size="26">But it's hilarious! Isn't it?!</font>
+
+102
+00:08:10,630 --> 00:08:15,510
+<font face="Roboto Medium" size="26">It can't get any better! Just 
+disappear! You're getting in my way!</font>
+
+103
+00:08:22,100 --> 00:08:23,650
+<font face="Roboto Medium" size="26">Are you all right?</font>
+
+104
+00:08:23,650 --> 00:08:25,650
+<font face="Roboto Medium" size="26">I went on a little rampage, that's all.</font>
+
+105
+00:08:26,600 --> 00:08:29,220
+<font face="Roboto Medium" size="26">Of course I'm all right.</font>
+
+106
+00:08:31,690 --> 00:08:32,940
+<font face="Roboto Medium" size="26">Is that so?</font>
+
+107
+00:08:36,850 --> 00:08:38,870
+<font face="Roboto Medium" size="26">Hey, Charon?</font>
+
+108
+00:08:40,970 --> 00:08:44,760
+<font face="Roboto Medium" size="26">Charon, how do you feel about me?</font>
+
+109
+00:08:45,180 --> 00:08:48,270
+<font face="Roboto Medium" size="26">What? How do I feel about you?</font>
+
+110
+00:08:48,270 --> 00:08:50,920
+<font face="Roboto Medium" size="26">I've never thought about it.</font>
+
+111
+00:08:51,190 --> 00:08:53,730
+<font face="Roboto Medium" size="26">You can see inside people's heads, right?</font>
+
+112
+00:08:54,600 --> 00:08:56,390
+<font face="Roboto Medium" size="26">Why don't you tell me?</font>
+
+113
+00:09:02,560 --> 00:09:06,270
+<font face="Times New Roman" size="20"><b>{\an8}<font size="40">Unconditional Love</font></b></font>
+
+114
+00:09:20,410 --> 00:09:24,920
+<font face="Roboto Medium" size="26">Haumea has battled this 
+world's darkness all alone!</font>
+
+115
+00:09:24,920 --> 00:09:28,250
+<font face="Roboto Medium" size="26">All in order to burn this planet 
+and purify it with flames!</font>
+
+116
+00:09:29,250 --> 00:09:30,360
+<font face="Roboto Medium" size="26">Charon?</font>
+
+117
+00:09:30,750 --> 00:09:32,960
+<font face="Roboto Medium" size="26">To bring salvation to this planet!</font>
+
+118
+00:09:32,960 --> 00:09:37,920
+<font face="Roboto Medium" size="26">Charon. Charon. Charon. Charon? Charon!</font>
+
+119
+00:09:37,920 --> 00:09:41,380
+<font face="Roboto Medium" size="26">Illuminate the saintess's 
+darkness and be purified!</font>
+
+120
+00:09:42,810 --> 00:09:44,550
+<font face="Roboto Medium" size="26">Charon. No!</font>
+
+121
+00:09:45,150 --> 00:09:48,950
+<font face="Roboto Medium" size="26">You can do the rest on 
+your own, right, Haumea?</font>
+
+122
+00:09:51,740 --> 00:09:55,200
+<font face="Roboto Medium" size="26">No!</font>
+
+123
+00:10:07,500 --> 00:10:08,720
+<font face="Roboto Medium" size="26">What's that?</font>
+
+124
+00:10:13,160 --> 00:10:15,010
+<font face="Roboto Medium" size="26">What a shame.</font>
+
+125
+00:10:35,520 --> 00:10:37,060
+<font face="Roboto Medium" size="26"><i>Moon!</i></font>
+
+126
+00:10:43,070 --> 00:10:47,700
+<font face="Verdana" size="20"><b><font size="25">SILENCE</font></b></font>
+
+127
+00:10:48,330 --> 00:10:49,960
+<font face="Roboto Medium" size="26"><i>What happened?</i></font>
+
+128
+00:10:48,410 --> 00:10:51,710
+<font face="Trebuchet MS" size="20"><b><font color="#0f0403"><font size="15">What happened?</font></font></b></font>
+
+129
+00:10:50,310 --> 00:10:51,710
+<font face="Trebuchet MS" size="20"><b><font color="#0f0403"><font size="15">An eye?</font></font></b></font>
+
+130
+00:10:50,310 --> 00:10:51,710
+<font face="Roboto Medium" size="26"><i>An eye?</i></font>
+
+131
+00:10:51,980 --> 00:10:55,660
+<font face="Roboto Medium" size="26"><i>This world and Adolla are connected.</i></font>
+
+132
+00:10:52,060 --> 00:10:55,660
+<font face="Trebuchet MS" size="20"><b><font color="#0f0403">This world and Adolla 
+are connected.</font></b></font>
+
+133
+00:10:55,780 --> 00:10:58,630
+<font face="Trebuchet MS" size="20"><b><font color="#0f0403"><font size="15">Images 
+and 
+reality...</font></font></b></font>
+
+134
+00:10:56,040 --> 00:10:58,630
+<font face="Roboto Medium" size="26"><i>Images and reality...</i></font>
+
+135
+00:10:59,510 --> 00:11:01,380
+<font face="Trebuchet MS" size="20"><b><font color="#0f0403"><font size="15">{\an8}are fusing into one</font></font></b></font>
+
+136
+00:10:59,520 --> 00:11:00,960
+<font face="Roboto Medium" size="26">...are fusing into one.</font>
+
+137
+00:11:21,990 --> 00:11:24,990
+<font face="Times New Roman" size="20"><b><font size="20">Fire Force</font></b></font>
+
+138
+00:11:21,990 --> 00:11:24,990
+<font face="Times New Roman" size="20"><b><font size="15">Chapter 3</font></b></font>
+
+139
+00:11:24,990 --> 00:11:27,990
+<font face="Times New Roman" size="20"><b>{\an2}<font size="40">Fire Force</font></b></font>
+
+140
+00:11:24,990 --> 00:11:27,990
+<font face="Times New Roman" size="20"><b>{\an8}<font size="21">Chapter 3</font></b></font>
+
+141
+00:11:29,140 --> 00:11:31,960
+<font face="Roboto Medium" size="26"><i>Year 198 of the Solar Era.</i></font>
+
+142
+00:11:34,390 --> 00:11:37,310
+<font face="Roboto Medium" size="26"><i>One hundred and fifty years after 
+the previous Great Cataclysm.</i></font>
+
+143
+00:11:42,190 --> 00:11:44,510
+<font face="Roboto Medium" size="26"><i>And now...</i></font>
+
+144
+00:11:51,070 --> 00:11:52,580
+<font face="Roboto Medium" size="26">We've been waiting for this!</font>
+
+145
+00:11:51,390 --> 00:11:56,440
+<font face="Verdana" size="20"><b>{\an8}<font color="#0f0403">We've been waiting for this!!</font></b></font>
+
+146
+00:11:52,580 --> 00:11:54,210
+<font face="Roboto Medium" size="26">The Great Cataclysm!</font>
+
+147
+00:11:52,640 --> 00:11:56,440
+<font face="Verdana" size="20"><b>{\an8}<font color="#0f0403">The Great Cataclysm</font></b></font>
+
+148
+00:11:57,400 --> 00:11:59,440
+<font face="Verdana" size="20"><b></b>{\an1}<font size="28">Episode 19 <font size="30">"The Final Imagining"</font></font></font>
+
+149
+00:11:59,440 --> 00:12:01,270
+<font face="Roboto Medium" size="26">Can you hear me?</font>
+
+150
+00:12:02,200 --> 00:12:05,320
+<font face="Roboto Medium" size="26"><i>This is what I have heard all this time...</i></font>
+
+151
+00:12:05,320 --> 00:12:08,200
+<font face="Roboto Medium" size="26"><i>Humanity's collective unconscious.</i></font>
+
+152
+00:12:10,950 --> 00:12:13,360
+<font face="Roboto Medium" size="26"><i>All the hope in this world,</i></font>
+
+153
+00:12:13,360 --> 00:12:16,460
+<font face="Roboto Medium" size="26"><i>what might also be called optimism, 
+is no more than giving up.</i></font>
+
+154
+00:12:16,960 --> 00:12:18,960
+<font face="Times New Roman" size="20"><b><font color="#ffffff"><font size="25">Madness</font></font></b></font>
+
+155
+00:12:16,970 --> 00:12:18,380
+<font face="Roboto Medium" size="26"><i>Madness.</i></font>
+
+156
+00:12:18,960 --> 00:12:20,960
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#f8d581">Passivity</font></b></font>
+
+157
+00:12:19,180 --> 00:12:20,410
+<font face="Roboto Medium" size="26"><i>Passivity.</i></font>
+
+158
+00:12:20,960 --> 00:12:22,470
+<font face="Times New Roman" size="20"><b>{\an8}Indifference</b></font>
+
+159
+00:12:20,960 --> 00:12:22,080
+<font face="Roboto Medium" size="26"><i>Indifference.</i></font>
+
+160
+00:12:22,460 --> 00:12:23,580
+<font face="Roboto Medium" size="26"><i>Rage.</i></font>
+
+161
+00:12:22,470 --> 00:12:23,970
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#e90003"><font size="40">Rage</font></font></b></font>
+
+162
+00:12:23,970 --> 00:12:25,470
+<font face="Times New Roman" size="20"><b>{\an9}<font color="#e3c9ce"><font size="30">Destruction</font></font></b></font>
+
+163
+00:12:24,190 --> 00:12:25,470
+<font face="Roboto Medium" size="26"><i>Destruction.</i></font>
+
+164
+00:12:25,470 --> 00:12:26,970
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#e0c172"><font size="40">Fear</font></font></b></font>
+
+165
+00:12:25,800 --> 00:12:26,980
+<font face="Roboto Medium" size="26"><i>Fear.</i></font>
+
+166
+00:12:26,970 --> 00:12:28,470
+<font face="Times New Roman" size="20"><b>{\an9}<font color="#fefffe"><font size="30">Hate</font></font></b></font>
+
+167
+00:12:27,430 --> 00:12:28,470
+<font face="Roboto Medium" size="26"><i>Hate.</i></font>
+
+168
+00:12:28,470 --> 00:12:31,470
+<font face="Times New Roman" size="20"><b>{\an9}<font color="#e0285e"><font size="30">Despair</font></font></b></font>
+
+169
+00:12:29,140 --> 00:12:30,510
+<font face="Roboto Medium" size="26"><i>Despair.</i></font>
+
+170
+00:12:31,560 --> 00:12:34,710
+<font face="Roboto Medium" size="26"><i>There is no such thing as true hope.</i></font>
+
+171
+00:12:35,570 --> 00:12:36,770
+<font face="Roboto Medium" size="26"><i>In all of creation,</i></font>
+
+172
+00:12:36,770 --> 00:12:41,980
+<font face="Roboto Medium" size="26"><i>from the moment of birth, all living 
+things are headed for destruction.</i></font>
+
+173
+00:12:42,430 --> 00:12:44,480
+<font face="Roboto Medium" size="26"><i>People and stars alike.</i></font>
+
+174
+00:12:45,140 --> 00:12:47,200
+<font face="Roboto Medium" size="26"><i>Please try to imagine it.</i></font>
+
+175
+00:12:47,830 --> 00:12:51,320
+<font face="Roboto Medium" size="26"><i>Imagination gives rise 
+to every possibility...</i></font>
+
+176
+00:12:51,320 --> 00:12:54,910
+<font face="Roboto Medium" size="26"><i>and it erases every possibility.</i></font>
+
+177
+00:12:51,330 --> 00:12:56,330
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#dd0005">One Two Three Four Five Six Seven Eight</font></b></font>
+
+178
+00:12:56,330 --> 00:12:59,840
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#dd0005">Two Three Four Five Six Seven</font></b></font>
+
+179
+00:13:05,340 --> 00:13:07,950
+<font face="Roboto Medium" size="26">Now, let's move forward...</font>
+
+180
+00:13:08,360 --> 00:13:10,840
+<font face="Roboto Medium" size="26">toward the end of this tale.</font>
+
+181
+00:13:11,340 --> 00:13:12,850
+<font face="Roboto Medium" size="26">Despair...</font>
+
+182
+00:13:13,300 --> 00:13:16,250
+<font face="Roboto Medium" size="26">is nothing special.</font>
+
+183
+00:13:20,550 --> 00:13:23,070
+<font face="Roboto Medium" size="26">Large fires have broken out 
+in every area of the Empire!</font>
+
+184
+00:13:23,070 --> 00:13:25,460
+<font face="Roboto Medium" size="26">It's impossible to know 
+the number of casualties!</font>
+
+185
+00:13:25,770 --> 00:13:28,380
+<font face="Roboto Medium" size="26">What is that eyeball in the sky?</font>
+
+186
+00:13:28,380 --> 00:13:30,530
+<font face="Roboto Medium" size="26">So this is the Great Cataclysm?</font>
+
+187
+00:13:31,340 --> 00:13:33,920
+<font face="Roboto Medium" size="26">The horizon is burning.</font>
+
+188
+00:13:34,670 --> 00:13:35,850
+<font face="Roboto Medium" size="26">It's the end of days!</font>
+
+189
+00:13:35,850 --> 00:13:36,880
+<font face="Roboto Medium" size="26">Please save me!</font>
+
+190
+00:13:38,070 --> 00:13:39,420
+<font face="Roboto Medium" size="26">Captain Huo Yan!</font>
+
+191
+00:13:39,420 --> 00:13:40,540
+<font face="Roboto Medium" size="26">Your orders!</font>
+
+192
+00:13:40,540 --> 00:13:43,410
+<font face="Roboto Medium" size="26">Konyango! First, guide the 
+civilians to a safe area!</font>
+
+193
+00:13:43,410 --> 00:13:48,470
+<font face="Roboto Medium" size="26">A safe place, you say? Does a safe 
+place even exist on this planet?</font>
+
+194
+00:13:49,720 --> 00:13:52,470
+<font face="Roboto Medium" size="26">It's just like the holy scriptures said.</font>
+
+195
+00:13:52,800 --> 00:13:56,780
+<font face="Roboto Medium" size="26">Long ago, humanity angered the planet,</font>
+
+196
+00:13:56,780 --> 00:13:59,240
+<font face="Roboto Medium" size="26">and the world was enveloped in flames.</font>
+
+197
+00:13:59,690 --> 00:14:01,840
+<font face="Roboto Medium" size="26">That was the day of the Great Cataclysm.</font>
+
+198
+00:14:02,310 --> 00:14:04,870
+<font face="Roboto Medium" size="26">And the flames rose up ferociously.</font>
+
+199
+00:14:04,870 --> 00:14:08,030
+<font face="Roboto Medium" size="26">The places where humanity 
+lived, the words they spoke...</font>
+
+200
+00:14:08,780 --> 00:14:13,060
+<font face="Roboto Medium" size="26">The flames raged with a force to burn up 
+all the culture that mankind had built.</font>
+
+201
+00:14:13,060 --> 00:14:14,590
+<font face="Roboto Medium" size="26">It's divine punishment!</font>
+
+202
+00:14:14,590 --> 00:14:15,940
+<font face="Roboto Medium" size="26">The world is already...</font>
+
+203
+00:14:15,940 --> 00:14:18,790
+<font face="Roboto Medium" size="26">Rekka wanted this?</font>
+
+204
+00:14:19,150 --> 00:14:22,260
+<font face="Roboto Medium" size="26">This is the world he strove for...</font>
+
+205
+00:14:22,260 --> 00:14:25,300
+<font face="Roboto Medium" size="26">This is the path he believed in?</font>
+
+206
+00:14:26,950 --> 00:14:31,130
+<font face="Roboto Medium" size="26">What is that huge eyeball in the sky?</font>
+
+207
+00:14:31,130 --> 00:14:33,430
+<font face="Roboto Medium" size="26">Is this what everyone is seeing?</font>
+
+208
+00:14:34,020 --> 00:14:37,000
+<font face="Roboto Medium" size="26">Please let it be something 
+that only I am seeing.</font>
+
+209
+00:14:37,500 --> 00:14:41,290
+<font face="Roboto Medium" size="26">Captain Hibana, the state that 
+you have been researching</font>
+
+210
+00:14:41,290 --> 00:14:43,350
+<font face="Roboto Medium" size="26">is occurring within the 5th, as well.</font>
+
+211
+00:14:43,350 --> 00:14:44,530
+<font face="Roboto Medium" size="26">What?</font>
+
+212
+00:14:45,070 --> 00:14:47,610
+<font face="Roboto Medium" size="26">Doppelgangers.</font>
+
+213
+00:14:48,030 --> 00:14:51,990
+<font face="Roboto Medium" size="26">5th Angels Three! Hurry up 
+and help us with the rescues!</font>
+
+214
+00:14:51,990 --> 00:14:54,320
+<font face="Roboto Medium" size="26">This world is already done for!</font>
+
+215
+00:14:54,320 --> 00:14:58,570
+<font face="Roboto Medium" size="26">That's right. Shall I trade 
+places with you, then?</font>
+
+216
+00:15:12,620 --> 00:15:15,470
+<font face="Roboto Medium" size="26">The world is burning.</font>
+
+217
+00:15:15,470 --> 00:15:18,050
+<font face="Roboto Medium" size="26">Is this despair?</font>
+
+218
+00:15:27,210 --> 00:15:29,450
+<font face="Roboto Medium" size="26">I can see it, Burns.</font>
+
+219
+00:15:30,260 --> 00:15:33,880
+<font face="Roboto Medium" size="26">Through your eyes, I can 
+see what Adolla looks like.</font>
+
+220
+00:15:34,280 --> 00:15:37,020
+<font face="Roboto Medium" size="26">I understand the world's rules.</font>
+
+221
+00:15:37,410 --> 00:15:40,290
+<font face="Roboto Medium" size="26">The thing that will stir 
+everyone to action is...</font>
+
+222
+00:15:42,000 --> 00:15:45,330
+<font face="Roboto Medium" size="26">I've been waiting for this moment!</font>
+
+223
+00:15:45,990 --> 00:15:52,590
+<font face="Roboto Medium" size="26">Striking the stone bridge over and 
+over and over and over and over!</font>
+
+224
+00:15:52,590 --> 00:15:55,070
+<font face="Roboto Medium" size="26">I've waited for this moment.</font>
+
+225
+00:15:55,070 --> 00:15:57,600
+<font face="Roboto Medium" size="26">At last, I will see 
+Adolla with these eyes!</font>
+
+226
+00:15:57,600 --> 00:16:00,560
+<font face="Roboto Medium" size="26">At last, my dearest wish will be granted!</font>
+
+227
+00:16:02,560 --> 00:16:05,200
+<font face="Roboto Medium" size="26">Evangelist! Hurry!</font>
+
+228
+00:16:05,200 --> 00:16:08,170
+<font face="Roboto Medium" size="26">Please show yourself to me here!</font>
+
+229
+00:16:08,170 --> 00:16:10,980
+<font face="Roboto Medium" size="26">You can't be serious, 
+Giovanni! Give Yu back!</font>
+
+230
+00:16:10,980 --> 00:16:12,660
+<font face="Roboto Medium" size="26">It's no use now.</font>
+
+231
+00:16:12,660 --> 00:16:18,180
+<font face="Roboto Medium" size="26">I'm already a parasite inside Yu's 
+brain, and I've fused with this body.</font>
+
+232
+00:16:18,180 --> 00:16:23,010
+<font face="Roboto Medium" size="26">It's impossible for you 
+to do anything to me.</font>
+
+233
+00:16:24,330 --> 00:16:30,060
+<font face="Roboto Medium" size="26">I wouldn't mind returning this body 
+to you... <i>after</i> I've seen Adolla.</font>
+
+234
+00:16:30,060 --> 00:16:34,820
+<font face="Roboto Medium" size="26">Though the world will already 
+be destroyed by then!</font>
+
+235
+00:16:36,000 --> 00:16:37,120
+<font face="Roboto Medium" size="26">Yu!</font>
+
+236
+00:16:37,120 --> 00:16:39,100
+<font face="Roboto Medium" size="26">Why?!</font>
+
+237
+00:16:39,100 --> 00:16:42,090
+<font face="Roboto Medium" size="26">Why do you always...</font>
+
+238
+00:16:50,830 --> 00:16:53,020
+<font face="Roboto Medium" size="26">So this is the final floor, is it?</font>
+
+239
+00:16:53,570 --> 00:16:56,770
+<font face="Roboto Medium" size="26">I wondered who it could be.
+It's the plasma user.</font>
+
+240
+00:16:56,770 --> 00:16:58,920
+<font face="Roboto Medium" size="26">You're quite late, aren't you?</font>
+
+241
+00:16:58,920 --> 00:17:01,850
+<font face="Roboto Medium" size="26">There's nothing you can do now.</font>
+
+242
+00:17:01,850 --> 00:17:04,240
+<font face="Roboto Medium" size="26">Yu? No.</font>
+
+243
+00:17:04,240 --> 00:17:06,940
+<font face="Roboto Medium" size="26">I have already achieved my goal!</font>
+
+244
+00:17:06,940 --> 00:17:09,460
+<font face="Roboto Medium" size="26">Will you still try and cut me down?</font>
+
+245
+00:17:09,700 --> 00:17:11,590
+<font face="Roboto Medium" size="26">Along with this body?</font>
+
+246
+00:17:15,800 --> 00:17:20,040
+<font face="Roboto Medium" size="26">People like you, who only look 
+at the surface and make a fuss,</font>
+
+247
+00:17:20,040 --> 00:17:23,560
+<font face="Roboto Medium" size="26">will leave nothing behind 
+and will know nothing.</font>
+
+248
+00:17:23,560 --> 00:17:27,030
+<font face="Roboto Medium" size="26">Begone, you cowardly, vulgar insect!</font>
+
+249
+00:17:29,440 --> 00:17:30,360
+<font face="Roboto Medium" size="26">Yu!</font>
+
+250
+00:17:30,360 --> 00:17:31,410
+<font face="Roboto Medium" size="26">Yu!</font>
+
+251
+00:17:31,410 --> 00:17:33,160
+<font face="Roboto Medium" size="26">Arthur, you...</font>
+
+252
+00:17:33,160 --> 00:17:34,100
+<font face="Roboto Medium" size="26">He's fine.</font>
+
+253
+00:17:34,100 --> 00:17:35,570
+<font face="Roboto Medium" size="26">Wh-What did you say?</font>
+
+254
+00:17:35,570 --> 00:17:37,700
+<font face="Roboto Medium" size="26">Yu? Yu!</font>
+
+255
+00:17:41,690 --> 00:17:43,560
+<font face="Roboto Medium" size="26">Vulcan? Lisa-san?</font>
+
+256
+00:17:44,130 --> 00:17:45,430
+<font face="Roboto Medium" size="26">And Arthur-san, too?</font>
+
+257
+00:17:45,430 --> 00:17:46,970
+<font face="Roboto Medium" size="26">Yu.</font>
+
+258
+00:17:46,970 --> 00:17:49,860
+<font face="Roboto Medium" size="26">Yu, is it really you? It's you, right?</font>
+
+259
+00:17:49,860 --> 00:17:51,100
+<font face="Roboto Medium" size="26">Thank goodness!</font>
+
+260
+00:17:51,100 --> 00:17:52,190
+<font face="Roboto Medium" size="26">Vulcan.</font>
+
+261
+00:17:52,640 --> 00:17:55,060
+<font face="Roboto Medium" size="26">Wh-What happened?</font>
+
+262
+00:17:55,530 --> 00:17:58,390
+<font face="Roboto Medium" size="26">Arthur, how did you do this?</font>
+
+263
+00:17:58,390 --> 00:18:02,040
+<font face="Roboto Medium" size="26">Oh. I burned the monster that 
+had made its nest in Yu's brain,</font>
+
+264
+00:18:02,040 --> 00:18:03,750
+<font face="Roboto Medium" size="26">Giovanni, and nothing else.</font>
+
+265
+00:18:04,840 --> 00:18:07,080
+<font face="Roboto Medium" size="26">Like with a gamma knife.</font>
+
+266
+00:18:07,080 --> 00:18:09,010
+<font face="Roboto Medium" size="26">I'm sorry I took so long.</font>
+
+267
+00:18:09,010 --> 00:18:11,800
+<font face="Roboto Medium" size="26">It took longer than expected 
+to acquire the crystal rod.</font>
+
+268
+00:18:12,350 --> 00:18:13,260
+<font face="Roboto Medium" size="26">Huh?</font>
+
+269
+00:18:13,770 --> 00:18:16,780
+<font face="Roboto Medium" size="26">Could it be that you're advancing in...</font>
+
+270
+00:18:16,780 --> 00:18:21,050
+<font face="Roboto Medium" size="26">But with this event, my EXP has maxed out.</font>
+
+271
+00:18:21,050 --> 00:18:22,780
+<font face="Roboto Medium" size="26">Vulcan, everyone, it's thanks to you.</font>
+
+272
+00:18:22,780 --> 00:18:24,500
+<font face="Roboto Medium" size="26">Oh! That's right!</font>
+
+273
+00:18:24,500 --> 00:18:25,490
+<font face="Roboto Medium" size="26">What is it?</font>
+
+274
+00:18:25,810 --> 00:18:27,870
+<font face="Roboto Medium" size="26">Arthur-san, here.</font>
+
+275
+00:18:28,190 --> 00:18:30,290
+<font face="Roboto Medium" size="26">I didn't get the chance to give it to you.</font>
+
+276
+00:18:30,290 --> 00:18:33,510
+<font face="Roboto Medium" size="26">I made it with the leftovers of 
+a star fragment Vulcan gave me.</font>
+
+277
+00:18:33,510 --> 00:18:35,110
+<font face="Roboto Medium" size="26">It's a Star Ring!</font>
+
+278
+00:18:35,110 --> 00:18:37,520
+<font face="Roboto Medium" size="26">So you finally finished it?</font>
+
+279
+00:18:37,520 --> 00:18:38,170
+<font face="Roboto Medium" size="26">Yeah.</font>
+
+280
+00:18:38,750 --> 00:18:41,920
+<font face="Roboto Medium" size="26">Is this proof that I cleared the event?</font>
+
+281
+00:18:41,920 --> 00:18:45,750
+<font face="Roboto Medium" size="26">Yes! Please keep it with you, Sir Knight!</font>
+
+282
+00:18:52,690 --> 00:18:54,150
+<font face="Courier New" size="20"><b>{\an8}<font size="40">Drago</font></b></font>
+
+283
+00:18:57,060 --> 00:18:59,030
+<font face="Roboto Medium" size="26">I accept with gratitude!</font>
+
+284
+00:19:00,650 --> 00:19:02,570
+<font face="Roboto Medium" size="26">Thank you, Arthur.</font>
+
+285
+00:19:02,850 --> 00:19:06,290
+<font face="Roboto Medium" size="26">I'm not sure how I should 
+describe you now.</font>
+
+286
+00:19:07,030 --> 00:19:10,570
+<font face="Roboto Medium" size="26">Now, I have mastered what 
+it is to be Knight King.</font>
+
+287
+00:19:12,710 --> 00:19:13,830
+<font face="Roboto Medium" size="26">Indeed.</font>
+
+288
+00:19:14,630 --> 00:19:16,630
+<font face="Roboto Medium" size="26">Please don't hesitate 
+to refer to me as such!</font>
+
+289
+00:19:22,630 --> 00:19:25,620
+<font face="Roboto Medium" size="26">He truly is a Knight King!</font>
+
+290
+00:19:34,580 --> 00:19:37,020
+<font face="Roboto Medium" size="26">Vulcan! Is everyone safe?</font>
+
+291
+00:19:37,020 --> 00:19:39,580
+<font face="Roboto Medium" size="26">Somehow, thanks to Arthur.</font>
+
+292
+00:19:39,580 --> 00:19:41,240
+<font face="Roboto Medium" size="26">I'm sorry we couldn't come to you.</font>
+
+293
+00:19:41,240 --> 00:19:44,090
+<font face="Roboto Medium" size="26">No, it seemed like it was 
+rough out there, too.</font>
+
+294
+00:19:44,090 --> 00:19:45,240
+<font face="Roboto Medium" size="26">Yeah.</font>
+
+295
+00:19:45,240 --> 00:19:47,150
+<font face="Roboto Medium" size="26">What is all this?</font>
+
+296
+00:19:47,150 --> 00:19:49,700
+<font face="Roboto Medium" size="26">The end we strove for.</font>
+
+297
+00:19:50,030 --> 00:19:52,030
+<font face="Roboto Medium" size="26">The unification happened.</font>
+
+298
+00:19:52,630 --> 00:19:55,460
+<font face="Roboto Medium" size="26">Images and reality became one.</font>
+
+299
+00:19:55,460 --> 00:19:58,060
+<font face="Roboto Medium" size="26">It seems that half the planet is burning.</font>
+
+300
+00:19:59,050 --> 00:20:00,670
+<font face="Roboto Medium" size="26">Inspector Licht!</font>
+
+301
+00:20:00,670 --> 00:20:02,670
+<font face="Roboto Medium" size="26">Is there anything we can do?</font>
+
+302
+00:20:03,750 --> 00:20:05,830
+<font face="Roboto Medium" size="26">Given the scope of these flames...</font>
+
+303
+00:20:05,830 --> 00:20:07,970
+<font face="Roboto Medium" size="26">If we don't know where they originated...</font>
+
+304
+00:20:07,970 --> 00:20:09,470
+<font face="Roboto Medium" size="26">It's hopeless.</font>
+
+305
+00:20:09,880 --> 00:20:11,020
+<font face="Roboto Medium" size="26">Joker!</font>
+
+306
+00:20:11,020 --> 00:20:12,600
+<font face="Roboto Medium" size="26">Did you figure something out?</font>
+
+307
+00:20:12,600 --> 00:20:17,580
+<font face="Roboto Medium" size="26">The thing that's burning the world right 
+now is humanity's negative emotions.</font>
+
+308
+00:20:17,580 --> 00:20:18,860
+<font face="Roboto Medium" size="26">Basically...</font>
+
+309
+00:20:18,860 --> 00:20:20,820
+<font face="Times New Roman" size="20"><b><font color="#181917">Madness</font></b></font>
+
+310
+00:20:19,430 --> 00:20:20,810
+<font face="Roboto Medium" size="26">Madness.</font>
+
+311
+00:20:20,820 --> 00:20:22,780
+<font face="Times New Roman" size="20"><b><font color="#181917"><font size="15">Passivity</font></font></b></font>
+
+312
+00:20:21,370 --> 00:20:22,780
+<font face="Roboto Medium" size="26">Passivity.</font>
+
+313
+00:20:22,780 --> 00:20:24,900
+<font face="Times New Roman" size="20"><b><font size="18"><font color="#181917">Indifference</font></font></b></font>
+
+314
+00:20:23,380 --> 00:20:24,900
+<font face="Roboto Medium" size="26">Indifference.</font>
+
+315
+00:20:24,910 --> 00:20:27,120
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#181917">Rage</font></b></font>
+
+316
+00:20:25,860 --> 00:20:27,120
+<font face="Roboto Medium" size="26">Rage.</font>
+
+317
+00:20:27,120 --> 00:20:29,330
+<font face="Times New Roman" size="20"><b><font color="#181917"><font size="15">Destruction</font></font></b></font>
+
+318
+00:20:27,680 --> 00:20:29,330
+<font face="Roboto Medium" size="26">Destruction.</font>
+
+319
+00:20:29,330 --> 00:20:31,540
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#181917">Fear</font></b></font>
+
+320
+00:20:29,920 --> 00:20:31,550
+<font face="Roboto Medium" size="26">Fear.</font>
+
+321
+00:20:31,540 --> 00:20:33,660
+<font face="Times New Roman" size="20"><b><font color="#181917"><font size="25">Hate</font></font></b></font>
+
+322
+00:20:32,110 --> 00:20:33,360
+<font face="Roboto Medium" size="26">Hate.</font>
+
+323
+00:20:34,320 --> 00:20:37,830
+<font face="Roboto Medium" size="26">Taken all together, 
+they are human despair.</font>
+
+324
+00:20:40,190 --> 00:20:46,550
+<font face="Roboto Medium" size="26">The flames of the Great Cataclysm use
+the image of humanity's despair as energy.</font>
+
+325
+00:20:46,550 --> 00:20:51,040
+<font face="Roboto Medium" size="26">Which means that human despair is 
+destroying this planet through fire.</font>
+
+326
+00:20:51,460 --> 00:20:53,010
+<font face="Roboto Medium" size="26">According to Arrow-san,</font>
+
+327
+00:20:53,290 --> 00:20:56,760
+<font face="Roboto Medium" size="26">the White Clad feared Shinra-kun's 
+transformation into a hero.</font>
+
+328
+00:20:56,760 --> 00:21:01,520
+<font face="Roboto Medium" size="26">Was a hero an impediment to 
+causing this Great Cataclysm?</font>
+
+329
+00:21:01,760 --> 00:21:06,220
+<font face="Roboto Medium" size="26">So the image of despair is important
+to kickstarting the Great Cataclysm!</font>
+
+330
+00:21:06,220 --> 00:21:08,200
+<font face="Roboto Medium" size="26">It's a total shocker!</font>
+
+331
+00:21:06,530 --> 00:21:08,530
+<font face="Trebuchet MS" size="20"><b>{\an9}<font color="#bb82e5">It's a total shocker</font></b></font>
+
+332
+00:21:08,530 --> 00:21:12,540
+<font face="Roboto Medium" size="26">Then that means... What does that mean?</font>
+
+333
+00:21:12,540 --> 00:21:18,460
+<font face="Trebuchet MS" size="20"><b><font color="#394faa">Despair</font></b></font>
+
+334
+00:21:12,840 --> 00:21:16,280
+<font face="Roboto Medium" size="26">The fuel for these flames 
+is human despair.</font>
+
+335
+00:21:16,280 --> 00:21:17,750
+<font face="Roboto Medium" size="26">If that's true...</font>
+
+336
+00:21:17,000 --> 00:21:18,460
+<font face="Arial Black" size="20"><b><font color="#e6dade"><font size="15">Great Cataclysm</font></font></b></font>
+
+337
+00:21:18,440 --> 00:21:21,370
+<font face="Roboto Medium" size="26">then hope is the thing 
+that can put them out!</font>
+
+338
+00:21:21,370 --> 00:21:25,370
+<font face="Roboto Medium" size="26">Commander Sho said not to abandon hope.</font>
+
+339
+00:21:25,370 --> 00:21:27,870
+<font face="Roboto Medium" size="26">Hope? Are you sure?</font>
+
+340
+00:21:27,870 --> 00:21:33,360
+<font face="Roboto Medium" size="26">I know it's odd for a scientist like me 
+to say something so fantastical,</font>
+
+341
+00:21:33,360 --> 00:21:35,500
+<font face="Roboto Medium" size="26">but in the eyes of people 
+from previous eras,</font>
+
+342
+00:21:35,500 --> 00:21:41,230
+<font face="Roboto Medium" size="26">the world we lived in would have always 
+looked like some made-up fantasy.</font>
+
+343
+00:21:45,160 --> 00:21:48,860
+<font face="Roboto Medium" size="26">Okay. The 8th is going 
+to trust you, Licht!</font>
+
+344
+00:21:50,610 --> 00:21:53,420
+<font face="Roboto Medium" size="26">Despair doesn't suit us in the 8th!</font>
+
+345
+00:21:53,420 --> 00:21:54,870
+<font face="Roboto Medium" size="26">Of course not!</font>
+
+346
+00:21:55,570 --> 00:21:59,210
+<font face="Roboto Medium" size="26">Captain Obi, you are humanity's light.</font>
+
+347
+00:21:59,590 --> 00:22:01,950
+<font face="Roboto Medium" size="26">Please show us the way!</font>
+
+348
+00:22:01,950 --> 00:22:04,070
+<font face="Roboto Medium" size="26">We will follow you anywhere!</font>
+
+349
+00:22:06,270 --> 00:22:08,210
+<font face="Roboto Medium" size="26">Don't abandon hope!</font>
+
+350
+00:22:12,130 --> 00:22:14,750
+<font face="Roboto Medium" size="26">I guess I didn't need to say it, huh?</font>
+
+351
+00:22:38,250 --> 00:22:42,000
+<font face="Verdana" size="20"><b>{\an1}<font size="22">To Be Continued</font></b></font>
+
+352
+00:24:11,920 --> 00:24:13,970
+<font face="Times New Roman" size="20"><b><font size="40">Fire Force Chapter 3</font></b></font>
+
+353
+00:24:14,260 --> 00:24:15,430
+<font face="Roboto Medium" size="26">Now, into battle.</font>
+
+354
+00:24:14,300 --> 00:24:22,310
+<font face="Times New Roman" size="20"><b><font size="40">Next Time</font></b></font>
+
+355
+00:24:14,700 --> 00:24:17,800
+<font face="Roboto Medium" size="26">{\an8}Is that the man who kept 
+following Tamaki around?</font>
+
+356
+00:24:17,800 --> 00:24:19,390
+<font face="Roboto Medium" size="26">Assault, again, you're...</font>
+
+357
+00:24:19,390 --> 00:24:21,890
+<font face="Roboto Medium" size="26">If you say it that way, 
+then yes, but... Nay!</font>
+
+358
+00:24:21,890 --> 00:24:23,960
+<font face="Roboto Medium" size="26">Next time, "Where Hope Is."</font>
+
+359
+00:24:22,640 --> 00:24:27,010
+<font face="Times New Roman" size="20"><b><font size="27">Episode 20</font></b></font>
+
+360
+00:24:22,640 --> 00:24:27,010
+<font face="Times New Roman" size="20"><b>{\an8}<font size="40">Where Hope Is</font></b></font>
+
+361
+00:24:23,960 --> 00:24:26,810
+<font face="Roboto Medium" size="26">Return to the great flame of fire. Látom.</font>
+
