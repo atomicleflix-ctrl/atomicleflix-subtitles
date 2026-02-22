@@ -1,0 +1,84 @@
+1
+00:00:29,210 --> 00:00:30,090
+<font face="Times New Roman" size="20"><b>{\an8}<font size="40"><font color="#2d1508">Hell's Paradise</font></font></b></font>
+
+2
+00:01:38,530 --> 00:01:41,660
+<font face="Times New Roman" size="20"><b>{\an8}<font size="40">Hell's Paradise</font></b></font>
+
+3
+00:01:45,540 --> 00:01:51,010
+<font face="Times New Roman" size="20"><b>Humans and Sages</b></font>
+
+4
+00:04:02,390 --> 00:04:07,770
+<font face="Comic Sans MS" size="20"><b>{\an9}<font color="#696c76">Substitution</font></b></font>
+
+5
+00:06:37,540 --> 00:06:40,170
+<font face="Comic Sans MS" size="20"><b>{\an8}<font size="30"><font color="#854b32">Fire</font></font></b></font>
+
+6
+00:06:45,800 --> 00:06:47,090
+<font face="Comic Sans MS" size="20"><b>{\an8}<font size="30"><font color="#854b32">Earth</font></font></b></font>
+
+7
+00:06:57,600 --> 00:07:03,240
+<font face="Comic Sans MS" size="20"><b>{\an8}<font color="#a05c24">Wood</font></b></font>
+
+8
+00:06:57,600 --> 00:07:03,240
+<font face="Comic Sans MS" size="20"><b>{\an8}<font color="#a05c24">Fire</font></b></font>
+
+9
+00:06:57,600 --> 00:07:03,240
+<font face="Comic Sans MS" size="20"><b>{\an8}<font color="#a05c24">Earth</font></b></font>
+
+10
+00:06:57,600 --> 00:07:03,240
+<font face="Comic Sans MS" size="20"><b>{\an8}<font color="#a05c24">Metal</font></b></font>
+
+11
+00:06:57,600 --> 00:07:03,240
+<font face="Comic Sans MS" size="20"><b>{\an8}<font color="#a05c24">Water</font></b></font>
+
+12
+00:07:05,240 --> 00:07:07,240
+<font face="Comic Sans MS" size="20"><b>{\an8}<font size="30"><font color="#854b32">Wood</font></font></b></font>
+
+13
+00:07:18,500 --> 00:07:21,500
+<font face="Comic Sans MS" size="20"><b>{\an8}<font size="30"><font color="#854b32">Restoration</font></font></b></font>
+
+14
+00:07:18,500 --> 00:07:21,500
+<font face="Comic Sans MS" size="20"><b>{\an8}<font size="30"><font color="#854b32">Hindering</font></font></b></font>
+
+15
+00:07:21,500 --> 00:07:23,510
+<font face="Comic Sans MS" size="20"><b>{\an8}<font size="30"><font color="#854b32">Restoration</font></font></b></font>
+
+16
+00:07:21,500 --> 00:07:23,510
+<font face="Comic Sans MS" size="20"><b>{\an8}<font size="30"><font color="#854b32">Hindering</font></font></b></font>
+
+17
+00:07:39,230 --> 00:07:46,650
+<font face="Comic Sans MS" size="20"><b>{\an8}<font color="#ffffff">Wood</font></b></font>
+
+18
+00:07:39,230 --> 00:07:46,650
+<font face="Comic Sans MS" size="20"><b>{\an8}<font color="#ffffff">Fire</font></b></font>
+
+19
+00:07:39,230 --> 00:07:46,650
+<font face="Comic Sans MS" size="20"><b>{\an8}<font color="#ffffff">Earth</font></b></font>
+
+20
+00:07:39,230 --> 00:07:46,650
+<font face="Comic Sans MS" size="20"><b>{\an8}<font color="#ffffff">Metal</font></b></font>
+
+21
+00:07:39,230 --> 00:07:46,650
+<font face="Comic Sans MS" size="20"><b>{\an8}<font color="#ffffff">Water</font></b></font>
+
