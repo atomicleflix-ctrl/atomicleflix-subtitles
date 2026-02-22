@@ -1,0 +1,20 @@
+1
+00:03:51,830 --> 00:03:57,590
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Impact"><font size="22"><font color="#dd3942">Can Things Stay This Way?</font></font></font></b></font>
+
+2
+00:14:12,950 --> 00:14:14,720
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font color="#e0e1e0">No signal</font></b></font></b></font>
+
+3
+00:23:45,020 --> 00:23:46,150
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="20"><font color="#a59a8c">School Festival</font></font></b></font></b></font>
+
+4
+00:23:58,100 --> 00:24:00,040
+<font face="Gandhi Sans" size="24"><b><font size="20"><font face="Impact"><font color="#c7377d">Next Time</font></font></font></b></font>
+
+5
+00:23:58,100 --> 00:24:00,040
+<font face="Gandhi Sans" size="24"><b><font face="Impact">{\an8}<font color="#c7377d">I Don't Look Good in Women's Clothing!</font></font></b></font>
+
