@@ -1,0 +1,374 @@
+1
+00:00:00,980 --> 00:00:06,440
+<font face="Gandhi Sans" size="24"><b><font face="Georgia">{\an7}<b><font size="32"><font color="#000000">Sato</font></font></b></font></b></font>
+
+2
+00:00:06,440 --> 00:00:07,490
+<font face="Gandhi Sans" size="24"><b><font face="Georgia">{\an7}<b><font size="32"><font color="#48454e">Sato</font></font></b></font></b></font>
+
+3
+00:01:42,880 --> 00:01:44,340
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Impact"><font size="50">Kaya-chan Isn't Scary</font></font></b></font>
+
+4
+00:01:42,880 --> 00:01:44,340
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Impact"><font size="50">Kaya-chan Isn't Scary</font></font></b></font>
+
+5
+00:01:43,760 --> 00:01:47,010
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Impact"><font size="50">Kaya-chan Isn't Scary</font></font></b></font>
+
+6
+00:03:01,950 --> 00:03:05,460
+<font face="Gandhi Sans" size="24"><b><font face="Comic Sans MS"><b>{\an3}<font color="#ffffff">Episode 7: Hospitals Aren't Scary</font></b></font></b></font>
+
+7
+00:03:54,090 --> 00:03:56,090
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b>{\an8}<font size="30"><font color="#fff1d6">Kids' 
+Room</font></font></b></font></b></font>
+
+8
+00:04:15,280 --> 00:04:17,400
+<font face="Gandhi Sans" size="24"><b><font color="#ffffff">Bye, Daddy.</font></b></font>
+
+9
+00:07:24,170 --> 00:07:26,470
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black">{\an7}<font size="44"><font color="#000000">In Surgery</font></font></font></b></font>
+
+10
+00:08:52,050 --> 00:08:53,010
+<font face="Gandhi Sans" size="24"><b><b><font size="12"><font color="#ffffff">Postmortem
+Examination
+Report</font></font></b></b></font>
+
+11
+00:08:52,050 --> 00:08:53,010
+<font face="Gandhi Sans" size="24"><b><b><font size="12"><font color="#ffffff">Hemorrhagic Shock</font></font></b></b></font>
+
+12
+00:08:52,050 --> 00:08:53,010
+<font face="Gandhi Sans" size="24"><b><b><font size="12"><font color="#ffffff">Placental
+Abruption</font></font></b></b></font>
+
+13
+00:08:52,050 --> 00:08:53,010
+<font face="Gandhi Sans" size="24"><b><b><font size="12"><font color="#ffffff">weeks pregnant</font></font></b></b></font>
+
+14
+00:08:54,010 --> 00:08:57,020
+<font face="Gandhi Sans" size="24"><b><b><font size="26">{\an1}<font color="#101010">Hemorrhagic Shock</font></font></b></b></font>
+
+15
+00:08:54,010 --> 00:08:57,020
+<font face="Gandhi Sans" size="24"><b><b><font size="26">{\an1}<font color="#101010">Placental Abruption</font></font></b></b></font>
+
+16
+00:09:50,440 --> 00:09:54,700
+<font face="Gandhi Sans" size="24"><b>{\an9}<font color="#9397a5">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+17
+00:09:50,440 --> 00:09:54,700
+<font face="Gandhi Sans" size="24"><b><b>{\an7}<font face="Times New Roman"><font size="14"><font color="#2d343f">Sato Shizuo-sama</font></font></font></b></b></font>
+
+18
+00:09:50,440 --> 00:09:54,700
+<font face="Gandhi Sans" size="24"><b><b>{\an7}<font face="Times New Roman"><font size="12"><font color="#2d343f">I sincerely apologize for showing up 
+so suddenly that day. I hope Kaya-chan
+ and Mirai are both doing well. 
+Please feel free to contact me if there's
+ anything you need.</font></font></font></b></b></font>
+
+19
+00:09:50,440 --> 00:09:54,700
+<font face="Gandhi Sans" size="24"><b><b>{\an9}<font face="Times New Roman"><font size="14"><font color="#2d343f">Ebisumori Nana</font></font></font></b></b></font>
+
+20
+00:09:54,700 --> 00:09:57,950
+<font face="Gandhi Sans" size="24"><b><b><font face="Times New Roman"><font size="25"><font color="#0b0d0d">Ebisumori
+Nana</font></font></font></b></b></font>
+
+21
+00:09:57,950 --> 00:10:03,960
+<font face="Gandhi Sans" size="24"><b><font size="30"><font face="Arial"><b><font color="#e76092">Kaya-chan
+<font size="22">\h\h\hIsn't</font></font></b></font></font></b></font>
+
+22
+00:09:57,950 --> 00:10:03,960
+<font face="Gandhi Sans" size="24"><b><font size="30"><font face="Arial"><b><font color="#e76092">Scary</font></b></font></font></b></font>
+
+23
+00:10:03,960 --> 00:10:09,960
+<font face="Gandhi Sans" size="24"><b><font size="30"><font face="Arial"><b><font color="#e76092">Kaya-chan
+<font size="22">\h\h\hIsn't</font></font></b></font></font></b></font>
+
+24
+00:10:03,960 --> 00:10:09,960
+<font face="Gandhi Sans" size="24"><b><font size="30"><font face="Arial"><b><font color="#e76092">Scary</font></b></font></font></b></font>
+
+25
+00:10:09,960 --> 00:10:13,470
+<font face="Gandhi Sans" size="24"><b><font face="Comic Sans MS"><b>{\an3}<font size="24">Playground Equipment
+ Isn't Scary</font></b></font></b></font>
+
+26
+00:10:09,960 --> 00:10:13,470
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="14"><b>{\an8}<font color="#dddcd6">Mori-no-Oka Park</font></b></font></font></b></font>
+
+27
+00:11:10,860 --> 00:11:12,900
+<font face="Gandhi Sans" size="24"><b>{\an8}<b><font size="18"><font color="#7e7e7e">Let's follow the rules and play nicely</font></font></b></b></font>
+
+28
+00:11:10,860 --> 00:11:12,900
+<font face="Gandhi Sans" size="24"><b>{\an8}<b><font size="15"><font color="#5a5a5a">Let's wait our turn</font></font></b></b></font>
+
+29
+00:11:10,860 --> 00:11:12,900
+<font face="Gandhi Sans" size="24"><b>{\an8}<b><font size="15"><font color="#5a5a5a">Sit down before sliding</font></font></b></b></font>
+
+30
+00:11:10,860 --> 00:11:12,900
+<font face="Gandhi Sans" size="24"><b>{\an8}<b><font size="15"><font color="#343532">Don't climb from 
+the opposite side</font></font></b></b></font>
+
+31
+00:11:10,860 --> 00:11:12,900
+<font face="Gandhi Sans" size="24"><b>{\an8}<b><font size="15"><font color="#5a5a5a">Do not 
+jump off</font></font></b></b></font>
+
+32
+00:11:12,900 --> 00:11:15,400
+<font face="Gandhi Sans" size="24"><b>{\an8}<b><font size="34"><font color="#5c5c5d">Let's follow the rules and play nicely</font></font></b></b></font>
+
+33
+00:12:04,330 --> 00:12:06,910
+<font face="Gandhi Sans" size="24"><b>{\an8}<b><font size="34"><font color="#251027">Sit down before sliding</font></font></b></b></font>
+
+34
+00:14:31,270 --> 00:14:34,020
+<font face="Gandhi Sans" size="24"><b><font face="Comic Sans MS"><b>{\an3}<font size="24">Staying Home Alone Isn't Scary?</font></b></font></b></font>
+
+35
+00:14:31,270 --> 00:14:34,020
+<font face="Gandhi Sans" size="24"><b><b><font size="24"><font face="Arial Black"><font color="#fcddb8">Hanamugi Kindergarten</font></font></font></b></b></font>
+
+36
+00:14:51,160 --> 00:14:53,370
+<font face="Gandhi Sans" size="24"><b><b><font face="Arial"><font size="16">{\an7}<font color="#0f1217">Guardian ID</font></font></font></b></b></font>
+
+37
+00:14:51,160 --> 00:14:53,370
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="22"><font color="#0f1217">For: Sato Kaya</font></font></font></b></font>
+
+38
+00:14:51,160 --> 00:14:53,370
+<font face="Gandhi Sans" size="24"><b><b><font face="Arial"><font size="12">{\an3}<font color="#0f1217">Hanamugi Kindergarten</font></font></font></b></b></font>
+
+39
+00:15:38,750 --> 00:15:39,500
+<font face="Gandhi Sans" size="24"><b><b><font size="11"><font color="#060408">Sato
+Kaya</font></font></b></b></font>
+
+40
+00:15:39,500 --> 00:15:39,620
+<font face="Gandhi Sans" size="24"><b><b><font size="11"><font color="#060408">Sato
+Kaya</font></font></b></b></font>
+
+41
+00:15:39,620 --> 00:15:39,750
+<font face="Gandhi Sans" size="24"><b><b><font size="11"><font color="#060408">Sato
+Kaya</font></font></b></b></font>
+
+42
+00:15:39,750 --> 00:15:40,250
+<font face="Gandhi Sans" size="24"><b><b><font size="11"><font color="#060408">Sato
+Kaya</font></font></b></b></font>
+
+43
+00:15:55,270 --> 00:15:57,810
+<font face="Gandhi Sans" size="24"><b><b><font size="11"><font color="#060408">Sato
+Kaya</font></font></b></b></font>
+
+44
+00:15:57,810 --> 00:16:00,980
+<font face="Gandhi Sans" size="24"><b><font color="#ffffff">How could you say something
+ like that to a child?!</font></b></font>
+
+45
+00:17:35,370 --> 00:17:36,870
+<font face="Gandhi Sans" size="24"><b><font face="Georgia"><font size="14"><font color="#32332f">Demon</font></font></font></b></font>
+
+46
+00:17:35,870 --> 00:17:36,870
+<font face="Gandhi Sans" size="24"><b><font face="Georgia"><font size="11"><b><font color="#32332f">Strong</font></b></font></font></b></font>
+
+47
+00:17:36,370 --> 00:17:36,870
+<font face="Gandhi Sans" size="24"><b><font face="Georgia"><font size="10"><font color="#111010">Demon</font></font></font></b></font>
+
+48
+00:17:36,620 --> 00:17:36,870
+<font face="Gandhi Sans" size="24"><b><font face="Georgia"><font size="10"><font color="#111010">Execute
+at once</font></font></font></b></font>
+
+49
+00:17:58,770 --> 00:18:04,020
+<font face="Gandhi Sans" size="24"><b><font size="12"><b><font color="#2c2825">Incoming</font></b></font></b></font>
+
+50
+00:17:58,770 --> 00:18:04,020
+<font face="Gandhi Sans" size="24"><b><font size="10"><b><font color="#2c2825">Playback</font></b></font></b></font>
+
+51
+00:17:58,770 --> 00:18:04,020
+<font face="Gandhi Sans" size="24"><b><font size="10"><b><font color="#2c2825">Monitor</font></b></font></b></font>
+
+52
+00:17:58,770 --> 00:18:04,020
+<font face="Gandhi Sans" size="24"><b><font size="9"><b><font color="#2c2825">Indoor Call</font></b></font></b></font>
+
+53
+00:17:58,770 --> 00:18:04,020
+<font face="Gandhi Sans" size="24"><b><font size="10"><b><font color="#2c2825">Menu</font></b></font></b></font>
+
+54
+00:17:58,770 --> 00:18:00,890
+<font face="Gandhi Sans" size="24"><b><font size="16"><b><font color="#2c2825">Talk</font></b></font></b></font>
+
+55
+00:17:58,770 --> 00:18:04,020
+<font face="Gandhi Sans" size="24"><b><font size="16"><b><font color="#2c2825">End</font></b></font></b></font>
+
+56
+00:18:00,890 --> 00:18:01,020
+<font face="Gandhi Sans" size="24"><b><font size="16"><b><font color="#2c2825">Talk</font></b></font></b></font>
+
+57
+00:18:01,020 --> 00:18:01,520
+<font face="Gandhi Sans" size="24"><b><font size="16"><b><font color="#2c2825">Talk</font></b></font></b></font>
+
+58
+00:18:01,520 --> 00:18:01,640
+<font face="Gandhi Sans" size="24"><b><font size="16"><b><font color="#2c2825">Talk</font></b></font></b></font>
+
+59
+00:18:01,640 --> 00:18:04,020
+<font face="Gandhi Sans" size="24"><b><font size="16"><b><font color="#2c2825">Talk</font></b></font></b></font>
+
+60
+00:18:07,270 --> 00:18:09,980
+<font face="Gandhi Sans" size="24"><b>{\an1}<font face="Georgia"><font size="16"><b><font color="#070506">Thank you very much
+ for picking her up.</font></b></font></font></b></font>
+
+61
+00:18:09,860 --> 00:18:12,400
+<font face="Gandhi Sans" size="24"><b>{\an1}<font face="Georgia"><font size="16"><b><font color="#070506">I'm on my way to see Mirai, so I probably 
+won't be able to get home until around 6. 
+There's food I bought in the fridge, 
+so please have dinner with Kaya.</font></b></font></font></b></font>
+
+62
+00:18:31,880 --> 00:18:33,970
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Arial">♫ <font face="Trebuchet MS">Long Cat <font face="Arial">♫<font face="Trebuchet MS"></font></font></font></font></b></font>
+
+63
+00:18:36,970 --> 00:18:39,470
+<font face="Gandhi Sans" size="24"><b><font face="Impact"><font size="42"><font color="#e3c186">Long Cat</font></font></font></b></font>
+
+64
+00:18:36,970 --> 00:18:39,470
+<font face="Gandhi Sans" size="24"><b><font face="Impact"><font size="42"><font color="#fefeff">Long Cat</font></font></font></b></font>
+
+65
+00:18:36,970 --> 00:18:39,470
+<font face="Gandhi Sans" size="24"><b><font face="Impact"><font size="42"><font color="#e5b86c">L<font color="#da7f89">o<font color="#e5b86c">ng Cat</font></font></font></font></font></b></font>
+
+66
+00:18:41,270 --> 00:18:43,120
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Arial">♫ <font face="Trebuchet MS">Long, long, meow <font face="Arial">♫<font face="Trebuchet MS"></font></font></font></font></b></font>
+
+67
+00:18:43,480 --> 00:18:45,370
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Arial">♫ <font face="Trebuchet MS">Cat, cat, meow <font face="Arial">♫ <font face="Trebuchet MS"></font></font></font></font></b></font>
+
+68
+00:18:45,670 --> 00:18:48,970
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Arial">♫ <font face="Trebuchet MS">Long Cat, meow, meow <font face="Arial">♫<font face="Trebuchet MS"></font></font></font></font></b></font>
+
+69
+00:18:50,110 --> 00:18:54,500
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Arial">♫ <font face="Trebuchet MS">Let's play, let's play together! <font face="Arial">♫<font face="Trebuchet MS"></font></font></font></font></b></font>
+
+70
+00:18:54,500 --> 00:18:57,740
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Arial">♫ <font face="Trebuchet MS">Long, long cat. Let's play together <font face="Arial">♫<font face="Trebuchet MS"></font></font></font></font></b></font>
+
+71
+00:19:19,060 --> 00:19:21,330
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Arial">♫ <font face="Trebuchet MS">Long, long, meow <font face="Arial">♫<font face="Trebuchet MS"></font></font></font></font></b></font>
+
+72
+00:19:21,330 --> 00:19:23,040
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Arial">♫ <font face="Trebuchet MS">Cat, cat, meow <font face="Arial">♫<font face="Trebuchet MS"></font></font></font></font></b></font>
+
+73
+00:19:23,600 --> 00:19:26,990
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Arial">♫ <font face="Trebuchet MS">Long Cat, Long Cat! Meow, meow <font face="Arial">♫<font face="Trebuchet MS"></font></font></font></font></b></font>
+
+74
+00:19:38,990 --> 00:19:40,490
+<font face="Gandhi Sans" size="24"><b>{\an8}<b><font size="12"><font color="#1d1813">Note-
+book</font></font></b></b></font>
+
+75
+00:21:05,910 --> 00:21:08,410
+<font face="Gandhi Sans" size="24"><b><font size="10">Incoming Call</font></b></font>
+
+76
+00:21:05,910 --> 00:21:08,410
+<font face="Gandhi Sans" size="24"><b><font size="10">{\an8}Hasumi Chie</font></b></font>
+
+77
+00:21:08,410 --> 00:21:09,250
+<font face="Gandhi Sans" size="24"><b><font size="14"><b>Incoming Call</b></font></b></font>
+
+78
+00:21:08,410 --> 00:21:09,250
+<font face="Gandhi Sans" size="24"><b><font size="14"><b>Hasumi Chie</b></font></b></font>
+
+79
+00:21:09,250 --> 00:21:12,420
+<font face="Gandhi Sans" size="24"><b><font size="16"><b>Hasumi Chie</b></font></b></font>
+
+80
+00:21:25,430 --> 00:21:31,440
+<font face="Gandhi Sans" size="24"><b><font size="16"><b>Hasumi Chie</b></font></b></font>
+
+81
+00:21:31,440 --> 00:21:32,310
+<font face="Gandhi Sans" size="24"><b><font size="12"><b>Call Ended</b></font></b></font>
+
+82
+00:21:45,300 --> 00:21:49,970
+<font face="Gandhi Sans" size="24"><b>{\an9}<b><font size="10">Translation
+Timing
+Editing
+Quality Control
+Translation Check</font></b></b></font>
+
+83
+00:21:45,300 --> 00:21:49,970
+<font face="Gandhi Sans" size="24"><b>{\an7}<b><font size="10">Naomi Suda
+Krzysztof Kunc
+SMR
+Gabriella Alabanza
+Rei Miyasaka</font></b></b></font>
+
+84
+00:23:09,950 --> 00:23:39,980
+<font face="Gandhi Sans" size="24"><b><b><font size="12">{\an8}<font color="#c3587e">Kaya-chan Isn't Scary</font></font></b></b></font>
+
+85
+00:23:10,030 --> 00:23:11,620
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="14"><b>{\an8}<font color="#797676">Mori-no-Oka Park</font></b></font></font></b></font>
+
