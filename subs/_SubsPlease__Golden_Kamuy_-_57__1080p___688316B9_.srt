@@ -1,0 +1,1719 @@
+1
+00:00:01,120 --> 00:00:04,230
+<font face="Times New Roman" size="24"><b>1901 Tokyo</b></font>
+
+2
+00:01:30,540 --> 00:01:37,280
+<font size="40"><b>Golden Kamuy</b></font>
+
+3
+00:01:54,480 --> 00:01:59,320
+<font face="Times New Roman" size="12" color="#62000d"><b>{\an3}Episode Fifty-Seven
+Tokyo Love Story</b></font>
+
+4
+00:02:02,330 --> 00:02:04,560
+<font face="Roboto Medium" size="26">Even with a single finger, 
+he's still attacking us!</font>
+
+5
+00:02:04,560 --> 00:02:06,530
+<font face="Roboto Medium" size="26">What a violent little kid!</font>
+
+6
+00:02:06,530 --> 00:02:07,810
+<font face="Roboto Medium" size="26">Get away from him!</font>
+
+7
+00:02:08,360 --> 00:02:09,870
+<font face="Roboto Medium" size="26">Sergeant Kikuta!</font>
+
+8
+00:02:10,260 --> 00:02:13,000
+<font face="Roboto Medium" size="26">You're candidates for officers 
+in the Japanese army.</font>
+
+9
+00:02:13,000 --> 00:02:15,400
+<font face="Roboto Medium" size="26">You shouldn't be embarrassing 
+yourselves in public.</font>
+
+10
+00:02:15,970 --> 00:02:21,110
+<font face="Roboto Medium" size="26"><i>Sergeant Kikuta Mokutarou was a member 
+of the 1st Division at the time,</i></font>
+
+11
+00:02:21,110 --> 00:02:26,160
+<font face="Roboto Medium" size="26"><i>and was training candidates at 
+the army officer training school.</i></font>
+
+12
+00:02:26,700 --> 00:02:28,590
+<font face="Roboto Medium" size="26">It's dangerous to let him go now!</font>
+
+13
+00:02:35,590 --> 00:02:37,760
+<font face="Roboto Medium" size="26">There you go. Were you hungry?</font>
+
+14
+00:02:38,900 --> 00:02:44,640
+<font face="Roboto Medium" size="26">I was wondering what kind of monster 
+could take on over ten trainees at once.</font>
+
+15
+00:02:45,250 --> 00:02:46,900
+<font face="Roboto Medium" size="26">But this may work out perfectly.</font>
+
+16
+00:02:47,260 --> 00:02:48,140
+<font face="Roboto Medium" size="26">Hey, kid.</font>
+
+17
+00:02:48,480 --> 00:02:50,580
+<font face="Roboto Medium" size="26">Come with me, and I'll 
+make sure you're fed.</font>
+
+18
+00:02:51,960 --> 00:02:56,860
+<font face="Times New Roman" size="20"><b>{\an9}<font color="#383230">Cafeteria</font></b></font>
+
+19
+00:02:53,020 --> 00:02:56,360
+<font face="Roboto Medium" size="26">This place is cheap, the food's bad,
+and the portions are generous.</font>
+
+20
+00:02:57,140 --> 00:02:58,750
+<font face="Roboto Medium" size="26">Why'd you end up fighting them?</font>
+
+21
+00:02:59,610 --> 00:03:01,320
+<font face="Roboto Medium" size="26">They glared at me first.</font>
+
+22
+00:03:01,910 --> 00:03:05,290
+<font face="Roboto Medium" size="26">How stupid. Are you a wild dog?</font>
+
+23
+00:03:05,290 --> 00:03:08,700
+<font face="Roboto Medium" size="26">You would've been in trouble
+if they'd arrested you.</font>
+
+24
+00:03:09,050 --> 00:03:11,460
+<font face="Roboto Medium" size="26">I got them to back off 
+for your sake, Norabo.</font>
+
+25
+00:03:12,420 --> 00:03:14,170
+<font face="Roboto Medium" size="26">What does Norabo mean?</font>
+
+26
+00:03:14,630 --> 00:03:18,420
+<font face="Roboto Medium" size="26">There's a vegetable where I 
+grew up called Norabo leaves.</font>
+
+27
+00:03:18,750 --> 00:03:22,090
+<font face="Roboto Medium" size="26">So, what do you want from me?</font>
+
+28
+00:03:24,140 --> 00:03:28,830
+<font face="Roboto Medium" size="26">There's a trainee at our school 
+named Hanazawa Yuusaku.</font>
+
+29
+00:03:29,310 --> 00:03:32,140
+<font face="Roboto Medium" size="26">The son of Division Commander Hanazawa,</font>
+
+30
+00:03:32,140 --> 00:03:33,850
+<font face="Roboto Medium" size="26">who runs the 7th Division in Hokkaido.</font>
+
+31
+00:03:34,120 --> 00:03:37,820
+<font face="Roboto Medium" size="26">I want you to pretend to be him 
+for an arranged marriage meeting.</font>
+
+32
+00:03:38,600 --> 00:03:39,780
+<font face="Roboto Medium" size="26">Pretend to be him?</font>
+
+33
+00:03:40,120 --> 00:03:44,530
+<font face="Roboto Medium" size="26">Commander Hanazawa wants his son 
+to be a regimental flag bearer.</font>
+
+34
+00:03:45,100 --> 00:03:47,660
+<font face="Roboto Medium" size="26">But his wife, Hanazawa Hiro,</font>
+
+35
+00:03:47,660 --> 00:03:51,370
+<font face="Roboto Medium" size="26">doesn't want her son doing a job 
+with such a high casualty rate.</font>
+
+36
+00:03:51,740 --> 00:03:55,920
+<font face="Roboto Medium" size="26">But she's the wife of a soldier 
+and could never say so.</font>
+
+37
+00:03:56,370 --> 00:04:01,080
+<font face="Roboto Medium" size="26">She secretly contacted a place called 
+the Tokyo Marriage Matchmakers.</font>
+
+38
+00:04:01,480 --> 00:04:04,130
+<font face="Roboto Medium" size="26">She says it's common for 
+young kids these days</font>
+
+39
+00:04:04,130 --> 00:04:07,530
+<font face="Roboto Medium" size="26">to register there and have arranged 
+marriage meetings without their parents.</font>
+
+40
+00:04:09,370 --> 00:04:12,560
+<font face="Roboto Medium" size="26">She's got her eyes on 
+a certain girl there.</font>
+
+41
+00:04:13,080 --> 00:04:15,290
+<font face="Roboto Medium" size="26">Her name is Kaneko Kaeko.</font>
+
+42
+00:04:15,290 --> 00:04:17,530
+<font face="Roboto Medium" size="26">Her parents are important directors 
+in the Mitsubishi zaibatsu,</font>
+
+43
+00:04:17,530 --> 00:04:20,070
+<font face="Roboto Medium" size="26">and she's attending a fancy girls' school.</font>
+
+44
+00:04:20,360 --> 00:04:24,420
+<font face="Roboto Medium" size="26">At the school you leave as soon 
+as you're engaged to be married.</font>
+
+45
+00:04:24,420 --> 00:04:28,510
+<font face="Roboto Medium" size="26">If you can't get married by the time you 
+graduate you're treated like leftovers.</font>
+
+46
+00:04:29,050 --> 00:04:33,210
+<font face="Roboto Medium" size="26">Kaneko Kaeko is panicking 
+because no one will marry her.</font>
+
+47
+00:04:33,590 --> 00:04:35,460
+<font face="Roboto Medium" size="26">Even though she's rich?</font>
+
+48
+00:04:35,820 --> 00:04:40,750
+<font face="Roboto Medium" size="26">All the prospective candidates are 
+rich. They don't care about that.</font>
+
+49
+00:04:40,970 --> 00:04:43,390
+<font face="Roboto Medium" size="26">But she's pretty.</font>
+
+50
+00:04:43,390 --> 00:04:47,200
+<font face="Roboto Medium" size="26">Everyone looks way prettier 
+than they are in these photos.</font>
+
+51
+00:04:47,200 --> 00:04:50,260
+<font face="Roboto Medium" size="26">When you see her for real, her nasty 
+personality shows in her face.</font>
+
+52
+00:04:50,970 --> 00:04:54,210
+<font face="Roboto Medium" size="26">Hanazawa's mother's letters to Kaneko</font>
+
+53
+00:04:54,210 --> 00:04:58,650
+<font face="Roboto Medium" size="26">include instructions to 
+"steal Yuusaku-san's virginity."</font>
+
+54
+00:04:59,530 --> 00:05:00,650
+<font face="Roboto Medium" size="26">His virginity?</font>
+
+55
+00:05:00,920 --> 00:05:05,320
+<font face="Roboto Medium" size="26">There's an unwritten rule that regimental 
+flag bearers have to be virgins.</font>
+
+56
+00:05:05,670 --> 00:05:07,240
+<font face="Roboto Medium" size="26">So the hope is that she 
+can steal his virginity,</font>
+
+57
+00:05:07,240 --> 00:05:09,740
+<font face="Roboto Medium" size="26">hopefully get pregnant 
+and force a marriage,</font>
+
+58
+00:05:09,740 --> 00:05:13,650
+<font face="Roboto Medium" size="26">and pull him out of the military 
+and into the zaibatsu.</font>
+
+59
+00:05:13,650 --> 00:05:18,500
+<font face="Roboto Medium" size="26">But Commander Hanazawa found 
+out what his wife is up to.</font>
+
+60
+00:05:18,500 --> 00:05:20,690
+<font face="Roboto Medium" size="26">He's far away in Hokkaido,</font>
+
+61
+00:05:20,690 --> 00:05:23,900
+<font face="Roboto Medium" size="26">so he asked the 1st Division Commander, 
+a man he can trust, for help.</font>
+
+62
+00:05:23,900 --> 00:05:26,680
+<font face="Roboto Medium" size="26">And now he's asked me to deal with it.</font>
+
+63
+00:05:27,010 --> 00:05:29,070
+<font face="Roboto Medium" size="26">There's no need to go 
+through all those hoops.</font>
+
+64
+00:05:29,070 --> 00:05:32,060
+<font face="Roboto Medium" size="26">His wife's right next to him. 
+She can just talk to him.</font>
+
+65
+00:05:32,590 --> 00:05:33,790
+<font face="Roboto Medium" size="26">Ideally, yes.</font>
+
+66
+00:05:34,290 --> 00:05:39,520
+<font face="Roboto Medium" size="26">But she's already crossed the line 
+and involved other people in this.</font>
+
+67
+00:05:40,250 --> 00:05:43,930
+<font face="Roboto Medium" size="26">This could turn into a problem 
+that affects the morale of</font>
+
+68
+00:05:43,930 --> 00:05:45,060
+<font face="Roboto Medium" size="26">the whole 7th Division.</font>
+
+69
+00:05:45,470 --> 00:05:46,530
+<font face="Roboto Medium" size="26">The wife of their Division Commander</font>
+
+70
+00:05:47,040 --> 00:05:50,450
+<font face="Roboto Medium" size="26">is doing something that could 
+be seen as treason, after all.</font>
+
+71
+00:05:54,310 --> 00:05:56,210
+<font face="Roboto Medium" size="26">Okay, much better!</font>
+
+72
+00:05:58,180 --> 00:06:00,210
+<font face="Roboto Medium" size="26">Are these your clothes?</font>
+
+73
+00:06:00,830 --> 00:06:03,170
+<font face="Roboto Medium" size="26">Yeah. Don't get them messy.</font>
+
+74
+00:06:03,460 --> 00:06:06,820
+<font face="Roboto Medium" size="26">There must be any number of people 
+at the academy you could ask.</font>
+
+75
+00:06:06,820 --> 00:06:08,050
+<font face="Roboto Medium" size="26">Why me?</font>
+
+76
+00:06:08,710 --> 00:06:10,020
+<font face="Roboto Medium" size="26">Idiot.</font>
+
+77
+00:06:10,020 --> 00:06:15,180
+<font face="Roboto Medium" size="26">If I use someone from the school, rumors 
+about the Hanazawa lady will spread.</font>
+
+78
+00:06:14,930 --> 00:06:17,390
+<font face="Roboto Medium" size="26">{\an8}Here, put on the hat, too.</font>
+
+79
+00:06:22,400 --> 00:06:23,370
+<font face="Roboto Medium" size="26">Yeah.</font>
+
+80
+00:06:23,720 --> 00:06:24,900
+<font face="Roboto Medium" size="26">You look great.</font>
+
+81
+00:06:25,590 --> 00:06:27,990
+<font face="Roboto Medium" size="26">You've got a dignified face, Norabo!</font>
+
+82
+00:06:28,450 --> 00:06:31,750
+<font face="Roboto Medium" size="26">Hanazawa Yuusaku is the child 
+of a high-ranking officer.</font>
+
+83
+00:06:31,750 --> 00:06:34,100
+<font face="Roboto Medium" size="26">And you look the part!</font>
+
+84
+00:06:35,740 --> 00:06:39,370
+<font face="Roboto Medium" size="26">If I joined the military, I'd always 
+have something to eat, right?</font>
+
+85
+00:06:41,970 --> 00:06:46,990
+<font face="Roboto Medium" size="26">Brother... take this hat back with you...</font>
+
+86
+00:06:51,240 --> 00:06:52,650
+<font face="Roboto Medium" size="26">Okay.</font>
+
+87
+00:06:52,650 --> 00:06:55,170
+<font face="Roboto Medium" size="26">There's going to be food at the meeting.</font>
+
+88
+00:06:55,620 --> 00:06:57,560
+<font face="Roboto Medium" size="26">You'll be able to eat fancy 
+food at the restaurant.</font>
+
+89
+00:06:57,560 --> 00:07:04,570
+<font face="Times New Roman" size="20"><b><font color="#3f393c">Cafeteria</font></b></font>
+
+90
+00:06:58,310 --> 00:07:00,890
+<font face="Roboto Medium" size="26">But you'll need training.</font>
+
+91
+00:07:00,890 --> 00:07:04,570
+<font face="Roboto Medium" size="26">We'll need to polish up your manners 
+before the day of the meeting.</font>
+
+92
+00:07:04,570 --> 00:07:06,370
+<font face="Roboto Medium" size="26">Don't stack the bowls!</font>
+
+93
+00:07:06,370 --> 00:07:08,700
+<font face="Roboto Medium" size="26">The bowl lid gets flipped over 
+and placed away from you!</font>
+
+94
+00:07:08,700 --> 00:07:09,780
+<font face="Roboto Medium" size="26">Sir, yes, sir, Sergeant!</font>
+
+95
+00:07:09,780 --> 00:07:11,660
+<font face="Roboto Medium" size="26">Don't dissolve the wasabi 
+in the soy sauce!</font>
+
+96
+00:07:12,180 --> 00:07:15,670
+<font face="Roboto Medium" size="26">No pointing chopsticks! No putting 
+them back! No letting them linger!</font>
+
+97
+00:07:15,670 --> 00:07:19,120
+<font face="Roboto Medium" size="26">No pointing chopsticks! No putting 
+them back! No letting them linger!</font>
+
+98
+00:07:19,120 --> 00:07:22,780
+<font face="Roboto Medium" size="26">Don't stick them in the food! Don't move 
+the bowls with them! No licking them!</font>
+
+99
+00:07:22,780 --> 00:07:25,880
+<font face="Roboto Medium" size="26">Don't stick them in the food! Don't move 
+the bowls with them! No licking them!</font>
+
+100
+00:07:25,880 --> 00:07:26,510
+<font face="Roboto Medium" size="26">Hah!</font>
+
+101
+00:07:26,510 --> 00:07:27,130
+<font face="Roboto Medium" size="26">Hah!</font>
+
+102
+00:07:28,130 --> 00:07:31,390
+<font face="Roboto Medium" size="26">Okay! There's nothing left to teach you!</font>
+
+103
+00:07:31,390 --> 00:07:34,760
+<font face="Roboto Medium" size="26">Begin Operation 
+"Defend Hanazawa Yuusaku's Virginity!"</font>
+
+104
+00:07:41,010 --> 00:07:43,520
+<font face="Roboto Medium" size="26">Western food! This is a disaster!</font>
+
+105
+00:07:44,620 --> 00:07:45,400
+<font face="Roboto Medium" size="26">Hmm?</font>
+
+106
+00:07:48,070 --> 00:07:49,770
+<font face="Roboto Medium" size="26">No! No! She'll find out!</font>
+
+107
+00:07:49,770 --> 00:07:51,030
+<font face="Roboto Medium" size="26">She's about to find out already!</font>
+
+108
+00:07:52,010 --> 00:07:54,510
+<font face="Roboto Medium" size="26"><i>Kikuta-san! The mission's in danger!</i></font>
+
+109
+00:07:56,070 --> 00:08:01,620
+<font face="Roboto Medium" size="26">He's about to give the 
+"mission failed" signal already!</font>
+
+110
+00:08:04,440 --> 00:08:06,280
+<font face="Roboto Medium" size="26">Oh, Yuusaku-san...</font>
+
+111
+00:08:07,880 --> 00:08:10,840
+<font face="Roboto Medium" size="26">I imagined you as someone more stern.</font>
+
+112
+00:08:12,920 --> 00:08:15,220
+<font face="Roboto Medium" size="26">I wanted to lighten the mood.</font>
+
+113
+00:08:15,490 --> 00:08:19,430
+<font face="Roboto Medium" size="26">Do you still have your hat 
+on because you're nervous?</font>
+
+114
+00:08:22,270 --> 00:08:26,640
+<font face="Roboto Medium" size="26">I always eat Japanese food, 
+both at home and at the academy.</font>
+
+115
+00:08:26,640 --> 00:08:28,940
+<font face="Roboto Medium" size="26">So I'm not used to places like this.</font>
+
+116
+00:08:30,350 --> 00:08:33,790
+<font face="Roboto Medium" size="26">You look so different in person.</font>
+
+117
+00:08:34,190 --> 00:08:35,410
+<font face="Roboto Medium" size="26">But...</font>
+
+118
+00:08:37,390 --> 00:08:40,100
+<font face="Roboto Medium" size="26">So you've never had fried shrimp, then?</font>
+
+119
+00:08:40,100 --> 00:08:42,710
+<font face="Roboto Medium" size="26">They're a popular dish lately.</font>
+
+120
+00:08:42,710 --> 00:08:46,170
+<font face="Roboto Medium" size="26">They're delicious with egg sauce.</font>
+
+121
+00:08:49,830 --> 00:08:51,450
+<font face="Roboto Medium" size="26"><i>Wow!</i></font>
+
+122
+00:08:51,450 --> 00:08:53,420
+<font face="Roboto Medium" size="26"><i>I've never had anything like this.</i></font>
+
+123
+00:08:54,290 --> 00:08:56,390
+<font face="Roboto Medium" size="26">Do you come here often?</font>
+
+124
+00:08:56,390 --> 00:08:57,250
+<font face="Roboto Medium" size="26">Yes.</font>
+
+125
+00:08:57,250 --> 00:08:59,610
+<font face="Roboto Medium" size="26">And also the Rokumeikan.</font>
+
+126
+00:08:59,610 --> 00:09:04,430
+<font face="Roboto Medium" size="26">My friends at school are all daughters 
+of the royal family, ministers,</font>
+
+127
+00:09:04,430 --> 00:09:06,660
+<font face="Roboto Medium" size="26">important officials or governors.</font>
+
+128
+00:09:06,660 --> 00:09:08,690
+<font face="Roboto Medium" size="26">So we have to go somewhere nice.</font>
+
+129
+00:09:09,410 --> 00:09:14,190
+<font face="Roboto Medium" size="26"><i>Since my dad died, I had to 
+steal food from people's cats.</i></font>
+
+130
+00:09:21,190 --> 00:09:22,310
+<font face="Roboto Medium" size="26">How'd it go?</font>
+
+131
+00:09:22,940 --> 00:09:25,120
+<font face="Roboto Medium" size="26">I didn't talk much about myself.</font>
+
+132
+00:09:25,120 --> 00:09:27,240
+<font face="Roboto Medium" size="26">I tried to pretend to be someone boring.</font>
+
+133
+00:09:27,240 --> 00:09:29,460
+<font face="Roboto Medium" size="26">Good, good. Excellent work, Norabo.</font>
+
+134
+00:09:29,960 --> 00:09:33,290
+<font face="Roboto Medium" size="26">Arranged marriages like this one involve 
+at least two or three meetings.</font>
+
+135
+00:09:33,640 --> 00:09:34,950
+<font face="Roboto Medium" size="26">So get ready for the next one.</font>
+
+136
+00:09:35,820 --> 00:09:40,260
+<font face="Roboto Medium" size="26">He was so quiet. He just nodded 
+and never corrected me.</font>
+
+137
+00:09:40,260 --> 00:09:42,590
+<font face="Roboto Medium" size="26">I really liked him!</font>
+
+138
+00:09:42,590 --> 00:09:44,060
+<font face="Roboto Medium" size="26">And more than anything...</font>
+
+139
+00:09:44,310 --> 00:09:46,220
+<font face="Roboto Medium" size="26">He was hot!</font>
+
+140
+00:09:46,220 --> 00:09:49,060
+<font face="Roboto Medium" size="26">You do prefer good-looking men.</font>
+
+141
+00:09:49,060 --> 00:09:51,030
+<font face="Roboto Medium" size="26">That's why you're not married yet.</font>
+
+142
+00:09:52,360 --> 00:09:56,820
+<font face="Roboto Medium" size="26">I can't imagine marrying someone 
+you've only met a few times.</font>
+
+143
+00:09:56,820 --> 00:10:00,470
+<font face="Roboto Medium" size="26">That's how it works. 
+Particularly for the upper classes.</font>
+
+144
+00:10:00,920 --> 00:10:03,950
+<font face="Roboto Medium" size="26">I'm sure everybody would 
+rather marry someone they liked,</font>
+
+145
+00:10:04,280 --> 00:10:06,090
+<font face="Roboto Medium" size="26">but they don't get a choice.</font>
+
+146
+00:10:12,200 --> 00:10:13,140
+<font face="Roboto Medium" size="26">What's wrong?</font>
+
+147
+00:10:13,480 --> 00:10:17,840
+<font face="Roboto Medium" size="26">I have friends back home 
+named Ume-chan and Toraji.</font>
+
+148
+00:10:18,540 --> 00:10:21,220
+<font face="Roboto Medium" size="26">I was supposed to marry Ume-chan.</font>
+
+149
+00:10:21,890 --> 00:10:24,850
+<font face="Roboto Medium" size="26">But someone in my family got tuberculosis.</font>
+
+150
+00:10:25,890 --> 00:10:28,060
+<font face="Roboto Medium" size="26">And then everyone in 
+my family died from it.</font>
+
+151
+00:10:34,380 --> 00:10:36,230
+<font face="Roboto Medium" size="26">I don't want to kill you, Ume-chan!</font>
+
+152
+00:10:37,930 --> 00:10:39,780
+<font face="Roboto Medium" size="26">I said that if two years 
+passed and I didn't get sick,</font>
+
+153
+00:10:39,780 --> 00:10:40,820
+<font face="Roboto Medium" size="26">I'd go back to the village.</font>
+
+154
+00:10:41,660 --> 00:10:43,830
+<font face="Roboto Medium" size="26">That I'd come for her.</font>
+
+155
+00:10:49,150 --> 00:10:50,840
+<font face="Roboto Medium" size="26">She married Toraji.</font>
+
+156
+00:10:51,830 --> 00:10:55,320
+<font face="Roboto Medium" size="26">He'd loved Ume-chan since they were young.</font>
+
+157
+00:10:56,900 --> 00:10:57,830
+<font face="Roboto Medium" size="26">So...</font>
+
+158
+00:10:58,790 --> 00:11:00,430
+<font face="Roboto Medium" size="26">Why did you come back?</font>
+
+159
+00:11:00,820 --> 00:11:03,110
+<font face="Roboto Medium" size="26">She still cares about you...</font>
+
+160
+00:11:03,110 --> 00:11:06,330
+<font face="Roboto Medium" size="26">But she's my wife anyway!</font>
+
+161
+00:11:09,610 --> 00:11:12,190
+<font face="Roboto Medium" size="26">Congratulations on your marriage, Toraji.</font>
+
+162
+00:11:13,010 --> 00:11:16,530
+<font face="Roboto Medium" size="26">He said she still cared about me.</font>
+
+163
+00:11:16,530 --> 00:11:18,450
+<font face="Roboto Medium" size="26">But she married him anyway.</font>
+
+164
+00:11:19,140 --> 00:11:22,140
+<font face="Roboto Medium" size="26">Maybe that's just how it works, too.</font>
+
+165
+00:11:22,780 --> 00:11:25,070
+<font face="Roboto Medium" size="26">Are you trying to say that she 
+gave in and married Toraji,</font>
+
+166
+00:11:25,070 --> 00:11:28,480
+<font face="Roboto Medium" size="26">but you don't know if she's really happy?</font>
+
+167
+00:11:28,480 --> 00:11:31,340
+<font face="Roboto Medium" size="26">What the fuck do you know about 
+Ume-chan, you little brat?!</font>
+
+168
+00:11:31,340 --> 00:11:32,540
+<font face="Roboto Medium" size="26">No, uh...</font>
+
+169
+00:11:32,540 --> 00:11:37,800
+<font face="Roboto Medium" size="26">Don't get so damn cocky just because 
+you're kind of handsome, you fucking kid!</font>
+
+170
+00:11:37,800 --> 00:11:40,340
+<font face="Roboto Medium" size="26">Gah, you're pissing me off!</font>
+
+171
+00:11:40,340 --> 00:11:45,590
+<font face="Roboto Medium" size="26">You're really arrogant enough to 
+think she loves you most forever?</font>
+
+172
+00:11:45,590 --> 00:11:47,870
+<font face="Roboto Medium" size="26">Don't give her so little credit!</font>
+
+173
+00:11:47,870 --> 00:11:49,310
+<font face="Roboto Medium" size="26"><i>Is it worth getting that mad over?</i></font>
+
+174
+00:11:49,310 --> 00:11:52,180
+<font face="Roboto Medium" size="26">It's rude to both of them!</font>
+
+175
+00:11:52,180 --> 00:11:54,480
+<font face="Roboto Medium" size="26">What direction is your village, Norabo?</font>
+
+176
+00:11:54,480 --> 00:11:57,020
+<font face="Roboto Medium" size="26">Face it and apologize, damn it!</font>
+
+177
+00:11:58,360 --> 00:12:00,780
+<font face="Roboto Medium" size="26">Am I just hanging on to 
+it too long, you think?</font>
+
+178
+00:12:01,580 --> 00:12:02,550
+<font face="Roboto Medium" size="26">No, it's fine.</font>
+
+179
+00:12:02,550 --> 00:12:03,020
+<font face="Roboto Medium" size="26">Huh?</font>
+
+180
+00:12:03,020 --> 00:12:05,250
+<font face="Roboto Medium" size="26">Men are pathetic creatures.</font>
+
+181
+00:12:05,250 --> 00:12:08,030
+<font face="Roboto Medium" size="26">It's okay to keep the woman 
+you love deep in your heart,</font>
+
+182
+00:12:08,290 --> 00:12:10,870
+<font face="Roboto Medium" size="26">and remember her once in a while.</font>
+
+183
+00:12:11,210 --> 00:12:15,010
+<font face="Roboto Medium" size="26">And that's why if you're a man, 
+you should understand Toraji's fears.</font>
+
+184
+00:12:15,400 --> 00:12:18,880
+<font face="Roboto Medium" size="26">Forget your home and both of them.</font>
+
+185
+00:12:19,650 --> 00:12:20,350
+<font face="Roboto Medium" size="26">Yes, sir.</font>
+
+186
+00:12:21,570 --> 00:12:26,010
+<font size="40"><b><font color="#f5f5f1">Golden Kamuy</font></b></font>
+
+187
+00:12:26,470 --> 00:12:28,710
+<font face="Roboto Medium" size="26">I've decided! I'm marrying Yuusaku-san!</font>
+
+188
+00:12:28,710 --> 00:12:30,680
+<font face="Roboto Medium" size="26">I'm not giving up on him.</font>
+
+189
+00:12:30,680 --> 00:12:35,020
+<font face="Roboto Medium" size="26">Men are easy. Just make it 
+look like you'll fuck them.</font>
+
+190
+00:12:35,020 --> 00:12:36,530
+<font face="Roboto Medium" size="26">Once you think they're about to cum,</font>
+
+191
+00:12:36,530 --> 00:12:38,320
+<font face="Roboto Medium" size="26">wrap your legs around them 
+and make them scream.</font>
+
+192
+00:12:38,990 --> 00:12:41,740
+<font face="Roboto Medium" size="26">Yuusaku-san's from an important family,</font>
+
+193
+00:12:41,740 --> 00:12:44,780
+<font face="Roboto Medium" size="26">and men choose based on looks, right?</font>
+
+194
+00:12:44,780 --> 00:12:46,870
+<font face="Roboto Medium" size="26">So I'll do the same thing!</font>
+
+195
+00:12:47,340 --> 00:12:51,240
+<font face="Roboto Medium" size="26">My cousin says I put too 
+much importance on looks.</font>
+
+196
+00:12:51,700 --> 00:12:56,110
+<font face="Roboto Medium" size="26">But he did the same thing, 
+and he seems happy.</font>
+
+197
+00:12:56,110 --> 00:12:59,130
+<font face="Roboto Medium" size="26">That country girl with curly hair...</font>
+
+198
+00:13:01,350 --> 00:13:03,860
+<font face="Roboto Medium" size="26">That fried shrimp was good.</font>
+
+199
+00:13:03,860 --> 00:13:06,920
+<font face="Roboto Medium" size="26">Tokyo's got good food
+if you can pay for it.</font>
+
+200
+00:13:06,920 --> 00:13:08,180
+<font face="Roboto Medium" size="26">You've got to get rich first.</font>
+
+201
+00:13:08,530 --> 00:13:12,570
+<font face="Roboto Medium" size="26">Does Hanazawa Yuusaku want 
+to be a flag-bearer, anyway?</font>
+
+202
+00:13:14,530 --> 00:13:16,050
+<font face="Roboto Medium" size="26">Maybe he wants to eat</font>
+
+203
+00:13:16,050 --> 00:13:19,440
+<font face="Roboto Medium" size="26">fried shrimp at the Imperial Hotel 
+instead of going into the army.</font>
+
+204
+00:13:19,850 --> 00:13:22,750
+<font face="Roboto Medium" size="26">You don't need to think about any of that.</font>
+
+205
+00:13:23,250 --> 00:13:28,070
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#0f1122">Cafeteria</font></b></font>
+
+206
+00:13:25,010 --> 00:13:28,070
+<font face="Roboto Medium" size="26">Is this operation really going to work?</font>
+
+207
+00:13:29,090 --> 00:13:30,750
+<font face="Roboto Medium" size="26">I'm not confident.</font>
+
+208
+00:13:30,750 --> 00:13:33,700
+<font face="Roboto Medium" size="26">Keep the uniform. And the hat.</font>
+
+209
+00:13:34,100 --> 00:13:36,090
+<font face="Roboto Medium" size="26">They'll give you strength.</font>
+
+210
+00:13:36,920 --> 00:13:40,450
+<font face="Roboto Medium" size="26">A thing contains a part 
+of its owner's power.</font>
+
+211
+00:13:40,920 --> 00:13:43,470
+<font face="Roboto Medium" size="26">If you wear what someone else wore,</font>
+
+212
+00:13:43,470 --> 00:13:45,670
+<font face="Roboto Medium" size="26">you'll get a bit of their strength.</font>
+
+213
+00:13:46,100 --> 00:13:48,120
+<font face="Roboto Medium" size="26">Are those the words of a famous monk?</font>
+
+214
+00:13:48,490 --> 00:13:50,110
+<font face="Roboto Medium" size="26">That's what I believe.</font>
+
+215
+00:13:50,570 --> 00:13:54,330
+<font face="Roboto Medium" size="26">During the Sino-Japanese War, I carried 
+the things of my comrades and enemies.</font>
+
+216
+00:13:54,680 --> 00:13:56,330
+<font face="Roboto Medium" size="26">On the battlefield,</font>
+
+217
+00:13:56,330 --> 00:13:59,710
+<font face="Roboto Medium" size="26">you need something to keep your 
+spirits up more than anything.</font>
+
+218
+00:14:00,890 --> 00:14:03,660
+<font face="Roboto Medium" size="26">But don't wander around 
+in that uniform, okay?</font>
+
+219
+00:14:03,660 --> 00:14:05,490
+<font face="Roboto Medium" size="26">Akasaka is army territory.</font>
+
+220
+00:14:05,950 --> 00:14:09,390
+<font face="Roboto Medium" size="26">The academy, and the students 
+you fought with, are nearby.</font>
+
+221
+00:14:09,390 --> 00:14:11,200
+<font face="Roboto Medium" size="26">No getting into fights.</font>
+
+222
+00:14:11,200 --> 00:14:13,160
+<font face="Times New Roman" size="20"><b><font color="#4c4943"><font size="25">Army Officer Academy</font></font></b></font>
+
+223
+00:14:14,890 --> 00:14:17,410
+<font face="Roboto Medium" size="26">Are you the one who wanted to talk to me?</font>
+
+224
+00:14:17,850 --> 00:14:19,240
+<font face="Roboto Medium" size="26">Are you Hanazawa Yuusaku-san?</font>
+
+225
+00:14:19,650 --> 00:14:21,410
+<font face="Roboto Medium" size="26">Have we met?</font>
+
+226
+00:14:21,410 --> 00:14:23,530
+<font face="Roboto Medium" size="26">What company and unit are you in?</font>
+
+227
+00:14:23,940 --> 00:14:24,630
+<font face="Roboto Medium" size="26">What's your name?</font>
+
+228
+00:14:25,230 --> 00:14:28,180
+<font face="Roboto Medium" size="26">Don't worry. This won't take long.</font>
+
+229
+00:14:29,050 --> 00:14:33,560
+<font face="Roboto Medium" size="26">Is it true that your father wants 
+you to be a regimental flag-bearer?</font>
+
+230
+00:14:33,560 --> 00:14:35,210
+<font face="Roboto Medium" size="26">Huh? Yes.</font>
+
+231
+00:14:35,690 --> 00:14:38,180
+<font face="Roboto Medium" size="26">But I'd have to be chosen first.</font>
+
+232
+00:14:38,710 --> 00:14:40,130
+<font face="Roboto Medium" size="26">Who told you that?</font>
+
+233
+00:14:40,550 --> 00:14:42,060
+<font face="Roboto Medium" size="26">What's it to you?</font>
+
+234
+00:14:42,390 --> 00:14:46,780
+<font face="Roboto Medium" size="26">Why does he want his son to take a 
+job that's likely to get him killed?</font>
+
+235
+00:14:46,780 --> 00:14:49,910
+<font face="Roboto Medium" size="26">Is he just that confident 
+there won't be a war?</font>
+
+236
+00:14:50,390 --> 00:14:52,040
+<font face="Roboto Medium" size="26">That's not true.</font>
+
+237
+00:14:52,420 --> 00:14:54,970
+<font face="Roboto Medium" size="26">Russia has already invaded Manchuria.</font>
+
+238
+00:14:54,970 --> 00:15:00,000
+<font face="Roboto Medium" size="26">My father says that war is coming 
+soon, and so it probably is.</font>
+
+239
+00:15:00,740 --> 00:15:02,670
+<font face="Roboto Medium" size="26">Do you want to be a flag-bearer?</font>
+
+240
+00:15:03,180 --> 00:15:05,220
+<font face="Roboto Medium" size="26">I'd be proud if I was chosen.</font>
+
+241
+00:15:05,220 --> 00:15:06,960
+<font face="Roboto Medium" size="26">It's not because that's 
+what your father wants?</font>
+
+242
+00:15:07,220 --> 00:15:08,770
+<font face="Roboto Medium" size="26">That's not true.</font>
+
+243
+00:15:09,330 --> 00:15:10,850
+<font face="Roboto Medium" size="26">What are you trying to say?</font>
+
+244
+00:15:10,850 --> 00:15:12,930
+<font face="Roboto Medium" size="26">Why did you ask me to come here?</font>
+
+245
+00:15:13,300 --> 00:15:16,060
+<font face="Roboto Medium" size="26">I want to know what you really think.</font>
+
+246
+00:15:16,510 --> 00:15:21,930
+<font face="Roboto Medium" size="26">My father's always told me to think 
+about what I can do for Japan.</font>
+
+247
+00:15:21,930 --> 00:15:24,310
+<font face="Roboto Medium" size="26">I understand why he feels that way.</font>
+
+248
+00:15:24,310 --> 00:15:28,440
+<font face="Roboto Medium" size="26">And if I can help raise the spirits 
+of the soldiers on the front lines...</font>
+
+249
+00:15:28,440 --> 00:15:29,650
+<font face="Roboto Medium" size="26">Don't bullshit me!</font>
+
+250
+00:15:31,330 --> 00:15:34,420
+<font face="Roboto Medium" size="26">What you really want is fried 
+shrimp, isn't it, you asshole?</font>
+
+251
+00:15:34,420 --> 00:15:36,370
+<font face="Roboto Medium" size="26">Fried shrimp? What are you talking about?</font>
+
+252
+00:15:37,350 --> 00:15:38,660
+<font face="Roboto Medium" size="26">Ow... ow...</font>
+
+253
+00:15:38,660 --> 00:15:40,290
+<font face="Roboto Medium" size="26">You don't know what it is?</font>
+
+254
+00:15:40,900 --> 00:15:43,900
+<font face="Roboto Medium" size="26">Then go try it at the Imperial Hotel!</font>
+
+255
+00:15:43,900 --> 00:15:46,030
+<font face="Roboto Medium" size="26">And then you can choose!</font>
+
+256
+00:15:46,030 --> 00:15:47,630
+<font face="Roboto Medium" size="26">What are you saying?</font>
+
+257
+00:15:47,630 --> 00:15:49,790
+<font face="Roboto Medium" size="26">This man's crazy!</font>
+
+258
+00:15:49,790 --> 00:15:50,800
+<font face="Roboto Medium" size="26">Somebody help...</font>
+
+259
+00:15:51,870 --> 00:15:54,550
+<font face="Roboto Medium" size="26">Is that Sergeant Kikuta's hat?</font>
+
+260
+00:15:57,180 --> 00:15:59,410
+<font face="Roboto Medium" size="26">That small stitch...</font>
+
+261
+00:15:59,410 --> 00:16:01,310
+<font face="Roboto Medium" size="26">It's from a hole that was made</font>
+
+262
+00:16:01,310 --> 00:16:05,060
+<font face="Roboto Medium" size="26">when a trainee almost killed 
+him during firing practice.</font>
+
+263
+00:16:05,710 --> 00:16:07,320
+<font face="Roboto Medium" size="26">Shit. I'd better run.</font>
+
+264
+00:16:08,170 --> 00:16:10,400
+<font face="Roboto Medium" size="26">It was a gift. I'll be on my way.</font>
+
+265
+00:16:10,400 --> 00:16:11,670
+<font face="Roboto Medium" size="26">Farewell.</font>
+
+266
+00:16:11,670 --> 00:16:12,700
+<font face="Roboto Medium" size="26">A gift?</font>
+
+267
+00:16:13,080 --> 00:16:17,170
+<font face="Roboto Medium" size="26">That hat belonged to his younger brother, 
+who died during the Sino-Japanese war.</font>
+
+268
+00:16:36,760 --> 00:16:37,960
+<font face="Roboto Medium" size="26">Thank you.</font>
+
+269
+00:16:39,950 --> 00:16:42,830
+<font face="Roboto Medium" size="26"><i>There really are a lot of soldiers here.</i></font>
+
+270
+00:16:43,390 --> 00:16:46,900
+<font face="Times New Roman" size="24"><b>Army First Division Command</b></font>
+
+271
+00:16:48,860 --> 00:16:53,030
+<font face="Roboto Medium" size="26">Ainu gold? Is that true?</font>
+
+272
+00:16:53,280 --> 00:16:54,060
+<font face="Roboto Medium" size="26">Yes!</font>
+
+273
+00:16:54,370 --> 00:16:57,280
+<font face="Roboto Medium" size="26">I want you to find it for 
+the central government.</font>
+
+274
+00:16:57,700 --> 00:17:02,070
+<font face="Roboto Medium" size="26">{\an8}Your reputation at intelligence 
+gathering is unparalleled.</font>
+
+275
+00:16:58,340 --> 00:17:03,060
+<font face="Times New Roman" size="24"><b><font size="14">Army First Division Commander
+<font size="24"> General Okuda Hidenobu</font></font></b></font>
+
+276
+00:17:02,450 --> 00:17:05,040
+<font face="Roboto Medium" size="26">I want you to keep me informed 
+of your progress at all times.</font>
+
+277
+00:17:05,330 --> 00:17:08,930
+<font face="Roboto Medium" size="26">And go above the heads 
+of my superior officers?</font>
+
+278
+00:17:08,930 --> 00:17:10,390
+<font face="Roboto Medium" size="26">Correct.</font>
+
+279
+00:17:10,390 --> 00:17:13,130
+<font face="Roboto Medium" size="26">Don't worry. I'll back you up.</font>
+
+280
+00:17:13,480 --> 00:17:16,950
+<font face="Roboto Medium" size="26">Seventh Division Commander 
+Hanazawa-dono owes me a debt.</font>
+
+281
+00:17:16,950 --> 00:17:19,220
+<font face="Roboto Medium" size="26">You'll be able to move freely.</font>
+
+282
+00:17:19,220 --> 00:17:21,310
+<font face="Roboto Medium" size="26">A debt?</font>
+
+283
+00:17:21,310 --> 00:17:24,320
+<font face="Roboto Medium" size="26">I covered up an embarrassing 
+incident with his family.</font>
+
+284
+00:17:24,320 --> 00:17:27,950
+<font face="Roboto Medium" size="26">He's from Satsuma, and 
+given the struggles between</font>
+
+285
+00:17:27,950 --> 00:17:30,390
+<font face="Roboto Medium" size="26">factions in Satsuma and Choushuu,</font>
+
+286
+00:17:30,390 --> 00:17:32,980
+<font face="Roboto Medium" size="26">he wouldn't want a 
+scandal coming to light.</font>
+
+287
+00:17:33,320 --> 00:17:37,840
+<font face="Roboto Medium" size="26">He assumed that as I am from
+Kokura Province, I'd be neutral,</font>
+
+288
+00:17:37,840 --> 00:17:39,800
+<font face="Roboto Medium" size="26">so he came to me.</font>
+
+289
+00:17:39,800 --> 00:17:41,800
+<font face="Roboto Medium" size="26">He showed me his weakness.</font>
+
+290
+00:17:42,760 --> 00:17:45,710
+<font face="Roboto Medium" size="26">Lieutenant Tsurumi, you're from Niigata, yes?</font>
+
+291
+00:17:45,710 --> 00:17:49,100
+<font face="Roboto Medium" size="26">Your family were important 
+nobles in Echigo Nagaoka,</font>
+
+292
+00:17:49,100 --> 00:17:52,590
+<font face="Roboto Medium" size="26">who met with a terrible fate 
+during the Battle of Hokuetsu.</font>
+
+293
+00:17:52,940 --> 00:17:55,770
+<font face="Roboto Medium" size="26">You hate both Choushuu and Satsuma, right?</font>
+
+294
+00:17:55,770 --> 00:18:00,390
+<font face="Roboto Medium" size="26">Let's use the Ainu gold to put an 
+end to their rule over the army.</font>
+
+295
+00:18:02,120 --> 00:18:07,730
+<font face="Roboto Medium" size="26">Can I ask you to tell me 
+more about this "scandal"?</font>
+
+296
+00:18:07,730 --> 00:18:12,230
+<font face="Times New Roman" size="20"><b><font size="8"><font color="#503d2d">Army First Division Headquarters</font></font></b></font>
+
+297
+00:18:08,510 --> 00:18:12,230
+<font face="Roboto Medium" size="26">If you're not from Satsuma or 
+Choushuu, you're not a real soldier!</font>
+
+298
+00:18:12,480 --> 00:18:15,940
+<font face="Roboto Medium" size="26">That's what our nation's 
+army and navy say.</font>
+
+299
+00:18:16,610 --> 00:18:19,780
+<font face="Roboto Medium" size="26">General Okuta said he was neutral.</font>
+
+300
+00:18:19,780 --> 00:18:21,210
+<font face="Roboto Medium" size="26">But he's lying.</font>
+
+301
+00:18:21,210 --> 00:18:23,700
+<font face="Roboto Medium" size="26">He's actually with Choushuu, I assume.</font>
+
+302
+00:18:24,250 --> 00:18:27,210
+<font face="Roboto Medium" size="26">He's afraid that if the Ainu 
+gold ends up in his hands,</font>
+
+303
+00:18:27,520 --> 00:18:30,960
+<font face="Roboto Medium" size="26">the Satsuma faction will get stronger.</font>
+
+304
+00:18:30,960 --> 00:18:34,130
+<font face="Roboto Medium" size="26">How stupid it all is!</font>
+
+305
+00:18:34,130 --> 00:18:36,670
+<font face="Roboto Medium" size="26">I'm sick of the central government.</font>
+
+306
+00:18:37,690 --> 00:18:39,170
+<font face="Roboto Medium" size="26">Well, it's fine.</font>
+
+307
+00:18:39,170 --> 00:18:42,670
+<font face="Roboto Medium" size="26">I found information on 
+the Ainu gold in Russia.</font>
+
+308
+00:18:42,670 --> 00:18:44,710
+<font face="Roboto Medium" size="26">And this confirms it.</font>
+
+309
+00:18:44,710 --> 00:18:50,440
+<font face="Roboto Medium" size="26">Before we return to Hokkaido, we'll 
+need to meet Commander Hanazawa's son.</font>
+
+310
+00:18:50,920 --> 00:18:53,240
+<font face="Roboto Medium" size="26">And this sergeant named Kikuta, too.</font>
+
+311
+00:18:54,610 --> 00:18:58,250
+<font face="Roboto Medium" size="26">The lady contacted Hanazawa 
+Yuusaku at the academy.</font>
+
+312
+00:18:58,850 --> 00:19:01,560
+<font face="Roboto Medium" size="26">She asked to meet at the 
+Imperial Hotel again.</font>
+
+313
+00:19:01,560 --> 00:19:03,120
+<font face="Roboto Medium" size="26">What if she finds out?</font>
+
+314
+00:19:04,070 --> 00:19:07,250
+<font face="Roboto Medium" size="26">You give back the uniform, 
+and you're done.</font>
+
+315
+00:19:07,500 --> 00:19:11,090
+<font face="Roboto Medium" size="26">No, not me. What about the lady?</font>
+
+316
+00:19:11,090 --> 00:19:14,090
+<font face="Roboto Medium" size="26">She knows about an army scandal, right?</font>
+
+317
+00:19:15,910 --> 00:19:18,900
+<font face="Roboto Medium" size="26">Of course, we have a backup plan.</font>
+
+318
+00:19:18,900 --> 00:19:21,050
+<font face="Roboto Medium" size="26">But there's no need for you to know it.</font>
+
+319
+00:19:22,340 --> 00:19:24,300
+<font face="Times New Roman" size="20"><b><font color="#4c4943"><font size="25">Army Officer Academy</font></font></b></font>
+
+320
+00:19:23,500 --> 00:19:28,340
+<font face="Roboto Medium" size="26">Hanazawa-san, did you get the 
+information from Sergeant Kikuta?</font>
+
+321
+00:19:28,340 --> 00:19:30,230
+<font face="Roboto Medium" size="26">It's supposed to be today.</font>
+
+322
+00:19:30,230 --> 00:19:32,480
+<font face="Roboto Medium" size="26">What are you talking about?</font>
+
+323
+00:19:32,720 --> 00:19:34,970
+<font face="Roboto Medium" size="26">About the Imperial Hotel.</font>
+
+324
+00:19:34,970 --> 00:19:35,880
+<font face="Roboto Medium" size="26">Did you not hear?</font>
+
+325
+00:19:35,880 --> 00:19:36,690
+<font face="Roboto Medium" size="26">Suzuki-san!</font>
+
+326
+00:19:36,960 --> 00:19:38,940
+<font face="Roboto Medium" size="26">You're not supposed to tell him!</font>
+
+327
+00:19:40,200 --> 00:19:45,250
+<font face="Roboto Medium" size="26">All telegrams and letters to me 
+are to go through Sergeant Kikuta?!</font>
+
+328
+00:19:45,250 --> 00:19:47,700
+<font face="Roboto Medium" size="26">Yes, that was the order.</font>
+
+329
+00:19:54,180 --> 00:19:58,090
+<font face="Roboto Medium" size="26">Hanazawa Yuusaku-kun? You just missed him.</font>
+
+330
+00:19:58,370 --> 00:19:59,610
+<font face="Roboto Medium" size="26">Where did he go?</font>
+
+331
+00:20:09,310 --> 00:20:11,730
+<font face="Roboto Medium" size="26">I'm so sorry!</font>
+
+332
+00:20:11,730 --> 00:20:13,140
+<font face="Roboto Medium" size="26">Oh, man...</font>
+
+333
+00:20:13,140 --> 00:20:18,110
+<font face="Roboto Medium" size="26">Oh, no! Yuusaku-san is 
+covered in beef stew!</font>
+
+334
+00:20:19,110 --> 00:20:20,750
+<font face="Roboto Medium" size="26">Come this way...</font>
+
+335
+00:20:20,750 --> 00:20:22,560
+<font face="Roboto Medium" size="26">I'll help you change.</font>
+
+336
+00:20:22,560 --> 00:20:23,310
+<font face="Roboto Medium" size="26">Change?</font>
+
+337
+00:20:24,730 --> 00:20:26,240
+<font face="Roboto Medium" size="26">Where are they going?</font>
+
+338
+00:20:26,500 --> 00:20:29,030
+<font face="Roboto Medium" size="26">I've got us a room.</font>
+
+339
+00:20:29,780 --> 00:20:31,250
+<font face="Roboto Medium" size="26">A room?</font>
+
+340
+00:20:31,830 --> 00:20:33,210
+<font face="Roboto Medium" size="26">Lieutenant Tsurumi...</font>
+
+341
+00:20:36,530 --> 00:20:38,790
+<font face="Roboto Medium" size="26">There's a bath in the back.</font>
+
+342
+00:20:38,790 --> 00:20:40,740
+<font face="Roboto Medium" size="26">Take it all off!</font>
+
+343
+00:20:40,740 --> 00:20:42,440
+<font face="Roboto Medium" size="26">All off! Strip!</font>
+
+344
+00:20:42,440 --> 00:20:43,380
+<font face="Roboto Medium" size="26">Strip?</font>
+
+345
+00:20:45,130 --> 00:20:46,740
+<font face="Roboto Medium" size="26">This room is crazy...</font>
+
+346
+00:20:47,400 --> 00:20:49,510
+<font face="Roboto Medium" size="26">I'll have a change of clothes brought.</font>
+
+347
+00:20:49,970 --> 00:20:52,590
+<font face="Roboto Medium" size="26">Now, into the bath with you!</font>
+
+348
+00:20:52,590 --> 00:20:54,730
+<font face="Roboto Medium" size="26">Why is the tub filled with water?</font>
+
+349
+00:20:55,050 --> 00:20:56,690
+<font face="Roboto Medium" size="26">This is strange...</font>
+
+350
+00:20:56,690 --> 00:20:58,400
+<font face="Roboto Medium" size="26">What's going on?</font>
+
+351
+00:20:58,820 --> 00:21:03,290
+<font face="Roboto Medium" size="26">But it's Kikuta-san's uniform, so I 
+want to make sure it gets cleaned.</font>
+
+352
+00:21:03,290 --> 00:21:04,670
+<font face="Roboto Medium" size="26">Let me take it all off.</font>
+
+353
+00:21:05,190 --> 00:21:07,590
+<font face="Roboto Medium" size="26">Where did they go?</font>
+
+354
+00:21:07,590 --> 00:21:11,160
+<font face="Roboto Medium" size="26">Norabo of all people wouldn't go 
+for it just because she offered...</font>
+
+355
+00:21:18,170 --> 00:21:23,400
+<font face="Roboto Medium" size="26">Yuusaku-san, don't make me 
+shame myself as a woman!</font>
+
+356
+00:21:23,910 --> 00:21:27,220
+<font face="Roboto Medium" size="26">But you barely know me!</font>
+
+357
+00:21:27,220 --> 00:21:29,730
+<font face="Roboto Medium" size="26">It's okay! You're hot!</font>
+
+358
+00:21:30,410 --> 00:21:31,720
+<font face="Roboto Medium" size="26">She took my clothes!</font>
+
+359
+00:21:31,950 --> 00:21:36,230
+<font face="Roboto Medium" size="26">If you refuse me, I'll make you regret it.</font>
+
+360
+00:21:36,230 --> 00:21:41,870
+<font face="Roboto Medium" size="26">The Hanazawa family has something 
+they don't want getting out, right?</font>
+
+361
+00:21:43,190 --> 00:21:45,490
+<font face="Roboto Medium" size="26"><i>She said it aloud.</i></font>
+
+362
+00:21:46,670 --> 00:21:50,740
+<font face="Roboto Medium" size="26">Did you see a young officer 
+candidate and a young girl?</font>
+
+363
+00:21:51,000 --> 00:21:52,620
+<font face="Roboto Medium" size="26">Nope.</font>
+
+364
+00:21:53,480 --> 00:21:55,130
+<font face="Roboto Medium" size="26">Yuusaku-san!</font>
+
+365
+00:21:56,030 --> 00:21:59,530
+<font face="Roboto Medium" size="26">What is this Sergeant Kikuta doing,</font>
+
+366
+00:21:59,530 --> 00:22:01,670
+<font face="Roboto Medium" size="26">letting this happen?</font>
+
+367
+00:22:02,090 --> 00:22:06,240
+<font face="Roboto Medium" size="26">Hey, Hyakunosuke, this is your first 
+time meeting your brother, right?</font>
+
+368
+00:22:06,240 --> 00:22:08,650
+<font face="Roboto Medium" size="26">Can't wait to see what he's like, huh?</font>
+
+369
+00:22:08,650 --> 00:22:12,060
+<font face="Roboto Medium" size="26">He's someone fit to be a regimental 
+flag-bearer, after all.</font>
+
+370
+00:22:15,150 --> 00:22:17,810
+<font face="Roboto Medium" size="26">Mother wants to keep me away 
+from the military, right?</font>
+
+371
+00:22:18,220 --> 00:22:20,190
+<font face="Roboto Medium" size="26">So you knew.</font>
+
+372
+00:22:20,610 --> 00:22:22,300
+<font face="Roboto Medium" size="26">During the Sino-Japanese war,</font>
+
+373
+00:22:22,300 --> 00:22:24,350
+<font face="Roboto Medium" size="26">she was a nurse at the 
+Hiroshima back-up hospital,</font>
+
+374
+00:22:24,350 --> 00:22:26,820
+<font face="Roboto Medium" size="26">spending her days covered in blood.</font>
+
+375
+00:22:27,160 --> 00:22:30,210
+<font face="Roboto Medium" size="26">She knows the terrors of war well.</font>
+
+376
+00:22:30,210 --> 00:22:33,990
+<font face="Roboto Medium" size="26">So she doesn't want you going to war.</font>
+
+377
+00:22:34,350 --> 00:22:38,220
+<font face="Roboto Medium" size="26">Why don't you go through with 
+this for your mother's sake?</font>
+
+378
+00:22:40,860 --> 00:22:42,710
+<font face="Roboto Medium" size="26"><i>It's up to him to decide.</i></font>
+
+379
+00:22:42,710 --> 00:22:44,210
+<font face="Roboto Medium" size="26"><i>It's Yuusaku's life.</i></font>
+
+380
+00:22:45,990 --> 00:22:49,170
+<font face="Roboto Medium" size="26">Ask Yuusaku which he'll choose.</font>
+
+381
+00:22:52,110 --> 00:22:54,140
+<font face="Roboto Medium" size="26">What is he doing?</font>
+
+382
+00:22:55,010 --> 00:22:56,310
+<font face="Roboto Medium" size="26">Who are you?</font>
+
+383
+00:22:56,940 --> 00:22:57,730
+<font face="Roboto Medium" size="26">What?</font>
+
+384
+00:22:57,730 --> 00:23:01,100
+<font face="Roboto Medium" size="26">We will protect Yuusaku-kun's virginity!</font>
+
+385
+00:23:01,100 --> 00:23:03,960
+<font face="Roboto Medium" size="26">You were sent by Commander 
+Hanazawa, weren't you?</font>
+
+386
+00:23:03,960 --> 00:23:05,290
+<font face="Roboto Medium" size="26">Get out of here!</font>
+
+387
+00:23:05,290 --> 00:23:09,700
+<font face="Roboto Medium" size="26">Or I'll tell the army everything 
+about what Mrs. Hanazawa was up to!</font>
+
+388
+00:23:09,700 --> 00:23:14,730
+<font face="Roboto Medium" size="26">If this love is really 
+worth dying for to you,</font>
+
+389
+00:23:14,730 --> 00:23:17,700
+<font face="Roboto Medium" size="26">I'll have no choice but 
+to pull this trigger.</font>
+
+390
+00:23:19,530 --> 00:23:22,520
+<font face="Roboto Medium" size="26"><i>Is this Kikuta-san's back-up plan?</i></font>
+
+391
+00:23:22,910 --> 00:23:24,950
+<font face="Roboto Medium" size="26"><i>He's killing her to keep it quiet?</i></font>
+
+392
+00:23:24,950 --> 00:23:25,960
+<font face="Roboto Medium" size="26"><i>I can't let them do this!</i></font>
+
+393
+00:23:28,060 --> 00:23:29,590
+<font face="Roboto Medium" size="26">Where's Yuusaku-dono?</font>
+
+394
+00:23:29,820 --> 00:23:32,510
+<font face="Roboto Medium" size="26">I'm gonna kill every one of you fuckers!</font>
+
+395
+00:23:35,070 --> 00:23:40,250
+<font face="Times New Roman" size="12" color="#62000d"><b>{\an3}<font size="17">Next Time
+<font size="27">Starting Gun of Resolve</font></font></b></font>
+
+396
+00:23:35,790 --> 00:23:39,980
+<font face="Roboto Medium" size="26"><i>Next Time: Starting Gun of Resolve!</i></font>
+
