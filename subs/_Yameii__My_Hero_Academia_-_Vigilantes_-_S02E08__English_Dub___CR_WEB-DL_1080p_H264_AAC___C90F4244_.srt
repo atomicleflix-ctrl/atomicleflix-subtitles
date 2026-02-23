@@ -1,0 +1,53 @@
+1
+00:00:03,100 --> 00:00:07,980
+<font face="Verdana" size="20"><b><font color="#151517">Work Study Student 
+Mister Blaster</font></b></font>
+
+2
+00:00:13,950 --> 00:00:16,870
+<font face="Verdana" size="20"><b><font color="#151517">Work Study Student
+Present Mic</font></b></font>
+
+3
+00:00:59,910 --> 00:01:02,410
+<font face="Verdana" size="20"><b><font color="#151517"><font size="40">Buster Union</font></font></b></font>
+
+4
+00:01:39,340 --> 00:01:46,390
+<font face="Times New Roman" size="20"><b>{\an1}<font size="40"><font color="#c5000e">flashback</font></font></b></font>
+
+5
+00:01:40,890 --> 00:01:46,390
+<font face="Times New Roman" size="20"><b>{\an7}Recollections of the past.
+ During a story, they will sometimes act as an
+interlude to show what happened prior to current events, as in a "flashback scene."</b></font>
+
+6
+00:01:45,140 --> 00:01:47,390
+<font face="Verdana" size="20"><b><i>{\an1}<font size="30"><font color="#ffe640">A Sky with No Rain Left</font></font></i></b></font>
+
+7
+00:14:29,720 --> 00:14:31,670
+<font face="Verdana" size="20"><b>{\an7}<i><font color="#172922"><font size="35">The next year</font></font></i></b></font>
+
+8
+00:14:31,670 --> 00:14:34,460
+<font face="Verdana" size="20"><b><font color="#a5a995">Faculty Room</font></b></font>
+
+9
+00:15:17,810 --> 00:15:19,770
+<font face="Verdana" size="20"><b></b><font color="#6b7a6e"><font size="25">Guidance Office</font></font></font>
+
+10
+00:17:43,330 --> 00:17:45,290
+<font face="Trebuchet MS" size="20"><b>{\an7}<font size="15"><font color="#116730">Pawn Shop
+<font color="#021a18"><font size="20">Hoppers</font></font></font></font></b></font>
+
+11
+00:17:52,500 --> 00:17:55,300
+<font face="Verdana" size="20"><b><font color="#151517"><font size="40">Ikajiro Takobe Age 25</font></font></b></font>
+
+12
+00:21:52,700 --> 00:21:54,910
+<font size="20"><b>{\an7}<font color="#373b3d"><font size="17">Today's Sushi</font></font></b></font>
+
