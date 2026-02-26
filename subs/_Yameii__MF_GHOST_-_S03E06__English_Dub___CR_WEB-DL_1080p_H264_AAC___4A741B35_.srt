@@ -1,0 +1,21 @@
+1
+00:00:19,370 --> 00:00:19,970
+<font face="Gandhi Sans" size="24"><b><b><font face="Arial"><font color="#ff060f">m 0 0 l 100 0 100 100 0 100</font></font></b></b></font>
+
+2
+00:00:19,370 --> 00:00:23,790
+<font face="Gandhi Sans" size="24"><b><b><font face="Arial">The 1:09PM Miracle</font></b></b></font>
+
+3
+00:09:22,040 --> 00:09:25,540
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Arial Black"><font size="20">Takasaki Station East Entrance</font></font></b></font>
+
+4
+00:15:10,260 --> 00:15:12,970
+<font face="Gandhi Sans" size="24"><b><font color="#e8e8e8">m 0 0 l 0 0 l 23 0 b 24 0 24 1 24 1 l 24 14 b 24 15 23 15 23 15 l -21 15 b -21 15 -22 15 -22 14 l -22 1 b -22 1 -22 1 -22 1 b -22 1 -22 0 -21 0 l -21 0 b -21 0 -21 0 -21 0 b -21 0 -21 0 -21 0</font></b></font>
+
+5
+00:15:10,280 --> 00:15:12,970
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b>{\an8}Gunma Prefecture
+Mount Akagi</b></font></b></font>
+
