@@ -1,0 +1,1763 @@
+1
+00:00:02,330 --> 00:00:04,240
+<font face="Roboto Medium" size="26">How was your summer vacation?</font>
+
+2
+00:00:04,240 --> 00:00:07,800
+<font face="Roboto Medium" size="26">It was fun. I made lots of memories.</font>
+
+3
+00:00:07,800 --> 00:00:09,870
+<font face="Roboto Medium" size="26">Well, that's good.</font>
+
+4
+00:00:10,120 --> 00:00:13,460
+<font face="Roboto Medium" size="26">High school summer vacations 
+are special, after all.</font>
+
+5
+00:00:13,710 --> 00:00:15,950
+<font face="Roboto Medium" size="26">So, any new developments with <i>him</i>?</font>
+
+6
+00:00:16,820 --> 00:00:20,710
+<font face="Roboto Medium" size="26">Well, uh, I don't know 
+if I'd go that far, but...</font>
+
+7
+00:00:21,170 --> 00:00:24,590
+<font face="Roboto Medium" size="26">I feel like we're a lot closer 
+than we were before the summer.</font>
+
+8
+00:00:24,590 --> 00:00:27,260
+<font face="Roboto Medium" size="26">That sure sounds like
+a development to me.</font>
+
+9
+00:00:27,260 --> 00:00:29,590
+<font face="Roboto Medium" size="26">Oh. I guess you're right.</font>
+
+10
+00:00:31,370 --> 00:00:35,850
+<font face="Roboto Medium" size="26">Y'know, Kyoko-san, there's actually
+something new to worry about.</font>
+
+11
+00:00:35,850 --> 00:00:39,820
+<font face="Roboto Medium" size="26">I shouldn't talk about it here, 
+but will you hear me out some other time?</font>
+
+12
+00:02:09,150 --> 00:02:10,990
+<font face="Roboto Medium" size="26"><font face="Impact"><font size="90"><b><font color="#d1082a">MF Ghost</font></b></font></font></font>
+
+13
+00:02:11,400 --> 00:02:14,980
+<font face="Roboto Medium" size="26">{\an8}We've installed a new system 
+for the suspension.</font>
+
+14
+00:02:11,820 --> 00:02:12,420
+<font face="Roboto Medium" size="26"><b><font face="Arial"><font color="#ff060f">m 0 0 l 100 0 100 100 0 100</font></font></b></font>
+
+15
+00:02:11,820 --> 00:02:16,240
+<font face="Roboto Medium" size="26"><b><font face="Arial">The Red Bullet</font></b></font>
+
+16
+00:02:15,430 --> 00:02:20,110
+<font face="Roboto Medium" size="26">{\an8}Broadly speaking, the four struts 
+now have little motors attached.</font>
+
+17
+00:02:20,490 --> 00:02:25,120
+<font face="Roboto Medium" size="26">So they automatically loosen or harden
+ depending on the amount of g-force.</font>
+
+18
+00:02:25,450 --> 00:02:27,680
+<font face="Roboto Medium" size="26">You can alter settings
+ from inside the car,</font>
+
+19
+00:02:27,680 --> 00:02:30,650
+<font face="Roboto Medium" size="26">but the specifics are 
+a trade secret for Okuyama-san,</font>
+
+20
+00:02:30,650 --> 00:02:32,680
+<font face="Roboto Medium" size="26">so we shouldn't need to mess with them.</font>
+
+21
+00:02:32,680 --> 00:02:35,480
+<font face="Roboto Medium" size="26">Wow. Active suspension?</font>
+
+22
+00:02:36,040 --> 00:02:38,510
+<font face="Roboto Medium" size="26">Since it'll handle the roll and pitch now,</font>
+
+23
+00:02:38,510 --> 00:02:42,130
+<font face="Roboto Medium" size="26">the car should be stabler
+than ever at racing speeds.</font>
+
+24
+00:02:42,390 --> 00:02:47,330
+<font face="Roboto Medium" size="26">That's amazing. I thought I heard
+ a faint noise from a motor.</font>
+
+25
+00:02:47,330 --> 00:02:51,390
+<font face="Roboto Medium" size="26">I never imagined the 86 would be upgraded
+ with this kind of technology.</font>
+
+26
+00:02:55,450 --> 00:02:57,890
+<font face="Roboto Medium" size="26">Yo. I'm here again, Kanata.</font>
+
+27
+00:02:57,890 --> 00:02:59,150
+<font face="Roboto Medium" size="26">Aiba-senpai.</font>
+
+28
+00:02:59,400 --> 00:03:01,530
+<font face="Roboto Medium" size="26">You don't mind being in my booth?</font>
+
+29
+00:03:01,800 --> 00:03:03,630
+<font face="Roboto Medium" size="26">That's the whole reason I'm here.</font>
+
+30
+00:03:03,630 --> 00:03:08,580
+<font face="Roboto Medium" size="26">That's wonderful. I'll feel 
+much braver with you watching.</font>
+
+31
+00:03:08,580 --> 00:03:13,370
+<font face="Roboto Medium" size="26"><i>What a relief. They made up
+ before I even knew it.</i></font>
+
+32
+00:03:14,190 --> 00:03:17,610
+<font face="Roboto Medium" size="26"><i>To all our fans 
+out there, it's me, 
+Tanaka Yoji,
+your commentator.</i></font>
+
+33
+00:03:17,610 --> 00:03:20,490
+<font face="Roboto Medium" size="26"><i>The long-awaited
+ fifth day of qualifying 
+has arrived.</i></font>
+
+34
+00:03:20,820 --> 00:03:23,020
+<font face="Roboto Medium" size="26"><i>Today sees the run
+ of a driver</i></font>
+
+35
+00:03:23,020 --> 00:03:26,640
+<font face="Roboto Medium" size="26"><i>who's risen to become 
+one of the Godly 
+Fifteen's top three 
+in his rookie year.</i></font>
+
+36
+00:03:26,920 --> 00:03:30,430
+<font face="Roboto Medium" size="26">I don't even need to say his name, 
+since I'm sure you all know who I mean.</font>
+
+37
+00:03:30,970 --> 00:03:34,270
+<font face="Roboto Medium" size="26"><i>{\an8}His arrival behind the wheel 
+has been like a sudden gust of wind,</i></font>
+
+38
+00:03:34,270 --> 00:03:39,020
+<font face="Roboto Medium" size="26"><i>{\an8}and that wind has become a storm that 
+threatens to shatter MFG's status quo.</i></font>
+
+39
+00:03:39,020 --> 00:03:40,740
+<font face="Roboto Medium" size="26"><i>{\an8}In the driver popularity poll,</i></font>
+
+40
+00:03:39,030 --> 00:03:40,160
+<font face="Roboto Medium" size="26"><font color="#f1994e">m 0 0 l 100 0 100 100 0 100</font></font>
+
+41
+00:03:39,030 --> 00:03:40,160
+<font face="Roboto Medium" size="26"><font color="#f5984f">m 0 0 l 100 0 100 100 0 100</font></font>
+
+42
+00:03:39,040 --> 00:03:40,160
+<font face="Roboto Medium" size="26"><font size="11"><font color="#161414">Name</font></font></font>
+
+43
+00:03:39,040 --> 00:03:40,160
+<font face="Roboto Medium" size="26"><font size="11"><font color="#161414">Age</font></font></font>
+
+44
+00:03:39,040 --> 00:03:40,160
+<font face="Roboto Medium" size="26"><font size="11">{\an1}<font color="#161414">years old</font></font></font>
+
+45
+00:03:39,040 --> 00:03:40,160
+<font face="Roboto Medium" size="26"><font size="11"><font color="#161414">Height</font></font></font>
+
+46
+00:03:39,040 --> 00:03:40,160
+<font face="Roboto Medium" size="26"><font size="10"><font color="#161414">Nationality</font></font></font>
+
+47
+00:03:39,040 --> 00:03:40,160
+<font face="Roboto Medium" size="26"><font size="11"><font color="#161414">Japan</font></font></font>
+
+48
+00:03:39,040 --> 00:03:40,160
+<font face="Roboto Medium" size="26"><font size="11"><font color="#161414">Car</font></font></font>
+
+49
+00:03:39,410 --> 00:03:42,410
+<font face="Roboto Medium" size="26"><font color="#ed9d4b">m 0 0 l 100 0 100 100 0 100</font></font>
+
+50
+00:03:39,410 --> 00:03:42,410
+<font face="Roboto Medium" size="26"><font color="#ed9d4b">m 0 0 l 100 0 100 100 0 100</font></font>
+
+51
+00:03:39,420 --> 00:03:42,410
+<font face="Roboto Medium" size="26"><font size="11"><font color="#161414">Name</font></font></font>
+
+52
+00:03:39,420 --> 00:03:42,410
+<font face="Roboto Medium" size="26"><font size="11"><font color="#161414">Age</font></font></font>
+
+53
+00:03:39,420 --> 00:03:42,410
+<font face="Roboto Medium" size="26"><font size="11">{\an1}<font color="#161414">years old</font></font></font>
+
+54
+00:03:39,420 --> 00:03:42,410
+<font face="Roboto Medium" size="26"><font size="11"><font color="#161414">Height</font></font></font>
+
+55
+00:03:39,420 --> 00:03:42,410
+<font face="Roboto Medium" size="26"><font size="10"><font color="#161414">Nationality</font></font></font>
+
+56
+00:03:39,420 --> 00:03:42,410
+<font face="Roboto Medium" size="26"><font size="11"><font color="#161414">Japan</font></font></font>
+
+57
+00:03:39,420 --> 00:03:42,410
+<font face="Roboto Medium" size="26"><font size="11"><font color="#161414">Car</font></font></font>
+
+58
+00:03:40,740 --> 00:03:44,150
+<font face="Roboto Medium" size="26"><i>{\an8}he came out top, 
+ahead of both Sawatari and Aiba.</i></font>
+
+59
+00:03:41,660 --> 00:03:44,160
+<font face="Roboto Medium" size="26"><font color="#ed9d4b">m 0 0 l 100 0 100 100 0 100</font></font>
+
+60
+00:03:41,660 --> 00:03:44,160
+<font face="Roboto Medium" size="26"><font color="#ed9d4b">m 0 0 l 100 0 100 100 0 100</font></font>
+
+61
+00:03:41,670 --> 00:03:44,160
+<font face="Roboto Medium" size="26"><font size="11"><font color="#161414">Name</font></font></font>
+
+62
+00:03:41,670 --> 00:03:44,160
+<font face="Roboto Medium" size="26"><font size="11"><font color="#161414">Age</font></font></font>
+
+63
+00:03:41,670 --> 00:03:44,160
+<font face="Roboto Medium" size="26"><font size="11">{\an1}<font color="#161414">years old</font></font></font>
+
+64
+00:03:41,670 --> 00:03:44,160
+<font face="Roboto Medium" size="26"><font size="11"><font color="#161414">Height</font></font></font>
+
+65
+00:03:41,670 --> 00:03:44,160
+<font face="Roboto Medium" size="26"><font size="10"><font color="#161414">Nationality</font></font></font>
+
+66
+00:03:41,670 --> 00:03:44,160
+<font face="Roboto Medium" size="26"><font size="11"><font color="#161414">Great Britain</font></font></font>
+
+67
+00:03:41,670 --> 00:03:44,160
+<font face="Roboto Medium" size="26"><font size="11"><font color="#161414">Car</font></font></font>
+
+68
+00:03:44,150 --> 00:03:47,150
+<font face="Roboto Medium" size="26"><i>{\an8}Driving an updated
+ bright red Toyota 86,</i></font>
+
+69
+00:03:47,150 --> 00:03:49,940
+<font face="Roboto Medium" size="26"><i>{\an8}here comes the speed god 
+born in England: Katagiri Kanata!</i></font>
+
+70
+00:03:50,660 --> 00:03:54,940
+<font face="Roboto Medium" size="26"><i>{\an8}And with the world's expectations on
+his back, he takes to the Double Lane.</i></font>
+
+71
+00:03:56,090 --> 00:04:01,420
+<font face="Roboto Medium" size="26"><i>{\an8}The tracking drone is in position 
+behind the 86. Only 15 seconds to go.</i></font>
+
+72
+00:04:01,420 --> 00:04:03,920
+<font face="Roboto Medium" size="26"><i>For some reason, 
+I'm more embarrassed</i></font>
+
+73
+00:04:03,920 --> 00:04:07,930
+<font face="Roboto Medium" size="26"><i>about Kanata seeing me dressed like this
+now that he knows it's me.</i></font>
+
+74
+00:04:08,420 --> 00:04:10,930
+<font face="Roboto Medium" size="26"><i>So it's you out there today, huh, Ren?</i></font>
+
+75
+00:04:14,430 --> 00:04:18,440
+<font face="Roboto Medium" size="26"><i>Oh, that's the Hachiman-sama 
+charm I gave him.</i></font>
+
+76
+00:04:18,440 --> 00:04:22,940
+<font face="Roboto Medium" size="26"><i>I'm so happy. Good luck, 
+Kanata. I love you.</i></font>
+
+77
+00:04:20,510 --> 00:04:22,940
+<font face="Roboto Medium" size="26"><i>{\an8}Six. Five. Four.</i></font>
+
+78
+00:04:23,510 --> 00:04:24,190
+<font face="Roboto Medium" size="26"><i>{\an8}Three.</i></font>
+
+79
+00:04:24,570 --> 00:04:25,320
+<font face="Roboto Medium" size="26"><i>{\an8}Two.</i></font>
+
+80
+00:04:25,580 --> 00:04:26,450
+<font face="Roboto Medium" size="26"><i>{\an8}One.</i></font>
+
+81
+00:04:26,450 --> 00:04:27,200
+<font face="Roboto Medium" size="26"><i>{\an8}Go!</i></font>
+
+82
+00:04:29,080 --> 00:04:32,580
+<font face="Roboto Medium" size="26"><i>{\an8}And he's off! The red machine
+accelerates ferociously away.</i></font>
+
+83
+00:04:32,580 --> 00:04:35,170
+<font face="Roboto Medium" size="26"><i>{\an8}Katagiri Kanata's attempt is underway.</i></font>
+
+84
+00:04:36,020 --> 00:04:39,670
+<font face="Roboto Medium" size="26"><i>{\an8}There's only one thing 
+on this driver's mind.</i></font>
+
+85
+00:04:39,760 --> 00:04:44,310
+<font face="Roboto Medium" size="26"><i>{\an8}Sawatari Koki's otherworldly performance
+when he set his super record.</i></font>
+
+86
+00:04:44,380 --> 00:04:45,780
+<font face="Roboto Medium" size="26"><i>{\an8}Can he match it?</i></font>
+
+87
+00:04:45,780 --> 00:04:50,820
+<font face="Roboto Medium" size="26"><i>{\an8}This genius sprinter will have 
+to reach new heights to do so!</i></font>
+
+88
+00:04:52,580 --> 00:04:56,640
+<font face="Roboto Medium" size="26"><i>{\an8}His speed is starting to ratchet up 
+as he negotiates the toll roads of Sector 1.</i></font>
+
+89
+00:04:56,640 --> 00:04:58,980
+<font face="Roboto Medium" size="26">Those aero changes 
+are making a difference.</font>
+
+90
+00:04:58,980 --> 00:05:01,930
+<font face="Roboto Medium" size="26">Despite the speed, 
+the chassis is looking real steady.</font>
+
+91
+00:05:02,610 --> 00:05:04,530
+<font face="Roboto Medium" size="26">This is gonna be damn fast.</font>
+
+92
+00:05:04,790 --> 00:05:08,400
+<font face="Roboto Medium" size="26">Unless he screws up at some point, 
+this is gonna be one amazing lap time.</font>
+
+93
+00:05:11,480 --> 00:05:13,420
+<font face="Roboto Medium" size="26"><i>{\an8}And we already have an attention flag!</i></font>
+
+94
+00:05:13,420 --> 00:05:18,410
+<font face="Roboto Medium" size="26"><i>{\an8}The high-speed S-curve by Benten Rock 
+is coming up, preceded by the Hydro Trap.</i></font>
+
+95
+00:05:18,810 --> 00:05:23,670
+<font face="Roboto Medium" size="26"><i>{\an8}The waterfall at the side of the course
+becomes a river as it crosses the road.</i></font>
+
+96
+00:05:23,890 --> 00:05:27,050
+<font face="Roboto Medium" size="26">The force of the water 
+when you hit it is pretty intense.</font>
+
+97
+00:05:27,290 --> 00:05:31,550
+<font face="Roboto Medium" size="26">If you haven't built up your neck 
+muscles, you can injure it easily.</font>
+
+98
+00:05:35,220 --> 00:05:39,060
+<font face="Roboto Medium" size="26"><i>I can't feel the grip, which means 
+I'm skating on top of the water.</i></font>
+
+99
+00:05:39,610 --> 00:05:41,380
+<font face="Roboto Medium" size="26"><i>I'm hydroplaning.</i></font>
+
+100
+00:05:42,410 --> 00:05:43,150
+<font face="Roboto Medium" size="26"><i>{\an8}He's through!</i></font>
+
+101
+00:05:44,070 --> 00:05:48,580
+<font face="Roboto Medium" size="26"><i>{\an8}Testing the limits of his now-wet tires,
+ he blitzes past Benten Rock!</i></font>
+
+102
+00:05:49,280 --> 00:05:54,950
+<font face="Roboto Medium" size="26">We don't have to worry too much here.
+Kanata's a cut above in wet conditions.</font>
+
+103
+00:05:54,950 --> 00:05:58,290
+<font face="Roboto Medium" size="26">He sure proved that 
+when it rained at Ashinoko.</font>
+
+104
+00:05:58,670 --> 00:06:01,220
+<font face="Roboto Medium" size="26"><i>{\an8}The 86 is maintaining a good pace.</i></font>
+
+105
+00:06:01,220 --> 00:06:04,930
+<font face="Roboto Medium" size="26"><i>{\an8}It goes without saying that 
+he's quicker than last year's lap record.</i></font>
+
+106
+00:06:05,380 --> 00:06:09,720
+<font face="Roboto Medium" size="26"><i>{\an8}Plus, he's within a tenth 
+of the 4 car's super record.</i></font>
+
+107
+00:06:09,720 --> 00:06:13,310
+<font face="Roboto Medium" size="26"><i>{\an8}It's no exaggeration to say 
+he's going at nearly the same pace.</i></font>
+
+108
+00:06:14,010 --> 00:06:18,950
+<font face="Roboto Medium" size="26">The back half of Sector 1 has some of 
+the highest average speeds for the course.</font>
+
+109
+00:06:19,480 --> 00:06:23,850
+<font face="Roboto Medium" size="26">And someone on Kanata's level will exit
+ that corner doing 150 kmph, easy.</font>
+
+110
+00:06:24,340 --> 00:06:28,360
+<font face="Roboto Medium" size="26">Before the next corner, the 86's turbo
+ oughta get it close to 200 kmph.</font>
+
+111
+00:06:28,790 --> 00:06:31,990
+<font face="Roboto Medium" size="26">The roads may not be bolt straight, 
+but you keep picking up speed.</font>
+
+112
+00:06:31,990 --> 00:06:35,540
+<font face="Roboto Medium" size="26">People talk about the high 
+average speed of Double Lane,</font>
+
+113
+00:06:35,540 --> 00:06:37,900
+<font face="Roboto Medium" size="26">but it doesn't have 
+a proper straight on it.</font>
+
+114
+00:06:38,420 --> 00:06:39,870
+<font face="Roboto Medium" size="26">That's what makes it tricky.</font>
+
+115
+00:06:41,870 --> 00:06:46,170
+<font face="Roboto Medium" size="26"><i>I can feel the impact being gently absorbed
+ whenever I hit a bump.</i></font>
+
+116
+00:06:46,170 --> 00:06:48,660
+<font face="Roboto Medium" size="26"><i>The car tightens up in response
+ to downward force.</i></font>
+
+117
+00:06:51,150 --> 00:06:53,050
+<font face="Roboto Medium" size="26"><i>These reaction speeds are sublime, too.</i></font>
+
+118
+00:06:53,300 --> 00:06:56,050
+<font face="Roboto Medium" size="26"><i>Incredible work, Mister Okuyama.</i></font>
+
+119
+00:06:56,050 --> 00:07:00,270
+<font face="Roboto Medium" size="26"><i>And the less the car's posture shifts,
+the better I can use the tires.</i></font>
+
+120
+00:07:00,630 --> 00:07:04,020
+<font face="Roboto Medium" size="26"><i>This will be an incredible weapon 
+in a street racing sport like MFG.</i></font>
+
+121
+00:07:04,470 --> 00:07:08,080
+<font face="Roboto Medium" size="26"><i>{\an8}The 86 car sings its way 
+through this high-speed section.</i></font>
+
+122
+00:07:08,080 --> 00:07:10,900
+<font face="Roboto Medium" size="26"><i>{\an8}And the gap to the 4 car's record
+ is still only marginal.</i></font>
+
+123
+00:07:11,310 --> 00:07:12,900
+<font face="Roboto Medium" size="26"><i>{\an8}The attention flag is still there.</i></font>
+
+124
+00:07:12,900 --> 00:07:15,850
+<font face="Roboto Medium" size="26"><i>{\an8}Soon, Sector 1 
+by the seaside will end,</i></font>
+
+125
+00:07:15,850 --> 00:07:18,580
+<font face="Roboto Medium" size="26"><i>{\an8}and we'll be into 
+the mountains of Sector 2.</i></font>
+
+126
+00:07:18,840 --> 00:07:21,470
+<font face="Roboto Medium" size="26"><i>{\an8}And this blistering dead heat continues!</i></font>
+
+127
+00:07:22,080 --> 00:07:24,870
+<font face="Roboto Medium" size="26">The mountain section is the scary part.</font>
+
+128
+00:07:25,340 --> 00:07:29,630
+<font face="Roboto Medium" size="26">The average speed stays high, 
+but the road conditions get worse and worse.</font>
+
+129
+00:07:29,860 --> 00:07:34,090
+<font face="Roboto Medium" size="26">Unlike the toll roads, these are roads
+ people work and live on.</font>
+
+130
+00:07:34,550 --> 00:07:40,080
+<font face="Roboto Medium" size="26">If you take a corner doing 
+over 150 kmph and hit a pothole,</font>
+
+131
+00:07:40,080 --> 00:07:42,600
+<font face="Roboto Medium" size="26">your control goes right
+ out the window.</font>
+
+132
+00:07:42,600 --> 00:07:47,670
+<font face="Roboto Medium" size="26">I doubt even guys like Kanata and Sawatari
+ can redline it around here.</font>
+
+133
+00:07:51,150 --> 00:07:55,390
+<font face="Roboto Medium" size="26"><i>{\an8}Are Sawatari Koki and Katagiri Kanata 
+driving in another dimension?</i></font>
+
+134
+00:07:55,970 --> 00:08:00,510
+<font face="Roboto Medium" size="26"><i>{\an8}Their battle for supremacy continues, 
+leaving all others in their dust.</i></font>
+
+135
+00:08:01,300 --> 00:08:04,750
+<font face="Roboto Medium" size="26"><i>{\an8}The 86 is now a hundredth 
+quicker than the record!</i></font>
+
+136
+00:08:05,010 --> 00:08:08,670
+<font face="Roboto Medium" size="26"><i>{\an8}And awaiting Katagiri Kanata 
+on his astonishing run...</i></font>
+
+137
+00:08:09,620 --> 00:08:12,980
+<font face="Roboto Medium" size="26">There were earthquakes 
+following the volcanic eruption,</font>
+
+138
+00:08:12,980 --> 00:08:16,980
+<font face="Roboto Medium" size="26">and Road 135 was submerged 
+by a sudden swell of groundwater,</font>
+
+139
+00:08:16,980 --> 00:08:22,620
+<font face="Roboto Medium" size="26">producing a waterfall that's one of 
+two natural hazards on Double Lane.</font>
+
+140
+00:08:23,010 --> 00:08:25,770
+<font face="Roboto Medium" size="26">First, there's the Hydro Trap
+ down by the sea,</font>
+
+141
+00:08:25,770 --> 00:08:28,690
+<font face="Roboto Medium" size="26">and up here in the mountains...</font>
+
+142
+00:08:29,560 --> 00:08:33,710
+<font face="Roboto Medium" size="26"><i>{\an8}Looming large after this high-speed left,</i></font>
+
+143
+00:08:34,460 --> 00:08:37,210
+<font face="Roboto Medium" size="26"><i>{\an8}it's Double Lane's famed Jumping Spot.</i></font>
+
+144
+00:08:52,730 --> 00:08:54,910
+<font face="Roboto Medium" size="26">Dude got some serious air.</font>
+
+145
+00:08:54,910 --> 00:08:57,970
+<font face="Roboto Medium" size="26">I think he was right on 
+the edge of the landing area.</font>
+
+146
+00:08:58,350 --> 00:09:01,640
+<font face="Roboto Medium" size="26"><i>This is part of what makes
+ Kanata so amazing.</i></font>
+
+147
+00:09:01,990 --> 00:09:06,740
+<font face="Roboto Medium" size="26"><i>That's his first time landing Double Lane's jump,
+ but he knew just what to do.</i></font>
+
+148
+00:09:07,350 --> 00:09:11,360
+<font face="Roboto Medium" size="26"><i>It's hard for people who haven't done it before
+ to imagine how scary it is.</i></font>
+
+149
+00:09:11,810 --> 00:09:15,860
+<font face="Roboto Medium" size="26"><i>At the top of the jump, 
+you're even higher than the fence,</i></font>
+
+150
+00:09:15,860 --> 00:09:20,470
+<font face="Roboto Medium" size="26"><i>and it makes you feel like 
+you're about to crash into Sagami Bay.</i></font>
+
+151
+00:09:21,820 --> 00:09:24,500
+<font face="Roboto Medium" size="26"><i>And with a cliff to your left,</i></font>
+
+152
+00:09:24,500 --> 00:09:28,410
+<font face="Roboto Medium" size="26"><i>you subconsciously drift to the 
+rightmost edge of the jumping-off point.</i></font>
+
+153
+00:09:28,760 --> 00:09:33,260
+<font face="Roboto Medium" size="26"><i>But Kanata went as far left as he could.</i></font>
+
+154
+00:09:33,620 --> 00:09:38,090
+<font face="Roboto Medium" size="26">Where does such a gentle-looking dude 
+get the balls for this stuff?</font>
+
+155
+00:09:39,300 --> 00:09:42,290
+<font face="Roboto Medium" size="26"><i>{\an8}The traffic lights mark 
+the start of Sector 3.</i></font>
+
+156
+00:09:42,760 --> 00:09:45,910
+<font face="Roboto Medium" size="26"><i>{\an8}Up to this point, he's matching the time
+ of Sawatari in the 4.</i></font>
+
+157
+00:09:46,360 --> 00:09:50,690
+<font face="Roboto Medium" size="26"><i>{\an8}The upcoming bumpy stretch has tested 
+the footwork of many an MFG racer.</i></font>
+
+158
+00:09:51,100 --> 00:09:53,900
+<font face="Roboto Medium" size="26"><i>{\an8}But Katagiri Kanata shows no hesitation.</i></font>
+
+159
+00:09:58,260 --> 00:10:02,520
+<font face="Roboto Medium" size="26"><i>{\an8}While the bumps affect his racing line, 
+he compensates with incredible smoothness.</i></font>
+
+160
+00:10:02,520 --> 00:10:04,660
+<font face="Roboto Medium" size="26"><i>{\an8}This driver is in total control of his car.</i></font>
+
+161
+00:10:04,970 --> 00:10:08,250
+<font face="Roboto Medium" size="26">What do you think, Shun? 
+About Kanata's driving.</font>
+
+162
+00:10:08,250 --> 00:10:10,610
+<font face="Roboto Medium" size="26">What do you mean? It's the same as usual.</font>
+
+163
+00:10:10,610 --> 00:10:13,140
+<font face="Roboto Medium" size="26">Or maybe even a little better?</font>
+
+164
+00:10:13,140 --> 00:10:14,420
+<font face="Roboto Medium" size="26">That's what I thought.</font>
+
+165
+00:10:14,710 --> 00:10:18,550
+<font face="Roboto Medium" size="26">By weaponizing the aero, 
+the 86 can fight harder.</font>
+
+166
+00:10:18,550 --> 00:10:20,170
+<font face="Roboto Medium" size="26">And Kanata can feel that.</font>
+
+167
+00:10:20,440 --> 00:10:22,680
+<font face="Roboto Medium" size="26">But despite that, 
+since entering Sector 3,</font>
+
+168
+00:10:22,680 --> 00:10:25,780
+<font face="Roboto Medium" size="26">he's fallen behind the 4 car's pace.</font>
+
+169
+00:10:27,260 --> 00:10:30,810
+<font face="Roboto Medium" size="26">At this late stage, there's a slight 
+difference in their times.</font>
+
+170
+00:10:31,300 --> 00:10:33,950
+<font face="Roboto Medium" size="26"><i>{\an8}He still has an attention flag, 
+but in spite of that,</i></font>
+
+171
+00:10:33,950 --> 00:10:37,730
+<font face="Roboto Medium" size="26"><i>{\an8}the 4 car is now ahead 
+by three-hundredths of a second!</i></font>
+
+172
+00:10:38,360 --> 00:10:42,400
+<font face="Roboto Medium" size="26"><i>{\an8}There's not much of the lap left. 
+As he approaches the finish line...</i></font>
+
+173
+00:10:42,900 --> 00:10:47,740
+<font face="Roboto Medium" size="26">Y'know, in all the other races, 
+whenever Kanata had any issues,</font>
+
+174
+00:10:47,960 --> 00:10:50,130
+<font face="Roboto Medium" size="26">it was due to the car
+ being underpowered,</font>
+
+175
+00:10:50,130 --> 00:10:53,120
+<font face="Roboto Medium" size="26">causing him to fall behind 
+the competition as a result.</font>
+
+176
+00:10:53,660 --> 00:10:58,020
+<font face="Roboto Medium" size="26">But I don't think that's why Sawatari
+ has the edge right now.</font>
+
+177
+00:10:58,020 --> 00:11:03,970
+<font face="Roboto Medium" size="26">I don't think I've seen a situation 
+where he's simply been outperformed.</font>
+
+178
+00:11:04,300 --> 00:11:07,060
+<font face="Roboto Medium" size="26">Well, this sport is still a
+ competition between humans.</font>
+
+179
+00:11:07,060 --> 00:11:10,360
+<font face="Roboto Medium" size="26">At the highest levels, 
+athletes outperform each other</font>
+
+180
+00:11:10,360 --> 00:11:13,940
+<font face="Roboto Medium" size="26">from one moment to the next 
+due to slight changes in conditions.</font>
+
+181
+00:11:14,530 --> 00:11:16,780
+<font face="Roboto Medium" size="26">Experience and stuff also plays a role.</font>
+
+182
+00:11:17,220 --> 00:11:20,660
+<font face="Roboto Medium" size="26">Maybe it boils down to the fact 
+Sawatari has been here twice before</font>
+
+183
+00:11:20,660 --> 00:11:24,030
+<font face="Roboto Medium" size="26">whereas this is Kanata's first time
+ tackling this course.</font>
+
+184
+00:11:27,820 --> 00:11:30,640
+<font face="Roboto Medium" size="26"><i>{\an8}The 86 is nearly at the finish line...</i></font>
+
+185
+00:11:30,640 --> 00:11:31,740
+<font face="Roboto Medium" size="26"><i>{\an8}And...</i></font>
+
+186
+00:11:31,740 --> 00:11:33,080
+<font face="Roboto Medium" size="26"><i>{\an8}There it is!</i></font>
+
+187
+00:11:33,390 --> 00:11:36,380
+<font face="Roboto Medium" size="26"><i>{\an8}He wasn't able to break 
+the new course record.</i></font>
+
+188
+00:11:36,380 --> 00:11:39,430
+<font face="Roboto Medium" size="26"><i>{\an8}He qualifies in second provisionally.</i></font>
+
+189
+00:11:39,850 --> 00:11:44,470
+<font face="Roboto Medium" size="26"><i>{\an8}He was a scant 0.32 seconds 
+behind Sawatari in the 4 car.</i></font>
+
+190
+00:11:44,890 --> 00:11:48,410
+<font face="Roboto Medium" size="26"><i>{\an8}And I'm sure I don't need to explain
+ how incredible that is.</i></font>
+
+191
+00:11:50,610 --> 00:11:51,950
+<font face="Roboto Medium" size="26"><i>{\an8}MF Ghost.</i></font>
+
+192
+00:11:56,730 --> 00:11:57,950
+<font face="Roboto Medium" size="26"><i>{\an8}MF Ghost.</i></font>
+
+193
+00:12:03,990 --> 00:12:06,110
+<font face="Roboto Medium" size="26"><i>I don't get Sawatari and Katagiri.</i></font>
+
+194
+00:12:06,110 --> 00:12:10,990
+<font face="Roboto Medium" size="26"><i>However far you take this jump, 
+it doesn't shave that much off your time.</i></font>
+
+195
+00:12:12,030 --> 00:12:13,460
+<font face="Roboto Medium" size="26"><i>Are they stupid?</i></font>
+
+196
+00:12:14,590 --> 00:12:18,880
+<font face="Roboto Medium" size="26">On top of the prize money, 
+MFG has this bonus system.</font>
+
+197
+00:12:19,090 --> 00:12:22,130
+<font face="Roboto Medium" size="26">You get the cash for it in a lump sum
+ at the end of the season.</font>
+
+198
+00:12:22,360 --> 00:12:25,400
+<font face="Roboto Medium" size="26">It's one million yen per overtake.</font>
+
+199
+00:12:25,400 --> 00:12:28,680
+<font face="Roboto Medium" size="26">So you're looking at a ten million yen
+ bonus just from Peninsula.</font>
+
+200
+00:12:28,910 --> 00:12:29,900
+<font face="Roboto Medium" size="26"><font face="Times New Roman">Really?</font></font>
+
+201
+00:12:29,900 --> 00:12:34,140
+<font face="Roboto Medium" size="26">You didn't know? Well, putting 
+the whole money thing aside...</font>
+
+202
+00:12:34,700 --> 00:12:38,500
+<font face="Roboto Medium" size="26">Overtaking ten people in a single race
+ just doesn't happen. Not usually.</font>
+
+203
+00:12:38,500 --> 00:12:42,570
+<font face="Roboto Medium" size="26">Hell, last year, there were maybe ten overtakes
+ per race across the whole field.</font>
+
+204
+00:12:43,030 --> 00:12:48,260
+<font face="Roboto Medium" size="26">I figure I oughta ask. What goes on
+ in your head when you're driving?</font>
+
+205
+00:12:48,260 --> 00:12:50,860
+<font face="Roboto Medium" size="26">Huh? What do I think about?</font>
+
+206
+00:12:52,840 --> 00:12:54,450
+<font face="Roboto Medium" size="26">It's hard to say.</font>
+
+207
+00:12:54,780 --> 00:12:57,820
+<font face="Roboto Medium" size="26">My body usually reacts reflexively
+ before I have time to think.</font>
+
+208
+00:12:57,820 --> 00:13:01,840
+<font face="Roboto Medium" size="26">Especially when overtaking someone. 
+If I'm feeling good, it's automatic.</font>
+
+209
+00:13:02,480 --> 00:13:06,130
+<font face="Roboto Medium" size="26">In the first two races, 
+I wasn't pulling moves off too well.</font>
+
+210
+00:13:06,130 --> 00:13:10,140
+<font face="Roboto Medium" size="26">I must've gotten too in my own head. 
+And I was in a bit of a slump.</font>
+
+211
+00:13:10,470 --> 00:13:14,100
+<font face="Roboto Medium" size="26"><i>That was you in a </i>slump<i>? Holy crap.</i></font>
+
+212
+00:13:14,100 --> 00:13:17,040
+<font face="Roboto Medium" size="26">The change came during the third race.</font>
+
+213
+00:13:17,040 --> 00:13:19,410
+<font face="Roboto Medium" size="26">I got the feel for it back
+ at a good moment.</font>
+
+214
+00:13:19,410 --> 00:13:23,860
+<font face="Roboto Medium" size="26">And I can't explain it very well, but my body 
+started moving on its own again.</font>
+
+215
+00:13:23,860 --> 00:13:25,790
+<font face="Roboto Medium" size="26"><i>Not thinking, huh?</i></font>
+
+216
+00:13:26,170 --> 00:13:29,360
+<font face="Roboto Medium" size="26"><i>That kinda thing is hard for 
+a normal guy like me to grasp.</i></font>
+
+217
+00:13:29,360 --> 00:13:33,070
+<font face="Roboto Medium" size="26"><i>{\an8}Customer 172, your food is ready.</i></font>
+
+218
+00:13:33,070 --> 00:13:34,300
+<font face="Roboto Medium" size="26">That's ours.</font>
+
+219
+00:13:35,750 --> 00:13:38,120
+<font face="Roboto Medium" size="26">Wow. This looks delicious.</font>
+
+220
+00:13:38,350 --> 00:13:41,730
+<font face="Roboto Medium" size="26">Eat your fill, all right? It's my treat.</font>
+
+221
+00:13:47,020 --> 00:13:48,030
+<font face="Roboto Medium" size="26">Miss Greene.</font>
+
+222
+00:13:48,720 --> 00:13:52,360
+<font face="Roboto Medium" size="26">There's a special lounge.
+You should rest up there.</font>
+
+223
+00:13:52,740 --> 00:13:54,350
+<font face="Roboto Medium" size="26">Thank you, Hayato.</font>
+
+224
+00:13:54,540 --> 00:13:56,980
+<font face="Roboto Medium" size="26">I'm fully prepared, 
+and looking forward to this.</font>
+
+225
+00:13:57,750 --> 00:14:00,860
+<font face="Roboto Medium" size="26">But I won't go all out. 
+Better to take it easy.</font>
+
+226
+00:14:01,340 --> 00:14:04,780
+<font face="Roboto Medium" size="26"><i>It's only qualifying. 
+Making the top five should suffice.</i></font>
+
+227
+00:14:05,990 --> 00:14:09,110
+<font face="Roboto Medium" size="26">Aw, man. Maezono-san, 
+did you see that chick?</font>
+
+228
+00:14:09,460 --> 00:14:14,910
+<font face="Roboto Medium" size="26">There was this gorgeous woman in
+the special lounge. A blonde foreigner.</font>
+
+229
+00:14:14,910 --> 00:14:18,500
+<font face="Roboto Medium" size="26">I figured I'd shoot my shot
+ and went over to talk to her,</font>
+
+230
+00:14:18,810 --> 00:14:21,180
+<font face="Roboto Medium" size="26">but she didn't know a lick of Japanese</font>
+
+231
+00:14:21,180 --> 00:14:23,960
+<font face="Roboto Medium" size="26">and straight up ignored me.
+Talk about crash and burn.</font>
+
+232
+00:14:24,160 --> 00:14:25,530
+<font face="Roboto Medium" size="26">Akaba-kun.</font>
+
+233
+00:14:26,050 --> 00:14:29,970
+<font face="Roboto Medium" size="26">That's the first thing out of your mouth
+ on the morning of your qualifying run?</font>
+
+234
+00:14:30,280 --> 00:14:35,910
+<font face="Roboto Medium" size="26">Most people would mention the insane laps
+of Sawatari Koki and Katagiri Kanata.</font>
+
+235
+00:14:35,910 --> 00:14:40,740
+<font face="Roboto Medium" size="26">That's just the thing. She was so hot,
+ I forgot all about that stuff.</font>
+
+236
+00:14:40,740 --> 00:14:43,590
+<font face="Roboto Medium" size="26">Your brain works in 
+very interesting ways.</font>
+
+237
+00:14:45,560 --> 00:14:50,220
+<font face="Roboto Medium" size="26"><i>{\an8}Five, four, three, two, one...</i></font>
+
+238
+00:14:52,550 --> 00:14:55,620
+<font face="Roboto Medium" size="26"><i>{\an8}And off goes last year's 
+polesitter, Akaba Kaito.</i></font>
+
+239
+00:14:55,870 --> 00:15:00,450
+<font face="Roboto Medium" size="26"><i>{\an8}A fiery driver with a distinct advantage
+ on high-speed courses, he bolts away!</i></font>
+
+240
+00:15:01,910 --> 00:15:04,040
+<font face="Roboto Medium" size="26"><i>I've got a shot at winning Double Lane.</i></font>
+
+241
+00:15:04,500 --> 00:15:09,340
+<font face="Roboto Medium" size="26"><i>And on my pride in the number 2 on 
+this car, I'm gonna prove to the fans...</i></font>
+
+242
+00:15:09,760 --> 00:15:11,990
+<font face="Roboto Medium" size="26"><i>that I'm more than just a womanizer.</i></font>
+
+243
+00:15:12,430 --> 00:15:14,710
+<font face="Roboto Medium" size="26"><i>This is where Akaba Kaito strikes back.</i></font>
+
+244
+00:15:15,430 --> 00:15:21,560
+<font face="Roboto Medium" size="26">Makes sense the Ferrari with its 700 HP
+ would shine on the high-speed sections.</font>
+
+245
+00:15:21,980 --> 00:15:26,440
+<font face="Roboto Medium" size="26">Agreed. Although it may 
+have <i>too</i> much power.</font>
+
+246
+00:15:26,770 --> 00:15:31,110
+<font face="Roboto Medium" size="26">When driving, you end up dealing with 
+lateral Gs for longer than you'd think.</font>
+
+247
+00:15:31,110 --> 00:15:34,700
+<font face="Roboto Medium" size="26">That limits the amount of time
+ you can go all out.</font>
+
+248
+00:15:35,810 --> 00:15:37,990
+<font face="Roboto Medium" size="26">Whoops. Look at that rear end wobble.</font>
+
+249
+00:15:37,990 --> 00:15:41,830
+<font face="Roboto Medium" size="26">That was definitely a bit loose. 
+It cost him some time.</font>
+
+250
+00:15:42,340 --> 00:15:45,840
+<font face="Roboto Medium" size="26"><i>{\an8}The 2 car looks shaky 
+coming out of that corner.</i></font>
+
+251
+00:15:45,840 --> 00:15:50,590
+<font face="Roboto Medium" size="26"><i>{\an8}But he's already ahead 
+of his time from last year.</i></font>
+
+252
+00:15:50,870 --> 00:15:53,090
+<font face="Roboto Medium" size="26"><i>{\an8}Akaba Kaito's making it look easy.</i></font>
+
+253
+00:15:53,300 --> 00:15:56,760
+<font face="Roboto Medium" size="26"><i>{\an8}The Ferrari music is echoing
+across the waters of Sagami Bay.</i></font>
+
+254
+00:16:01,550 --> 00:16:05,270
+<font face="Roboto Medium" size="26"><i>I'm starting to have doubts 
+about my own performance.</i></font>
+
+255
+00:16:05,470 --> 00:16:10,370
+<font face="Roboto Medium" size="26"><i>One of the younger drivers 
+is stirring something in me.</i></font>
+
+256
+00:16:11,280 --> 00:16:13,030
+<font face="Roboto Medium" size="26"><i>Katagiri Kanata.</i></font>
+
+257
+00:16:13,030 --> 00:16:15,900
+<font face="Roboto Medium" size="26"><i>I can't understand how he's so fast.</i></font>
+
+258
+00:16:15,900 --> 00:16:20,140
+<font face="Roboto Medium" size="26"><i>And I can't accept the fact I'm having 
+trouble explaining the physics of it.</i></font>
+
+259
+00:16:20,810 --> 00:16:24,600
+<font face="Roboto Medium" size="26"><i>{\an8}Maezono Kazuhiro is 
+MFG's most logical driver.</i></font>
+
+260
+00:16:24,600 --> 00:16:28,900
+<font face="Roboto Medium" size="26"><i>{\an8}With a high IQ and scientific brain, 
+he seeks to conquer Double Lane.</i></font>
+
+261
+00:16:30,890 --> 00:16:33,340
+<font face="Roboto Medium" size="26"><i>Thanks for tuning in
+ to day six of qualifying.</i></font>
+
+262
+00:16:33,340 --> 00:16:36,560
+<font face="Roboto Medium" size="26"><i>I'd like everyone 
+to pay special attention</i></font>
+
+263
+00:16:36,560 --> 00:16:38,300
+<font face="Roboto Medium" size="26"><i>to this next driver.</i></font>
+
+264
+00:16:38,810 --> 00:16:40,810
+<font face="Roboto Medium" size="26"><i>{\an8}All the way from England,</i></font>
+
+265
+00:16:41,150 --> 00:16:44,300
+<font face="Roboto Medium" size="26"><i>{\an8}and nestled in a coupe 
+in elegant British racing green,</i></font>
+
+266
+00:16:44,300 --> 00:16:46,560
+<font face="Roboto Medium" size="26"><i>{\an8}a blonde beauty is behind this wheel.</i></font>
+
+267
+00:16:46,860 --> 00:16:49,940
+<font face="Roboto Medium" size="26"><i>{\an8}Her name is Emma Greene, 
+and she's 19 years old.</i></font>
+
+268
+00:16:50,500 --> 00:16:53,280
+<font face="Roboto Medium" size="26"><i>{\an8}This is the first time we've seen
+ this manufacturer in MFG.</i></font>
+
+269
+00:16:53,280 --> 00:16:56,950
+<font face="Roboto Medium" size="26"><i>{\an8}Her Aston Martin Vantage 
+has pulled up to the start gate.</i></font>
+
+270
+00:16:57,870 --> 00:17:01,700
+<font face="Roboto Medium" size="26">There she is, Kanata! 
+The cutie with the killer rack from before!</font>
+
+271
+00:17:01,700 --> 00:17:04,500
+<font face="Roboto Medium" size="26">She's actually pretty average
+ for an Englishwoman.</font>
+
+272
+00:17:04,500 --> 00:17:06,370
+<font face="Roboto Medium" size="26"><i>It's Emma-san.</i></font>
+
+273
+00:17:06,370 --> 00:17:10,530
+<font face="Roboto Medium" size="26"><i>She's so young and pretty, 
+and an MFG driver to boot.</i></font>
+
+274
+00:17:10,920 --> 00:17:14,450
+<font face="Roboto Medium" size="26"><i>She's only two years older than me, 
+but I feel so outclassed.</i></font>
+
+275
+00:17:15,180 --> 00:17:17,370
+<font face="Roboto Medium" size="26"><i>{\an8}When it comes to challengers
+ from England,</i></font>
+
+276
+00:17:17,370 --> 00:17:21,390
+<font face="Roboto Medium" size="26"><i>{\an8}I know another name 
+springs to mind for all of us.</i></font>
+
+277
+00:17:21,870 --> 00:17:28,770
+<font face="Roboto Medium" size="26">And sure enough, like Katagiri Kanata,
+Emma Greene is a product of the RDRS.</font>
+
+278
+00:17:29,230 --> 00:17:34,610
+<font face="Roboto Medium" size="26"><i>{\an8}Given that she's followed Katagiri's path
+ from the academy to MFG,</i></font>
+
+279
+00:17:34,950 --> 00:17:38,490
+<font face="Roboto Medium" size="26"><i>{\an8}one can't help wondering if there 
+isn't more to her participation.</i></font>
+
+280
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed8c45">m 0 0 l 100 0 100 100 0 100</font></font>
+
+281
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed8a44">m 0 0 l 100 0 100 100 0 100</font></font>
+
+282
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed8944">m 0 0 l 100 0 100 100 0 100</font></font>
+
+283
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed8844">m 0 0 l 100 0 100 100 0 100</font></font>
+
+284
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed8744">m 0 0 l 100 0 100 100 0 100</font></font>
+
+285
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed8543">m 0 0 l 100 0 100 100 0 100</font></font>
+
+286
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed8443">m 0 0 l 100 0 100 100 0 100</font></font>
+
+287
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed8343">m 0 0 l 100 0 100 100 0 100</font></font>
+
+288
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed8243">m 0 0 l 100 0 100 100 0 100</font></font>
+
+289
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed8142">m 0 0 l 100 0 100 100 0 100</font></font>
+
+290
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed7f42">m 0 0 l 100 0 100 100 0 100</font></font>
+
+291
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed7e42">m 0 0 l 100 0 100 100 0 100</font></font>
+
+292
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed7d42">m 0 0 l 100 0 100 100 0 100</font></font>
+
+293
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed7c41">m 0 0 l 100 0 100 100 0 100</font></font>
+
+294
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed7a41">m 0 0 l 100 0 100 100 0 100</font></font>
+
+295
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed7941">m 0 0 l 100 0 100 100 0 100</font></font>
+
+296
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed7841">m 0 0 l 100 0 100 100 0 100</font></font>
+
+297
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed7740">m 0 0 l 100 0 100 100 0 100</font></font>
+
+298
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed7640">m 0 0 l 100 0 100 100 0 100</font></font>
+
+299
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed7440">m 0 0 l 100 0 100 100 0 100</font></font>
+
+300
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed7340">m 0 0 l 100 0 100 100 0 100</font></font>
+
+301
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed723f">m 0 0 l 100 0 100 100 0 100</font></font>
+
+302
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed713f">m 0 0 l 100 0 100 100 0 100</font></font>
+
+303
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed6f3f">m 0 0 l 100 0 100 100 0 100</font></font>
+
+304
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed6e3f">m 0 0 l 100 0 100 100 0 100</font></font>
+
+305
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed6d3e">m 0 0 l 100 0 100 100 0 100</font></font>
+
+306
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed6c3e">m 0 0 l 100 0 100 100 0 100</font></font>
+
+307
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed6b3e">m 0 0 l 100 0 100 100 0 100</font></font>
+
+308
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed693e">m 0 0 l 100 0 100 100 0 100</font></font>
+
+309
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed683d">m 0 0 l 100 0 100 100 0 100</font></font>
+
+310
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed673d">m 0 0 l 100 0 100 100 0 100</font></font>
+
+311
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed663d">m 0 0 l 100 0 100 100 0 100</font></font>
+
+312
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ed653d">m 0 0 l 100 0 100 100 0 100</font></font>
+
+313
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font size="12"><font color="#161414">Name</font></font></font>
+
+314
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font size="12"><font color="#161414">Age</font></font></font>
+
+315
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font size="12">{\an1}<font color="#161414">years old</font></font></font>
+
+316
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font size="12"><font color="#161414">Height</font></font></font>
+
+317
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font size="11"><font color="#161414">Nationality</font></font></font>
+
+318
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font color="#ee6c32">m 0 0 l 100 0 100 100 0 100</font></font>
+
+319
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font size="12"><font color="#161414">Great Britain</font></font></font>
+
+320
+00:17:38,500 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><font size="12"><font color="#161414">Car</font></font></font>
+
+321
+00:17:39,050 --> 00:17:42,420
+<font face="Roboto Medium" size="26"><i>{\an8}And after putting that question
+ to her directly...</i></font>
+
+322
+00:17:42,420 --> 00:17:46,170
+<font face="Roboto Medium" size="26">...she made it very clear 
+that she's racing in MFG</font>
+
+323
+00:17:46,170 --> 00:17:50,130
+<font face="Roboto Medium" size="26">to chase after her former lover,
+ Kanata Rivington.</font>
+
+324
+00:17:50,360 --> 00:17:52,130
+<font face="Roboto Medium" size="26">Say what?!</font>
+
+325
+00:17:52,130 --> 00:17:58,230
+<font face="Roboto Medium" size="26">Is that <i>true</i>, Kanata? Damn, dude!
+ You and the chick with the huge melons?</font>
+
+326
+00:17:58,230 --> 00:17:59,890
+<font face="Roboto Medium" size="26">No, it's not.</font>
+
+327
+00:17:59,890 --> 00:18:03,770
+<font face="Roboto Medium" size="26">It's completely untrue, in fact. 
+A total fabrication, in other words.</font>
+
+328
+00:18:03,770 --> 00:18:08,850
+<font face="Roboto Medium" size="26"><i>{\an8}Given the personal nature of the info,
+ I was inclined not to share it,</i></font>
+
+329
+00:18:09,070 --> 00:18:13,000
+<font face="Roboto Medium" size="26"><i>{\an8}but she was quite keen 
+to let it be known far and wide,</i></font>
+
+330
+00:18:13,000 --> 00:18:15,190
+<font face="Roboto Medium" size="26"><i>{\an8}so I've done as she asked.</i></font>
+
+331
+00:18:15,190 --> 00:18:17,490
+<font face="Roboto Medium" size="26">That makes no sense to me, Ogata-san.</font>
+
+332
+00:18:17,490 --> 00:18:20,200
+<font face="Roboto Medium" size="26">If it's a matter of privacy, 
+shouldn't that apply to me, too?</font>
+
+333
+00:18:20,200 --> 00:18:22,330
+<font face="Roboto Medium" size="26">Yet I have to put up with this nonsense.</font>
+
+334
+00:18:23,430 --> 00:18:27,570
+<font face="Roboto Medium" size="26">Well, in Japan, people tend to treat
+ old news a bit faster and looser.</font>
+
+335
+00:18:27,950 --> 00:18:31,950
+<font face="Roboto Medium" size="26">Plus, when a beautiful woman's involved, 
+most people just get jealous.</font>
+
+336
+00:18:31,950 --> 00:18:36,230
+<font face="Roboto Medium" size="26">I'm not really sure I want to be envied 
+for something like this.</font>
+
+337
+00:18:37,090 --> 00:18:41,160
+<font face="Roboto Medium" size="26"><i>{\an8}Three. Two. One. Go!</i></font>
+
+338
+00:18:42,180 --> 00:18:43,570
+<font face="Roboto Medium" size="26"><i>{\an8}And she's off!</i></font>
+
+339
+00:18:43,960 --> 00:18:45,670
+<font face="Roboto Medium" size="26"><i>{\an8}She's sure to be the talk of the race.</i></font>
+
+340
+00:18:45,670 --> 00:18:47,480
+<font face="Roboto Medium" size="26"><i>{\an8}Katagiri Kanata's ex...</i></font>
+
+341
+00:18:47,480 --> 00:18:50,850
+<font face="Roboto Medium" size="26"><i>{\an8}...breaks into the high-speed battle
+ that marks the end of summer!</i></font>
+
+342
+00:18:50,850 --> 00:18:53,540
+<font face="Roboto Medium" size="26"><i>Kanata said it wasn't true.</i></font>
+
+343
+00:18:53,540 --> 00:18:56,280
+<font face="Roboto Medium" size="26"><i>And I trust him.</i></font>
+
+344
+00:18:56,900 --> 00:19:02,030
+<font face="Roboto Medium" size="26"><i>But even though it's not true, announcing it
+ to the whole world like that...</i></font>
+
+345
+00:19:02,030 --> 00:19:04,910
+<font face="Roboto Medium" size="26"><i>I have no way of correcting the record.</i></font>
+
+346
+00:19:05,420 --> 00:19:08,050
+<font face="Roboto Medium" size="26"><i>Repeat a lie long enough
+and it becomes the truth.</i></font>
+
+347
+00:19:08,810 --> 00:19:10,540
+<font face="Roboto Medium" size="26"><i>What are you trying to pull, Emma?</i></font>
+
+348
+00:19:11,290 --> 00:19:14,790
+<font face="Roboto Medium" size="26"><i>Isn't it obvious what I'm doing? 
+I'm trying to get attention.</i></font>
+
+349
+00:19:15,390 --> 00:19:18,670
+<font face="Roboto Medium" size="26"><i>Being at the center of attention 
+comes with being a racing driver.</i></font>
+
+350
+00:19:19,450 --> 00:19:21,960
+<font face="Roboto Medium" size="26"><i>So I'll capitalize on 
+the value of your name.</i></font>
+
+351
+00:19:22,690 --> 00:19:25,490
+<font face="Roboto Medium" size="26"><i>It's your punishment 
+for ignoring my affections.</i></font>
+
+352
+00:19:25,900 --> 00:19:27,970
+<font face="Roboto Medium" size="26"><i>Time you learned your lesson, darling.</i></font>
+
+353
+00:19:28,790 --> 00:19:33,100
+<font face="Roboto Medium" size="26"><i>{\an8}Aston Martin, maker of 
+iconic luxury sports cars.</i></font>
+
+354
+00:19:33,310 --> 00:19:38,360
+<font face="Roboto Medium" size="26"><i>{\an8}She looks steady and on track 
+to outpace last year's lap record.</i></font>
+
+355
+00:19:38,840 --> 00:19:40,470
+<font face="Roboto Medium" size="26"><i>{\an8}She's in third at the checkpoint!</i></font>
+
+356
+00:19:40,470 --> 00:19:42,520
+<font face="Roboto Medium" size="26">She's running <i>third</i>?</font>
+
+357
+00:19:42,520 --> 00:19:44,670
+<font face="Roboto Medium" size="26">That doesn't surprise me one bit.</font>
+
+358
+00:19:44,670 --> 00:19:46,990
+<font face="Roboto Medium" size="26">Knowing her skills, 
+it's the natural outcome.</font>
+
+359
+00:19:47,810 --> 00:19:51,890
+<font face="Roboto Medium" size="26"><i>I remember how often you used 
+to defy Fujiwara-sensei, Emma.</i></font>
+
+360
+00:19:52,280 --> 00:19:57,010
+<font face="Roboto Medium" size="26"><i>But you followed his methodology 
+even closer than I did.</i></font>
+
+361
+00:19:58,000 --> 00:20:02,530
+<font face="Roboto Medium" size="26"><i>The way you meticulously shift the car's
+ weight. It's expertly done and fast.</i></font>
+
+362
+00:20:02,530 --> 00:20:04,260
+<font face="Roboto Medium" size="26"><i>You've really improved.</i></font>
+
+363
+00:20:06,010 --> 00:20:10,270
+<font face="Roboto Medium" size="26"><i>{\an8}To the shock of all, both car and driver
+ are proving to be first-rate.</i></font>
+
+364
+00:20:10,270 --> 00:20:14,120
+<font face="Roboto Medium" size="26"><i>{\an8}She's carving her way through 
+the Godly Fifteen's top drivers!</i></font>
+
+365
+00:20:14,120 --> 00:20:18,650
+<font face="Roboto Medium" size="26"><i>{\an8}The skills of the RDRS alumni 
+are making them outright menaces.</i></font>
+
+366
+00:20:18,850 --> 00:20:22,400
+<font face="Roboto Medium" size="26">For real? She was a driver?</font>
+
+367
+00:20:22,690 --> 00:20:27,780
+<font face="Roboto Medium" size="26"><i>{\an8}And the 624 enters Sector 2 
+with the attention flag still up.</i></font>
+
+368
+00:20:27,780 --> 00:20:30,440
+<font face="Roboto Medium" size="26"><i>{\an8}A provisional third is still on the cards.</i></font>
+
+369
+00:20:32,290 --> 00:20:36,540
+<font face="Roboto Medium" size="26">One has to wonder what kind of meaning 
+the number "624" has for her...</font>
+
+370
+00:20:36,800 --> 00:20:39,130
+<font face="Roboto Medium" size="26"><i>{\an8}And when I asked, 
+her answer was quite simple.</i></font>
+
+371
+00:20:39,130 --> 00:20:43,050
+<font face="Roboto Medium" size="26"><i>{\an8}It's apparently her angel number.</i></font>
+
+372
+00:20:43,460 --> 00:20:44,760
+<font face="Roboto Medium" size="26">What's an "angel number"?</font>
+
+373
+00:20:45,250 --> 00:20:48,720
+<font face="Roboto Medium" size="26">It's a series of numbers 
+that's supposed to be personally lucky.</font>
+
+374
+00:20:49,000 --> 00:20:53,470
+<font face="Roboto Medium" size="26">If you encounter a unique number
+ in your daily life,</font>
+
+375
+00:20:53,470 --> 00:20:56,420
+<font face="Roboto Medium" size="26">it's supposed to bring you good luck.</font>
+
+376
+00:20:56,420 --> 00:20:59,690
+<font face="Roboto Medium" size="26">The name comes from angels 
+being the ones to tell you what it is.</font>
+
+377
+00:21:03,290 --> 00:21:06,990
+<font face="Roboto Medium" size="26"><i>{\an8}It's over the Jumping Spot, 
+and into Sector 3!</i></font>
+
+378
+00:21:07,190 --> 00:21:11,470
+<font face="Roboto Medium" size="26"><i>{\an8}The elegant coupe in 
+British racing green screams along.</i></font>
+
+379
+00:21:11,970 --> 00:21:14,410
+<font face="Roboto Medium" size="26"><i>{\an8}There's a wildness in 
+those pretty blue eyes.</i></font>
+
+380
+00:21:14,410 --> 00:21:16,680
+<font face="Roboto Medium" size="26"><i>{\an8}Emma Greene is roaring!</i></font>
+
+381
+00:21:17,250 --> 00:21:21,880
+<font face="Roboto Medium" size="26"><i>Kanata Rivington. 
+This isn't where you belong.</i></font>
+
+382
+00:21:22,470 --> 00:21:29,260
+<font face="Roboto Medium" size="26"><i>So I'm going to teach you how cheap 
+and insignificant your beloved MFG is.</i></font>
+
+383
+00:21:29,690 --> 00:21:35,220
+<font face="Roboto Medium" size="26"><i>Open your eyes, Kanata. You should 
+be aiming and climbing so much higher.</i></font>
+
+384
+00:21:36,150 --> 00:21:40,400
+<font face="Roboto Medium" size="26"><i>And I'm the only one who can 
+share it all with you by your side.</i></font>
+
+385
+00:21:41,350 --> 00:21:44,400
+<font face="Roboto Medium" size="26"><i>I will not let you cheat on me
+ with some Japanese girl.</i></font>
+
+386
+00:21:45,030 --> 00:21:47,770
+<font face="Roboto Medium" size="26"><i><font face="Times New Roman">Come back, my darling.</font></i></font>
+
+387
+00:23:33,140 --> 00:23:37,320
+<font face="Roboto Medium" size="26"><i>Next time, Turn 34: 
+The King's Impatience.</i></font>
+
