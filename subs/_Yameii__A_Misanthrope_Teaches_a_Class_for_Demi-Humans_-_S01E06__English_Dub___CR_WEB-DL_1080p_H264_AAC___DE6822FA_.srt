@@ -1,0 +1,210 @@
+1
+00:00:00,000 --> 00:00:01,730
+<font face="Gandhi Sans" size="24"><b>{\an8}<b><font color="#7b8184"><font size="30">Advanced Class</font></font></b></b></font>
+
+2
+00:00:01,730 --> 00:00:03,560
+<font face="Gandhi Sans" size="24"><b>{\an9}<font size="10"><font face="Arial"><font color="#b8c7b3"><b>Jan. 14th (Tues.)
+ Class Duty: Minazuki</b></font></font></font></b></font>
+
+3
+00:02:48,200 --> 00:02:53,170
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="14"><font color="#f5f5f5">Episode <font size="21">6</font></font></font></font></b></font>
+
+4
+00:02:48,200 --> 00:02:53,170
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="14"><font color="#f5f5f5">Episode <font size="21">6</font></font></font></font></b></font>
+
+5
+00:02:48,200 --> 00:02:53,170
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="13"><font color="#effefb">The Misanthrope and the Light of Dawn</font></font></font></b></font>
+
+6
+00:02:48,200 --> 00:02:53,170
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="13"><font color="#effefb">The Misanthrope and the Light of Dawn</font></font></font></b></font>
+
+7
+00:02:50,020 --> 00:02:51,520
+<font face="Gandhi Sans" size="24"><b>{\an9}<font size="24"><font face="Arial"><font color="#edf4f5">Jan. 17th (Fri.)
+Class Duty: Usami</font></font></font></b></font>
+
+8
+00:03:52,770 --> 00:03:58,090
+<font face="Gandhi Sans" size="24"><b>{\an8}<font color="#fbfeff"><font face="Arial"><font size="22">Final Assignment
+ <font color="#aaa9a3">Kyoka Minazuki</font></font></font></font></b></font>
+
+9
+00:04:38,520 --> 00:04:42,880
+<font face="Gandhi Sans" size="24"><b>{\an9}<font size="24"><font face="Arial"><font color="#edf4f5"><font size="20">Jan. 24th (Fri.)
+Class Duty: Minazuki</font></font></font></font></b></font>
+
+10
+00:06:07,110 --> 00:06:09,470
+<font face="Gandhi Sans" size="24"><b>{\an9}<font size="20"><b><font face="Arial"><font color="#edf4f5">Jan. 31st (Fri.)
+Class Duty: Ohgami</font></font></b></font></b></font>
+
+11
+00:07:32,200 --> 00:07:34,430
+<font face="Gandhi Sans" size="24"><b>{\an9}<font size="18"><font face="Arial"><font color="#fbfeff">Feb. 7th (Fri.)
+Class Duty: Minazuki</font></font></font></b></font>
+
+12
+00:07:56,720 --> 00:07:58,830
+<font face="Gandhi Sans" size="24"><b>{\an9}<font size="20"><font face="Arial"><font color="#f8f8f8">Feb. 14th (Fri.)
+Class Duty: Usami</font></font></font></b></font>
+
+13
+00:07:58,830 --> 00:08:01,390
+<font face="Trebuchet MS" size="24" color="#978f89">{\an9}Signature Book</font>
+
+14
+00:07:58,830 --> 00:08:01,390
+<font face="Trebuchet MS" size="24" color="#978f89">{\an9}<font size="16">Sui Usami</font></font>
+
+15
+00:10:23,410 --> 00:10:25,640
+<font face="Gandhi Sans" size="24"><b>{\an9}<font size="20"><font face="Arial"><font color="#edf4f5">Feb. 21st (Fri.)
+Class Duty: Haneda</font></font></font></b></font>
+
+16
+00:12:14,620 --> 00:12:24,530
+<font face="Gandhi Sans" size="24"><b><font color="#fbfeff"><font face="Arial"><font size="22">{\an9}Final Assignment</font></font></font></b></font>
+
+17
+00:12:24,530 --> 00:12:25,970
+<font face="Gandhi Sans" size="24"><b>{\an9}<font color="#fbfeff"><font face="Arial"><font size="22">Final Assignment
+ <font color="#aaa9a3">Kyoka Minazuki</font></font></font></font></b></font>
+
+18
+00:12:42,610 --> 00:12:49,280
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Times New Roman"><font size="12"><font color="#454541"><u>Final Assignment   Problem 2</u></font></font></font></b></font>
+
+19
+00:12:42,610 --> 00:12:49,280
+<font face="Gandhi Sans" size="24"><b>{\an8}<font color="#f5f5f3">m 0 0 l 230 0 l 230 215 l 0 215</font></b></font>
+
+20
+00:12:42,610 --> 00:12:49,280
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Times New Roman"><font size="22"><font color="#454541">Try and remember!
+The very first class!
+And when you trace them in order...?</font></font></font></b></font>
+
+21
+00:15:25,570 --> 00:15:35,780
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Times New Roman"><font size="10"><font color="#454541"><u>Final Assignment   Problem 1</u></font></font></font></b></font>
+
+22
+00:15:25,570 --> 00:15:35,780
+<font face="Gandhi Sans" size="24"><b>{\an8}<font color="#f5f5f3">m 0 0 l 230 0 l 230 215 l 0 215</font></b></font>
+
+23
+00:15:25,570 --> 00:15:35,780
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Times New Roman"><font size="22"><font color="#454541">Solve the
+crossword puzzle!</font></font></font></b></font>
+
+24
+00:15:44,420 --> 00:15:51,130
+<font face="Gandhi Sans" size="24"><b>{\an8}<font color="#273030"><font size="22">Hiragana Table</font></font></b></font>
+
+25
+00:15:54,590 --> 00:15:56,050
+<font face="Gandhi Sans" size="24"><b>{\an8}<font color="#273030"><font size="30">Ko</font></font></b></font>
+
+26
+00:15:57,350 --> 00:15:58,770
+<font face="Gandhi Sans" size="24"><b>{\an8}<font color="#273030"><font size="30">Ha</font></font></b></font>
+
+27
+00:16:00,060 --> 00:16:01,850
+<font face="Gandhi Sans" size="24"><b>{\an8}<font color="#273030"><font size="22">Hiragana Table</font></font></b></font>
+
+28
+00:16:05,670 --> 00:16:08,480
+<font face="Gandhi Sans" size="24"><b>{\an8}<font color="#273030"><font size="22">Hiragana Table</font></font></b></font>
+
+29
+00:16:05,670 --> 00:16:08,480
+<font face="Gandhi Sans" size="24"><b>{\an8}<font color="#273030"><font size="18">Ha</font></font></b></font>
+
+30
+00:16:05,670 --> 00:16:08,480
+<font face="Gandhi Sans" size="24"><b>{\an8}<font color="#273030"><font size="18">Te</font></font></b></font>
+
+31
+00:16:05,670 --> 00:16:08,480
+<font face="Gandhi Sans" size="24"><b>{\an8}<font color="#273030"><font size="18">Ko</font></font></b></font>
+
+32
+00:16:05,670 --> 00:16:08,480
+<font face="Gandhi Sans" size="24"><b>{\an8}<font color="#273030"><font size="18">N</font></font></b></font>
+
+33
+00:16:08,480 --> 00:16:11,280
+<font face="Gandhi Sans" size="24"><b>{\an8}<b><font color="#656c6f"><font size="22">Science Prep Room</font></font></b></b></font>
+
+34
+00:16:14,240 --> 00:16:19,410
+<font face="Gandhi Sans" size="24"><b>{\an7}<font color="#5b7a79"><font face="Times New Roman"><font size="22">Final Assignment
+Kyoka Minazuki</font></font></font></b></font>
+
+35
+00:16:21,750 --> 00:16:25,460
+<font face="Gandhi Sans" size="24"><b>{\an9}<font color="#2d3332"><font face="Times New Roman"><font size="22"><b>Final Assignment
+Kyoka Minazuki</b></font></font></font></b></font>
+
+36
+00:16:26,920 --> 00:16:28,630
+<font face="Gandhi Sans" size="24"><b>{\an7}<b><font color="#303030"><font size="22">Office</font></font></b></b></font>
+
+37
+00:16:26,920 --> 00:16:28,630
+<font face="Gandhi Sans" size="24"><b>{\an9}<font color="#2d3332"><font face="Times New Roman"><font size="22"><b>Final Assignment
+Kyoka Minazuki</b></font></font></font></b></font>
+
+38
+00:16:29,730 --> 00:16:30,800
+<font face="Gandhi Sans" size="24"><b>{\an9}<font color="#2d3332"><font face="Times New Roman"><font size="22"><b>Final Assignment
+Kyoka Minazuki</b></font></font></font></b></font>
+
+39
+00:16:30,800 --> 00:16:31,970
+<font face="Gandhi Sans" size="24"><b>{\an8}<font color="#2d3332"><font face="Times New Roman"><font size="22"><b>Final Assignment
+Kyoka Minazuki</b></font></font></font></b></font>
+
+40
+00:16:33,760 --> 00:16:43,180
+<font face="Gandhi Sans" size="24"><b>{\an9}<font color="#424340"><font face="Times New Roman"><font size="12"><b>Advanced class student</b></font></font></font></b></font>
+
+41
+00:16:33,760 --> 00:16:43,180
+<font face="Gandhi Sans" size="24"><b>{\an9}<font color="#424340"><font face="Times New Roman"><font size="12"><b>Teacher</b></font></font></font></b></font>
+
+42
+00:16:33,760 --> 00:16:43,180
+<font face="Gandhi Sans" size="24"><b>{\an9}<font color="#424340"><font face="Times New Roman"><font size="12"><b>Location from a dream</b></font></font></font></b></font>
+
+43
+00:16:33,760 --> 00:16:43,180
+<font face="Gandhi Sans" size="24"><b>{\an8}<font color="#424340"><font face="Times New Roman"><font size="12"><b>A certain
+love story</b></font></font></font></b></font>
+
+44
+00:16:56,610 --> 00:17:02,650
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Times New Roman"><font size="14"><font color="#454541"><u>Final Assignment   Problem 3</u></font></font></font></b></font>
+
+45
+00:16:56,610 --> 00:17:02,650
+<font face="Gandhi Sans" size="24"><b>{\an8}<font color="#f2f2f2">m 0 0 l 230 0 l 230 215 l 0 215</font></b></font>
+
+46
+00:16:56,610 --> 00:17:02,650
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Times New Roman"><font size="22"><font color="#454541">Where was the confession?</font></font></font></b></font>
+
+47
+00:23:32,970 --> 00:23:40,250
+<font face="Gandhi Sans" size="24"><b>{\an8}<font size="18"><font face="Arial"><font color="#ebfeef"><b>Next Episode:</b></font></font></font></b></font>
+
+48
+00:23:32,970 --> 00:23:40,250
+<font face="Gandhi Sans" size="24"><b>{\an8}<font size="19"><font face="Arial"><font color="#ebfeef"><b>The Misanthrope and the Fruitless Love Fortune</b></font></font></font></b></font>
+
