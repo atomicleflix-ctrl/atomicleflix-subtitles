@@ -1,0 +1,102 @@
+1
+00:02:17,620 --> 00:02:19,120
+<font face="Gandhi Sans" size="24"><b>{\an1}<font face="Arial"><font size="12"><font color="#383735"><b>Tea Butter</b></font></font></font></b></font>
+
+2
+00:02:17,620 --> 00:02:19,120
+<font face="Gandhi Sans" size="24"><b>{\an7}<font face="Arial"><font size="12"><font color="#383735"><b>You moron. Or maybe I should call you a 
+terrorist, because what you do is a form 
+of terrorism against...</b></font></font></font></b></font>
+
+3
+00:05:20,550 --> 00:05:23,050
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b>{\an8}<font color="#653606">Convenience Store</font></b></font></b></font>
+
+4
+00:06:36,580 --> 00:06:39,250
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="22">{\an8}<font color="#0f0c0d">Hardcore <font color="#f51f9f">Gamer<font color="#000000">-Powered Doll</font></font></font></font></b></font></b></font>
+
+5
+00:06:56,620 --> 00:06:56,870
+<font face="Gandhi Sans" size="24"><b>{\an8}<font size="30"><font face="Arial Black"><font color="#b73371">Denmi-chan: <font face="Impact"><font size="24"><font color="#0764ae">Battle Version</font></font></font></font></font></font></b></font>
+
+6
+00:06:56,870 --> 00:07:01,290
+<font face="Gandhi Sans" size="24"><b>{\an8}<font size="30"><font face="Arial Black"><font color="#b73371">Denmi-chan: <font face="Impact"><font size="24"><font color="#0764ae">Battle Version</font></font></font></font></font></font></b></font>
+
+7
+00:09:06,900 --> 00:09:08,400
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="12"><font color="#8d7162">Nurse's
+Office</font></font></b></font></b></font>
+
+8
+00:09:06,900 --> 00:09:08,400
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="12"><font color="#8d7162">Nurse's
+Office</font></font></b></font></b></font>
+
+9
+00:11:19,320 --> 00:11:21,990
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="10"><font color="#ffffff"><b>Today</b></font></font></font></b></font>
+
+10
+00:11:19,320 --> 00:11:21,990
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="14">{\an1}<font color="#5b5958">Azaki-sensei sends this message</font></font></font></b></font>
+
+11
+00:11:19,320 --> 00:11:21,990
+<font face="Gandhi Sans" size="24"><b>{\an7}<font face="Times New Roman"><font size="14"><font color="#0c0d0b"><b>Let's have a strategy meeting
+ about exorcising K!
+-Azaki</b></font></font></font></b></font>
+
+12
+00:11:21,990 --> 00:11:23,750
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font color="#f4f3f2">The Next Day</font></b></font></b></font>
+
+13
+00:12:10,290 --> 00:12:12,540
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b>{\an8}<font color="#322b2d">1-B</font></b></font></b></font>
+
+14
+00:13:27,620 --> 00:13:33,120
+<font face="Gandhi Sans" size="24"><b><font size="20">{\an8}<font face="Arial Black"><font color="#4d4a47">Ghost Account Ranking Chart</font></font></font></b></font>
+
+15
+00:13:27,870 --> 00:13:33,120
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="14"><font color="#2f2e2f">Low-level</font></font></b></font></b></font>
+
+16
+00:13:28,260 --> 00:13:33,120
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="14"><font color="#2f2e2f">Mid-level</font></font></b></font></b></font>
+
+17
+00:13:28,640 --> 00:13:33,120
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="14"><font color="#2f2e2f">High-level</font></font></b></font></b></font>
+
+18
+00:13:29,010 --> 00:13:33,120
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="14"><font color="#2f2e2f">Extreme-level</font></font></b></font></b></font>
+
+19
+00:13:55,020 --> 00:13:56,770
+<font face="Gandhi Sans" size="24"><b>A-B?</b></font>
+
+20
+00:14:02,280 --> 00:14:05,280
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font color="#293825">A</font></b></font></b></font>
+
+21
+00:14:04,300 --> 00:14:11,250
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font color="#aa464f">B</font></b></font></b></font>
+
+22
+00:14:34,540 --> 00:14:37,000
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="22">{\an7}<font color="#0f0c0d">Nirvana <font color="#eee334">Wall</font></font></font></b></font></b></font>
+
+23
+00:15:33,510 --> 00:15:36,750
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="22">{\an7}<font color="#0f0c0d">World Through a <font color="#40db26">Shutter</font></font></font></b></font></b></font>
+
+24
+00:16:11,950 --> 00:16:12,990
+<font face="Gandhi Sans" size="24"><b>{\an7}<font face="Arial Black"><font size="36"><font color="#f9b261">Tha-thump</font></font></font></b></font>
+
