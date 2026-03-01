@@ -1,0 +1,119 @@
+1
+00:09:32,590 --> 00:09:34,380
+<font size="20">{\an8}<font size="10"><font face="Comic Sans MS"><b><font color="#dcd0c8">Nasu Oyaji Curry</font></b></font></font></font>
+
+2
+00:09:49,100 --> 00:09:56,820
+<font size="20">{\an8}<font size="32"><font face="Comic Sans MS"><b><font color="#e2dfdc">Nasu <font color="#efe4ca">Oyaji <font color="#e4d5c5">Curry</font></font></font></b></font></font></font>
+
+3
+00:13:41,380 --> 00:13:45,340
+<font size="20">{\an8}<font color="#f8f8ec"><font face="Arial Black">Please select payment method</font></font></font>
+
+4
+00:13:41,380 --> 00:13:45,340
+<font size="20">{\an8}<font size="13"><font color="#fefefe"><font face="Arial Black">Cash</font></font></font></font>
+
+5
+00:13:41,380 --> 00:13:45,340
+<font size="20">{\an8}<font size="13"><font color="#fefefe"><font face="Arial Black">Credit Card</font></font></font></font>
+
+6
+00:13:41,380 --> 00:13:45,340
+<font size="20">{\an8}<font size="13"><font color="#fefefe"><font face="Arial Black">QR Payment</font></font></font></font>
+
+7
+00:13:41,380 --> 00:13:45,340
+<font size="20">{\an8}<font size="13"><font color="#fefefe"><font face="Arial Black">Point Payment</font></font></font></font>
+
+8
+00:13:41,380 --> 00:13:45,340
+<font size="20">{\an8}<font size="13"><font color="#fefefe"><font face="Arial Black">IC Card</font></font></font></font>
+
+9
+00:13:41,380 --> 00:13:45,340
+<font size="20">{\an8}<font size="10"><font color="#fefefe"><font face="Arial Black">Go Back</font></font></font></font>
+
+10
+00:13:41,380 --> 00:13:45,340
+<font size="20">{\an8}<font size="10"><font color="#fefefe"><font face="Arial Black">Call Clerk</font></font></font></font>
+
+11
+00:13:57,980 --> 00:14:01,440
+<font size="20">{\an8}<font color="#f7d7d6">m 0 0 l 185 0 185 80 0 80</font></font>
+
+12
+00:13:57,980 --> 00:14:00,330
+<font size="20">{\an8}<font size="15"><font color="#a29fa0">What?
+What's wrong?</font></font></font>
+
+13
+00:13:57,980 --> 00:14:00,710
+<font size="20">{\an8}<font size="15"><font color="#feecef">Sorry. I'm getting distracted 
+because you're here.</font></font></font>
+
+14
+00:13:58,140 --> 00:14:00,360
+<font size="20">{\an8}<font size="15"><font color="#feecef">It feels like a parent
+classroom observation day.</font></font></font>
+
+15
+00:13:58,210 --> 00:14:00,360
+<font size="20">{\an8}<font size="15"><font color="#a29fa0">Stop making me laugh</font></font></font>
+
+16
+00:13:58,250 --> 00:14:00,360
+<font size="20">{\an8}<font size="15"><font color="#a29fa0">Hey</font></font></font>
+
+17
+00:13:58,420 --> 00:14:00,360
+<font size="20">{\an8}<font size="15"><font color="#a29fa0">Today after school, would 
+you like to go somewhere?</font></font></font>
+
+18
+00:14:00,360 --> 00:14:01,440
+<font size="20">{\an8}<font size="15"><font color="#feecef">It feels like a parent
+classroom observation day.</font></font></font>
+
+19
+00:14:00,360 --> 00:14:01,440
+<font size="20">{\an8}<font size="15"><font color="#a29fa0">Stop making me laugh</font></font></font>
+
+20
+00:14:00,360 --> 00:14:01,440
+<font size="20">{\an8}<font size="15"><font color="#a29fa0">Hey</font></font></font>
+
+21
+00:14:00,360 --> 00:14:01,440
+<font size="20">{\an8}<font size="15"><font color="#a29fa0">Today after school, would 
+you like to go somewhere?</font></font></font>
+
+22
+00:14:00,380 --> 00:14:01,440
+<font size="20">{\an8}<font size="15"><font color="#feecef">I'm sorry.
+I have work today</font></font></font>
+
+23
+00:14:00,420 --> 00:14:01,440
+<font size="20">{\an8}<font size="15"><font color="#a29fa0">Okay, got it</font></font></font>
+
+24
+00:22:10,510 --> 00:22:15,330
+<font size="20">{\an8}<font size="18"><font color="#1f2139"><b><font face="Comic Sans MS">I'm Just Jealous Is All</font></b></font></font></font>
+
+25
+00:22:22,130 --> 00:22:25,380
+<font size="20">{\an8}<font size="10"><font face="Times New Roman"><b><font color="#dcdcdc">Translation:
+Timing:
+Editing:
+Quality Control:
+Final Quality Control:</font></b></font></font></font>
+
+26
+00:22:22,130 --> 00:22:25,380
+<font size="20">{\an8}<font size="10"><font face="Times New Roman"><b><font color="#dcdcdc">Yukari Murase-Louden
+Andy Ellis
+Gabriella Alabanza
+Salem Alabanza
+Elizabeth Ellis</font></b></font></font></font>
+
