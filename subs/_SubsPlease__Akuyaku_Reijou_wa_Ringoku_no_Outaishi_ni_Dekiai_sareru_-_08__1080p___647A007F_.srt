@@ -1,0 +1,1232 @@
+1
+00:00:13,510 --> 00:00:15,620
+<font face="Roboto Medium" size="26"><i>My first time back home in a year!</i></font>
+
+2
+00:00:16,230 --> 00:00:18,410
+<font face="Roboto Medium" size="26">Father, Mother.</font>
+
+3
+00:00:19,160 --> 00:00:23,380
+<font face="Roboto Medium" size="26">I've completed my year of bridal 
+training and returned home.</font>
+
+4
+00:00:23,380 --> 00:00:25,360
+<font face="Roboto Medium" size="26">Welcome home, Tiara.</font>
+
+5
+00:00:25,360 --> 00:00:27,760
+<font face="Roboto Medium" size="26">I'm so happy to be home, Mother!</font>
+
+6
+00:00:28,160 --> 00:00:32,530
+<font face="Roboto Medium" size="26">You'll have to tell us all 
+about Marinforest.</font>
+
+7
+00:00:32,530 --> 00:00:34,030
+<font face="Roboto Medium" size="26">Of course!</font>
+
+8
+00:00:34,030 --> 00:00:38,270
+<font face="Roboto Medium" size="26">I want to hear about all that's 
+happened here in the past year, too.</font>
+
+9
+00:00:40,870 --> 00:00:43,110
+<font face="Roboto Medium" size="26">I brought some delicious wine.</font>
+
+10
+00:00:43,480 --> 00:00:46,280
+<font face="Roboto Medium" size="26">Shall we all enjoy it together?</font>
+
+11
+00:00:46,280 --> 00:00:49,720
+<font face="Roboto Medium" size="26">Thank you very much, Prince Aquasteed.</font>
+
+12
+00:00:49,720 --> 00:00:54,780
+<font face="Roboto Medium" size="26">P-Pardon me, sir, 
+but visitors have arrived.</font>
+
+13
+00:00:55,730 --> 00:00:59,160
+<font face="Roboto Medium" size="26">Visitors? But I wasn't expecting anyone.</font>
+
+14
+00:00:59,160 --> 00:01:00,950
+<font face="Roboto Medium" size="26">Well...</font>
+
+15
+00:01:01,830 --> 00:01:04,900
+<font face="Roboto Medium" size="26">It's Prince Hartknights and Lady Akari.</font>
+
+16
+00:01:07,930 --> 00:01:10,300
+<font face="Roboto Medium" size="26"><i>What are those two doing here?</i></font>
+
+17
+00:01:24,650 --> 00:01:29,360
+<font face="Roboto Medium" size="26">{\an2}<font color="#3d8afc"><font face="Times New Roman"><font size="28"><b><font color="#f76bb3">The Villainess <font color="#6b3e34">Is <font color="#f76bb3">Adored 
+<font color="#6b3e34">by the Prince of the Neighbor Kingdom</font></font></font></font></b></font></font></font></font>
+
+18
+00:02:43,770 --> 00:02:47,020
+<font face="Roboto Medium" size="26">{\an8}<font face="TimesNewRoman"><b><font color="#f76bb3"><font size="25">Blessings</font></font></b> <font color="#6b3e34">on the <font color="#3d8afc"><b>Teary Bride</b></font></font></font></font>
+
+19
+00:02:49,410 --> 00:02:51,180
+<font face="Roboto Medium" size="26">Send them away at once!</font>
+
+20
+00:02:52,610 --> 00:02:57,030
+<font face="Roboto Medium" size="26">Father, I want to speak with Lady Akari.</font>
+
+21
+00:02:57,380 --> 00:02:58,780
+<font face="Roboto Medium" size="26">Tiara...</font>
+
+22
+00:02:59,070 --> 00:03:02,330
+<font face="Roboto Medium" size="26">What are you thinking, Lady Tiararose?!</font>
+
+23
+00:03:02,900 --> 00:03:05,480
+<font face="Roboto Medium" size="26"><i>I can't blame them all for being angry.</i></font>
+
+24
+00:03:06,440 --> 00:03:09,970
+<font face="Roboto Medium" size="26"><i>If you lose to the sequel's heroine, 
+I'll never forgive you!</i></font>
+
+25
+00:03:11,780 --> 00:03:13,830
+<font face="Roboto Medium" size="26">Just Lady Akari alone will do.</font>
+
+26
+00:03:13,830 --> 00:03:15,170
+<font face="Roboto Medium" size="26">But...</font>
+
+27
+00:03:15,170 --> 00:03:18,180
+<font face="Roboto Medium" size="26">Please, Father.</font>
+
+28
+00:03:18,900 --> 00:03:22,180
+<font face="Roboto Medium" size="26">I wish I knew who you got 
+your stubbornness from.</font>
+
+29
+00:03:22,740 --> 00:03:23,930
+<font face="Roboto Medium" size="26">I will allow it,</font>
+
+30
+00:03:23,930 --> 00:03:28,100
+<font face="Roboto Medium" size="26">but only under the condition that 
+Prince Aquasteed accompanies you.</font>
+
+31
+00:03:28,470 --> 00:03:29,970
+<font face="Roboto Medium" size="26">Well, then, shall we?</font>
+
+32
+00:03:29,970 --> 00:03:32,610
+<font face="Roboto Medium" size="26">I'm sorry for being so demanding.</font>
+
+33
+00:03:32,940 --> 00:03:37,660
+<font face="Roboto Medium" size="26">Not at all. 
+I love listening to your demands.</font>
+
+34
+00:03:38,760 --> 00:03:41,120
+<font face="Roboto Medium" size="26">Oh, Lady Tiara! Long time no see!</font>
+
+35
+00:03:41,440 --> 00:03:44,510
+<font face="Roboto Medium" size="26">Oh, and Prince Aqua is here as well.</font>
+
+36
+00:03:45,040 --> 00:03:48,790
+<font face="Roboto Medium" size="26">It's nice to see you again. 
+I'm so glad you seem well.</font>
+
+37
+00:03:48,790 --> 00:03:50,860
+<font face="Roboto Medium" size="26">Yes, it's been a long time.</font>
+
+38
+00:03:50,860 --> 00:03:52,290
+<font face="Roboto Medium" size="26">It's nice to see you again.</font>
+
+39
+00:03:52,290 --> 00:03:55,480
+<font face="Roboto Medium" size="26">I'm happy to see you're 
+doing well, Lady Akari.</font>
+
+40
+00:03:55,480 --> 00:03:59,690
+<font face="Roboto Medium" size="26">Yes! I'm working hard 
+with Prince Hartknights!</font>
+
+41
+00:04:00,130 --> 00:04:06,060
+<font face="Roboto Medium" size="26">Since we're long past the ending, 
+I feel like I'm playing the next new game!</font>
+
+42
+00:04:06,060 --> 00:04:08,480
+<font face="Roboto Medium" size="26"><i>Sh-She hasn't changed, I see...</i></font>
+
+43
+00:04:08,480 --> 00:04:11,170
+<font face="Roboto Medium" size="26">Oops! How silly of me!</font>
+
+44
+00:04:11,630 --> 00:04:16,460
+<font face="Roboto Medium" size="26">Lady Tiara, Prince Aqua, allow me 
+to congratulate you on your marriage.</font>
+
+45
+00:04:16,460 --> 00:04:18,990
+<font face="Roboto Medium" size="26">Thank you, Lady Akari.</font>
+
+46
+00:04:18,990 --> 00:04:19,950
+<font face="Roboto Medium" size="26">Thank you.</font>
+
+47
+00:04:22,630 --> 00:04:23,810
+<font face="Roboto Medium" size="26"><i>I can see it.</i></font>
+
+48
+00:04:24,950 --> 00:04:28,050
+<font face="Roboto Medium" size="26"><i>Well done winning out 
+over the sequel's heroine!</i></font>
+
+49
+00:04:28,050 --> 00:04:30,370
+<font face="Roboto Medium" size="26"><i>I can just tell she's thinking that!</i></font>
+
+50
+00:04:30,370 --> 00:04:32,450
+<font face="Roboto Medium" size="26">Have you had any trouble this past year?</font>
+
+51
+00:04:32,450 --> 00:04:34,370
+<font face="Roboto Medium" size="26">You weren't bullied, were you?</font>
+
+52
+00:04:34,370 --> 00:04:36,260
+<font face="Roboto Medium" size="26">By the sea fairies, especially!</font>
+
+53
+00:04:36,680 --> 00:04:38,720
+<font face="Roboto Medium" size="26">Well, they don't like me.</font>
+
+54
+00:04:38,720 --> 00:04:42,180
+<font face="Roboto Medium" size="26">Right?! I knew that was 
+how it would turn out!</font>
+
+55
+00:04:42,180 --> 00:04:46,020
+<font face="Roboto Medium" size="26">That's why I brought these 
+as your wedding gifts!</font>
+
+56
+00:04:46,630 --> 00:04:47,880
+<font face="Roboto Medium" size="26">Earrings?</font>
+
+57
+00:04:48,390 --> 00:04:49,660
+<font face="Roboto Medium" size="26">Yes!</font>
+
+58
+00:04:49,660 --> 00:04:52,130
+<font face="Roboto Medium" size="26">You've only ever had 
+the clasping kind before, right?</font>
+
+59
+00:04:52,130 --> 00:04:54,250
+<font face="Roboto Medium" size="26">So I made these!</font>
+
+60
+00:04:54,250 --> 00:04:57,440
+<font face="Roboto Medium" size="26">They're protective charms 
+that I added the Holy Prayer to!</font>
+
+61
+00:04:57,830 --> 00:04:59,530
+<font face="Roboto Medium" size="26">These are protective charms?</font>
+
+62
+00:05:00,200 --> 00:05:02,390
+<font face="Roboto Medium" size="26">One is the pink color of my hair,</font>
+
+63
+00:05:02,390 --> 00:05:05,300
+<font face="Roboto Medium" size="26">and the other is the dark 
+blue of Prince Aqua's hair.</font>
+
+64
+00:05:05,300 --> 00:05:06,620
+<font face="Roboto Medium" size="26">If you're going to wear something,</font>
+
+65
+00:05:06,620 --> 00:05:09,080
+<font face="Roboto Medium" size="26">it should be the color 
+of the one you love!</font>
+
+66
+00:05:09,380 --> 00:05:10,960
+<font face="Roboto Medium" size="26">That's why I wear this!</font>
+
+67
+00:05:13,420 --> 00:05:14,960
+<font face="Roboto Medium" size="26"><i>Yellow is...</i></font>
+
+68
+00:05:14,960 --> 00:05:18,090
+<font face="Roboto Medium" size="26">Although things are still 
+a bit awkward between us...</font>
+
+69
+00:05:18,090 --> 00:05:22,300
+<font face="Roboto Medium" size="26">But Prince Hartknights 
+has been so adorable lately!</font>
+
+70
+00:05:22,300 --> 00:05:26,310
+<font face="Roboto Medium" size="26">He came along with me, 
+saying he wanted to see you!</font>
+
+71
+00:05:26,310 --> 00:05:29,010
+<font face="Roboto Medium" size="26">Thank you, Lady Akari.</font>
+
+72
+00:05:29,010 --> 00:05:30,560
+<font face="Roboto Medium" size="26">You're welcome!</font>
+
+73
+00:05:30,560 --> 00:05:33,410
+<font face="Roboto Medium" size="26">Since I've received this gift, 
+I'd like to put them on.</font>
+
+74
+00:05:33,410 --> 00:05:36,140
+<font face="Roboto Medium" size="26">If you want to put them on, I don't mind.</font>
+
+75
+00:05:36,570 --> 00:05:41,950
+<font face="Roboto Medium" size="26">I'm more surprised to see you 
+being so friendly with Lady Akari.</font>
+
+76
+00:05:43,070 --> 00:05:47,790
+<font face="Roboto Medium" size="26">Y-You have a point. 
+She did attack me, after all.</font>
+
+77
+00:05:47,790 --> 00:05:52,380
+<font face="Roboto Medium" size="26">But now we're basically partners 
+in taking down the sequel's heroine!</font>
+
+78
+00:05:52,380 --> 00:05:53,540
+<font face="Roboto Medium" size="26">Heroine?</font>
+
+79
+00:05:54,870 --> 00:05:56,010
+<font face="Roboto Medium" size="26">Tiara?</font>
+
+80
+00:05:56,010 --> 00:05:58,000
+<font face="Roboto Medium" size="26">I-I'm sorry.</font>
+
+81
+00:05:58,000 --> 00:06:01,950
+<font face="Roboto Medium" size="26">But you were there to save me 
+when that happened, after all.</font>
+
+82
+00:06:01,950 --> 00:06:05,500
+<font face="Roboto Medium" size="26">Honestly... You'd better 
+tell me the truth one day.</font>
+
+83
+00:06:05,980 --> 00:06:07,480
+<font face="Roboto Medium" size="26">Prince Aqua...</font>
+
+84
+00:06:07,930 --> 00:06:09,150
+<font face="Roboto Medium" size="26">It's clear to me</font>
+
+85
+00:06:09,150 --> 00:06:12,210
+<font face="Roboto Medium" size="26">that you've been holding on to 
+something you can't tell me.</font>
+
+86
+00:06:12,210 --> 00:06:13,180
+<font face="Roboto Medium" size="26">But...</font>
+
+87
+00:06:14,680 --> 00:06:18,320
+<font face="Roboto Medium" size="26">if you keep me in the dark for too long, 
+be prepared for the consequences.</font>
+
+88
+00:06:20,210 --> 00:06:24,320
+<font face="Roboto Medium" size="26">It's fine to be all flirty, but do it 
+when I'm not around, please.</font>
+
+89
+00:06:24,320 --> 00:06:25,780
+<font face="Roboto Medium" size="26">I'm so sorry!</font>
+
+90
+00:06:26,180 --> 00:06:28,310
+<font face="Roboto Medium" size="26">Oh, it's all right.</font>
+
+91
+00:06:28,650 --> 00:06:30,790
+<font face="Roboto Medium" size="26">Just make sure you find happiness!</font>
+
+92
+00:06:31,350 --> 00:06:32,920
+<font face="Roboto Medium" size="26">Thank you.</font>
+
+93
+00:06:45,970 --> 00:06:50,470
+<font face="Roboto Medium" size="26">Father, Mother, I am truly happy.</font>
+
+94
+00:06:51,140 --> 00:06:52,560
+<font face="Roboto Medium" size="26">Tiara...</font>
+
+95
+00:06:52,560 --> 00:06:55,610
+<font face="Roboto Medium" size="26">My father raised me strictly,</font>
+
+96
+00:06:55,610 --> 00:07:00,570
+<font face="Roboto Medium" size="26">and my mother helped me 
+experience many things.</font>
+
+97
+00:07:00,920 --> 00:07:03,570
+<font face="Roboto Medium" size="26">And all of that gives me strength now.</font>
+
+98
+00:07:03,570 --> 00:07:08,570
+<font face="Roboto Medium" size="26">Yes. We're so glad to see you this happy.</font>
+
+99
+00:07:18,990 --> 00:07:22,590
+<font face="Roboto Medium" size="26">The next time we meet will be 
+at your wedding in Marinforest.</font>
+
+100
+00:07:23,000 --> 00:07:26,590
+<font face="Roboto Medium" size="26">I'm so excited to see you 
+in your bridal attire.</font>
+
+101
+00:07:26,590 --> 00:07:27,790
+<font face="Roboto Medium" size="26">Yes!</font>
+
+102
+00:07:39,080 --> 00:07:42,420
+<font face="Roboto Medium" size="26"><i>Tomorrow's the day I finally 
+become Prince Aqua's wife.</i></font>
+
+103
+00:07:42,950 --> 00:07:45,360
+<font face="Roboto Medium" size="26">You look beautiful, Lady Tiararose.</font>
+
+104
+00:07:46,630 --> 00:07:51,070
+<font face="Roboto Medium" size="26">I'm so glad you've safely arrived at your 
+wedding day with Prince Aquasteed!</font>
+
+105
+00:07:51,070 --> 00:07:53,210
+<font face="Roboto Medium" size="26">Oh, really now, Philine.</font>
+
+106
+00:07:53,710 --> 00:07:56,330
+<font face="Roboto Medium" size="26">What's the use in crying now?</font>
+
+107
+00:07:56,330 --> 00:07:58,470
+<font face="Roboto Medium" size="26">The wedding is tomorrow.</font>
+
+108
+00:07:58,470 --> 00:08:02,590
+<font face="Roboto Medium" size="26">You're right. I'm just so excited, 
+I couldn't help it.</font>
+
+109
+00:08:04,800 --> 00:08:08,650
+<font face="Roboto Medium" size="26">Who could that be? 
+We weren't expecting anyone, were we?</font>
+
+110
+00:08:08,650 --> 00:08:11,010
+<font face="Roboto Medium" size="26">No. I'll go see.</font>
+
+111
+00:08:14,850 --> 00:08:17,740
+<font face="Roboto Medium" size="26"><i>I'm not going to get a visit</i></font>
+
+112
+00:08:17,740 --> 00:08:21,340
+<font face="Roboto Medium" size="26"><i>from Lady Icilla, the heroine, 
+the day before my wedding, am I?</i></font>
+
+113
+00:08:24,390 --> 00:08:26,950
+<font face="Roboto Medium" size="26">It's Lady Icilla.</font>
+
+114
+00:08:29,430 --> 00:08:31,570
+<font face="Roboto Medium" size="26">I'm sorry to visit when you're so busy.</font>
+
+115
+00:08:31,570 --> 00:08:37,330
+<font face="Roboto Medium" size="26">Not at all. I'm very happy 
+you came to see me.</font>
+
+116
+00:08:37,330 --> 00:08:40,560
+<font face="Roboto Medium" size="26">Congratulations on your wedding.</font>
+
+117
+00:08:40,560 --> 00:08:43,340
+<font face="Roboto Medium" size="26">I just had to tell you that.</font>
+
+118
+00:08:44,340 --> 00:08:45,980
+<font face="Roboto Medium" size="26">Thank you.</font>
+
+119
+00:08:46,760 --> 00:08:49,230
+<font face="Roboto Medium" size="26"><i>She didn't come to stop the wedding?</i></font>
+
+120
+00:08:49,600 --> 00:08:53,850
+<font face="Roboto Medium" size="26"><i>I expected her to be in love 
+with Prince Aqua, but...</i></font>
+
+121
+00:08:54,360 --> 00:09:00,100
+<font face="Roboto Medium" size="26">Did you, perhaps, think that I had 
+feelings for Prince Aquasteed?</font>
+
+122
+00:09:02,340 --> 00:09:06,150
+<font face="Roboto Medium" size="26">I don't understand love very well.</font>
+
+123
+00:09:06,540 --> 00:09:11,400
+<font face="Roboto Medium" size="26">I've always believed that my father 
+would find me a good man to marry.</font>
+
+124
+00:09:11,900 --> 00:09:13,760
+<font face="Roboto Medium" size="26"><i>She doesn't understand love?</i></font>
+
+125
+00:09:13,760 --> 00:09:16,790
+<font face="Roboto Medium" size="26"><i>Could that be because I exist?</i></font>
+
+126
+00:09:17,450 --> 00:09:19,650
+<font face="Roboto Medium" size="26"><i>Originally, Lady Icilla was supposed to</i></font>
+
+127
+00:09:19,650 --> 00:09:24,000
+<font face="Roboto Medium" size="26"><i>nurture her love with Prince Aqua, 
+one of the conquerable routes.</i></font>
+
+128
+00:09:24,000 --> 00:09:28,970
+<font face="Roboto Medium" size="26"><i>If not for me, they should 
+have ended up together.</i></font>
+
+129
+00:09:30,130 --> 00:09:33,260
+<font face="Roboto Medium" size="26"><i>It wouldn't be right 
+to apologize now, but...</i></font>
+
+130
+00:09:33,660 --> 00:09:35,760
+<font face="Roboto Medium" size="26">Lady Icilla, I...</font>
+
+131
+00:09:35,760 --> 00:09:37,260
+<font face="Roboto Medium" size="26">Stop right there.</font>
+
+132
+00:09:40,180 --> 00:09:42,030
+<font face="Roboto Medium" size="26">Lady Akari?!</font>
+
+133
+00:09:42,030 --> 00:09:45,440
+<font face="Roboto Medium" size="26">Once again, congratulations 
+on your marriage!</font>
+
+134
+00:09:47,650 --> 00:09:50,050
+<font face="Roboto Medium" size="26">It's a pleasure to meet you, Lady Icilla.</font>
+
+135
+00:09:50,050 --> 00:09:52,700
+<font face="Roboto Medium" size="26">My name is Akari.</font>
+
+136
+00:09:53,420 --> 00:09:56,430
+<font face="Roboto Medium" size="26">Thank you for greeting me, Lady Akari.</font>
+
+137
+00:09:56,430 --> 00:09:59,200
+<font face="Roboto Medium" size="26">My name is Icilla Pearllant.</font>
+
+138
+00:09:59,200 --> 00:10:01,340
+<font face="Roboto Medium" size="26">The sequel's heroine...</font>
+
+139
+00:10:01,340 --> 00:10:03,820
+<font face="Roboto Medium" size="26">Yep, just like in the game.</font>
+
+140
+00:10:03,820 --> 00:10:07,520
+<font face="Roboto Medium" size="26">You should be happier. 
+You got to be the heroine, after all.</font>
+
+141
+00:10:07,520 --> 00:10:08,410
+<font face="Roboto Medium" size="26">Huh?</font>
+
+142
+00:10:09,050 --> 00:10:13,620
+<font face="Roboto Medium" size="26">Lady Akari, please 
+don't be rude to Lady Icilla!</font>
+
+143
+00:10:13,620 --> 00:10:15,160
+<font face="Roboto Medium" size="26">Oh! I'm sorry!</font>
+
+144
+00:10:15,160 --> 00:10:18,610
+<font face="Roboto Medium" size="26">Did I upset you? I apologize.</font>
+
+145
+00:10:18,610 --> 00:10:21,730
+<font face="Roboto Medium" size="26">N-No, it didn't bother me at all.</font>
+
+146
+00:10:22,090 --> 00:10:24,230
+<font face="Roboto Medium" size="26">Lady Akari, why are you here?</font>
+
+147
+00:10:24,590 --> 00:10:28,520
+<font face="Roboto Medium" size="26">I wanted to see the lucky girl 
+who got to be the sequel's heroine.</font>
+
+148
+00:10:28,520 --> 00:10:31,530
+<font face="Roboto Medium" size="26">I mean, life ought to be enjoyed!</font>
+
+149
+00:10:31,530 --> 00:10:34,910
+<font face="Roboto Medium" size="26">Icilla's the heroine, 
+but she's not enjoying it at all!</font>
+
+150
+00:10:34,910 --> 00:10:38,040
+<font face="Roboto Medium" size="26">I suppose this is better than losing 
+Prince Aqua to her, though.</font>
+
+151
+00:10:38,040 --> 00:10:40,740
+<font face="Roboto Medium" size="26">You really do love otome games, don't you?</font>
+
+152
+00:10:41,010 --> 00:10:43,750
+<font face="Roboto Medium" size="26">You two seem to be very good friends.</font>
+
+153
+00:10:43,750 --> 00:10:44,630
+<font face="Roboto Medium" size="26">Huh?</font>
+
+154
+00:10:44,630 --> 00:10:49,690
+<font face="Roboto Medium" size="26">Yeah! That's exactly right! 
+I'm Lady Tiara's friend!</font>
+
+155
+00:10:49,690 --> 00:10:52,260
+<font face="Roboto Medium" size="26">That's why I'm so worried about her!</font>
+
+156
+00:10:52,260 --> 00:10:54,060
+<font face="Roboto Medium" size="26">Worried?</font>
+
+157
+00:10:54,060 --> 00:10:58,760
+<font face="Roboto Medium" size="26">Yes! Because you're always 
+hanging around Prince Aqua!</font>
+
+158
+00:10:58,760 --> 00:11:03,270
+<font face="Roboto Medium" size="26">You'd better not get too close 
+to my friend's husband!</font>
+
+159
+00:11:04,770 --> 00:11:06,870
+<font face="Roboto Medium" size="26">Lady Akari, what are you...</font>
+
+160
+00:11:07,490 --> 00:11:10,020
+<font face="Roboto Medium" size="26">I'm so sorry, Lady Tiararose.</font>
+
+161
+00:11:10,340 --> 00:11:14,030
+<font face="Roboto Medium" size="26">It's true. I should have been 
+more considerate.</font>
+
+162
+00:11:14,570 --> 00:11:16,740
+<font face="Roboto Medium" size="26">Please don't say that, Lady Icilla.</font>
+
+163
+00:11:16,740 --> 00:11:19,530
+<font face="Roboto Medium" size="26">You don't need to worry 
+about that at all.</font>
+
+164
+00:11:20,060 --> 00:11:23,110
+<font face="Roboto Medium" size="26">And Lady Akari, 
+stop saying things like that!</font>
+
+165
+00:11:23,350 --> 00:11:25,110
+<font face="Roboto Medium" size="26">Sorry.</font>
+
+166
+00:11:26,650 --> 00:11:28,960
+<font face="Roboto Medium" size="26">Excuse me, Lady Tiararose.</font>
+
+167
+00:11:28,960 --> 00:11:32,550
+<font face="Roboto Medium" size="26">Prince Aquasteed will be arriving soon.</font>
+
+168
+00:11:32,550 --> 00:11:34,330
+<font face="Roboto Medium" size="26">Oh, right.</font>
+
+169
+00:11:34,330 --> 00:11:36,550
+<font face="Roboto Medium" size="26">I'm sorry for staying so long.</font>
+
+170
+00:11:37,060 --> 00:11:40,050
+<font face="Roboto Medium" size="26">I'll take my leave now.</font>
+
+171
+00:11:45,040 --> 00:11:47,140
+<font face="Roboto Medium" size="26"><i>A dark blue ribbon...</i></font>
+
+172
+00:11:47,500 --> 00:11:51,460
+<font face="Roboto Medium" size="26">As expected of the sequel's heroine. 
+She's such a sweet girl.</font>
+
+173
+00:11:51,460 --> 00:11:55,640
+<font face="Roboto Medium" size="26">Lady Akari, did you come here 
+to say something to Lady Icilla?</font>
+
+174
+00:11:56,960 --> 00:12:01,160
+<font face="Roboto Medium" size="26">Not really. I only came to see 
+how the sequel ends.</font>
+
+175
+00:12:01,160 --> 00:12:04,740
+<font face="Roboto Medium" size="26">How it ends? What do you mean by that?</font>
+
+176
+00:12:05,110 --> 00:12:06,280
+<font face="Roboto Medium" size="26">Well, bye!</font>
+
+177
+00:12:07,880 --> 00:12:09,330
+<font face="Roboto Medium" size="26">Lady Akari?!</font>
+
+178
+00:12:16,880 --> 00:12:20,010
+<font face="Roboto Medium" size="26">{\an8}<font color="#3d8afc"><font face="Times New Roman"><font size="24"><b>The Villainess <font color="#6b3e34">Is <font color="#f76bb3">Adored 
+by the Prince of the Neighbor Kingdom</font></font></b></font></font></font></font>
+
+179
+00:12:38,140 --> 00:12:42,410
+<font face="Roboto Medium" size="26">You'd better not get too close 
+to my friend's husband!</font>
+
+180
+00:12:43,600 --> 00:12:45,330
+<font face="Roboto Medium" size="26"><i>I never meant to do that.</i></font>
+
+181
+00:12:46,230 --> 00:12:51,780
+<font face="Roboto Medium" size="26"><i>I don't have any romantic feelings 
+for Prince Aquasteed at all.</i></font>
+
+182
+00:12:52,300 --> 00:12:54,870
+<font face="Roboto Medium" size="26"><i>His Highness is so brilliant and mature.</i></font>
+
+183
+00:12:54,870 --> 00:12:57,210
+<font face="Roboto Medium" size="26"><i>He's completely out of my reach...</i></font>
+
+184
+00:13:10,940 --> 00:13:13,860
+<font face="Roboto Medium" size="26">You're sure I don't look strange?</font>
+
+185
+00:13:13,860 --> 00:13:18,320
+<font face="Roboto Medium" size="26">You're the most beautiful thing 
+in the world! Be more confident!</font>
+
+186
+00:13:18,320 --> 00:13:20,030
+<font face="Roboto Medium" size="26">Thank you!</font>
+
+187
+00:13:30,710 --> 00:13:35,520
+<font face="Roboto Medium" size="26"><i>Not really. I only came to see 
+how the sequel ends.</i></font>
+
+188
+00:13:36,990 --> 00:13:42,890
+<font face="Roboto Medium" size="26"><i>Did she mean some kind of event 
+is going to happen during the wedding?</i></font>
+
+189
+00:13:44,240 --> 00:13:46,430
+<font face="Roboto Medium" size="26"><i>This is an otome game world, after all.</i></font>
+
+190
+00:13:46,430 --> 00:13:49,520
+<font face="Roboto Medium" size="26"><i>There's no way nothing's 
+going to happen at a wedding.</i></font>
+
+191
+00:13:49,520 --> 00:13:51,980
+<font face="Roboto Medium" size="26">It's time for you to make your entrance.</font>
+
+192
+00:14:38,210 --> 00:14:41,900
+<font face="Roboto Medium" size="26"><i>Why... does my heart hurt so much?</i></font>
+
+193
+00:14:42,650 --> 00:14:47,310
+<font face="Roboto Medium" size="26"><i>It's not as if I was in love 
+with Prince Aquasteed, so why...</i></font>
+
+194
+00:14:52,160 --> 00:14:55,690
+<font face="Roboto Medium" size="26"><i>Did I actually love him after all?</i></font>
+
+195
+00:14:55,690 --> 00:14:59,250
+<font face="Roboto Medium" size="26"><i>Was this feeling I had for him 
+more than just respect?</i></font>
+
+196
+00:15:02,200 --> 00:15:03,920
+<font face="Roboto Medium" size="26"><i>Prince Aquasteed!</i></font>
+
+197
+00:15:07,050 --> 00:15:08,420
+<font face="Roboto Medium" size="26">I won't let you do it.</font>
+
+198
+00:15:09,400 --> 00:15:11,100
+<font face="Roboto Medium" size="26">What was I...</font>
+
+199
+00:15:11,650 --> 00:15:15,140
+<font face="Roboto Medium" size="26">Lady Icilla, you really do love 
+Prince Aquasteed, don't you?</font>
+
+200
+00:15:15,140 --> 00:15:17,400
+<font face="Roboto Medium" size="26">No... I...</font>
+
+201
+00:15:19,170 --> 00:15:21,240
+<font face="Roboto Medium" size="26">I would never...</font>
+
+202
+00:15:23,830 --> 00:15:30,330
+<font face="Roboto Medium" size="26">But... are you telling me 
+this pain in my chest... is love?</font>
+
+203
+00:15:30,610 --> 00:15:33,080
+<font face="Roboto Medium" size="26"><i>Yeah, I figured this event would happen.</i></font>
+
+204
+00:15:33,900 --> 00:15:40,040
+<font face="Roboto Medium" size="26"><i>The sequel game has an event where the 
+romantic interest marries someone else,</i></font>
+
+205
+00:15:40,610 --> 00:15:43,920
+<font face="Roboto Medium" size="26"><i>but the heroine can intervene and stop it.</i></font>
+
+206
+00:15:44,330 --> 00:15:45,500
+<font face="Roboto Medium" size="26"><i>The unlock condition</i></font>
+
+207
+00:15:45,500 --> 00:15:49,470
+<font face="Roboto Medium" size="26"><i>is wearing a ribbon in your love 
+interest's color to the wedding.</i></font>
+
+208
+00:15:53,860 --> 00:15:58,060
+<font face="Roboto Medium" size="26">Frankly, I love those 
+"intervening in the wedding" events.</font>
+
+209
+00:15:58,380 --> 00:16:00,560
+<font face="Roboto Medium" size="26">They get your heart racing, you know?</font>
+
+210
+00:16:00,980 --> 00:16:04,570
+<font face="Roboto Medium" size="26">Because the groom 
+chooses you over his bride.</font>
+
+211
+00:16:05,210 --> 00:16:07,450
+<font face="Roboto Medium" size="26">But more than that,</font>
+
+212
+00:16:07,450 --> 00:16:12,180
+<font face="Roboto Medium" size="26">I can't allow anyone to ruin my friend's 
+wedding when she's smiling so happily.</font>
+
+213
+00:16:12,930 --> 00:16:15,540
+<font face="Roboto Medium" size="26">What a coincidence. I agree with you.</font>
+
+214
+00:16:16,490 --> 00:16:18,420
+<font face="Roboto Medium" size="26">Keith, the Forest Fairy King?!</font>
+
+215
+00:16:19,890 --> 00:16:21,290
+<font face="Roboto Medium" size="26">Icilla, was it?</font>
+
+216
+00:16:21,880 --> 00:16:26,370
+<font face="Roboto Medium" size="26">If you try to do anything 
+to those two, I won't let it slide.</font>
+
+217
+00:16:26,800 --> 00:16:29,150
+<font face="Roboto Medium" size="26">I-I would never do such a thing!</font>
+
+218
+00:16:29,150 --> 00:16:31,440
+<font face="Roboto Medium" size="26">I will do as you wish, Fairy King.</font>
+
+219
+00:16:41,190 --> 00:16:46,940
+<font face="Roboto Medium" size="26"><i>I guess I really can't be by 
+Prince Aquasteed's side, can I?</i></font>
+
+220
+00:16:50,950 --> 00:16:52,790
+<font face="Roboto Medium" size="26"><i>I hear someone crying.</i></font>
+
+221
+00:16:55,810 --> 00:17:00,250
+<font face="Roboto Medium" size="26"><i>I was right. Lady Icilla 
+really did love Prince Aqua.</i></font>
+
+222
+00:17:06,360 --> 00:17:07,980
+<font face="Roboto Medium" size="26"><i>N-No!</i></font>
+
+223
+00:17:15,520 --> 00:17:19,530
+<font face="Roboto Medium" size="26"><i>I've been so scared about whether 
+this wedding would actually happen.</i></font>
+
+224
+00:17:19,900 --> 00:17:24,980
+<font face="Roboto Medium" size="26"><i>I kept asking what I'd do if Prince Aqua 
+chose Lady Icilla at the last moment.</i></font>
+
+225
+00:17:26,520 --> 00:17:32,240
+<font face="Roboto Medium" size="26"><i>But even if I am standing in the way 
+of what should be their true love...</i></font>
+
+226
+00:17:33,910 --> 00:17:35,230
+<font face="Roboto Medium" size="26"><i>Still, I...</i></font>
+
+227
+00:17:37,950 --> 00:17:39,160
+<font face="Roboto Medium" size="26">Prince Aqua!</font>
+
+228
+00:17:41,970 --> 00:17:43,200
+<font face="Roboto Medium" size="26">Aqua!</font>
+
+229
+00:17:45,720 --> 00:17:50,090
+<font face="Roboto Medium" size="26"><i>Losing isn't an option! 
+I love Prince Aqua more than anyone!</i></font>
+
+230
+00:17:50,630 --> 00:17:54,720
+<font face="Roboto Medium" size="26"><i>I want to be with him forever!</i></font>
+
+231
+00:17:55,170 --> 00:17:56,190
+<font face="Roboto Medium" size="26">Tiara...</font>
+
+232
+00:17:57,510 --> 00:18:02,140
+<font face="Roboto Medium" size="26">I see I've made you feel uneasy again.</font>
+
+233
+00:18:10,730 --> 00:18:12,860
+<font face="Roboto Medium" size="26">P-Prince Aqua...</font>
+
+234
+00:18:22,020 --> 00:18:23,770
+<font face="Roboto Medium" size="26">Prince Aquasteed?</font>
+
+235
+00:18:24,640 --> 00:18:27,790
+<font face="Roboto Medium" size="26">Thank you for attending 
+our wedding today.</font>
+
+236
+00:18:28,240 --> 00:18:34,510
+<font face="Roboto Medium" size="26">Not at all. Congratulations, 
+Prince Aquasteed... Lady Tiararose.</font>
+
+237
+00:18:39,390 --> 00:18:43,160
+<font face="Roboto Medium" size="26">Tiararose is the one most precious to me.</font>
+
+238
+00:18:46,450 --> 00:18:49,150
+<font face="Roboto Medium" size="26">I'm sorry, Lady Icilla.</font>
+
+239
+00:18:50,970 --> 00:18:52,150
+<font face="Roboto Medium" size="26">Not at all.</font>
+
+240
+00:18:52,670 --> 00:18:57,160
+<font face="Roboto Medium" size="26">I did admire you, Prince Aquasteed.</font>
+
+241
+00:18:57,160 --> 00:18:59,820
+<font face="Roboto Medium" size="26">But I've moved past it now.</font>
+
+242
+00:19:00,470 --> 00:19:03,230
+<font face="Roboto Medium" size="26">Please go on to be happier 
+than anyone in the world.</font>
+
+243
+00:19:07,410 --> 00:19:10,950
+<font face="Roboto Medium" size="26">And thank you for teaching me 
+what love feels like.</font>
+
+244
+00:19:12,290 --> 00:19:13,670
+<font face="Roboto Medium" size="26">Oh, honestly...</font>
+
+245
+00:19:13,670 --> 00:19:17,980
+<font face="Roboto Medium" size="26">You're so cute when you cry, 
+I just want to eat you up.</font>
+
+246
+00:19:19,040 --> 00:19:21,680
+<font face="Roboto Medium" size="26">Oh, you stopped.</font>
+
+247
+00:19:31,360 --> 00:19:34,570
+<font face="Roboto Medium" size="26">Tiara, this ring is filled with my magic.</font>
+
+248
+00:19:35,110 --> 00:19:36,590
+<font face="Roboto Medium" size="26">Will you accept it?</font>
+
+249
+00:19:37,030 --> 00:19:39,730
+<font face="Roboto Medium" size="26">Of course, Prince Aqua.</font>
+
+250
+00:19:44,950 --> 00:19:47,600
+<font face="Roboto Medium" size="26">And now, I will hold on to you forever.</font>
+
+251
+00:19:49,530 --> 00:19:51,640
+<font face="Roboto Medium" size="26">I will hold on to you forever, too.</font>
+
+252
+00:19:51,640 --> 00:19:53,460
+<font face="Roboto Medium" size="26">Please do.</font>
+
+253
+00:19:56,720 --> 00:19:57,760
+<font face="Roboto Medium" size="26">Tiara...</font>
+
+254
+00:20:00,640 --> 00:20:01,940
+<font face="Roboto Medium" size="26">I love you.</font>
+
+255
+00:20:01,940 --> 00:20:04,700
+<font face="Roboto Medium" size="26">I'll treasure you for life 
+and make you happy.</font>
+
+256
+00:20:04,700 --> 00:20:07,890
+<font face="Roboto Medium" size="26">Yes. I love you, too.</font>
+
+257
+00:20:16,970 --> 00:20:19,580
+<font face="Roboto Medium" size="26"><i>It looks like stars raining down...</i></font>
+
+258
+00:20:19,580 --> 00:20:21,720
+<font face="Roboto Medium" size="26">To the next king and his queen!</font>
+
+259
+00:20:22,580 --> 00:20:25,120
+<font face="Roboto Medium" size="26">You have my blessing 
+for your health and happiness,</font>
+
+260
+00:20:25,120 --> 00:20:27,910
+<font face="Roboto Medium" size="26">and for peace in this kingdom!</font>
+
+261
+00:20:27,910 --> 00:20:29,020
+<font face="Roboto Medium" size="26">Keith!</font>
+
+262
+00:20:29,020 --> 00:20:30,460
+<font face="Roboto Medium" size="26">Fairy King!</font>
+
+263
+00:20:30,920 --> 00:20:34,230
+<font face="Roboto Medium" size="26">The Forest Fairy King 
+blessed them! Amazing!</font>
+
+264
+00:20:34,230 --> 00:20:35,920
+<font face="Roboto Medium" size="26">What a joyous occasion!</font>
+
+265
+00:20:48,100 --> 00:20:51,100
+<font face="Roboto Medium" size="26">Lady Tiararose! Prince Aquasteed!</font>
+
+266
+00:20:51,100 --> 00:20:53,120
+<font face="Roboto Medium" size="26">Congratulations!</font>
+
+267
+00:20:53,120 --> 00:20:54,770
+<font face="Roboto Medium" size="26">Congratulations!</font>
+
+268
+00:20:55,110 --> 00:20:59,120
+<font face="Roboto Medium" size="26">Blast it all. Tiara looks so lovely 
+when she commands the flowers.</font>
+
+269
+00:20:59,120 --> 00:21:00,530
+<font face="Roboto Medium" size="26">It's troubling how much 
+it makes me want her.</font>
+
+270
+00:21:00,530 --> 00:21:04,270
+<font face="Roboto Medium" size="26">You'll make Prince Aqua 
+angry talking like that.</font>
+
+271
+00:21:18,610 --> 00:21:21,260
+<font face="Roboto Medium" size="26">Are you crying again, Tiara?</font>
+
+272
+00:21:21,260 --> 00:21:23,760
+<font face="Roboto Medium" size="26">Oh, goodness. Silly me.</font>
+
+273
+00:21:24,080 --> 00:21:28,750
+<font face="Roboto Medium" size="26">I'm just so happy and blessed, 
+my tears won't stop flowing.</font>
+
+274
+00:21:29,220 --> 00:21:31,070
+<font face="Roboto Medium" size="26">I'm happy, too.</font>
+
+275
+00:21:32,900 --> 00:21:35,040
+<font face="Roboto Medium" size="26"><i>And now the game is over.</i></font>
+
+276
+00:21:35,880 --> 00:21:39,940
+<font face="Roboto Medium" size="26"><i>From this point on, 
+I'll truly live in reality.</i></font>
+
+277
+00:21:40,690 --> 00:21:44,430
+<font face="Roboto Medium" size="26"><i>No more living at the mercy of a game.</i></font>
+
+278
+00:21:56,480 --> 00:21:58,390
+<font face="Roboto Medium" size="26">Love is worthless.</font>
+
+279
+00:23:30,010 --> 00:23:39,980
+<font face="Roboto Medium" size="26">{\an8}<font face="TimesNewRoman"><font size="25"><font color="#3d8afc">A <font color="#f76bb3"><b>Love</b> <font color="#6b3e34">Like <font color="#3d8afc"><b>Ripples</b> <font color="#6b3e34">on the Water</font></font></font></font></font></font></font></font>
+
+280
+00:23:30,010 --> 00:23:39,980
+<font face="Roboto Medium" size="26">{\an8}<font face="TimesNewRoman"><font size="25"><font color="#6b3e34">A <font color="#f76bb3"><b>Love</b> <font color="#6b3e34">Like <font color="#3d8afc"><b>Ripples</b> <font color="#6b3e34">on the Water</font></font></font></font></font></font></font></font>
+
+281
+00:23:30,730 --> 00:23:33,420
+<font face="Roboto Medium" size="26">My love will never be realized.</font>
+
+282
+00:23:33,420 --> 00:23:36,200
+<font face="Roboto Medium" size="26">I need to sink it 
+into the depths of the sea.</font>
+
+283
+00:23:36,640 --> 00:23:39,650
+<font face="Roboto Medium" size="26">But... when I see him smile, I...</font>
+
