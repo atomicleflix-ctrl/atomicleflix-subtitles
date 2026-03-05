@@ -1,0 +1,65 @@
+1
+00:02:21,370 --> 00:02:28,330
+<font face="Times New Roman" size="20"><b>{\an1}<font size="40"><font color="#c5000e">Catastrophe</font></font></b></font>
+
+2
+00:02:23,330 --> 00:02:28,370
+<font face="Times New Roman" size="20"><b>{\an7}Great upheaval in society or the natural world.
+ Major change.
+ Can also refer to a tragic outcome in stories.
+Often accompanied by destruction.</b></font>
+
+3
+00:02:27,200 --> 00:02:29,330
+<font face="Verdana" size="20"><b><i>{\an1}<font size="30"><font color="#ffe640">Farewell Party!</font></font></i></b></font>
+
+4
+00:03:00,780 --> 00:03:05,660
+<font face="Verdana" size="20"><b>{\an1}<i><font color="#172922"><font size="36">Aerodynamic Field</font></font></i></b></font>
+
+5
+00:03:52,080 --> 00:03:54,080
+<font face="Trebuchet MS" size="20"><b>{\an8}<font color="#3d3c37"><font size="18">Meeting Room B</font></font></b></font>
+
+6
+00:08:52,880 --> 00:09:00,100
+<font face="Verdana" size="20"><b>{\an8}<font color="#a28773"><font size="30">Marukane</font></font></b></font>
+
+7
+00:12:11,470 --> 00:12:16,920
+<font face="Verdana" size="20"><b><font size="25"><font color="#0b0b03">Might Tower</font></font></b></font>
+
+8
+00:13:07,090 --> 00:13:12,560
+<font face="Trebuchet MS" size="20"><b>{\an7}<font size="15"><font color="#052116">Recycle Shop
+<font color="#021a18"><font size="20">Hoppers</font></font></font></font></b></font>
+
+9
+00:13:44,430 --> 00:13:46,890
+<font face="Verdana" size="20"><b>{\an8}<i><font color="#090609">One week ago</font></i></b></font>
+
+10
+00:15:58,720 --> 00:16:03,190
+<font size="20"><b>{\an7}<font size="8"><font color="#ebdbd9">MOMENT OF EXPLOSION
+<font color="#403e40"><font size="9">RESCUE FROM THE SKY</font></font></font></font></b></font>
+
+11
+00:16:03,190 --> 00:16:08,410
+<font size="20"><b>{\an1}<font size="11"><font color="#dce9f3">BREAKING NEWS: <font color="#2d333b">CAPTAIN CELEBRITY WRAPS UP DOMESTIC OPERATIONS, <font color="#27629f">PREPARES TO HEAD HOME THIS YEAR</font></font></font></font></b></font>
+
+12
+00:16:17,410 --> 00:16:26,880
+<font size="20"><b>{\an1}<font size="8">BREAKING NEWS: <font color="#4d5555">CAPTAIN CELEBRITY WRAPS UP DOMESTIC OPERATIONS, <font color="#27629f">PREPARES TO HEAD HOME THIS YEAR</font></font></font></b></font>
+
+13
+00:19:17,050 --> 00:19:19,510
+<font face="Verdana" size="20"><b><i>{\an1}<font size="20"><font color="#04090f">The next day</font></font></i></b></font>
+
+14
+00:19:40,200 --> 00:19:43,160
+<font face="Times New Roman" size="20"><b>{\an7}<font color="#bfa657"><font size="25">Final Event Coming Soon!!</font></font></b></font>
+
+15
+00:20:01,340 --> 00:20:03,050
+<font face="Times New Roman" size="20"><b><font color="#15201d">Training</font></b></font>
+
