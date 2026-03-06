@@ -1,0 +1,88 @@
+1
+00:01:23,220 --> 00:01:24,140
+<font face="Times New Roman" size="20"><b>{\an8}<font size="40"><font color="#2d1508">Hell's Paradise</font></font></b></font>
+
+2
+00:02:32,590 --> 00:02:35,670
+<font face="Times New Roman" size="20"><b>{\an8}<font size="40">Hell's Paradise</font></b></font>
+
+3
+00:02:39,560 --> 00:02:43,640
+<font face="Times New Roman" size="20"><b>Hindering and Restoration</b></font>
+
+4
+00:05:29,060 --> 00:05:39,900
+<font face="Comic Sans MS" size="20"><b>{\an8}<font color="#ffffff">Wood</font></b></font>
+
+5
+00:05:29,060 --> 00:05:39,900
+<font face="Comic Sans MS" size="20"><b>{\an8}<font color="#ffffff">Fire</font></b></font>
+
+6
+00:05:29,060 --> 00:05:39,900
+<font face="Comic Sans MS" size="20"><b>{\an8}<font color="#ffffff">Earth</font></b></font>
+
+7
+00:05:29,060 --> 00:05:39,900
+<font face="Comic Sans MS" size="20"><b>{\an8}<font color="#ffffff">Metal</font></b></font>
+
+8
+00:05:29,060 --> 00:05:39,900
+<font face="Comic Sans MS" size="20"><b>{\an8}<font color="#ffffff">Water</font></b></font>
+
+9
+00:10:31,270 --> 00:10:35,030
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#03020f"><font size="25">Hell's Paradise</font></font></b></font>
+
+10
+00:10:41,540 --> 00:10:43,290
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#d36751"><font size="15">Yuzuriha</font></font></b></font>
+
+11
+00:10:41,540 --> 00:10:43,290
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#d36751"><font size="15">Gabimaru</font></font></b></font>
+
+12
+00:10:41,540 --> 00:10:43,290
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#d36751"><font size="15">Yamada Asaemon Sagiri</font></font></b></font>
+
+13
+00:10:43,290 --> 00:10:46,160
+<font face="Times New Roman" size="20"><b><font color="#7f1519">{\an8}<font size="30">Gabimaru</font></font></b></font>
+
+14
+00:11:40,050 --> 00:11:43,060
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#9b0510"><font size="30">Keiun</font></font></b></font>
+
+15
+00:12:06,790 --> 00:12:10,170
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#c24848">Yamada Asaemon Shion</font></b></font>
+
+16
+00:12:20,550 --> 00:12:23,970
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#c24848"><font size="15">Yamada Asaemon Shion</font></font></b></font>
+
+17
+00:12:20,550 --> 00:12:23,970
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#c24848"><font size="15">Nurugai</font></font></b></font>
+
+18
+00:12:55,960 --> 00:12:58,880
+<font face="Times New Roman" size="20"><b>{\an7}<font color="#a62221"><font size="15">Yamada Asaemon Toma</font></font></b></font>
+
+19
+00:12:55,960 --> 00:12:58,880
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#a62221"><font size="15">Yamada Asaemon Fuchi</font></font></b></font>
+
+20
+00:12:55,960 --> 00:12:58,880
+<font face="Times New Roman" size="20"><b>{\an9}<font color="#a62221"><font size="15">Tamiya Gantetsusai</font></font></b></font>
+
+21
+00:13:35,340 --> 00:13:36,210
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#ce423b">Gabimaru</font></b></font>
+
+22
+00:18:51,110 --> 00:18:58,580
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#a22020">Gabimaru</font></b></font>
+
