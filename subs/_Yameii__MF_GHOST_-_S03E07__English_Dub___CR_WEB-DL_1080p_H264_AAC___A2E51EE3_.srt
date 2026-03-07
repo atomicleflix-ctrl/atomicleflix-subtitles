@@ -1,0 +1,22 @@
+1
+00:00:52,690 --> 00:00:58,070
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Arial"><font size="18"><font color="#88aeaa">Odawara
+\hOffice</font></font></font></b></font>
+
+2
+00:01:17,680 --> 00:01:18,350
+<font face="Gandhi Sans" size="24"><b><b><font face="Arial"><font color="#ff060f">m 0 0 l 100 0 100 100 0 100</font></font></b></b></font>
+
+3
+00:01:17,680 --> 00:01:22,100
+<font face="Gandhi Sans" size="24"><b><b><font face="Arial">The End 
+of Summer</font></b></b></font>
+
+4
+00:01:22,350 --> 00:01:26,350
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><b><font size="28"><font color="#646464">Closed Today</font></font></b></font></b></font>
+
+5
+00:11:54,150 --> 00:11:56,150
+<font face="Gandhi Sans" size="24"><b><font face="Verdana"><font size="22"><font color="#3a444a">Ogata Automotive Ltd.</font></font></font></b></font>
+
