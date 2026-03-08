@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:03,480
+<font face="Gandhi Sans" size="24"><b>{\an8}<font size="30"><b><font color="#f0f3ee">Happy Graduation<font color="#e39151">!</font></font></b></font></b></font>
+
+2
+00:00:25,540 --> 00:00:28,250
+<font face="Gandhi Sans" size="24"><b>{\an8}<font size="26"><b><font color="#f0f3ee">Happy Graduation<font color="#e39151">!</font></font></b></font></b></font>
+
+3
+00:02:50,020 --> 00:02:53,400
+<font face="Gandhi Sans" size="24"><b>{\an8}<b><font color="#7b8184"><font size="24">Conference Room</font></font></b></b></font>
+
+4
+00:02:50,210 --> 00:02:55,170
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="14"><font color="#f5f5f5">Episode <font size="21">7</font></font></font></font></b></font>
+
+5
+00:02:50,210 --> 00:02:55,170
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="14"><font color="#f5f5f5">Episode <font size="21">7</font></font></font></font></b></font>
+
+6
+00:02:50,210 --> 00:02:55,170
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="13"><font color="#effefb">The Misanthrope and the Fruitless Love Fortune</font></font></font></b></font>
+
+7
+00:02:50,210 --> 00:02:55,170
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="13"><font color="#effefb">The Misanthrope and the Fruitless Love Fortune</font></font></font></b></font>
+
+8
+00:04:32,330 --> 00:04:34,290
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Times New Roman"><font size="32"><b><font color="#bbbbbb">Married</font></b></font></font></b></font>
+
+9
+00:09:08,020 --> 00:09:10,690
+<font face="Gandhi Sans" size="24"><b>{\an8}<b><font color="#7b8184"><font size="30">Advanced Class</font></font></b></b></font>
+
+10
+00:23:33,010 --> 00:23:40,250
+<font face="Gandhi Sans" size="24"><b>{\an8}<font size="18"><font face="Arial"><font color="#ebfeef"><b>Next Episode:</b></font></font></font></b></font>
+
+11
+00:23:33,010 --> 00:23:40,250
+<font face="Gandhi Sans" size="24"><b>{\an8}<font size="19"><font face="Arial"><font color="#ebfeef"><b>The Misanthrope and the Magic for Peace and Quiet</b></font></font></font></b></font>
+
