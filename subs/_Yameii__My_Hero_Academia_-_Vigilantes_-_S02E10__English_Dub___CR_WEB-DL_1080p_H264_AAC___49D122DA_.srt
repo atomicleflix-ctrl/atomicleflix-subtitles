@@ -1,0 +1,45 @@
+1
+00:02:39,340 --> 00:02:46,390
+<font face="Times New Roman" size="20"><b>{\an1}<font size="40"><font color="#c5000e">[Catastrophe]</font></font></b></font>
+
+2
+00:02:41,300 --> 00:02:46,390
+<font face="Times New Roman" size="20"><b>{\an7}Great upheaval in society or the natural world.
+ Major change.
+ Can also refer to a tragic outcome in stories.
+Often accompanied by destruction.</b></font>
+
+3
+00:02:45,180 --> 00:02:47,390
+<font face="Verdana" size="20"><b><i>{\an1}<font size="30"><font color="#ffe640">Zero Hour</font></font></i></b></font>
+
+4
+00:05:13,330 --> 00:05:17,790
+<font face="Arial Black" size="20"><b>{\an8}<font color="#0f0a0d">Investigation</font></b></font>
+
+5
+00:05:14,330 --> 00:05:19,790
+<font face="Arial Black" size="20"><b>{\an8}<font color="#112330">Combat & Investigation</font></b></font>
+
+6
+00:05:17,290 --> 00:05:19,790
+<font face="Arial Black" size="20"><b>{\an8}<font color="#0c0800">Combat</font></b></font>
+
+7
+00:06:07,510 --> 00:06:20,150
+<font face="Trebuchet MS" size="20"><b>{\an7}<font color="#000203">Naruhata x Hong Kong
+
+Onomura Pharma
+
+<font size="15">\h\h\h\h\h\hKaniyashiki
+\h\h\h\h\h\hEraser
+\h\h\h\h\h\hFatgum</font></font></b></font>
+
+8
+00:07:03,810 --> 00:07:05,480
+<font face="Arial Black" size="20"><b><font color="#cf4a4c">Store Open</font></b></font>
+
+9
+00:07:11,700 --> 00:07:13,820
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#0c0800">Entry pass</font></b></font>
+
