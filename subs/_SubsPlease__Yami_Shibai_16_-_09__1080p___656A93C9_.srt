@@ -1,0 +1,235 @@
+1
+00:00:07,600 --> 00:00:10,480
+<font face="Roboto Medium" size="26">Step right up and have a look...</font>
+
+2
+00:00:10,480 --> 00:00:13,900
+<font face="Roboto Medium" size="26">It's time for Yamishibai.</font>
+
+3
+00:00:10,610 --> 00:00:17,530
+<font face="Times New Roman" size="44" color="#593826"><b>{\an8}<font color="#5e3623"><font color="#5c352c">Theatre of Darkness: Yamishibai</font></font></b></font>
+
+4
+00:00:13,360 --> 00:00:17,530
+<font face="Times New Roman" size="22" color="#3d2b20"><font color="#2b1f0a">Sleeper Train</font></font>
+
+5
+00:00:16,960 --> 00:00:23,830
+<font face="Roboto Medium" size="26">This is the story of some women who have 
+taken a sleeper train on a vacation...</font>
+
+6
+00:00:23,830 --> 00:00:26,990
+<font face="Roboto Medium" size="26">Wow, so this is what it's like!</font>
+
+7
+00:00:26,990 --> 00:00:29,860
+<font face="Roboto Medium" size="26">Looks more comfortable than I thought.</font>
+
+8
+00:00:30,420 --> 00:00:33,540
+<font face="Roboto Medium" size="26">Staying an extra day and taking the 
+sleeper train might be worth it.</font>
+
+9
+00:00:37,410 --> 00:00:39,900
+<font face="Roboto Medium" size="26">What do you want to do once we get there?</font>
+
+10
+00:00:40,380 --> 00:00:44,890
+<font face="Roboto Medium" size="26">Oh, I forgot to make sure 
+we could check in early...</font>
+
+11
+00:00:44,890 --> 00:00:48,430
+<font face="Roboto Medium" size="26">Well, a free-wheeling vacation where we 
+don't plan everything out could be fun.</font>
+
+12
+00:00:50,730 --> 00:00:51,740
+<font face="Roboto Medium" size="26">Come in.</font>
+
+13
+00:00:52,900 --> 00:00:55,380
+<font face="Roboto Medium" size="26">Sorry to bother you 
+while you're relaxing.</font>
+
+14
+00:00:55,380 --> 00:01:00,560
+<font face="Roboto Medium" size="26">Thank you for riding with us on 
+the Evening Star sleeper train.</font>
+
+15
+00:01:00,560 --> 00:01:03,580
+<font face="Roboto Medium" size="26">May I check your tickets?</font>
+
+16
+00:01:03,580 --> 00:01:06,340
+<font face="Roboto Medium" size="26">Oh, sure. Here're both of ours.</font>
+
+17
+00:01:06,340 --> 00:01:07,610
+<font face="Roboto Medium" size="26">Thank you so much.</font>
+
+18
+00:01:07,610 --> 00:01:09,340
+<font face="Roboto Medium" size="26">I'll just check these.</font>
+
+19
+00:01:09,740 --> 00:01:12,090
+<font face="Roboto Medium" size="26">There's one thing I need 
+to caution you about.</font>
+
+20
+00:01:12,090 --> 00:01:15,550
+<font face="Roboto Medium" size="26">We will be connecting with another 
+car during a stop tonight.</font>
+
+21
+00:01:15,550 --> 00:01:16,690
+<font face="Roboto Medium" size="26">Connecting?</font>
+
+22
+00:01:16,690 --> 00:01:19,240
+<font face="Roboto Medium" size="26">Right. It'll be dangerous,</font>
+
+23
+00:01:19,240 --> 00:01:23,840
+<font face="Roboto Medium" size="26">so we'd like to ask you not to leave 
+your car or open your curtains.</font>
+
+24
+00:01:24,280 --> 00:01:27,060
+<font face="Roboto Medium" size="26">We can't even open the curtains?</font>
+
+25
+00:01:27,060 --> 00:01:30,030
+<font face="Roboto Medium" size="26">We ask it for your own safety, miss.</font>
+
+26
+00:01:31,320 --> 00:01:34,360
+<font face="Roboto Medium" size="26">Also, a lot of tickets 
+have gone missing lately.</font>
+
+27
+00:01:34,360 --> 00:01:37,740
+<font face="Roboto Medium" size="26">Be sure to hold on to yours at all times
+until you reach your destination.</font>
+
+28
+00:01:37,740 --> 00:01:38,990
+<font face="Roboto Medium" size="26">Okay.</font>
+
+29
+00:01:38,990 --> 00:01:40,900
+<font face="Roboto Medium" size="26">Well, I hope you enjoy your journey.</font>
+
+30
+00:01:41,910 --> 00:01:44,730
+<font face="Roboto Medium" size="26">"At all times" seems a little extreme.</font>
+
+31
+00:01:44,730 --> 00:01:48,410
+<font face="Roboto Medium" size="26">True. I'm gonna go buy some drinks.</font>
+
+32
+00:01:50,240 --> 00:01:51,460
+<font face="Roboto Medium" size="26">What is that?</font>
+
+33
+00:01:52,080 --> 00:01:53,580
+<font face="Roboto Medium" size="26">Talk about creepy.</font>
+
+34
+00:01:55,260 --> 00:01:58,480
+<font face="Roboto Medium" size="26">Y'know, over by the part of 
+the car that connects...</font>
+
+35
+00:01:59,220 --> 00:02:02,770
+<font face="Roboto Medium" size="26">And she's asleep. She must've been tired.</font>
+
+36
+00:02:03,500 --> 00:02:06,050
+<font face="Roboto Medium" size="26">Oh, we need to close the curtains, too.</font>
+
+37
+00:02:12,700 --> 00:02:14,060
+<font face="Roboto Medium" size="26">Is this the stop he mentioned?</font>
+
+38
+00:02:15,000 --> 00:02:16,790
+<font face="Roboto Medium" size="26">I'm going to the bathroom.</font>
+
+39
+00:02:16,790 --> 00:02:18,990
+<font face="Roboto Medium" size="26">But we're not supposed to leave the car.</font>
+
+40
+00:02:18,990 --> 00:02:21,160
+<font face="Roboto Medium" size="26">No way. Do you want me to pee in here?</font>
+
+41
+00:02:21,570 --> 00:02:22,850
+<font face="Roboto Medium" size="26">Unbelievable.</font>
+
+42
+00:02:27,010 --> 00:02:32,230
+<font face="Roboto Medium" size="26">That's the car that connected to us? 
+And it's not a sleeper car.</font>
+
+43
+00:02:32,230 --> 00:02:34,500
+<font face="Roboto Medium" size="26">Man, it's super packed.</font>
+
+44
+00:02:43,210 --> 00:02:44,810
+<font face="Roboto Medium" size="26">What?</font>
+
+45
+00:02:45,320 --> 00:02:47,140
+<font face="Roboto Medium" size="26">It won't turn on? Is it a power outage?</font>
+
+46
+00:02:55,480 --> 00:02:57,650
+<font face="Roboto Medium" size="26">Who are these people?!</font>
+
+47
+00:02:59,170 --> 00:03:00,110
+<font face="Roboto Medium" size="26">Miwa?!</font>
+
+48
+00:03:00,810 --> 00:03:02,050
+<font face="Roboto Medium" size="26">Who are you?!</font>
+
+49
+00:03:02,050 --> 00:03:04,340
+<font face="Roboto Medium" size="26">It's me, the conductor. 
+I'll need to check your ticket again.</font>
+
+50
+00:03:04,340 --> 00:03:08,070
+<font face="Roboto Medium" size="26">Forget that! My friend... 
+I think she was screaming...</font>
+
+51
+00:03:08,860 --> 00:03:10,950
+<font face="Roboto Medium" size="26">You let go of yours.</font>
+
+52
+00:03:21,300 --> 00:03:22,350
+<font face="Roboto Medium" size="26">No!</font>
+
+53
+00:03:22,350 --> 00:03:24,060
+<font face="Roboto Medium" size="26">{Missing?}</font>
+
+54
+00:03:26,180 --> 00:03:30,180
+<font face="Times New Roman" size="44" color="#593826"><b>{\an8}<font size="34">Theatre of Darkness: Yamishibai</font></b></font>
+
+55
+00:03:26,850 --> 00:03:28,970
+<font face="Roboto Medium" size="26">The end.</font>
+
