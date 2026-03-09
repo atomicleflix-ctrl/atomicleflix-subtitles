@@ -1,0 +1,2055 @@
+1
+00:02:23,410 --> 00:02:25,220
+<font face="Roboto Medium" size="26"><i>The Second Law of Thermodynamics:</i></font>
+
+2
+00:02:25,770 --> 00:02:28,640
+<font face="Roboto Medium" size="26"><i>Heat can never pass from 
+a colder to a warmer body</i></font>
+
+3
+00:02:28,640 --> 00:02:30,400
+<font face="Roboto Medium" size="26"><i>without causing other effects,</i></font>
+
+4
+00:02:31,270 --> 00:02:35,010
+<font face="Roboto Medium" size="26"><i>or it is impossible to convert heat 
+from a single source into work</i></font>
+
+5
+00:02:35,010 --> 00:02:36,780
+<font face="Roboto Medium" size="26"><i>without causing other effects,</i></font>
+
+6
+00:02:37,930 --> 00:02:41,980
+<font face="Roboto Medium" size="26"><i>or entropy always increases in 
+an irreversible heat reaction.</i></font>
+
+7
+00:02:44,760 --> 00:02:46,340
+<font face="Roboto Medium" size="26"><i>Escaping the burden of an entropy increase</i></font>
+
+8
+00:02:46,340 --> 00:02:48,330
+<font face="Roboto Medium" size="26"><i>and to create something from nothing...</i></font>
+
+9
+00:02:48,330 --> 00:02:50,140
+<font face="Roboto Medium" size="26"><i>The witch's power is truly convenient.</i></font>
+
+10
+00:02:53,710 --> 00:02:54,620
+<font face="Roboto Medium" size="26">Enter.</font>
+
+11
+00:02:58,700 --> 00:03:00,700
+<font face="Roboto Medium" size="26">Good morning, Your Highness.</font>
+
+12
+00:03:01,880 --> 00:03:02,700
+<font face="Roboto Medium" size="26">Barov.</font>
+
+13
+00:03:03,380 --> 00:03:05,200
+<font face="Roboto Medium" size="26">Did you do what I asked?</font>
+
+14
+00:03:05,200 --> 00:03:06,850
+<font face="Roboto Medium" size="26">It's done, Your Highness.</font>
+
+15
+00:03:07,240 --> 00:03:09,520
+<font face="Roboto Medium" size="26">The witch was hanged at noon.</font>
+
+16
+00:03:09,520 --> 00:03:11,020
+<font face="Roboto Medium" size="26">The prisoner wore a hood,</font>
+
+17
+00:03:11,020 --> 00:03:12,960
+<font face="Roboto Medium" size="26">so no one noticed anything unusual.</font>
+
+18
+00:03:12,960 --> 00:03:14,770
+<font face="Roboto Medium" size="26">Okay, very good.</font>
+
+19
+00:03:14,770 --> 00:03:16,850
+<font face="Roboto Medium" size="26">Next, prepare some data for me.</font>
+
+20
+00:03:16,850 --> 00:03:18,850
+<font face="Roboto Medium" size="26">Yes. What do you need?</font>
+
+21
+00:03:19,340 --> 00:03:22,110
+<font face="Roboto Medium" size="26">I need a report summarizing 
+Border Town's trade,</font>
+
+22
+00:03:22,110 --> 00:03:24,960
+<font face="Roboto Medium" size="26">taxes, and fixed expenditures 
+for the past decade.</font>
+
+23
+00:03:24,960 --> 00:03:26,850
+<font face="Roboto Medium" size="26">Also, let me think...</font>
+
+24
+00:03:28,330 --> 00:03:30,850
+<font face="Roboto Medium" size="26">For the workshops in the town,</font>
+
+25
+00:03:30,850 --> 00:03:33,070
+<font face="Roboto Medium" size="26">such as ironworks, textiles, and pottery,</font>
+
+26
+00:03:33,070 --> 00:03:34,800
+<font face="Roboto Medium" size="26">compile statistics on 
+their numbers and scale,</font>
+
+27
+00:03:34,800 --> 00:03:36,600
+<font face="Roboto Medium" size="26">and give me a detailed report.</font>
+
+28
+00:03:36,600 --> 00:03:38,650
+<font face="Roboto Medium" size="26">Include the population distribution and</font>
+
+29
+00:03:38,650 --> 00:03:40,070
+<font face="Roboto Medium" size="26">occupations in Border Town.</font>
+
+30
+00:03:38,650 --> 00:03:40,070
+<font face="Roboto Medium" size="26">Your Highness,</font>
+
+31
+00:03:40,850 --> 00:03:42,650
+<font face="Roboto Medium" size="26">what do you need those for?</font>
+
+32
+00:03:43,510 --> 00:03:45,720
+<font face="Roboto Medium" size="26">Don't worry. Just give them to me.</font>
+
+33
+00:03:45,720 --> 00:03:47,370
+<font face="Roboto Medium" size="26">Understood.</font>
+
+34
+00:03:47,370 --> 00:03:51,260
+<font face="Roboto Medium" size="26">Your Highness, are you finally 
+taking the Royal Decree seriously?</font>
+
+35
+00:03:52,420 --> 00:03:53,960
+<font face="Roboto Medium" size="26">Royal Decree?</font>
+
+36
+00:04:01,100 --> 00:04:02,020
+<font face="Trebuchet MS" size="24">{\an8}COLDWIND RIDGE</font>
+
+37
+00:04:01,500 --> 00:04:04,290
+<font face="Roboto Medium" size="26">Gerald commands the military 
+stronghold of Coldwind Ridge.</font>
+
+38
+00:04:04,290 --> 00:04:05,020
+<font face="Trebuchet MS" size="24">{\an8}VALENCIA</font>
+
+39
+00:04:04,290 --> 00:04:06,860
+<font face="Roboto Medium" size="26">Timothy oversees the 
+economic hub of Valencia.</font>
+
+40
+00:04:07,770 --> 00:04:08,520
+<font face="Trebuchet MS" size="24">{\an8}PORT OF CLEARWATER</font>
+
+41
+00:04:07,770 --> 00:04:10,720
+<font face="Roboto Medium" size="26">Garcia controls the trade port, 
+Port of Clearwater.</font>
+
+42
+00:04:10,720 --> 00:04:11,520
+<font face="Trebuchet MS" size="24">{\an8}SILVER CITY</font>
+
+43
+00:04:10,720 --> 00:04:13,180
+<font face="Roboto Medium" size="26">Tilly operates the cultural 
+center of Silver City.</font>
+
+44
+00:04:13,500 --> 00:04:16,600
+<font face="Trebuchet MS" size="24">{\an8}BORDER TOWN</font>
+
+45
+00:04:13,500 --> 00:04:16,600
+<font face="Roboto Medium" size="26">And I've been banished to 
+this desolate Border Town.</font>
+
+46
+00:04:17,100 --> 00:04:19,330
+<font face="Roboto Medium" size="26">Barov, under these circumstances,</font>
+
+47
+00:04:19,330 --> 00:04:21,710
+<font face="Roboto Medium" size="26">what do you think my 
+chances of winning are?</font>
+
+48
+00:04:23,000 --> 00:04:24,700
+<font face="Roboto Medium" size="26">It's fine. You can be honest.</font>
+
+49
+00:04:24,700 --> 00:04:28,650
+<font face="Roboto Medium" size="26">Yes, each of Their Highnesses' domains 
+have their own strengths.</font>
+
+50
+00:04:28,650 --> 00:04:32,720
+<font face="Roboto Medium" size="26">In comparison, it would be very difficult 
+to achieve anything in Border Town.</font>
+
+51
+00:04:33,320 --> 00:04:37,110
+<font face="Roboto Medium" size="26">Furthermore, considering 
+Your Highness's past performance</font>
+
+52
+00:04:37,110 --> 00:04:39,980
+<font face="Roboto Medium" size="26">and standing among 
+the nobles in the capital,</font>
+
+53
+00:04:39,980 --> 00:04:42,720
+<font face="Roboto Medium" size="26">it's hard to see any real advantage.</font>
+
+54
+00:04:43,460 --> 00:04:44,520
+<font face="Roboto Medium" size="26">You're right.</font>
+
+55
+00:04:45,270 --> 00:04:48,430
+<font face="Roboto Medium" size="26">That's why I need to find 
+another way to impress Father.</font>
+
+56
+00:04:48,820 --> 00:04:50,770
+<font face="Roboto Medium" size="26">Barov, let me ask you this:</font>
+
+57
+00:04:51,350 --> 00:04:53,180
+<font face="Roboto Medium" size="26">who truly rules this kingdom?</font>
+
+58
+00:04:53,180 --> 00:04:54,980
+<font face="Roboto Medium" size="26">Well, of course it is</font>
+
+59
+00:04:54,980 --> 00:04:58,500
+<font face="Roboto Medium" size="26">the Royal House of Graycastle, 
+the Wimbledons, Your Highness.</font>
+
+60
+00:04:58,500 --> 00:05:00,000
+<font face="Roboto Medium" size="26">That's just an illusion.</font>
+
+61
+00:05:01,060 --> 00:05:04,410
+<font face="Roboto Medium" size="26">The true rulers of this kingdom 
+are not in Graycastle,</font>
+
+62
+00:05:01,060 --> 00:05:04,970
+<font face="Trebuchet MS" size="24">{\an8}THE ROYAL CAPITAL, GRAYCASTLE</font>
+
+63
+00:05:04,410 --> 00:05:07,020
+<font face="Roboto Medium" size="26">but here.</font>
+
+64
+00:05:05,600 --> 00:05:07,020
+<font face="Trebuchet MS" size="24">{\an8}THE HOLY CITY, HERMES</font>
+
+65
+00:05:07,340 --> 00:05:10,020
+<font face="Roboto Medium" size="26">The Holy City, Hermes.</font>
+
+66
+00:05:10,020 --> 00:05:13,580
+<font face="Roboto Medium" size="26">If only those crowned by the Pope 
+were considered legitimate kings,</font>
+
+67
+00:05:13,580 --> 00:05:16,450
+<font face="Roboto Medium" size="26">then this secular regime is nothing 
+more than a puppet of theocracy.</font>
+
+68
+00:05:16,450 --> 00:05:19,200
+<font face="Roboto Medium" size="26">No matter how prosperously 
+my siblings govern their domains,</font>
+
+69
+00:05:19,200 --> 00:05:21,730
+<font face="Roboto Medium" size="26">they ultimately belong to the Church.</font>
+
+70
+00:05:22,350 --> 00:05:25,820
+<font face="Roboto Medium" size="26">If I can create a kingdom that 
+is not bound by the Church,</font>
+
+71
+00:05:25,820 --> 00:05:29,060
+<font face="Roboto Medium" size="26">then the throne will surely be mine.</font>
+
+72
+00:05:29,370 --> 00:05:32,550
+<font face="Roboto Medium" size="26">Barov, you've always been a loyal 
+supporter of the Royal House.</font>
+
+73
+00:05:32,550 --> 00:05:36,460
+<font face="Roboto Medium" size="26">You can't stand the Church's excessive 
+interference in secular governance, right?</font>
+
+74
+00:05:36,460 --> 00:05:38,560
+<font face="Roboto Medium" size="26">You're right,</font>
+
+75
+00:05:38,560 --> 00:05:41,130
+<font face="Roboto Medium" size="26">but the Church's power 
+is deeply entrenched,</font>
+
+76
+00:05:41,130 --> 00:05:42,700
+<font face="Roboto Medium" size="26">and it has the people's support.</font>
+
+77
+00:05:42,700 --> 00:05:44,340
+<font face="Roboto Medium" size="26">What can we do?</font>
+
+78
+00:05:44,340 --> 00:05:47,180
+<font face="Roboto Medium" size="26">The people's support for the 
+Church originates from its lies.</font>
+
+79
+00:05:47,180 --> 00:05:49,790
+<font face="Roboto Medium" size="26">If we can prove the Church is lying,</font>
+
+80
+00:05:49,790 --> 00:05:51,560
+<font face="Roboto Medium" size="26">they will no longer support it.</font>
+
+81
+00:05:52,340 --> 00:05:56,060
+<font face="Roboto Medium" size="26">For example, witches aren't actually 
+the embodiment of the Devil.</font>
+
+82
+00:05:56,060 --> 00:05:59,640
+<font face="Roboto Medium" size="26">So that's why you saved that witch.</font>
+
+83
+00:05:59,640 --> 00:06:03,530
+<font face="Roboto Medium" size="26">Barov, you've been the Assistant Minister 
+of Finance for twenty years, right?</font>
+
+84
+00:06:03,530 --> 00:06:05,040
+<font face="Roboto Medium" size="26">Yes.</font>
+
+85
+00:06:05,040 --> 00:06:09,180
+<font face="Roboto Medium" size="26">If I win the Royal Decree, 
+the "Assistant" in your title can be dropped.</font>
+
+86
+00:06:09,180 --> 00:06:11,920
+<font face="Roboto Medium" size="26">Or possibly even further. For example,</font>
+
+87
+00:06:11,920 --> 00:06:13,310
+<font face="Roboto Medium" size="26">"Hand of the King."</font>
+
+88
+00:06:14,160 --> 00:06:15,310
+<font face="Roboto Medium" size="26">Barov,</font>
+
+89
+00:06:15,920 --> 00:06:17,740
+<font face="Roboto Medium" size="26">do not question my decisions.</font>
+
+90
+00:06:26,180 --> 00:06:27,340
+<font face="Roboto Medium" size="26">What did His Highness say?</font>
+
+91
+00:06:29,790 --> 00:06:30,730
+<font face="Roboto Medium" size="26">What's wrong?</font>
+
+92
+00:06:32,720 --> 00:06:33,580
+<font face="Roboto Medium" size="26">Barov!</font>
+
+93
+00:06:34,200 --> 00:06:36,040
+<font face="Roboto Medium" size="26">Did you even try to talk 
+some sense into him?</font>
+
+94
+00:06:36,670 --> 00:06:38,010
+<font face="Roboto Medium" size="26">Are you even listening to me?</font>
+
+95
+00:06:38,010 --> 00:06:39,560
+<font face="Roboto Medium" size="26">Something's off about this witch business.</font>
+
+96
+00:06:39,560 --> 00:06:41,590
+<font face="Roboto Medium" size="26">It's not just this witch business.</font>
+
+97
+00:06:41,590 --> 00:06:44,430
+<font face="Roboto Medium" size="26">There's something wrong with 
+His Highness Roland himself.</font>
+
+98
+00:06:44,430 --> 00:06:46,130
+<font face="Roboto Medium" size="26">Yeah, something's wrong.</font>
+
+99
+00:06:46,130 --> 00:06:47,610
+<font face="Roboto Medium" size="26">This is serious.</font>
+
+100
+00:06:47,610 --> 00:06:49,990
+<font face="Roboto Medium" size="26">If the news leaks 
+and Hermes finds out,</font>
+
+101
+00:06:49,990 --> 00:06:51,290
+<font face="Roboto Medium" size="26">we'll be in big trouble.</font>
+
+102
+00:06:52,240 --> 00:06:54,720
+<font face="Roboto Medium" size="26">Hey, don't leave!
+Explain yourself!</font>
+
+103
+00:07:09,640 --> 00:07:10,950
+<font face="Roboto Medium" size="26">Contract?</font>
+
+104
+00:07:11,510 --> 00:07:12,560
+<font face="Roboto Medium" size="26">I don't understand.</font>
+
+105
+00:07:12,560 --> 00:07:14,380
+<font face="Roboto Medium" size="26">It's an agreement.</font>
+
+106
+00:07:14,380 --> 00:07:16,630
+<font face="Roboto Medium" size="26">Once you sign the last page,</font>
+
+107
+00:07:16,630 --> 00:07:19,520
+<font face="Roboto Medium" size="26">you and His Highness will be in 
+an equal employment relationship.</font>
+
+108
+00:07:19,520 --> 00:07:21,560
+<font face="Roboto Medium" size="26">Equal... employment?</font>
+
+109
+00:07:21,990 --> 00:07:26,090
+<font face="Roboto Medium" size="26">Yes. His Highness specifically 
+emphasized this point: equal.</font>
+
+110
+00:07:26,090 --> 00:07:27,440
+<font face="Roboto Medium" size="26">You do work.</font>
+
+111
+00:07:27,440 --> 00:07:31,560
+<font face="Roboto Medium" size="26">His Highness pays you 
+one gold royal per month.</font>
+
+112
+00:07:33,670 --> 00:07:37,580
+<font face="Roboto Medium" size="26">That's... more than what 
+my father earns in a year.</font>
+
+113
+00:07:38,440 --> 00:07:39,560
+<font face="Roboto Medium" size="26">Is there a mistake?</font>
+
+114
+00:07:39,560 --> 00:07:43,010
+<font face="Roboto Medium" size="26">Your pay was set by 
+His Highness Roland himself.</font>
+
+115
+00:07:43,010 --> 00:07:44,450
+<font face="Roboto Medium" size="26">There's no mistake.</font>
+
+116
+00:07:44,450 --> 00:07:47,000
+<font face="Roboto Medium" size="26"><i>Then... what does the prince...</i></font>
+
+117
+00:07:47,480 --> 00:07:49,000
+<font face="Roboto Medium" size="26"><i>want me to do?</i></font>
+
+118
+00:07:50,610 --> 00:07:52,300
+<font face="Roboto Medium" size="26"><i>Someone like me?</i></font>
+
+119
+00:07:54,340 --> 00:07:55,270
+<font face="Roboto Medium" size="26">Miss Anna.</font>
+
+120
+00:08:04,810 --> 00:08:07,050
+<font face="Roboto Medium" size="26">How are you? 
+Did you sleep well last night?</font>
+
+121
+00:08:07,050 --> 00:08:08,680
+<font face="Roboto Medium" size="26">Yes, very well.</font>
+
+122
+00:08:08,680 --> 00:08:10,080
+<font face="Roboto Medium" size="26">That's great.</font>
+
+123
+00:08:10,080 --> 00:08:12,010
+<font face="Roboto Medium" size="26">After everything you've gone through,</font>
+
+124
+00:08:12,010 --> 00:08:14,740
+<font face="Roboto Medium" size="26">you should've rested longer, 
+but we don't have much time.</font>
+
+125
+00:08:14,740 --> 00:08:16,180
+<font face="Roboto Medium" size="26">I'll make it up to you later.</font>
+
+126
+00:08:16,690 --> 00:08:17,910
+<font face="Roboto Medium" size="26">What's wrong?</font>
+
+127
+00:08:17,910 --> 00:08:19,620
+<font face="Roboto Medium" size="26">I don't understand.</font>
+
+128
+00:08:19,620 --> 00:08:22,440
+<font face="Roboto Medium" size="26">Your Highness, why did you do this?</font>
+
+129
+00:08:22,440 --> 00:08:23,610
+<font face="Roboto Medium" size="26">What do you mean?</font>
+
+130
+00:08:23,610 --> 00:08:25,520
+<font face="Roboto Medium" size="26">Why did you save me?</font>
+
+131
+00:08:25,520 --> 00:08:27,810
+<font face="Roboto Medium" size="26">And that contract...</font>
+
+132
+00:08:28,150 --> 00:08:29,790
+<font face="Roboto Medium" size="26">What do you want me to do?</font>
+
+133
+00:08:34,020 --> 00:08:35,930
+<font face="Roboto Medium" size="26">It's a beautiful afternoon.</font>
+
+134
+00:08:35,930 --> 00:08:36,840
+<font face="Roboto Medium" size="26">Let's take a walk.</font>
+
+135
+00:08:36,840 --> 00:08:37,650
+<font face="Roboto Medium" size="26">Huh?</font>
+
+136
+00:08:49,200 --> 00:08:50,250
+<font face="Roboto Medium" size="26">Your Highness.</font>
+
+137
+00:08:52,270 --> 00:08:53,800
+<font face="Roboto Medium" size="26">Why did you save me?</font>
+
+138
+00:08:54,480 --> 00:08:56,850
+<font face="Roboto Medium" size="26">I killed someone.
+I should be punished.</font>
+
+139
+00:08:57,400 --> 00:09:00,340
+<font face="Roboto Medium" size="26">You mean saving your 
+father's life from a bandit?</font>
+
+140
+00:09:01,040 --> 00:09:02,820
+<font face="Roboto Medium" size="26">I think that's just self-defense.</font>
+
+141
+00:09:02,820 --> 00:09:04,390
+<font face="Roboto Medium" size="26">You did what anyone would do.</font>
+
+142
+00:09:06,160 --> 00:09:09,750
+<font face="Roboto Medium" size="26">But even if you forgive my actions,</font>
+
+143
+00:09:10,480 --> 00:09:12,030
+<font face="Roboto Medium" size="26">I'm a witch,</font>
+
+144
+00:09:12,480 --> 00:09:15,340
+<font face="Roboto Medium" size="26">the embodiment of the Devil.</font>
+
+145
+00:09:15,340 --> 00:09:18,560
+<font face="Roboto Medium" size="26">The original sin cannot be erased.</font>
+
+146
+00:09:29,630 --> 00:09:31,890
+<font face="Roboto Medium" size="26">Miss Anna, this flower is for you.</font>
+
+147
+00:09:33,830 --> 00:09:34,890
+<font face="Roboto Medium" size="26">Thank you.</font>
+
+148
+00:09:35,700 --> 00:09:38,010
+<font face="Roboto Medium" size="26">A citrus flower... It's beautiful.</font>
+
+149
+00:09:38,010 --> 00:09:39,060
+<font face="Roboto Medium" size="26">Yes.</font>
+
+150
+00:09:39,060 --> 00:09:42,310
+<font face="Roboto Medium" size="26">But did you know the citrus 
+flower is highly poisonous?</font>
+
+151
+00:09:46,030 --> 00:09:47,000
+<font face="Roboto Medium" size="26">Just kidding.</font>
+
+152
+00:09:50,270 --> 00:09:52,270
+<font face="Roboto Medium" size="26">How could a citrus flower be poisonous?</font>
+
+153
+00:09:52,270 --> 00:09:53,640
+<font face="Roboto Medium" size="26">Isn't that common knowledge?</font>
+
+154
+00:09:53,640 --> 00:09:55,720
+<font face="Roboto Medium" size="26">Yet when I said it was poisonous,</font>
+
+155
+00:09:55,720 --> 00:09:57,640
+<font face="Roboto Medium" size="26">you instinctively let go of it.</font>
+
+156
+00:09:57,640 --> 00:09:59,150
+<font face="Roboto Medium" size="26">The citrus flower is still 
+the same citrus flower.</font>
+
+157
+00:09:59,150 --> 00:10:00,930
+<font face="Roboto Medium" size="26">Its essence hasn't changed.</font>
+
+158
+00:10:00,930 --> 00:10:03,430
+<font face="Roboto Medium" size="26">What changed is our perception of it.</font>
+
+159
+00:10:03,430 --> 00:10:06,740
+<font face="Roboto Medium" size="26">So you mean it's the same with witches?</font>
+
+160
+00:10:07,540 --> 00:10:08,590
+<font face="Roboto Medium" size="26">That's right.</font>
+
+161
+00:10:09,200 --> 00:10:12,200
+<font face="Roboto Medium" size="26">In my opinion, a witch's 
+power is like this flower.</font>
+
+162
+00:10:12,200 --> 00:10:13,630
+<font face="Roboto Medium" size="26">Both are products of nature.</font>
+
+163
+00:10:13,630 --> 00:10:15,150
+<font face="Roboto Medium" size="26">They're neither inherently good nor evil.</font>
+
+164
+00:10:15,150 --> 00:10:17,520
+<font face="Roboto Medium" size="26">All this talk of the Devil and impurity,</font>
+
+165
+00:10:17,520 --> 00:10:19,380
+<font face="Roboto Medium" size="26">it's just people's opinions.</font>
+
+166
+00:10:19,380 --> 00:10:22,380
+<font face="Roboto Medium" size="26">Since it's an opinion, 
+it can be changed, right?</font>
+
+167
+00:10:22,380 --> 00:10:26,600
+<font face="Roboto Medium" size="26">Your Highness,
+your thinking is too simplistic.</font>
+
+168
+00:10:27,520 --> 00:10:31,010
+<font face="Roboto Medium" size="26">This power... is truly terrifying.</font>
+
+169
+00:10:29,240 --> 00:10:31,680
+<font face="Roboto Medium" size="26">{\an8}Mother!</font>
+
+170
+00:10:33,310 --> 00:10:35,020
+<font face="Roboto Medium" size="26">The Church is right.</font>
+
+171
+00:10:35,690 --> 00:10:39,130
+<font face="Roboto Medium" size="26">A witch's power is the Devil's power.</font>
+
+172
+00:10:39,960 --> 00:10:41,890
+<font face="Roboto Medium" size="26">Witches are the embodiment of the Devil.</font>
+
+173
+00:10:42,700 --> 00:10:46,890
+<font face="Roboto Medium" size="26">This power will kill 
+everyone who comes near me.</font>
+
+174
+00:10:48,160 --> 00:10:50,360
+<font face="Roboto Medium" size="26">You should execute me immediately.</font>
+
+175
+00:11:00,620 --> 00:11:03,510
+<font face="Roboto Medium" size="26">If you're determined to die,
+no one can stop you.</font>
+
+176
+00:11:03,510 --> 00:11:05,550
+<font face="Roboto Medium" size="26">Dying won't solve the problem, though.</font>
+
+177
+00:11:05,550 --> 00:11:07,100
+<font face="Roboto Medium" size="26">It's just avoiding it.</font>
+
+178
+00:11:07,100 --> 00:11:09,630
+<font face="Roboto Medium" size="26">Your father won't change 
+his attitude toward witches.</font>
+
+179
+00:11:09,630 --> 00:11:13,050
+<font face="Roboto Medium" size="26">And everything you've 
+lost won't come back.</font>
+
+180
+00:11:18,170 --> 00:11:20,560
+<font face="Roboto Medium" size="26">Or you can choose another path,</font>
+
+181
+00:11:21,450 --> 00:11:25,060
+<font face="Roboto Medium" size="26">and create a new world with me 
+where witches can live freely.</font>
+
+182
+00:11:30,200 --> 00:11:33,060
+<font face="Roboto Medium" size="26">In that world, you won't 
+have to live in fear.</font>
+
+183
+00:11:33,650 --> 00:11:35,180
+<font face="Roboto Medium" size="26">You won't have to hide.</font>
+
+184
+00:11:35,180 --> 00:11:38,990
+<font face="Roboto Medium" size="26">You won't have to hide your power 
+or be ashamed of your identity.</font>
+
+185
+00:11:38,990 --> 00:11:41,640
+<font face="Roboto Medium" size="26">Instead, you can choose the life you want,</font>
+
+186
+00:11:41,640 --> 00:11:44,060
+<font face="Roboto Medium" size="26">and use your powers to benefit others.</font>
+
+187
+00:11:44,060 --> 00:11:47,780
+<font face="Roboto Medium" size="26">In my opinion, that alone could 
+change this suffering world.</font>
+
+188
+00:11:47,780 --> 00:11:49,590
+<font face="Roboto Medium" size="26">Just like this citrus flower,</font>
+
+189
+00:11:49,590 --> 00:11:52,780
+<font face="Roboto Medium" size="26">which symbolizes strength within hardship.</font>
+
+190
+00:11:53,290 --> 00:11:56,310
+<font face="Roboto Medium" size="26">That can never be the Devil's power.</font>
+
+191
+00:11:56,310 --> 00:11:58,200
+<font face="Roboto Medium" size="26">The contract I gave you</font>
+
+192
+00:11:58,200 --> 00:12:01,210
+<font face="Roboto Medium" size="26">is a request for you to do this with me.</font>
+
+193
+00:12:04,350 --> 00:12:06,930
+<font face="Roboto Medium" size="26">I want to go back to school,</font>
+
+194
+00:12:07,580 --> 00:12:09,750
+<font face="Roboto Medium" size="26">to read aloud with everyone 
+in the classroom,</font>
+
+195
+00:12:09,750 --> 00:12:11,650
+<font face="Roboto Medium" size="26">and to sing in the fields.</font>
+
+196
+00:12:12,560 --> 00:12:16,690
+<font face="Roboto Medium" size="26">In future, I want to 
+become like Professor Karl,</font>
+
+197
+00:12:17,310 --> 00:12:19,580
+<font face="Roboto Medium" size="26">to be with children every day,</font>
+
+198
+00:12:20,370 --> 00:12:22,540
+<font face="Roboto Medium" size="26">teaching them to read and write.</font>
+
+199
+00:12:25,570 --> 00:12:26,620
+<font face="Roboto Medium" size="26">Your Highness...</font>
+
+200
+00:12:30,260 --> 00:12:31,310
+<font face="Roboto Medium" size="26">Will that day...</font>
+
+201
+00:12:32,980 --> 00:12:34,770
+<font face="Roboto Medium" size="26">truly come?</font>
+
+202
+00:12:37,170 --> 00:12:38,220
+<font face="Roboto Medium" size="26">It will.</font>
+
+203
+00:12:39,890 --> 00:12:42,390
+<font face="Roboto Medium" size="26">As long as we work together.</font>
+
+204
+00:12:52,340 --> 00:12:54,780
+<font face="Roboto Medium" size="26">I'm willing to give it a go.</font>
+
+205
+00:12:55,700 --> 00:12:57,390
+<font face="Roboto Medium" size="26">What do I need to do?</font>
+
+206
+00:13:08,750 --> 00:13:11,870
+<font face="Roboto Medium" size="26">First, you must learn 
+to control your power.</font>
+
+207
+00:13:12,800 --> 00:13:15,530
+<font face="Roboto Medium" size="26">From now on, this will 
+be your training ground.</font>
+
+208
+00:13:19,650 --> 00:13:21,650
+<font face="Roboto Medium" size="26">You must completely master this power,</font>
+
+209
+00:13:21,650 --> 00:13:25,310
+<font face="Roboto Medium" size="26">and control the temperature, 
+angle, and every other aspect.</font>
+
+210
+00:13:32,110 --> 00:13:34,970
+<font face="Roboto Medium" size="26">But don't burn your clothes again.</font>
+
+211
+00:13:34,970 --> 00:13:36,720
+<font face="Roboto Medium" size="26">Or anything else, for that matter.</font>
+
+212
+00:14:59,250 --> 00:15:01,630
+<font face="Roboto Medium" size="26">Last night, I reviewed last 
+year's industrial reports</font>
+
+213
+00:15:01,630 --> 00:15:02,690
+<font face="Roboto Medium" size="26">and discovered that</font>
+
+214
+00:15:02,690 --> 00:15:05,850
+<font face="Roboto Medium" size="26">the only significant industry
+in Border Town is mining.</font>
+
+215
+00:15:05,850 --> 00:15:08,130
+<font face="Roboto Medium" size="26">Not only does this include building stone,</font>
+
+216
+00:15:08,130 --> 00:15:11,640
+<font face="Roboto Medium" size="26">but also a substantial quantity of 
+metal ores and gemstones.</font>
+
+217
+00:15:12,480 --> 00:15:14,540
+<font face="Roboto Medium" size="26">Now look at this financial statement.</font>
+
+218
+00:15:14,540 --> 00:15:16,810
+<font face="Roboto Medium" size="26">Last year's fiscal 
+revenue was nearly zero.</font>
+
+219
+00:15:16,810 --> 00:15:20,080
+<font face="Roboto Medium" size="26">Not only that, but trade records 
+show only a few ore transactions</font>
+
+220
+00:15:20,080 --> 00:15:21,690
+<font face="Roboto Medium" size="26">and some deals for iron goods,</font>
+
+221
+00:15:21,690 --> 00:15:23,720
+<font face="Roboto Medium" size="26">all conducted with Willow Town.</font>
+
+222
+00:15:24,250 --> 00:15:27,850
+<font face="Roboto Medium" size="26">This meager revenue barely 
+covers municipal expenses.</font>
+
+223
+00:15:27,850 --> 00:15:30,510
+<font face="Roboto Medium" size="26">Most of the mining output 
+wasn't recorded at all.</font>
+
+224
+00:15:30,510 --> 00:15:33,520
+<font face="Roboto Medium" size="26">There's also nothing on 
+daily living expenses or taxes.</font>
+
+225
+00:15:33,520 --> 00:15:36,480
+<font face="Roboto Medium" size="26">Based on this, it seems Border Town 
+has no agricultural production.</font>
+
+226
+00:15:36,480 --> 00:15:38,790
+<font face="Roboto Medium" size="26">If everyone is engaged in mining work,</font>
+
+227
+00:15:38,790 --> 00:15:41,520
+<font face="Roboto Medium" size="26">how do they manage their 
+daily food supply?</font>
+
+228
+00:15:42,090 --> 00:15:47,340
+<font face="Roboto Medium" size="26">Your Highness, did you spend all night 
+reviewing these reports?</font>
+
+229
+00:15:47,340 --> 00:15:49,910
+<font face="Roboto Medium" size="26">With so many reports, you must be...</font>
+
+230
+00:15:51,360 --> 00:15:53,220
+<font face="Roboto Medium" size="26">Yes, it took a while.</font>
+
+231
+00:15:53,550 --> 00:15:55,840
+<font face="Roboto Medium" size="26">I knew far too little 
+about my domain before.</font>
+
+232
+00:15:55,840 --> 00:15:57,620
+<font face="Roboto Medium" size="26">I left everything to you,</font>
+
+233
+00:15:57,620 --> 00:16:00,220
+<font face="Roboto Medium" size="26">while I indulged in revelry all by myself.</font>
+
+234
+00:16:00,510 --> 00:16:02,540
+<font face="Roboto Medium" size="26">I'm sorry. Thanks for your hard work.</font>
+
+235
+00:16:03,290 --> 00:16:04,090
+<font face="Roboto Medium" size="26">Your Highness...</font>
+
+236
+00:16:04,090 --> 00:16:07,220
+<font face="Roboto Medium" size="26">From now on, I will do what I need to do.</font>
+
+237
+00:16:07,220 --> 00:16:08,720
+<font face="Roboto Medium" size="26">Please do your best to assist me.</font>
+
+238
+00:16:09,760 --> 00:16:14,160
+<font face="Roboto Medium" size="26">I will obey your orders 
+and do my very best.</font>
+
+239
+00:16:14,980 --> 00:16:17,840
+<font face="Roboto Medium" size="26">Your Highness, actually, until last year,</font>
+
+240
+00:16:17,840 --> 00:16:20,270
+<font face="Roboto Medium" size="26">all ore produced in Border Town</font>
+
+241
+00:16:20,270 --> 00:16:23,360
+<font face="Roboto Medium" size="26">was exchanged for food
+with Longsong Stronghold.</font>
+
+242
+00:16:23,360 --> 00:16:25,120
+<font face="Roboto Medium" size="26">Exchanged? Wasn't it sold?</font>
+
+243
+00:16:24,720 --> 00:16:35,720
+<font face="Trebuchet MS" size="24">{\an8}LONGSONG STRONGHOLD</font>
+
+244
+00:16:25,120 --> 00:16:26,990
+<font face="Roboto Medium" size="26">In the eyes of Longsong Stronghold,</font>
+
+245
+00:16:26,990 --> 00:16:29,650
+<font face="Roboto Medium" size="26">Border Town is nothing more 
+than their property.</font>
+
+246
+00:16:29,650 --> 00:16:33,670
+<font face="Roboto Medium" size="26">They provide meager rations 
+to keep the workers going.</font>
+
+247
+00:16:30,270 --> 00:16:35,720
+<font face="Trebuchet MS" size="24">{\an8}BORDER TOWN</font>
+
+248
+00:16:33,670 --> 00:16:36,610
+<font face="Roboto Medium" size="26">You can hardly call 
+them a trading partner.</font>
+
+249
+00:16:36,610 --> 00:16:38,100
+<font face="Roboto Medium" size="26">Before your arrival,</font>
+
+250
+00:16:38,100 --> 00:16:41,150
+<font face="Roboto Medium" size="26">the original lord of 
+Border Town, Baron Boris,</font>
+
+251
+00:16:41,150 --> 00:16:43,580
+<font face="Roboto Medium" size="26">always obeyed the Stronghold's orders,</font>
+
+252
+00:16:43,580 --> 00:16:48,220
+<font face="Roboto Medium" size="26">handing over all ores to them
+in exchange for meager rations.</font>
+
+253
+00:16:49,200 --> 00:16:51,680
+<font face="Roboto Medium" size="26">Baron Boris... I remember him.</font>
+
+254
+00:16:51,680 --> 00:16:53,580
+<font face="Roboto Medium" size="26">He was a weirdo.</font>
+
+255
+00:16:53,580 --> 00:16:55,200
+<font face="Roboto Medium" size="26">I came and seized his territory.</font>
+
+256
+00:16:55,200 --> 00:16:57,390
+<font face="Roboto Medium" size="26">It's understandable that he dislikes me.</font>
+
+257
+00:16:57,930 --> 00:16:59,430
+<font face="Roboto Medium" size="26">But logically speaking,</font>
+
+258
+00:16:59,430 --> 00:17:01,600
+<font face="Roboto Medium" size="26">since Border Town was his domain,</font>
+
+259
+00:17:01,600 --> 00:17:03,340
+<font face="Roboto Medium" size="26">even if it was for his own benefit,</font>
+
+260
+00:17:03,340 --> 00:17:06,730
+<font face="Roboto Medium" size="26">he should have wanted to 
+trade the ores fairly, right?</font>
+
+261
+00:17:07,440 --> 00:17:09,270
+<font face="Roboto Medium" size="26">These ores are valuable.</font>
+
+262
+00:17:09,270 --> 00:17:13,170
+<font face="Roboto Medium" size="26">Although Boris and his knights, 
+along with several other nobles,</font>
+
+263
+00:17:13,170 --> 00:17:15,780
+<font face="Roboto Medium" size="26">are nominally lords of Border Town,</font>
+
+264
+00:17:15,780 --> 00:17:19,100
+<font face="Roboto Medium" size="26">they actually own property 
+in Longsong Stronghold.</font>
+
+265
+00:17:19,100 --> 00:17:23,780
+<font face="Roboto Medium" size="26">Their personal interests and businesses 
+are tied to Longsong Stronghold.</font>
+
+266
+00:17:23,780 --> 00:17:26,640
+<font face="Roboto Medium" size="26">They never intended to manage Border Town,</font>
+
+267
+00:17:26,640 --> 00:17:29,410
+<font face="Roboto Medium" size="26">and are merely acting as 
+overseers for the Stronghold.</font>
+
+268
+00:17:29,410 --> 00:17:31,700
+<font face="Roboto Medium" size="26">They couldn't care less about it.</font>
+
+269
+00:17:31,700 --> 00:17:35,630
+<font face="Roboto Medium" size="26">They're happy as long as they do their 
+job and exchange ores for food.</font>
+
+270
+00:17:35,630 --> 00:17:38,810
+<font face="Roboto Medium" size="26">The Stronghold also gives 
+them a share of the profits.</font>
+
+271
+00:17:38,810 --> 00:17:41,660
+<font face="Roboto Medium" size="26">It's an exaggeration 
+to call it an exchange.</font>
+
+272
+00:17:41,660 --> 00:17:44,070
+<font face="Roboto Medium" size="26">No matter how much ore we give them,</font>
+
+273
+00:17:44,070 --> 00:17:47,510
+<font face="Roboto Medium" size="26">the food they give us 
+barely keeps us alive.</font>
+
+274
+00:17:47,510 --> 00:17:51,860
+<font face="Roboto Medium" size="26">The town's daily expenses still depend 
+on that meager trade with Willow Town.</font>
+
+275
+00:17:51,860 --> 00:17:54,410
+<font face="Roboto Medium" size="26">The Stronghold doesn't 
+contribute a single penny.</font>
+
+276
+00:17:56,480 --> 00:17:58,080
+<font face="Roboto Medium" size="26">We can't carry on like this.</font>
+
+277
+00:18:00,020 --> 00:18:02,550
+<font face="Roboto Medium" size="26">Cease all exchanges with 
+the Stronghold immediately.</font>
+
+278
+00:18:02,550 --> 00:18:04,850
+<font face="Roboto Medium" size="26">But what about our future food supply?</font>
+
+279
+00:18:04,850 --> 00:18:07,020
+<font face="Trebuchet MS" size="24">{\an8}BORDER TOWN</font>
+
+280
+00:18:05,300 --> 00:18:08,080
+<font face="Roboto Medium" size="26">Border Town will start genuine trade.</font>
+
+281
+00:18:07,020 --> 00:18:10,220
+<font face="Trebuchet MS" size="24">{\an8}LONGSONG STRONGHOLD</font>
+
+282
+00:18:08,080 --> 00:18:11,600
+<font face="Roboto Medium" size="26">Sell all the ore already loaded onto 
+ships to Willow Town for currency,</font>
+
+283
+00:18:10,220 --> 00:18:13,600
+<font face="Trebuchet MS" size="24">{\an8}WILLOW TOWN</font>
+
+284
+00:18:11,600 --> 00:18:13,600
+<font face="Roboto Medium" size="26">then buy food directly there.</font>
+
+285
+00:18:14,400 --> 00:18:17,800
+<font face="Roboto Medium" size="26">But what if Willow Town doesn't buy?</font>
+
+286
+00:18:17,800 --> 00:18:21,460
+<font face="Roboto Medium" size="26">After all, they've never handled 
+such a large ore transaction before.</font>
+
+287
+00:18:21,460 --> 00:18:24,300
+<font face="Roboto Medium" size="26">We can sell to them at 
+half the market price.</font>
+
+288
+00:18:24,300 --> 00:18:26,560
+<font face="Roboto Medium" size="26">With such a large profit, 
+they won't refuse.</font>
+
+289
+00:18:26,560 --> 00:18:27,810
+<font face="Roboto Medium" size="26">Half?</font>
+
+290
+00:18:27,810 --> 00:18:31,600
+<font face="Roboto Medium" size="26">That's right. We will immediately 
+obtain substantial start-up capital</font>
+
+291
+00:18:31,600 --> 00:18:33,100
+<font face="Roboto Medium" size="26">and quickly dominate the market.</font>
+
+292
+00:18:33,100 --> 00:18:35,720
+<font face="Roboto Medium" size="26">But at such a low price...</font>
+
+293
+00:18:35,720 --> 00:18:37,210
+<font face="Roboto Medium" size="26">What about the future?</font>
+
+294
+00:18:37,210 --> 00:18:40,180
+<font face="Roboto Medium" size="26">In the future, we don't necessarily 
+have to sell to Willow Town.</font>
+
+295
+00:18:40,180 --> 00:18:42,020
+<font face="Roboto Medium" size="26">Look at this map, Barov.</font>
+
+296
+00:18:40,190 --> 00:18:42,520
+<font face="Trebuchet MS" size="24">{\an8}BORDER TOWN</font>
+
+297
+00:18:42,020 --> 00:18:43,680
+<font face="Roboto Medium" size="26">Border Town is the source 
+of the Redwater River,</font>
+
+298
+00:18:43,020 --> 00:18:44,310
+<font face="Trebuchet MS" size="24">{\an8}LONGSONG STRONGHOLD</font>
+
+299
+00:18:43,680 --> 00:18:45,240
+<font face="Roboto Medium" size="26">which flows through the entire kingdom.</font>
+
+300
+00:18:45,100 --> 00:18:46,190
+<font face="Trebuchet MS" size="24">{\an8}WILLOW TOWN</font>
+
+301
+00:18:45,240 --> 00:18:48,880
+<font face="Roboto Medium" size="26">Once we have enough ships, 
+we won't be limited to Willow Town.</font>
+
+302
+00:18:47,400 --> 00:18:48,230
+<font face="Trebuchet MS" size="24">{\an8}REDWATER CITY</font>
+
+303
+00:18:48,880 --> 00:18:52,380
+<font face="Roboto Medium" size="26">We can navigate the Redwater River 
+and trade with the entire kingdom.</font>
+
+304
+00:18:50,690 --> 00:18:52,770
+<font face="Trebuchet MS" size="24">{\an8}SILVER CITY</font>
+
+305
+00:18:52,380 --> 00:18:56,180
+<font face="Roboto Medium" size="26">The Redwater River will become 
+Border Town's Silk Road.</font>
+
+306
+00:18:54,270 --> 00:18:56,190
+<font face="Trebuchet MS" size="24">{\an8}ROYAL CAPITAL OF GRAYCASTLE</font>
+
+307
+00:18:58,140 --> 00:18:59,770
+<font face="Roboto Medium" size="26">But Your Highness,</font>
+
+308
+00:18:59,770 --> 00:19:01,930
+<font face="Roboto Medium" size="26">Border Town doesn't produce silk.</font>
+
+309
+00:19:03,450 --> 00:19:05,020
+<font face="Roboto Medium" size="26">That was just an analogy.</font>
+
+310
+00:19:05,020 --> 00:19:07,530
+<font face="Roboto Medium" size="26">In any case, we can use the Redwater River</font>
+
+311
+00:19:07,530 --> 00:19:09,680
+<font face="Roboto Medium" size="26">and comprehensively expand 
+our trading partners.</font>
+
+312
+00:19:12,750 --> 00:19:16,110
+<font face="Roboto Medium" size="26">Your Highness, although 
+expanding trade is great,</font>
+
+313
+00:19:16,110 --> 00:19:20,660
+<font face="Roboto Medium" size="26">doing so would be like snatching food
+from the Stronghold's mouth.</font>
+
+314
+00:19:20,660 --> 00:19:25,190
+<font face="Roboto Medium" size="26">In that case, they probably 
+won't take us in during winter.</font>
+
+315
+00:19:25,190 --> 00:19:28,320
+<font face="Roboto Medium" size="26">Take us in? Why do we need to 
+spend winter in the Stronghold?</font>
+
+316
+00:19:28,320 --> 00:19:31,600
+<font face="Roboto Medium" size="26">Your Highness, how could you forget this?</font>
+
+317
+00:19:31,600 --> 00:19:34,430
+<font face="Roboto Medium" size="26">Winter brings the Months of Demons!</font>
+
+318
+00:19:34,930 --> 00:19:36,430
+<font face="Roboto Medium" size="26">The Months of Demons?</font>
+
+319
+00:19:36,430 --> 00:19:39,500
+<font face="Roboto Medium" size="26">After the first snowfall each winter,</font>
+
+320
+00:19:39,500 --> 00:19:42,660
+<font face="Roboto Medium" size="26">the Gates of Hell open within 
+the Dragonspine Mountain.</font>
+
+321
+00:19:42,660 --> 00:19:45,670
+<font face="Roboto Medium" size="26">Animals from the Misty Forest 
+west of Border Town,</font>
+
+322
+00:19:45,670 --> 00:19:47,590
+<font face="Roboto Medium" size="26">corrupted by demonic power,</font>
+
+323
+00:19:47,590 --> 00:19:51,120
+<font face="Roboto Medium" size="26">will transform into ferocious 
+and bloodthirsty demon beasts.</font>
+
+324
+00:19:51,120 --> 00:19:54,840
+<font face="Roboto Medium" size="26">They surge forth in hordes from the 
+Misty Forest, attacking eastward,</font>
+
+325
+00:19:54,840 --> 00:19:57,580
+<font face="Roboto Medium" size="26">leaving devastation in their wake.</font>
+
+326
+00:19:57,580 --> 00:20:00,060
+<font face="Roboto Medium" size="26">Border Town has no walls.</font>
+
+327
+00:20:00,060 --> 00:20:02,340
+<font face="Roboto Medium" size="26">We cannot withstand the beasts' onslaught.</font>
+
+328
+00:20:02,340 --> 00:20:05,480
+<font face="Roboto Medium" size="26">Therefore, every winter, 
+the residents of Border Town</font>
+
+329
+00:20:05,480 --> 00:20:08,910
+<font face="Roboto Medium" size="26">must evacuate to 
+Longsong Stronghold for refuge.</font>
+
+330
+00:20:08,910 --> 00:20:12,610
+<font face="Roboto Medium" size="26">Only the Stronghold's towering 
+walls and elite knights</font>
+
+331
+00:20:12,610 --> 00:20:15,050
+<font face="Roboto Medium" size="26">can withstand the demon beasts' onslaught.</font>
+
+332
+00:20:15,050 --> 00:20:18,000
+<font face="Roboto Medium" size="26">Only after the beasts have 
+retreated the following spring</font>
+
+333
+00:20:18,000 --> 00:20:20,660
+<font face="Roboto Medium" size="26">can the people return to Border Town.</font>
+
+334
+00:20:20,660 --> 00:20:23,500
+<font face="Roboto Medium" size="26">Every winter, the residents 
+of Border Town must migrate.</font>
+
+335
+00:20:24,520 --> 00:20:27,880
+<font face="Roboto Medium" size="26"><i>In other words, without solving 
+the demon beast problem,</i></font>
+
+336
+00:20:27,880 --> 00:20:32,190
+<font face="Roboto Medium" size="26"><i>it's impossible to establish a foothold 
+in Border Town, develop trade,</i></font>
+
+337
+00:20:32,190 --> 00:20:33,810
+<font face="Roboto Medium" size="26"><i>resist the Stronghold,</i></font>
+
+338
+00:20:33,810 --> 00:20:36,870
+<font face="Roboto Medium" size="26"><i>or even think about the ambition 
+of claiming the throne.</i></font>
+
+339
+00:20:36,870 --> 00:20:38,080
+<font face="Roboto Medium" size="26">Summon Carter.</font>
+
+340
+00:20:39,080 --> 00:20:41,000
+<font face="Roboto Medium" size="26">Your Highness, I've brought 
+the men you requested.</font>
+
+341
+00:20:41,000 --> 00:20:42,970
+<font face="Roboto Medium" size="26">All of them have lived in 
+Border Town for over five years,</font>
+
+342
+00:20:42,970 --> 00:20:44,980
+<font face="Roboto Medium" size="26">and have experienced the Months of Demons.</font>
+
+343
+00:20:44,980 --> 00:20:46,980
+<font face="Roboto Medium" size="26">These two are the patrol 
+captains of Border Town.</font>
+
+344
+00:20:46,980 --> 00:20:49,840
+<font face="Roboto Medium" size="26">Every year, they light the beacon fires 
+during the Months of Demons.</font>
+
+345
+00:20:49,840 --> 00:20:52,320
+<font face="Roboto Medium" size="26">This hunter claims to have 
+fought the demon beasts</font>
+
+346
+00:20:52,320 --> 00:20:54,330
+<font face="Roboto Medium" size="26">and personally killed two.</font>
+
+347
+00:20:57,890 --> 00:21:00,420
+<font face="Roboto Medium" size="26">What is the procedure for 
+lighting the beacon fires?</font>
+
+348
+00:21:00,420 --> 00:21:02,090
+<font face="Roboto Medium" size="26">Y-Y-Yes...</font>
+
+349
+00:21:02,090 --> 00:21:05,700
+<font face="Roboto Medium" size="26">Y-Your... Your H-Highness...</font>
+
+350
+00:21:06,210 --> 00:21:09,210
+<font face="Roboto Medium" size="26">If the demon beasts 
+cross the Misty Forest,</font>
+
+351
+00:21:09,210 --> 00:21:11,350
+<font face="Roboto Medium" size="26">we'd go and...</font>
+
+352
+00:21:12,980 --> 00:21:15,340
+<font face="Roboto Medium" size="26">All right, don't be nervous. Relax.</font>
+
+353
+00:21:15,990 --> 00:21:16,910
+<font face="Roboto Medium" size="26">Yes...</font>
+
+354
+00:21:17,640 --> 00:21:18,730
+<font face="Roboto Medium" size="26">You speak for him.</font>
+
+355
+00:21:18,730 --> 00:21:19,350
+<font face="Roboto Medium" size="26">Yes, sir.</font>
+
+356
+00:21:20,870 --> 00:21:24,020
+<font face="Roboto Medium" size="26">Our patrol's outpost is located on
+the Dragonspine Mountain's southern slope.</font>
+
+357
+00:21:24,020 --> 00:21:25,810
+<font face="Roboto Medium" size="26">The Misty Forest lies at 
+the foot of the mountain.</font>
+
+358
+00:21:25,810 --> 00:21:29,330
+<font face="Roboto Medium" size="26">Every late fall, our patrol closely 
+monitors the Misty Forest.</font>
+
+359
+00:21:29,330 --> 00:21:32,390
+<font face="Roboto Medium" size="26">When we spot any trace of demon beasts,
+we immediately light the beacon fires.</font>
+
+360
+00:21:32,390 --> 00:21:36,000
+<font face="Roboto Medium" size="26">Then we take a fast boat along the 
+Redwater River and meet at the Stronghold.</font>
+
+361
+00:21:36,000 --> 00:21:39,740
+<font face="Roboto Medium" size="26">Fast boat? Wouldn't you get attacked 
+by demon beasts in the water?</font>
+
+362
+00:21:39,740 --> 00:21:43,270
+<font face="Roboto Medium" size="26">Your Highness, the Redwater River 
+has fierce currents and is very deep.</font>
+
+363
+00:21:43,270 --> 00:21:47,180
+<font face="Roboto Medium" size="26">In all these years, we've never recorded 
+a single case of a demon beast crossing it.</font>
+
+364
+00:21:47,180 --> 00:21:50,640
+<font face="Roboto Medium" size="26">The Dragonspine Mountain's beacon towers 
+are very close to the river bank.</font>
+
+365
+00:21:50,640 --> 00:21:53,350
+<font face="Roboto Medium" size="26">We're agile and usually aren't in danger.</font>
+
+366
+00:21:54,800 --> 00:21:56,350
+<font face="Roboto Medium" size="26">How long are the Months of Demons?</font>
+
+367
+00:21:56,650 --> 00:21:58,650
+<font face="Roboto Medium" size="26">Roughly two to three months.</font>
+
+368
+00:21:59,140 --> 00:22:01,350
+<font face="Roboto Medium" size="26">Once it starts snowing in 
+Border Town, it won't stop.</font>
+
+369
+00:22:01,350 --> 00:22:03,590
+<font face="Roboto Medium" size="26">The snow only melts 
+when the sky clears up again.</font>
+
+370
+00:22:03,590 --> 00:22:06,700
+<font face="Roboto Medium" size="26">The Months of Demons only 
+end when the snow melts.</font>
+
+371
+00:22:06,700 --> 00:22:10,200
+<font face="Roboto Medium" size="26">The longest Months of Demons 
+I experienced was two years ago.</font>
+
+372
+00:22:10,730 --> 00:22:12,910
+<font face="Roboto Medium" size="26">That one lasted nearly four months.</font>
+
+373
+00:22:12,910 --> 00:22:14,290
+<font face="Roboto Medium" size="26">Due to starvation,</font>
+
+374
+00:22:14,290 --> 00:22:16,060
+<font face="Roboto Medium" size="26">many didn't survive that winter.</font>
+
+375
+00:22:16,630 --> 00:22:19,060
+<font face="Roboto Medium" size="26">Starvation? But weren't you 
+in Longsong Stronghold?</font>
+
+376
+00:22:20,780 --> 00:22:21,930
+<font face="Roboto Medium" size="26">The Stronghold...</font>
+
+377
+00:22:22,870 --> 00:22:25,850
+<font face="Roboto Medium" size="26">They provide food based on 
+the amount of ore we give.</font>
+
+378
+00:22:25,850 --> 00:22:28,980
+<font face="Roboto Medium" size="26">If we ration carefully, 
+it lasts three months at most.</font>
+
+379
+00:22:28,980 --> 00:22:30,920
+<font face="Roboto Medium" size="26">Food for a fourth month
+wouldn't be provided</font>
+
+380
+00:22:30,920 --> 00:22:32,470
+<font face="Roboto Medium" size="26">until another batch of ore arrived.</font>
+
+381
+00:22:33,150 --> 00:22:35,410
+<font face="Roboto Medium" size="26">But the Months of Demons 
+hadn't passed yet.</font>
+
+382
+00:22:35,410 --> 00:22:38,850
+<font face="Roboto Medium" size="26">There was no way we could return 
+to Border Town to mine ore.</font>
+
+383
+00:22:38,850 --> 00:22:40,640
+<font face="Roboto Medium" size="26">In that final month,</font>
+
+384
+00:22:40,640 --> 00:22:44,350
+<font face="Roboto Medium" size="26">they watched us starve to death 
+inside Longsong Stronghold.</font>
+
+385
+00:22:54,010 --> 00:22:57,020
+<font face="Roboto Medium" size="26">You said you once killed two demon beasts.</font>
+
+386
+00:22:58,130 --> 00:23:00,160
+<font face="Roboto Medium" size="26">Yes, Your Highness.</font>
+
+387
+00:23:00,160 --> 00:23:03,200
+<font face="Roboto Medium" size="26">I killed a boar-type and a wolf-type.</font>
+
+388
+00:23:03,200 --> 00:23:05,180
+<font face="Roboto Medium" size="26">Boar-type? Wolf-type?</font>
+
+389
+00:23:05,810 --> 00:23:07,020
+<font face="Roboto Medium" size="26">What do you mean?</font>
+
+390
+00:23:07,020 --> 00:23:10,100
+<font face="Roboto Medium" size="26">Demon beasts are mutated wild animals.</font>
+
+391
+00:23:10,100 --> 00:23:12,780
+<font face="Roboto Medium" size="26">The mutation amplifies some 
+of their primal instincts.</font>
+
+392
+00:23:12,780 --> 00:23:14,410
+<font face="Roboto Medium" size="26">The fiercer the animal before mutation,</font>
+
+393
+00:23:14,410 --> 00:23:16,750
+<font face="Roboto Medium" size="26">the more formidable it becomes afterward.</font>
+
+394
+00:23:16,750 --> 00:23:20,000
+<font face="Roboto Medium" size="26">For example, the boar-type has 
+incredibly tough hide on its back.</font>
+
+395
+00:23:20,000 --> 00:23:22,640
+<font face="Roboto Medium" size="26">Even crossbows struggle to 
+pierce it from 50 meters away.</font>
+
+396
+00:23:22,640 --> 00:23:24,590
+<font face="Roboto Medium" size="26">The wolf-type can run extremely fast.</font>
+
+397
+00:23:24,590 --> 00:23:27,640
+<font face="Roboto Medium" size="26">To kill one, you have 
+to set traps in advance.</font>
+
+398
+00:23:28,060 --> 00:23:29,830
+<font face="Roboto Medium" size="26">The strong get stronger, 
+the fast get faster.</font>
+
+399
+00:23:29,830 --> 00:23:32,000
+<font face="Roboto Medium" size="26">But they're still just animals, right?</font>
+
+400
+00:23:32,000 --> 00:23:33,170
+<font face="Roboto Medium" size="26">That's correct,</font>
+
+401
+00:23:33,170 --> 00:23:35,280
+<font face="Roboto Medium" size="26">so they're not the most terrifying foes.</font>
+
+402
+00:23:35,280 --> 00:23:38,120
+<font face="Roboto Medium" size="26">The truly terrifying ones are the hybrids.</font>
+
+403
+00:23:38,120 --> 00:23:40,220
+<font face="Roboto Medium" size="26">They are the incarnations of demons.</font>
+
+404
+00:23:40,220 --> 00:23:43,670
+<font face="Roboto Medium" size="26">Only Hell could create 
+such monstrous beasts.</font>
+
+405
+00:23:43,670 --> 00:23:44,920
+<font face="Roboto Medium" size="26">Hybrids...</font>
+
+406
+00:23:45,570 --> 00:23:46,540
+<font face="Roboto Medium" size="26">Have you seen one?</font>
+
+407
+00:23:47,010 --> 00:23:49,020
+<font face="Roboto Medium" size="26">It has the strength of a lion,</font>
+
+408
+00:23:49,020 --> 00:23:50,800
+<font face="Roboto Medium" size="26">bears the wings of an eagle,</font>
+
+409
+00:23:50,800 --> 00:23:52,490
+<font face="Roboto Medium" size="26">and can fly short distances.</font>
+
+410
+00:23:52,490 --> 00:23:54,130
+<font face="Roboto Medium" size="26">It knows where you are.</font>
+
+411
+00:23:54,130 --> 00:23:55,510
+<font face="Roboto Medium" size="26">No matter how well you hide,</font>
+
+412
+00:23:55,510 --> 00:23:59,170
+<font face="Roboto Medium" size="26">it can find you with its keen 
+sense of smell and toy with you.</font>
+
+413
+00:23:59,170 --> 00:24:02,880
+<font face="Roboto Medium" size="26">It's as if it takes pleasure 
+in its prey's death throes.</font>
+
+414
+00:24:04,020 --> 00:24:06,380
+<font face="Roboto Medium" size="26">There aren't many of 
+these monsters, right?</font>
+
+415
+00:24:06,380 --> 00:24:07,940
+<font face="Roboto Medium" size="26">Yes, Your Highness.</font>
+
+416
+00:24:07,940 --> 00:24:10,270
+<font face="Roboto Medium" size="26">There are only two or three 
+in each Months of Demons.</font>
+
+417
+00:24:10,270 --> 00:24:12,150
+<font face="Roboto Medium" size="26">Fortunately, even though they have wings,</font>
+
+418
+00:24:12,150 --> 00:24:14,020
+<font face="Roboto Medium" size="26">they can only glide at low altitudes.</font>
+
+419
+00:24:14,020 --> 00:24:15,630
+<font face="Roboto Medium" size="26">Otherwise, even the walls</font>
+
+420
+00:24:15,630 --> 00:24:17,680
+<font face="Roboto Medium" size="26">of Longsong Stronghold 
+wouldn't hold them back.</font>
+
+421
+00:24:21,230 --> 00:24:24,020
+<font face="Roboto Medium" size="26">What's your name? 
+Why are you keeping your head down?</font>
+
+422
+00:24:24,540 --> 00:24:25,580
+<font face="Roboto Medium" size="26">Raise your head.</font>
+
+423
+00:24:27,280 --> 00:24:28,530
+<font face="Roboto Medium" size="26">He's from the Mojin Clan.</font>
+
+424
+00:24:28,530 --> 00:24:30,390
+<font face="Roboto Medium" size="26">A Sand person in exile, Your Highness.</font>
+
+425
+00:24:31,410 --> 00:24:32,390
+<font face="Roboto Medium" size="26">Sand person?</font>
+
+426
+00:24:33,520 --> 00:24:34,560
+<font face="Roboto Medium" size="26">No matter who you are,</font>
+
+427
+00:24:34,560 --> 00:24:36,650
+<font face="Roboto Medium" size="26">as long as you're in 
+Border Town, you're my people.</font>
+
+428
+00:24:37,320 --> 00:24:38,400
+<font face="Roboto Medium" size="26">Raise your head.</font>
+
+429
+00:24:38,400 --> 00:24:41,150
+<font face="Roboto Medium" size="26">Tell me your name.</font>
+
+430
+00:24:41,150 --> 00:24:42,970
+<font face="Roboto Medium" size="26">My name is... Iron Axe.</font>
+
+431
+00:24:43,250 --> 00:24:44,750
+<font face="Roboto Medium" size="26">Well done, Iron Axe.</font>
+
+432
+00:24:44,750 --> 00:24:46,390
+<font face="Roboto Medium" size="26">Your courage will be rewarded.</font>
+
+433
+00:24:47,200 --> 00:24:49,910
+<font face="Roboto Medium" size="26">Also, thanks to the rest of you 
+for your service and intelligence.</font>
+
+434
+00:24:49,910 --> 00:24:52,800
+<font face="Roboto Medium" size="26">Each of you will receive 
+ten silver royals as reward.</font>
+
+435
+00:24:52,800 --> 00:24:53,590
+<font face="Roboto Medium" size="26">You may leave.</font>
+
+436
+00:24:53,590 --> 00:24:56,390
+<font face="Roboto Medium" size="26">Yes. Thank you, Your Highness.</font>
+
+437
+00:25:01,970 --> 00:25:02,640
+<font face="Roboto Medium" size="26">Carter.</font>
+
+438
+00:25:02,640 --> 00:25:03,330
+<font face="Roboto Medium" size="26">Yes.</font>
+
+439
+00:25:04,480 --> 00:25:05,530
+<font face="Roboto Medium" size="26">Come with me.</font>
+
+440
+00:25:05,530 --> 00:25:06,700
+<font face="Roboto Medium" size="26">Yes, Your Highness.</font>
+
+441
+00:25:25,720 --> 00:25:29,090
+<font face="Roboto Medium" size="26"><i>Every winter, upon the first sighting 
+of traces of demonic beasts,</i></font>
+
+442
+00:25:29,090 --> 00:25:31,430
+<font face="Roboto Medium" size="26"><i>the patrols light the beacon tower.</i></font>
+
+443
+00:25:39,640 --> 00:25:43,220
+<font face="Roboto Medium" size="26"><i>Then, they rush down the mountain</i></font>
+
+444
+00:25:43,720 --> 00:25:45,980
+<font face="Roboto Medium" size="26"><i>to the nearest bank of the Redwater River.</i></font>
+
+445
+00:25:48,420 --> 00:25:52,740
+<font face="Roboto Medium" size="26">Carter, roughly how far would you say 
+it is from here to the river bank?</font>
+
+446
+00:25:53,200 --> 00:25:54,340
+<font face="Roboto Medium" size="26">Roughly...</font>
+
+447
+00:25:55,180 --> 00:25:56,560
+<font face="Roboto Medium" size="26">around 2000 feet.</font>
+
+448
+00:25:58,880 --> 00:26:01,290
+<font face="Roboto Medium" size="26">Your Highness, forgive my directness,</font>
+
+449
+00:26:01,290 --> 00:26:03,060
+<font face="Roboto Medium" size="26">but why are you investigating this?</font>
+
+450
+00:26:04,400 --> 00:26:07,950
+<font face="Roboto Medium" size="26">Don't tell me... you plan to 
+spend the winter in Border Town?</font>
+
+451
+00:26:07,950 --> 00:26:08,790
+<font face="Roboto Medium" size="26">That's right.</font>
+
+452
+00:26:09,520 --> 00:26:10,990
+<font face="Roboto Medium" size="26">Not only will I not leave,</font>
+
+453
+00:26:10,990 --> 00:26:13,270
+<font face="Roboto Medium" size="26">but neither will the 2000 
+residents of Border Town.</font>
+
+454
+00:26:13,270 --> 00:26:15,060
+<font face="Roboto Medium" size="26">Everyone will spend the winter here.</font>
+
+455
+00:26:15,520 --> 00:26:18,380
+<font face="Roboto Medium" size="26">This... This is crazy, Your Highness!</font>
+
+456
+00:26:18,380 --> 00:26:20,090
+<font face="Roboto Medium" size="26">We only have a few dozen guards.</font>
+
+457
+00:26:20,090 --> 00:26:22,290
+<font face="Roboto Medium" size="26">How can we defend against 
+the demon beasts' onslaught?</font>
+
+458
+00:26:22,290 --> 00:26:25,060
+<font face="Roboto Medium" size="26">Your castle can't fit over 2000 
+residents from Border Town!</font>
+
+459
+00:26:25,530 --> 00:26:28,190
+<font face="Roboto Medium" size="26">Only Longsong Stronghold 
+can hold all of us</font>
+
+460
+00:26:28,190 --> 00:26:30,210
+<font face="Roboto Medium" size="26">and defend against the 
+invasion of the demon beasts.</font>
+
+461
+00:26:30,210 --> 00:26:31,570
+<font face="Roboto Medium" size="26">Enough, Carter.</font>
+
+462
+00:26:31,570 --> 00:26:33,530
+<font face="Roboto Medium" size="26">Of course I don't want to die here,</font>
+
+463
+00:26:33,530 --> 00:26:35,200
+<font face="Roboto Medium" size="26">nor will I abandon my people.</font>
+
+464
+00:26:35,970 --> 00:26:37,600
+<font face="Roboto Medium" size="26">This is our battlefield.</font>
+
+465
+00:26:38,230 --> 00:26:39,560
+<font face="Roboto Medium" size="26">We will stand our ground here.</font>
+
+466
+00:26:39,560 --> 00:26:42,230
+<font face="Roboto Medium" size="26">We will crush the beasts 
+and defend Border Town.</font>
+
+467
+00:26:42,890 --> 00:26:44,060
+<font face="Roboto Medium" size="26">What are you saying?</font>
+
+468
+00:26:45,640 --> 00:26:49,200
+<font face="Roboto Medium" size="26">I mean, we will defend against 
+the demon beasts here.</font>
+
+469
+00:26:49,200 --> 00:26:53,450
+<font face="Roboto Medium" size="26">We will build the strongest wall here.</font>
+
+470
+00:26:56,060 --> 00:26:59,020
+<font face="Trebuchet MS" size="24">{\an8}Translator: Henry Lin
+Timer: Henry Lin
+Editor: Zachary Carlysle
+ QC: William Haggard</font>
+
