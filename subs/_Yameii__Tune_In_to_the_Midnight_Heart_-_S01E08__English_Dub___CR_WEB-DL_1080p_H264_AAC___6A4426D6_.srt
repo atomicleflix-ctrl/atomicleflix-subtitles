@@ -1,0 +1,50 @@
+1
+00:02:10,150 --> 00:02:12,150
+<font face="Gandhi Sans" size="24"><b>{\an8}THEATER CLUB</b></font>
+
+2
+00:07:22,960 --> 00:07:25,970
+<font face="Gandhi Sans" size="24"><b>{\an8}FEELINGS ARE IMPULSIVE</b></font>
+
+3
+00:11:27,080 --> 00:11:29,330
+<font face="Gandhi Sans" size="24"><b>{\an8}Furin High School</b></font>
+
+4
+00:15:37,960 --> 00:15:40,960
+<font face="Gandhi Sans" size="24"><b>{\an8}FEELINGS CAN ESCALATE</b></font>
+
+5
+00:18:31,510 --> 00:18:32,840
+<font face="Gandhi Sans" size="24"><b>{\an8}THEATER CLUB</b></font>
+
+6
+00:20:55,820 --> 00:20:57,940
+<font face="Gandhi Sans" size="24"><b>{\an8}NO ENTRY</b></font>
+
+7
+00:22:06,930 --> 00:22:09,930
+<font face="Gandhi Sans" size="24"><b>{\an8}PAYBACK ACHIEVED</b></font>
+
+8
+00:22:12,230 --> 00:22:17,150
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><font size="14">Translation:
+\h\h\h\h\h\h\hTiming:
+\h\h\h\h\h\h\hEditing:</font></font></b></font>
+
+9
+00:22:12,230 --> 00:22:17,150
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><font size="14">\h\hSriram Gurunathan
+Mariana Martinez
+William Haggard\h</font></font></b></font>
+
+10
+00:22:20,820 --> 00:22:25,070
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><font size="12">\h\h\h\h\hQuality Check:
+Translation Check:</font></font></b></font>
+
+11
+00:22:20,820 --> 00:22:25,070
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><font size="12">S Bilyeu\h\h\h\h\h\h\h\h\h\h\h\h\h
+Michelle Tymon</font></font></b></font>
+
