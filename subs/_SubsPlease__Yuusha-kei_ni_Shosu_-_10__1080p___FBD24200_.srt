@@ -1,0 +1,1776 @@
+1
+00:00:03,400 --> 00:00:06,150
+<font face="Roboto Medium" size="26">This is all we were able to recover.</font>
+
+2
+00:00:06,150 --> 00:00:08,710
+<font face="Roboto Medium" size="26">We found the remnants 
+in the guild fireplace,</font>
+
+3
+00:00:08,710 --> 00:00:11,290
+<font face="Roboto Medium" size="26">although most of it had burned away.</font>
+
+4
+00:00:15,510 --> 00:00:16,850
+<font face="Roboto Medium" size="26">What's this?</font>
+
+5
+00:00:17,380 --> 00:00:19,080
+<font face="Roboto Medium" size="26">A contract receipt of some kind?</font>
+
+6
+00:00:23,570 --> 00:00:26,010
+<font face="Roboto Medium" size="26"><font color="#ffffff">Mahaeyzel Zelkoff.</font></font>
+
+7
+00:00:26,820 --> 00:00:30,090
+<font face="Roboto Medium" size="26">If only we could get 
+that man into custody.</font>
+
+8
+00:00:30,450 --> 00:00:32,690
+<font face="Roboto Medium" size="26">That seems unlikely now.</font>
+
+9
+00:00:32,690 --> 00:00:37,030
+<font face="Roboto Medium" size="26">He has either left this town
+ far behind or...</font>
+
+10
+00:00:41,870 --> 00:00:43,180
+<font face="Roboto Medium" size="26">Permission denied.</font>
+
+11
+00:00:43,180 --> 00:00:45,400
+<font face="Roboto Medium" size="26">I'm not authorized to release him.</font>
+
+12
+00:00:45,400 --> 00:00:48,960
+<font face="Roboto Medium" size="26">Yes, I realize your hands are tied.</font>
+
+13
+00:00:48,960 --> 00:00:51,110
+<font face="Roboto Medium" size="26">However, circumstances have changed.</font>
+
+14
+00:00:51,380 --> 00:00:54,560
+<font face="Roboto Medium" size="26">I have a special order for his release.</font>
+
+15
+00:00:56,310 --> 00:00:58,400
+<font face="Roboto Medium" size="26">Is this genuine?</font>
+
+16
+00:00:58,400 --> 00:01:02,440
+<font face="Roboto Medium" size="26">Of course it is. That's the seal
+ of Galtuile right there.</font>
+
+17
+00:01:02,440 --> 00:01:05,870
+<font face="Roboto Medium" size="26">The local military supervisor 
+was <i>very</i> understanding.</font>
+
+18
+00:01:05,870 --> 00:01:09,520
+<font face="Roboto Medium" size="26">Of course, you're more than free
+to confirm it with them.</font>
+
+19
+00:01:09,520 --> 00:01:14,510
+<font face="Roboto Medium" size="26">But locking up a hero hardly seems 
+like punishment, don't you think?</font>
+
+20
+00:01:14,510 --> 00:01:19,390
+<font face="Roboto Medium" size="26">He'll be sleeping his days away, 
+safe and secure as can be.</font>
+
+21
+00:01:20,230 --> 00:01:21,550
+<font face="Roboto Medium" size="26">Right?</font>
+
+22
+00:01:25,060 --> 00:01:27,670
+<font face="Roboto Medium" size="26">Wait here a minute. I'll go confirm this.</font>
+
+23
+00:01:27,670 --> 00:01:29,360
+<font face="Roboto Medium" size="26">By all means, please do.</font>
+
+24
+00:01:40,370 --> 00:01:44,250
+<font face="Roboto Medium" size="26"><font face="Impact"><b><font size="45"><font color="#090000">Sentenced to Be a Hero</font></font></b></font></font>
+
+25
+00:01:44,330 --> 00:01:46,120
+<font face="Roboto Medium" size="26"><font face="Impact"><b><font size="45"><font color="#110c0e">Sentenced to Be a Hero</font></font></b></font></font>
+
+26
+00:03:05,450 --> 00:03:08,200
+<font face="Roboto Medium" size="26">I desire an outing, my knight.</font>
+
+27
+00:03:08,490 --> 00:03:10,650
+<font face="Roboto Medium" size="26">Do you not feel the same way?</font>
+
+28
+00:03:10,650 --> 00:03:13,660
+<font face="Roboto Medium" size="26">You like that zeff butter way too much.</font>
+
+29
+00:03:13,660 --> 00:03:16,110
+<font face="Roboto Medium" size="26">I can suffer no more 
+of this confinement.</font>
+
+30
+00:03:16,110 --> 00:03:18,020
+<font face="Roboto Medium" size="26">I wish to go outside.</font>
+
+31
+00:03:18,880 --> 00:03:20,880
+<font face="Roboto Medium" size="26">It's not like we have a choice.</font>
+
+32
+00:03:20,880 --> 00:03:26,560
+<font face="Roboto Medium" size="26">If you desire an outing, my goddess, 
+I recommend the Dujin Art Museum.</font>
+
+33
+00:03:27,030 --> 00:03:30,410
+<font face="Roboto Medium" size="26">It houses a collection of masterpieces 
+from the middle classical era,</font>
+
+34
+00:03:30,410 --> 00:03:34,850
+<font face="Roboto Medium" size="26">while the building itself is a showcase 
+of modern Nashida techniques.</font>
+
+35
+00:03:34,850 --> 00:03:37,060
+<font face="Roboto Medium" size="26">It has much to recommend it.</font>
+
+36
+00:03:37,060 --> 00:03:43,950
+<font face="Roboto Medium" size="26">{\an8}Of course, as a strategic port, 
+Ioff City is home to many great works...</font>
+
+37
+00:03:39,260 --> 00:03:41,980
+<font face="Roboto Medium" size="26">What's so fun about some dumb museum?</font>
+
+38
+00:03:41,980 --> 00:03:43,950
+<font face="Roboto Medium" size="26">If you wanna go out,
+ hit the ocean.</font>
+
+39
+00:03:44,490 --> 00:03:46,530
+<font face="Roboto Medium" size="26">The view's great when you fly out to sea.</font>
+
+40
+00:03:46,820 --> 00:03:49,530
+<font face="Roboto Medium" size="26">Aerial hunting in the forest 
+is a great choice, too.</font>
+
+41
+00:03:49,530 --> 00:03:51,560
+<font face="Roboto Medium" size="26">Those all assume you can fly.</font>
+
+42
+00:03:52,210 --> 00:03:55,590
+<font face="Roboto Medium" size="26">Try to think of stuff
+a <i>non-dragon</i> would like.</font>
+
+43
+00:03:55,820 --> 00:03:58,010
+<font face="Roboto Medium" size="26">Huh? You got a problem with dragons?</font>
+
+44
+00:03:58,010 --> 00:04:02,220
+<font face="Roboto Medium" size="26">I-I would accept anything. 
+I simply wish to go into town.</font>
+
+45
+00:04:02,520 --> 00:04:03,880
+<font face="Roboto Medium" size="26">Not happening.</font>
+
+46
+00:04:03,880 --> 00:04:08,290
+<font face="Roboto Medium" size="26">Did you forget there's a target on your back?
+They're never letting us out again.</font>
+
+47
+00:04:09,860 --> 00:04:11,530
+<font face="Roboto Medium" size="26">Disappointing.</font>
+
+48
+00:04:11,530 --> 00:04:12,480
+<font face="Roboto Medium" size="26">Actually...</font>
+
+49
+00:04:12,900 --> 00:04:14,610
+<font face="Roboto Medium" size="26">I can give you permission.</font>
+
+50
+00:04:14,610 --> 00:04:15,940
+<font face="Roboto Medium" size="26">You can?!</font>
+
+51
+00:04:15,940 --> 00:04:18,260
+<font face="Roboto Medium" size="26">As long as you don't go farther
+ than the Temple.</font>
+
+52
+00:04:18,260 --> 00:04:22,310
+<font face="Roboto Medium" size="26">The barracks are close, 
+and we can arrange a full security detail.</font>
+
+53
+00:04:22,310 --> 00:04:25,680
+<font face="Roboto Medium" size="26">Kivia, on occasion, you are 
+the bearer of excellent news.</font>
+
+54
+00:04:25,680 --> 00:04:27,470
+<font face="Roboto Medium" size="26">Is there a reason for this?</font>
+
+55
+00:04:27,470 --> 00:04:29,750
+<font face="Roboto Medium" size="26">Yeah, this isn't your usual MO.</font>
+
+56
+00:04:29,750 --> 00:04:35,410
+<font face="Roboto Medium" size="26">No reason. I simply wish 
+to improve Goddess Teoritta's mood.</font>
+
+57
+00:04:35,410 --> 00:04:39,290
+<font face="Roboto Medium" size="26">As you should. Xylo, you should seek
+ to curry favor with me as well.</font>
+
+58
+00:04:39,290 --> 00:04:41,110
+<font face="Roboto Medium" size="26">You're not supposed to <i>ask</i> for it.</font>
+
+59
+00:04:42,250 --> 00:04:43,380
+<font face="Roboto Medium" size="26">Xylo.</font>
+
+60
+00:04:43,740 --> 00:04:46,350
+<font face="Roboto Medium" size="26">Let High Priest Marlen 
+know about your outing.</font>
+
+61
+00:04:46,350 --> 00:04:49,500
+<font face="Roboto Medium" size="26">I'll put together a unit of 
+trustworthy soldiers for you.</font>
+
+62
+00:04:49,800 --> 00:04:51,620
+<font face="Roboto Medium" size="26">You're not coming?</font>
+
+63
+00:04:53,740 --> 00:04:55,010
+<font face="Roboto Medium" size="26">I...</font>
+
+64
+00:04:55,880 --> 00:04:57,170
+<font face="Roboto Medium" size="26">I'm busy.</font>
+
+65
+00:04:58,780 --> 00:05:02,240
+<font face="Roboto Medium" size="26">Got it. I'll look after Teoritta.</font>
+
+66
+00:05:07,160 --> 00:05:08,230
+<font face="Roboto Medium" size="26">Goddess!</font>
+
+67
+00:05:08,230 --> 00:05:10,310
+<font face="Roboto Medium" size="26">Great Goddess of Swords, Teoritta!</font>
+
+68
+00:05:10,630 --> 00:05:12,510
+<font face="Roboto Medium" size="26">Will you sign my tunic?</font>
+
+69
+00:05:12,510 --> 00:05:14,430
+<font face="Roboto Medium" size="26">Sign my book, too, please.</font>
+
+70
+00:05:14,430 --> 00:05:15,780
+<font face="Roboto Medium" size="26">All will be done!</font>
+
+71
+00:05:16,100 --> 00:05:20,790
+<font face="Roboto Medium" size="26">I, the great goddess Teoritta, 
+shall bestow my blessings upon you all.</font>
+
+72
+00:05:20,790 --> 00:05:21,950
+<font face="Roboto Medium" size="26">Yay!</font>
+
+73
+00:05:21,950 --> 00:05:22,730
+<font face="Roboto Medium" size="26">Do mine!</font>
+
+74
+00:05:22,730 --> 00:05:24,510
+<font face="Roboto Medium" size="26">And mine, Goddess Teoritta!</font>
+
+75
+00:05:24,510 --> 00:05:28,810
+<font face="Roboto Medium" size="26">There's an old superstition that a goddess's
+ signature wards off misfortune.</font>
+
+76
+00:05:25,190 --> 00:05:28,000
+<font face="Roboto Medium" size="26">{\an8}Goddess Teoritta, one for my sister!</font>
+
+77
+00:05:28,000 --> 00:05:29,830
+<font face="Roboto Medium" size="26">{\an8}And for my mom!</font>
+
+78
+00:05:28,810 --> 00:05:30,980
+<font face="Roboto Medium" size="26">I guess people still believe it.</font>
+
+79
+00:05:31,370 --> 00:05:33,230
+<font face="Roboto Medium" size="26">Get what you need, then clear out.</font>
+
+80
+00:05:34,620 --> 00:05:36,170
+<font face="Roboto Medium" size="26">Blessed goddess.</font>
+
+81
+00:05:36,170 --> 00:05:38,740
+<font face="Roboto Medium" size="26">Here. For you.</font>
+
+82
+00:05:38,740 --> 00:05:44,220
+<font face="Roboto Medium" size="26">You're no bigger than my grandchild, 
+yet you go fighting the Demon Blight.</font>
+
+83
+00:05:44,220 --> 00:05:47,760
+<font face="Roboto Medium" size="26">Indeed so. I am a truly mighty goddess.</font>
+
+84
+00:05:47,760 --> 00:05:49,400
+<font face="Roboto Medium" size="26">Do you see, my knight?</font>
+
+85
+00:05:49,400 --> 00:05:51,880
+<font face="Roboto Medium" size="26">This is the treatment all goddesses seek.</font>
+
+86
+00:05:51,880 --> 00:05:53,830
+<font face="Roboto Medium" size="26">You must take great pride in it.</font>
+
+87
+00:05:53,830 --> 00:05:55,830
+<font face="Roboto Medium" size="26">Oh, I will also share my sweets with you.</font>
+
+88
+00:05:55,830 --> 00:05:57,360
+<font face="Roboto Medium" size="26">Thanks, I'm sure.</font>
+
+89
+00:05:57,360 --> 00:05:59,530
+<font face="Roboto Medium" size="26">Still, I should probably check for poison.</font>
+
+90
+00:05:59,940 --> 00:06:03,490
+<font face="Roboto Medium" size="26">Sorry, ma'am.
+ I'll have to confiscate these.</font>
+
+91
+00:06:00,160 --> 00:06:03,540
+<font face="Roboto Medium" size="26">{\an8}Isn't that the Soaring Lightning, 
+the Demon Lord hunter?</font>
+
+92
+00:06:03,540 --> 00:06:06,080
+<font face="Roboto Medium" size="26">{\an8}He's the Thunder Falcon, Xylo Forbartz!</font>
+
+93
+00:06:06,080 --> 00:06:08,160
+<font face="Roboto Medium" size="26">{\an8}Think he'll sign something for me?</font>
+
+94
+00:06:08,160 --> 00:06:10,170
+<font face="Roboto Medium" size="26">They know about me, too?</font>
+
+95
+00:06:10,170 --> 00:06:12,970
+<font face="Roboto Medium" size="26">You've gained considerable popularity.</font>
+
+96
+00:06:13,710 --> 00:06:15,450
+<font face="Roboto Medium" size="26">High Priest Marlen.</font>
+
+97
+00:06:16,170 --> 00:06:22,060
+<font face="Roboto Medium" size="26">Word has gotten out about your deeds 
+at Mureed Fortress and Sodrick's Shell.</font>
+
+98
+00:06:22,060 --> 00:06:25,060
+<font face="Roboto Medium" size="26">Right, but I'm a penal hero.</font>
+
+99
+00:06:25,060 --> 00:06:27,320
+<font face="Roboto Medium" size="26">{\an8}It's the high priest!</font>
+
+100
+00:06:25,650 --> 00:06:28,880
+<font face="Roboto Medium" size="26">I'm sure these children 
+don't yet know what that means.</font>
+
+101
+00:06:27,700 --> 00:06:29,470
+<font face="Roboto Medium" size="26">{\an8}E-Excuse us!</font>
+
+102
+00:06:28,880 --> 00:06:32,330
+<font face="Roboto Medium" size="26">I've reevaluated you, too.</font>
+
+103
+00:06:30,510 --> 00:06:31,990
+<font face="Roboto Medium" size="26">{\an8}C'mon, let's go!</font>
+
+104
+00:06:31,990 --> 00:06:32,990
+<font face="Roboto Medium" size="26">{\an8}R-Right!</font>
+
+105
+00:06:32,330 --> 00:06:34,970
+<font face="Roboto Medium" size="26">My niece has told me
+a great deal about you.</font>
+
+106
+00:06:36,880 --> 00:06:42,670
+<font face="Roboto Medium" size="26">Patausche tends to value honor
+ over her own life.</font>
+
+107
+00:06:43,590 --> 00:06:47,070
+<font face="Roboto Medium" size="26">A desire to be remembered 
+for great deeds, I suppose.</font>
+
+108
+00:06:47,710 --> 00:06:50,090
+<font face="Roboto Medium" size="26">It's a troubling thing, don't you agree?</font>
+
+109
+00:06:50,530 --> 00:06:51,630
+<font face="Roboto Medium" size="26">Couldn't say.</font>
+
+110
+00:06:52,210 --> 00:06:54,800
+<font face="Roboto Medium" size="26">There are more people like that
+ than you'd think.</font>
+
+111
+00:06:54,800 --> 00:06:57,730
+<font face="Roboto Medium" size="26">Especially in the Demon Blight fight.</font>
+
+112
+00:06:58,270 --> 00:07:00,690
+<font face="Roboto Medium" size="26">Though I'm sure it's not easy 
+when it's your own niece.</font>
+
+113
+00:07:02,210 --> 00:07:06,370
+<font face="Roboto Medium" size="26">I care for Patausche 
+as if she were my own daughter.</font>
+
+114
+00:07:06,370 --> 00:07:10,150
+<font face="Roboto Medium" size="26">If anyone were to betray her
+ or bring her sorrow,</font>
+
+115
+00:07:10,620 --> 00:07:12,100
+<font face="Roboto Medium" size="26">they would answer to me.</font>
+
+116
+00:07:14,480 --> 00:07:16,560
+<font face="Roboto Medium" size="26">Listen to me, Xylo Forbartz.</font>
+
+117
+00:07:16,560 --> 00:07:18,750
+<font face="Roboto Medium" size="26">I understand you have a fiancée—</font>
+
+118
+00:07:19,910 --> 00:07:20,620
+<font face="Roboto Medium" size="26">What's that?</font>
+
+119
+00:07:20,620 --> 00:07:22,060
+<font face="Roboto Medium" size="26">That bell means...</font>
+
+120
+00:07:23,580 --> 00:07:25,440
+<font face="Roboto Medium" size="26">Xylo. What does it mean?</font>
+
+121
+00:07:25,440 --> 00:07:26,580
+<font face="Roboto Medium" size="26">It's an attack.</font>
+
+122
+00:07:27,070 --> 00:07:30,040
+<font face="Roboto Medium" size="26">Ioff City once more finds itself...</font>
+
+123
+00:07:30,040 --> 00:07:32,170
+<font face="Roboto Medium" size="26">under siege.</font>
+
+124
+00:07:41,450 --> 00:07:44,140
+<font face="Roboto Medium" size="26">Ah, fancy meeting you here.</font>
+
+125
+00:07:44,140 --> 00:07:47,050
+<font face="Roboto Medium" size="26">What are <i>you</i> doing in here?</font>
+
+126
+00:07:47,050 --> 00:07:51,330
+<font face="Roboto Medium" size="26">Oh, I realized I made a mistake
+ in a recent report.</font>
+
+127
+00:07:51,330 --> 00:07:53,850
+<font face="Roboto Medium" size="26">I figured I should try 
+to put it right at once.</font>
+
+128
+00:07:53,850 --> 00:07:58,290
+<font face="Roboto Medium" size="26">Crucial military and Temple documents 
+are stored here as well.</font>
+
+129
+00:07:58,290 --> 00:08:00,930
+<font face="Roboto Medium" size="26">Only officers are allowed in here.</font>
+
+130
+00:08:00,930 --> 00:08:02,910
+<font face="Roboto Medium" size="26">Oh, is that so?</font>
+
+131
+00:08:02,910 --> 00:08:05,340
+<font face="Roboto Medium" size="26">I had no idea. Do forgive me.</font>
+
+132
+00:08:07,250 --> 00:08:10,460
+<font face="Roboto Medium" size="26">We're preparing for combat.
+Get out of here.</font>
+
+133
+00:08:10,460 --> 00:08:13,560
+<font face="Roboto Medium" size="26">Yes, of course. 
+I'll get the hero unit together.</font>
+
+134
+00:08:13,560 --> 00:08:16,930
+<font face="Roboto Medium" size="26">I hope we can keep this between us.</font>
+
+135
+00:08:34,990 --> 00:08:40,380
+<font face="Roboto Medium" size="26">I wish you'd consider the fact 
+I have to free you every time.</font>
+
+136
+00:08:41,420 --> 00:08:43,100
+<font face="Roboto Medium" size="26">Oh, Xylo?</font>
+
+137
+00:08:44,350 --> 00:08:46,590
+<font face="Roboto Medium" size="26">Hello there, Comrade Xylo.</font>
+
+138
+00:08:46,900 --> 00:08:49,090
+<font face="Roboto Medium" size="26">Glad to see you're doing well.</font>
+
+139
+00:08:49,430 --> 00:08:52,740
+<font face="Roboto Medium" size="26">Seems you had quite a time
+ while I was away.</font>
+
+140
+00:08:52,740 --> 00:08:55,630
+<font face="Roboto Medium" size="26">My heart broke for you
+ in my prison cell.</font>
+
+141
+00:08:55,630 --> 00:08:58,390
+<font face="Roboto Medium" size="26">And you're as smug as ever.</font>
+
+142
+00:08:58,390 --> 00:09:02,190
+<font face="Roboto Medium" size="26">Would this be the goddess 
+everyone's talking about?</font>
+
+143
+00:09:04,010 --> 00:09:06,410
+<font face="Roboto Medium" size="26">It's my pleasure, Goddess Teoritta.</font>
+
+144
+00:09:06,410 --> 00:09:08,110
+<font face="Roboto Medium" size="26">I am Rhyno.</font>
+
+145
+00:09:08,110 --> 00:09:12,490
+<font face="Roboto Medium" size="26">I serve as artillery 
+for Penal Hero Unit 9004.</font>
+
+146
+00:09:12,490 --> 00:09:15,750
+<font face="Roboto Medium" size="26">Comrade Xylo and I are partners,
+ you might say.</font>
+
+147
+00:09:16,640 --> 00:09:18,320
+<font face="Roboto Medium" size="26">I would <i>not</i> say that.</font>
+
+148
+00:09:18,550 --> 00:09:19,980
+<font face="Roboto Medium" size="26">Hey, Venetim.</font>
+
+149
+00:09:19,980 --> 00:09:22,490
+<font face="Roboto Medium" size="26">Maybe we pulled him out too early.</font>
+
+150
+00:09:22,490 --> 00:09:24,830
+<font face="Roboto Medium" size="26">Just looking at this bastard 
+is pissing me off.</font>
+
+151
+00:09:25,290 --> 00:09:27,660
+<font face="Roboto Medium" size="26"><i>You're</i> the one who wanted him released.</font>
+
+152
+00:09:27,660 --> 00:09:31,190
+<font face="Roboto Medium" size="26">Seriously, a volunteer hero 
+getting himself stuck in a cell...</font>
+
+153
+00:09:31,190 --> 00:09:33,050
+<font face="Roboto Medium" size="26">What the hell were you thinking?</font>
+
+154
+00:09:33,250 --> 00:09:38,810
+<font face="Roboto Medium" size="26">I merely wished to be of service to the 
+vulnerable folk trampled by the faeries.</font>
+
+155
+00:09:38,810 --> 00:09:41,510
+<font face="Roboto Medium" size="26">I had no choice but to do what I did.</font>
+
+156
+00:09:41,750 --> 00:09:45,630
+<font face="Roboto Medium" size="26">You had no choice 
+but to shell civilian houses?</font>
+
+157
+00:09:45,630 --> 00:09:47,160
+<font face="Roboto Medium" size="26">That makes no damn sense.</font>
+
+158
+00:09:47,160 --> 00:09:48,470
+<font face="Roboto Medium" size="26">Now, now.</font>
+
+159
+00:09:48,860 --> 00:09:53,780
+<font face="Roboto Medium" size="26">For now, let's work together 
+to get through this latest trouble.</font>
+
+160
+00:09:54,910 --> 00:09:55,940
+<font face="Roboto Medium" size="26">Well, then.</font>
+
+161
+00:09:56,370 --> 00:09:58,800
+<font face="Roboto Medium" size="26">Ioff Cheg is the port district.</font>
+
+162
+00:09:58,800 --> 00:10:02,040
+<font face="Roboto Medium" size="26">It seems the faeries 
+first came from this area.</font>
+
+163
+00:10:02,040 --> 00:10:04,640
+<font face="Roboto Medium" size="26">The horde then moved
+to occupy this location:</font>
+
+164
+00:10:05,490 --> 00:10:08,910
+<font face="Roboto Medium" size="26">the Coral Tower, Tui Jia.</font>
+
+165
+00:10:09,680 --> 00:10:12,000
+<font face="Roboto Medium" size="26">That tower's crucial 
+to our coastal defense.</font>
+
+166
+00:10:15,090 --> 00:10:17,750
+<font face="Roboto Medium" size="26">There's a Demon Lord in the horde,</font>
+
+167
+00:10:17,750 --> 00:10:20,340
+<font face="Roboto Medium" size="26">and there's concern 
+Tua Jia will be faeried.</font>
+
+168
+00:10:21,050 --> 00:10:22,540
+<font face="Roboto Medium" size="26">It's a trap.</font>
+
+169
+00:10:21,050 --> 00:10:22,540
+<font face="Roboto Medium" size="26">{\an8}It's a trap.</font>
+
+170
+00:10:24,480 --> 00:10:26,730
+<font face="Roboto Medium" size="26">They've got artillery, too, don't they?</font>
+
+171
+00:10:26,730 --> 00:10:28,820
+<font face="Roboto Medium" size="26">With the current wind direction and speed,</font>
+
+172
+00:10:28,820 --> 00:10:32,490
+<font face="Roboto Medium" size="26">you could hit anywhere 
+in Ioff Cheg from there.</font>
+
+173
+00:10:32,810 --> 00:10:35,590
+<font face="Roboto Medium" size="26">So they're holding 
+this whole region hostage?</font>
+
+174
+00:10:36,360 --> 00:10:38,350
+<font face="Roboto Medium" size="26">What are Galtuile's orders?</font>
+
+175
+00:10:38,350 --> 00:10:40,950
+<font face="Roboto Medium" size="26">W-Well, regarding that...</font>
+
+176
+00:10:41,310 --> 00:10:44,360
+<font face="Roboto Medium" size="26">The Thirteenth Order of the Holy Knights
+ and the Ioff City Guard</font>
+
+177
+00:10:44,360 --> 00:10:46,620
+<font face="Roboto Medium" size="26">will be stationed in the inland district,</font>
+
+178
+00:10:46,620 --> 00:10:50,400
+<font face="Roboto Medium" size="26">while the hero unit alone 
+will defend the port district.</font>
+
+179
+00:10:51,760 --> 00:10:57,410
+<font face="Roboto Medium" size="26">We're to hold out until reinforcements 
+arrive to begin the counterattack.</font>
+
+180
+00:10:57,890 --> 00:11:01,910
+<font face="Roboto Medium" size="26">Wait for reinforcements? So they're
+abandoning everyone in the port district?</font>
+
+181
+00:11:01,910 --> 00:11:06,100
+<font face="Roboto Medium" size="26">I-I'm sure the Noble Alliance wish to 
+prioritize defense of the inland district.</font>
+
+182
+00:11:06,100 --> 00:11:10,150
+<font face="Roboto Medium" size="26">That's where the government facilities 
+and noble properties are concentrated.</font>
+
+183
+00:11:11,050 --> 00:11:13,570
+<font face="Roboto Medium" size="26">Damn it. Only concerned
+ about themselves.</font>
+
+184
+00:11:14,040 --> 00:11:19,960
+<font face="Roboto Medium" size="26">Listen. There's no point in getting hurt
+ or killed for a mission like this.</font>
+
+185
+00:11:20,590 --> 00:11:24,290
+<font face="Roboto Medium" size="26">W-We should probably avoid 
+any particularly aggressive plans.</font>
+
+186
+00:11:24,640 --> 00:11:26,740
+<font face="Roboto Medium" size="26">Have you no shame, Venetim?</font>
+
+187
+00:11:26,970 --> 00:11:32,720
+<font face="Roboto Medium" size="26">No matter the trials we may face, 
+we are the people's sole line of defense.</font>
+
+188
+00:11:32,720 --> 00:11:36,010
+<font face="Roboto Medium" size="26">This is a battle worth 
+laying down our lives for.</font>
+
+189
+00:11:36,680 --> 00:11:39,660
+<font face="Roboto Medium" size="26">Hey, lay off the suicidal talk for a—</font>
+
+190
+00:11:39,660 --> 00:11:41,890
+<font face="Roboto Medium" size="26">What a magnificent goddess.</font>
+
+191
+00:11:41,890 --> 00:11:46,670
+<font face="Roboto Medium" size="26">Your willingness to die is truly radiant.
+I'm in complete agreement.</font>
+
+192
+00:11:46,670 --> 00:11:50,050
+<font face="Roboto Medium" size="26">Comrade Xylo, the time 
+has come for us to fight.</font>
+
+193
+00:11:50,050 --> 00:11:54,350
+<font face="Roboto Medium" size="26">Let us join hands and fight together 
+for the people's hope and futures.</font>
+
+194
+00:11:54,350 --> 00:11:57,310
+<font face="Roboto Medium" size="26">Shut up. It's just our job either way.</font>
+
+195
+00:11:57,310 --> 00:12:00,240
+<font face="Roboto Medium" size="26">Xylo, I believe you can do this.</font>
+
+196
+00:12:00,240 --> 00:12:02,000
+<font face="Roboto Medium" size="26">I have <i>faith</i> in you.</font>
+
+197
+00:12:03,610 --> 00:12:07,920
+<font face="Roboto Medium" size="26">Yeah. I won't let those assholes
+ have their way.</font>
+
+198
+00:12:08,710 --> 00:12:11,110
+<font face="Roboto Medium" size="26">They'll pay for underestimating me.</font>
+
+199
+00:12:14,260 --> 00:12:18,670
+<font face="Roboto Medium" size="26">We'll construct our stronghold here. 
+It will be a site the people can evacuate to.</font>
+
+200
+00:12:18,670 --> 00:12:22,470
+<font face="Roboto Medium" size="26">Construct a sacred seal fence 
+in accordance with my blueprints.</font>
+
+201
+00:12:22,470 --> 00:12:23,460
+<font face="Roboto Medium" size="26">Sir!</font>
+
+202
+00:12:23,460 --> 00:12:25,630
+<font face="Roboto Medium" size="26">Next, we'll set up fires.</font>
+
+203
+00:12:25,630 --> 00:12:28,950
+<font face="Roboto Medium" size="26">Gather sacred seal-infused 
+cookware and food.</font>
+
+204
+00:12:28,950 --> 00:12:30,090
+<font face="Roboto Medium" size="26">Sir!</font>
+
+205
+00:12:30,090 --> 00:12:32,860
+<font face="Roboto Medium" size="26">Hey, what are those guild people doing here?</font>
+
+206
+00:12:32,860 --> 00:12:36,180
+<font face="Roboto Medium" size="26">Apparently, His Majesty 
+said he'd give them work.</font>
+
+207
+00:12:36,180 --> 00:12:39,010
+<font face="Roboto Medium" size="26">Guaranteed them salaries and titles, too.</font>
+
+208
+00:12:39,010 --> 00:12:40,420
+<font face="Roboto Medium" size="26">Titles?</font>
+
+209
+00:12:41,070 --> 00:12:45,150
+<font face="Roboto Medium" size="26">First, let's go gather the wood! 
+As much as your arms can carry!</font>
+
+210
+00:12:45,150 --> 00:12:45,740
+<font face="Roboto Medium" size="26">Sir!</font>
+
+211
+00:12:45,740 --> 00:12:48,720
+<font face="Roboto Medium" size="26">{\an8}Hurry it up! Look lively!</font>
+
+212
+00:12:46,440 --> 00:12:49,710
+<font face="Roboto Medium" size="26">Well, better than them 
+becoming highwaymen, I guess.</font>
+
+213
+00:13:00,890 --> 00:13:03,100
+<font face="Roboto Medium" size="26">Very hot, but very good.</font>
+
+214
+00:13:03,100 --> 00:13:04,340
+<font face="Roboto Medium" size="26">Here, Tatsuya.</font>
+
+215
+00:13:04,880 --> 00:13:06,350
+<font face="Roboto Medium" size="26">Have some.</font>
+
+216
+00:13:08,800 --> 00:13:10,800
+<font face="Roboto Medium" size="26">You idiot. Not with your hands.</font>
+
+217
+00:13:11,350 --> 00:13:13,230
+<font face="Roboto Medium" size="26">That is what happens when you rush.</font>
+
+218
+00:13:13,230 --> 00:13:15,770
+<font face="Roboto Medium" size="26">You're spilling yours, too.</font>
+
+219
+00:13:18,570 --> 00:13:21,680
+<font face="Roboto Medium" size="26">A hot meal invigorates
+ a soldier's spirit.</font>
+
+220
+00:13:22,440 --> 00:13:27,400
+<font face="Roboto Medium" size="26">Prioritizing securing meals... 
+Comrade Norgalle is a brilliant leader.</font>
+
+221
+00:13:27,400 --> 00:13:28,870
+<font face="Roboto Medium" size="26">Wonderful, isn't it?</font>
+
+222
+00:13:29,360 --> 00:13:31,900
+<font face="Roboto Medium" size="26">Th-That is quite an outfit.</font>
+
+223
+00:13:31,900 --> 00:13:34,550
+<font face="Roboto Medium" size="26">A Neven Artillery Seal Compound.</font>
+
+224
+00:13:34,550 --> 00:13:38,590
+<font face="Roboto Medium" size="26">Don't ask me why he's got 
+that old-fashioned armor on.</font>
+
+225
+00:13:40,340 --> 00:13:44,100
+<font face="Roboto Medium" size="26">I thought we'd have the whole unit
+ back together at last.</font>
+
+226
+00:13:44,100 --> 00:13:47,780
+<font face="Roboto Medium" size="26">Won't Comrade Tsav 
+and Comrade Jayce be joining us?</font>
+
+227
+00:13:48,420 --> 00:13:51,020
+<font face="Roboto Medium" size="26">Tsav's getting treated for his arm.</font>
+
+228
+00:13:51,020 --> 00:13:55,780
+<font face="Roboto Medium" size="26">But in the circumstances, they'll likely do
+ the bare minimum and send him to us.</font>
+
+229
+00:13:55,780 --> 00:13:56,980
+<font face="Roboto Medium" size="26">Ow, ow, ow!</font>
+
+230
+00:13:56,980 --> 00:13:58,530
+<font face="Roboto Medium" size="26">And Comrade Jayce?</font>
+
+231
+00:13:58,530 --> 00:14:00,650
+<font face="Roboto Medium" size="26">He didn't receive the order to deploy?</font>
+
+232
+00:14:00,940 --> 00:14:03,600
+<font face="Roboto Medium" size="26">Venetim's negotiating that now.</font>
+
+233
+00:14:03,600 --> 00:14:06,770
+<font face="Roboto Medium" size="26">They think sending a dragon 
+for urban warfare is too dangerous,</font>
+
+234
+00:14:06,770 --> 00:14:08,650
+<font face="Roboto Medium" size="26">but he'll make it happen.</font>
+
+235
+00:14:08,920 --> 00:14:11,110
+<font face="Roboto Medium" size="26">His Majesty probably 
+won't leave the base.</font>
+
+236
+00:14:11,360 --> 00:14:14,330
+<font face="Roboto Medium" size="26">We need Dotta out scouting.</font>
+
+237
+00:14:14,650 --> 00:14:17,290
+<font face="Roboto Medium" size="26">So it'll just be the four of us
+ heading to Tua Jia.</font>
+
+238
+00:14:17,290 --> 00:14:18,710
+<font face="Roboto Medium" size="26">Which, I have to say...</font>
+
+239
+00:14:19,460 --> 00:14:21,980
+<font face="Roboto Medium" size="26">is clearly not enough.</font>
+
+240
+00:14:22,710 --> 00:14:25,770
+<font face="Roboto Medium" size="26">Could I make a suggestion?</font>
+
+241
+00:14:27,430 --> 00:14:29,170
+<font face="Roboto Medium" size="26">Sure, why not?</font>
+
+242
+00:14:29,630 --> 00:14:32,450
+<font face="Roboto Medium" size="26">I can shell the wall down.</font>
+
+243
+00:14:32,450 --> 00:14:34,910
+<font face="Roboto Medium" size="26">Flood the inland district with faeries,</font>
+
+244
+00:14:34,910 --> 00:14:37,840
+<font face="Roboto Medium" size="26">and the other soldiers 
+will be forced to fight.</font>
+
+245
+00:14:37,840 --> 00:14:40,050
+<font face="Roboto Medium" size="26">It'll solve our manpower issue.</font>
+
+246
+00:14:42,160 --> 00:14:46,110
+<font face="Roboto Medium" size="26">Pain and suffering 
+should be shared equally.</font>
+
+247
+00:14:46,110 --> 00:14:49,890
+<font face="Roboto Medium" size="26">It's a beautiful thing. 
+It's how humans form bonds.</font>
+
+248
+00:14:50,650 --> 00:14:53,410
+<font face="Roboto Medium" size="26">Uh, my knight, this man is...</font>
+
+249
+00:14:53,410 --> 00:14:54,830
+<font face="Roboto Medium" size="26">Yeah, I know.</font>
+
+250
+00:14:55,240 --> 00:14:56,520
+<font face="Roboto Medium" size="26">Request denied.</font>
+
+251
+00:14:56,520 --> 00:14:59,300
+<font face="Roboto Medium" size="26">You'll put civilians in danger, idiot.</font>
+
+252
+00:15:00,130 --> 00:15:03,380
+<font face="Roboto Medium" size="26">Do you have a better idea, Comrade Xylo?</font>
+
+253
+00:15:03,380 --> 00:15:07,510
+<font face="Roboto Medium" size="26">Rhyno, it's not bonds 
+that motivate most people.</font>
+
+254
+00:15:07,840 --> 00:15:09,240
+<font face="Roboto Medium" size="26">It's profit.</font>
+
+255
+00:15:09,990 --> 00:15:12,670
+<font face="Roboto Medium" size="26">Shell the ships moored in the harbor.</font>
+
+256
+00:15:13,220 --> 00:15:15,510
+<font face="Roboto Medium" size="26">You can hit them from here, right?</font>
+
+257
+00:15:16,230 --> 00:15:20,300
+<font face="Roboto Medium" size="26">Yes, I see. You really 
+are brilliant, Comrade Xylo.</font>
+
+258
+00:15:20,300 --> 00:15:23,240
+<font face="Roboto Medium" size="26">Then we're taking that down.</font>
+
+259
+00:15:23,890 --> 00:15:27,530
+<font face="Roboto Medium" size="26">We'll take back Tui Jia 
+and kill the Demon Lord.</font>
+
+260
+00:15:36,480 --> 00:15:39,720
+<font face="Roboto Medium" size="26">Captain Kivia. We'd like 
+your instructions for the mission.</font>
+
+261
+00:15:39,720 --> 00:15:42,250
+<font face="Roboto Medium" size="26">Right. I'm on my way.</font>
+
+262
+00:15:45,660 --> 00:15:48,190
+<font face="Roboto Medium" size="26">It's a foolish order, 
+no matter how you slice it.</font>
+
+263
+00:15:48,190 --> 00:15:49,730
+<font face="Roboto Medium" size="26">I'm afraid we have no choice.</font>
+
+264
+00:15:49,730 --> 00:15:52,140
+<font face="Roboto Medium" size="26">Keeping the support 
+of the nobles is vital.</font>
+
+265
+00:15:52,140 --> 00:15:55,850
+<font face="Roboto Medium" size="26">There are a lot of Temple buildings 
+in that district as well.</font>
+
+266
+00:15:56,880 --> 00:15:59,840
+<font face="Roboto Medium" size="26">Ah, so sorry to barge in.</font>
+
+267
+00:15:59,840 --> 00:16:04,800
+<font face="Roboto Medium" size="26">What do you want? The hero unit 
+should be in the field already.</font>
+
+268
+00:16:04,800 --> 00:16:10,180
+<font face="Roboto Medium" size="26">Yes, indeed. As their commander, I'd love 
+to be there, rallying them to the cause...</font>
+
+269
+00:16:10,960 --> 00:16:16,490
+<font face="Roboto Medium" size="26">But I fear faeries have attacked 
+the sacred seal vessels in the harbor.</font>
+
+270
+00:16:16,490 --> 00:16:17,570
+<font face="Roboto Medium" size="26">What?</font>
+
+271
+00:16:17,570 --> 00:16:21,920
+<font face="Roboto Medium" size="26">The loss of the Temple's resources
+ is simply unacceptable.</font>
+
+272
+00:16:21,920 --> 00:16:25,450
+<font face="Roboto Medium" size="26">I seek permission to make use
+ of our dragon.</font>
+
+273
+00:16:25,450 --> 00:16:29,650
+<font face="Roboto Medium" size="26">Ridiculous. Why would the faeries 
+attack sacred seal vessels first?</font>
+
+274
+00:16:29,650 --> 00:16:30,590
+<font face="Roboto Medium" size="26">New orders!</font>
+
+275
+00:16:30,870 --> 00:16:33,240
+<font face="Roboto Medium" size="26">A large sacred seal vessel 
+is currently on fire!</font>
+
+276
+00:16:35,150 --> 00:16:38,160
+<font face="Roboto Medium" size="26">The Temple is requesting our aid.</font>
+
+277
+00:16:40,200 --> 00:16:42,230
+<font face="Roboto Medium" size="26">Thank you. Dismissed.</font>
+
+278
+00:16:42,230 --> 00:16:42,840
+<font face="Roboto Medium" size="26">Ma'am!</font>
+
+279
+00:16:46,050 --> 00:16:49,090
+<font face="Roboto Medium" size="26">I see. You were telling the truth.</font>
+
+280
+00:16:49,090 --> 00:16:50,520
+<font face="Roboto Medium" size="26">So it's all true.</font>
+
+281
+00:16:50,520 --> 00:16:54,250
+<font face="Roboto Medium" size="26">I also found it hard to believe 
+when I first heard the news.</font>
+
+282
+00:16:54,250 --> 00:16:56,350
+<font face="Roboto Medium" size="26">A terrible shame, isn't it?</font>
+
+283
+00:16:58,460 --> 00:16:59,630
+<font face="Roboto Medium" size="26">Very well.</font>
+
+284
+00:16:59,950 --> 00:17:01,940
+<font face="Roboto Medium" size="26">I authorize your unit to use a dragon.</font>
+
+285
+00:17:01,940 --> 00:17:02,960
+<font face="Roboto Medium" size="26">Captain?</font>
+
+286
+00:17:02,960 --> 00:17:05,910
+<font face="Roboto Medium" size="26">The Temple's request 
+is all the reason we need.</font>
+
+287
+00:17:05,910 --> 00:17:07,800
+<font face="Roboto Medium" size="26">We'll also send some of our soldiers.</font>
+
+288
+00:17:08,210 --> 00:17:10,760
+<font face="Roboto Medium" size="26">Your generosity is most appreciated.</font>
+
+289
+00:17:11,160 --> 00:17:12,750
+<font face="Roboto Medium" size="26">Oh, and...</font>
+
+290
+00:17:12,750 --> 00:17:16,210
+<font face="Roboto Medium" size="26">Give my regards to High Priest Marlen.</font>
+
+291
+00:17:17,820 --> 00:17:20,420
+<font face="Roboto Medium" size="26">What's that supposed to mean?</font>
+
+292
+00:17:20,420 --> 00:17:22,380
+<font face="Roboto Medium" size="26">Huh? Oh, I was merely—</font>
+
+293
+00:17:22,380 --> 00:17:23,970
+<font face="Roboto Medium" size="26">What was that about my uncle?</font>
+
+294
+00:17:23,970 --> 00:17:25,610
+<font face="Roboto Medium" size="26">What are you insinuating?</font>
+
+295
+00:17:25,610 --> 00:17:27,820
+<font face="Roboto Medium" size="26">I-I swear, I wasn't—</font>
+
+296
+00:17:29,050 --> 00:17:33,050
+<font face="Roboto Medium" size="26">My uncle, High Priest Marlen,
+ is a great man!</font>
+
+297
+00:17:33,050 --> 00:17:35,250
+<font face="Roboto Medium" size="26">He's devoted his life to the Temple!</font>
+
+298
+00:17:35,250 --> 00:17:37,940
+<font face="Roboto Medium" size="26">His support for me and the Holy Knights
+ has never wavered!</font>
+
+299
+00:17:38,230 --> 00:17:41,200
+<font face="Roboto Medium" size="26">And yet, you dare...</font>
+
+300
+00:17:41,200 --> 00:17:43,230
+<font face="Roboto Medium" size="26">Y-You have it all wrong.</font>
+
+301
+00:17:43,230 --> 00:17:46,630
+<font face="Roboto Medium" size="26">It's just, well...</font>
+
+302
+00:17:47,020 --> 00:17:50,170
+<font face="Roboto Medium" size="26">I have a suggestion about security 
+in the underground waterway.</font>
+
+303
+00:18:03,970 --> 00:18:05,060
+<font face="Roboto Medium" size="26">Run!</font>
+
+304
+00:18:05,060 --> 00:18:06,460
+<font face="Roboto Medium" size="26">No, not that way!</font>
+
+305
+00:18:06,460 --> 00:18:07,930
+<font face="Roboto Medium" size="26">Get to the shelter!</font>
+
+306
+00:18:09,800 --> 00:18:12,730
+<font face="Roboto Medium" size="26">Xylo! They're coming right for us! Bogies!</font>
+
+307
+00:18:12,730 --> 00:18:14,740
+<font face="Roboto Medium" size="26">From the right, too! You're surrounded!</font>
+
+308
+00:18:14,740 --> 00:18:17,830
+<font face="Roboto Medium" size="26">Right! Dotta, keep an eye on the situation.</font>
+
+309
+00:18:18,620 --> 00:18:19,600
+<font face="Roboto Medium" size="26">Incoming!</font>
+
+310
+00:18:22,320 --> 00:18:24,130
+<font face="Roboto Medium" size="26">Well, well...</font>
+
+311
+00:18:24,520 --> 00:18:26,800
+<font face="Roboto Medium" size="26">Bogies are the bane of artillery.</font>
+
+312
+00:18:26,800 --> 00:18:28,910
+<font face="Roboto Medium" size="26">Comrade Xylo, if you please?</font>
+
+313
+00:18:28,910 --> 00:18:30,100
+<font face="Roboto Medium" size="26">Got it.</font>
+
+314
+00:18:38,380 --> 00:18:40,510
+<font face="Roboto Medium" size="26">Let's get in there too, Teoritta.</font>
+
+315
+00:18:40,510 --> 00:18:41,270
+<font face="Roboto Medium" size="26">Right.</font>
+
+316
+00:18:41,620 --> 00:18:43,740
+<font face="Roboto Medium" size="26">I shall grant you my blessing!</font>
+
+317
+00:18:54,350 --> 00:18:56,260
+<font face="Roboto Medium" size="26">Get gone!</font>
+
+318
+00:18:59,020 --> 00:19:02,400
+<font face="Roboto Medium" size="26">Truly, nothing beats 
+a comrade hero by your side.</font>
+
+319
+00:19:02,400 --> 00:19:04,410
+<font face="Roboto Medium" size="26">How lucky I am.</font>
+
+320
+00:19:05,420 --> 00:19:08,030
+<font face="Roboto Medium" size="26">Keep running. We'll charge 
+all the way to Tui Jia—</font>
+
+321
+00:19:08,030 --> 00:19:08,870
+<font face="Roboto Medium" size="26"><i>Wait!</i></font>
+
+322
+00:19:09,110 --> 00:19:12,330
+<font face="Roboto Medium" size="26">There's a warehouse up ahead. Um...</font>
+
+323
+00:19:12,330 --> 00:19:16,610
+<font face="Roboto Medium" size="26">It's got a Verkle Corp mark,
+ and the braziers are lit.</font>
+
+324
+00:19:16,610 --> 00:19:20,270
+<font face="Roboto Medium" size="26">I think people are holed up inside. 
+And the faeries are swarming it.</font>
+
+325
+00:19:20,540 --> 00:19:22,500
+<font face="Roboto Medium" size="26">They improvised a shelter?</font>
+
+326
+00:19:22,500 --> 00:19:24,160
+<font face="Roboto Medium" size="26">Of all the damn times...</font>
+
+327
+00:19:24,160 --> 00:19:26,750
+<font face="Roboto Medium" size="26">What should we do, Comrade Xylo?</font>
+
+328
+00:19:26,750 --> 00:19:30,980
+<font face="Roboto Medium" size="26">Xylo. This would be an honorable battle.</font>
+
+329
+00:19:31,770 --> 00:19:33,020
+<font face="Roboto Medium" size="26">I wish...</font>
+
+330
+00:19:33,690 --> 00:19:34,920
+<font face="Roboto Medium" size="26">Yeah, I know.</font>
+
+331
+00:19:44,310 --> 00:19:47,340
+<font face="Roboto Medium" size="26">Rhyno, I'll be working you to death.</font>
+
+332
+00:19:47,340 --> 00:19:48,410
+<font face="Roboto Medium" size="26">Get ready.</font>
+
+333
+00:19:48,410 --> 00:19:49,450
+<font face="Roboto Medium" size="26">But of course.</font>
+
+334
+00:19:50,630 --> 00:19:55,660
+<font face="Roboto Medium" size="26">For the sake of strangers whose names
+ I'll never know, I serve gladly.</font>
+
+335
+00:19:57,880 --> 00:19:59,790
+<font face="Roboto Medium" size="26">Isn't this fun?</font>
+
+336
+00:20:19,500 --> 00:20:21,970
+<font face="Roboto Medium" size="26">The breaking flash seal was a direct hit.</font>
+
+337
+00:20:21,970 --> 00:20:24,830
+<font face="Roboto Medium" size="26">We make a great team, don't we?</font>
+
+338
+00:20:24,830 --> 00:20:27,200
+<font face="Roboto Medium" size="26">You especially, Goddess Teoritta.</font>
+
+339
+00:20:27,200 --> 00:20:29,280
+<font face="Roboto Medium" size="26">Your power is incredible.</font>
+
+340
+00:20:29,280 --> 00:20:31,100
+<font face="Roboto Medium" size="26">Y-Yes.</font>
+
+341
+00:20:31,100 --> 00:20:35,580
+<font face="Roboto Medium" size="26">Though I feel strangely ambivalent 
+about your praise.</font>
+
+342
+00:20:37,370 --> 00:20:40,110
+<font face="Roboto Medium" size="26">There's no need to be 
+so uncomfortable around me.</font>
+
+343
+00:20:40,110 --> 00:20:42,300
+<font face="Roboto Medium" size="26">You and I are really very similar.</font>
+
+344
+00:20:42,300 --> 00:20:44,140
+<font face="Roboto Medium" size="26">You're not similar at all.</font>
+
+345
+00:20:44,470 --> 00:20:46,940
+<font face="Roboto Medium" size="26">Anyway, the Holy Knights 
+should be on the move now.</font>
+
+346
+00:20:46,940 --> 00:20:48,540
+<font face="Roboto Medium" size="26">Isn't that right, Venetim?</font>
+
+347
+00:20:48,540 --> 00:20:50,550
+<font face="Roboto Medium" size="26"><i>What? O-Oh, yes!</i></font>
+
+348
+00:20:50,550 --> 00:20:53,490
+<font face="Roboto Medium" size="26"><i>I managed to get permission 
+for Jayce to participate.</i></font>
+
+349
+00:20:53,490 --> 00:20:55,620
+<font face="Roboto Medium" size="26"><i>And I got the underground 
+waterway locked down.</i></font>
+
+350
+00:20:55,620 --> 00:20:56,520
+<font face="Roboto Medium" size="26">The waterway?</font>
+
+351
+00:20:56,850 --> 00:20:58,450
+<font face="Roboto Medium" size="26">Was it invaded?</font>
+
+352
+00:20:58,450 --> 00:21:01,670
+<font face="Roboto Medium" size="26"><i>Actually, it was 
+a spur-of-the-moment suggestion.</i></font>
+
+353
+00:21:01,670 --> 00:21:03,740
+<font face="Roboto Medium" size="26">You did that off the cuff? Seriously?</font>
+
+354
+00:21:03,740 --> 00:21:05,920
+<font face="Roboto Medium" size="26">Well, seems like a good idea to me.</font>
+
+355
+00:21:05,920 --> 00:21:08,480
+<font face="Roboto Medium" size="26">Defense of the urban area 
+should be taken seriously.</font>
+
+356
+00:21:08,770 --> 00:21:12,590
+<font face="Roboto Medium" size="26">Frenci and the night-gaunts 
+are defending the urban area.</font>
+
+357
+00:21:12,590 --> 00:21:14,420
+<font face="Roboto Medium" size="26">Spriggan's still out there, too.</font>
+
+358
+00:21:14,420 --> 00:21:15,570
+<font face="Roboto Medium" size="26"><i>Uh, Xylo!</i></font>
+
+359
+00:21:15,570 --> 00:21:18,210
+<font face="Roboto Medium" size="26">Ahead and to the right! On the roofs!</font>
+
+360
+00:21:18,210 --> 00:21:19,850
+<font face="Roboto Medium" size="26"><i>That's really not good!</i></font>
+
+361
+00:21:20,660 --> 00:21:22,460
+<font face="Roboto Medium" size="26">What's not good?</font>
+
+362
+00:21:26,040 --> 00:21:27,880
+<font face="Roboto Medium" size="26">Oh, lightning staffs?</font>
+
+363
+00:21:27,880 --> 00:21:30,010
+<font face="Roboto Medium" size="26">So they can use sacred seals?</font>
+
+364
+00:21:30,010 --> 00:21:31,360
+<font face="Roboto Medium" size="26">Are you kidding me?</font>
+
+365
+00:21:31,360 --> 00:21:33,090
+<font face="Roboto Medium" size="26">Did the coexisters arrange this?</font>
+
+366
+00:21:33,490 --> 00:21:34,300
+<font face="Roboto Medium" size="26">Rhyno!</font>
+
+367
+00:21:35,640 --> 00:21:37,350
+<font face="Roboto Medium" size="26">Yes, I see.</font>
+
+368
+00:21:48,180 --> 00:21:50,360
+<font face="Roboto Medium" size="26">Good. No damage.</font>
+
+369
+00:21:50,360 --> 00:21:53,150
+<font face="Roboto Medium" size="26">Though it did drain some luminescence.</font>
+
+370
+00:21:55,860 --> 00:21:58,550
+<font face="Roboto Medium" size="26">Damn it. I'd like to duck 
+into an alley, but—</font>
+
+371
+00:21:58,550 --> 00:22:01,040
+<font face="Roboto Medium" size="26">No time for delays.</font>
+
+372
+00:22:01,040 --> 00:22:02,110
+<font face="Roboto Medium" size="26">Wait, don't—</font>
+
+373
+00:22:12,840 --> 00:22:15,600
+<font face="Roboto Medium" size="26">Th-The houses...</font>
+
+374
+00:22:16,070 --> 00:22:19,260
+<font face="Roboto Medium" size="26">Well, saving lives takes priority, after all.</font>
+
+375
+00:22:19,550 --> 00:22:21,680
+<font face="Roboto Medium" size="26">That's not the problem here.</font>
+
+376
+00:22:22,240 --> 00:22:26,720
+<font face="Roboto Medium" size="26">Now, onward.
+To the people awaiting our salvation.</font>
+
+377
+00:22:27,110 --> 00:22:28,040
+<font face="Roboto Medium" size="26">Go!</font>
+
+378
+00:22:28,040 --> 00:22:28,820
+<font face="Roboto Medium" size="26">Kill them all!</font>
+
+379
+00:22:31,080 --> 00:22:33,280
+<font face="Roboto Medium" size="26">Don't let them into the inland district!</font>
+
+380
+00:22:33,280 --> 00:22:34,670
+<font face="Roboto Medium" size="26">Fire!</font>
+
+381
+00:22:37,250 --> 00:22:39,430
+<font face="Roboto Medium" size="26">Good. These are the last of them.</font>
+
+382
+00:22:39,430 --> 00:22:40,750
+<font face="Roboto Medium" size="26">Fire!</font>
+
+383
+00:22:42,220 --> 00:22:45,420
+<font face="Roboto Medium" size="26">So they locked down the waterway?</font>
+
+384
+00:22:45,420 --> 00:22:50,180
+<font face="Roboto Medium" size="26">We'd planned to send 
+the faeries in that way.</font>
+
+385
+00:22:50,180 --> 00:22:52,690
+<font face="Roboto Medium" size="26">Impressive planning.</font>
+
+386
+00:22:53,260 --> 00:22:55,250
+<font face="Roboto Medium" size="26">You have my praise.</font>
+
+387
+00:22:55,880 --> 00:22:57,710
+<font face="Roboto Medium" size="26">What? Someone's there.</font>
+
+388
+00:22:57,710 --> 00:22:58,770
+<font face="Roboto Medium" size="26">A faerie?</font>
+
+389
+00:22:59,070 --> 00:23:00,540
+<font face="Roboto Medium" size="26">A-A human?</font>
+
+390
+00:23:00,540 --> 00:23:02,740
+<font face="Roboto Medium" size="26">Who are you? What are you doing there?</font>
+
+391
+00:23:02,740 --> 00:23:06,630
+<font face="Roboto Medium" size="26">I would advise you not to resist.</font>
+
+392
+00:23:07,330 --> 00:23:10,470
+<font face="Roboto Medium" size="26">A painful death is a pitiable thing.</font>
+
+393
+00:23:32,270 --> 00:23:33,550
+<font face="Roboto Medium" size="26">{\an8}Uncle!</font>
+
+394
+00:23:33,550 --> 00:23:36,430
+<font face="Roboto Medium" size="26">{\an8}Patausche. Thank you for coming.</font>
+
+395
+00:23:36,430 --> 00:23:39,400
+<font face="Roboto Medium" size="26">{\an8}I hear faeries have been sighted 
+in the inland district?</font>
+
+396
+00:23:39,400 --> 00:23:42,420
+<font face="Roboto Medium" size="26">{\an8}Yes. I received word from the guards.</font>
+
+397
+00:23:42,420 --> 00:23:44,780
+<font face="Roboto Medium" size="26">{\an8}They seem to have come in
+ through the waterway.</font>
+
+398
+00:23:55,350 --> 00:23:57,890
+<font face="Roboto Medium" size="26">{\an8}The military and the Temple 
+are working together?</font>
+
+399
+00:23:58,370 --> 00:24:01,270
+<font face="Roboto Medium" size="26">{\an8}Did you coordinate this, Uncle?</font>
+
+400
+00:24:01,270 --> 00:24:04,550
+<font face="Roboto Medium" size="26">{\an8}This is no time for us 
+to be butting heads.</font>
+
+401
+00:24:04,550 --> 00:24:09,170
+<font face="Roboto Medium" size="26">{\an8}What is a high priest for 
+if he can't bring people together?</font>
+
+402
+00:24:09,680 --> 00:24:14,170
+<font face="Roboto Medium" size="26">This peril will strengthen the bonds 
+between military and Temple more than ever.</font>
+
+403
+00:24:14,480 --> 00:24:19,190
+<font face="Roboto Medium" size="26">Those bonds are what will 
+bring humanity our victory.</font>
+
+404
+00:24:19,920 --> 00:24:21,260
+<font face="Roboto Medium" size="26">Uncle.</font>
+
+405
+00:24:23,360 --> 00:24:26,830
+<font face="Roboto Medium" size="26">{\an8}I am moved by your words, Uncle.</font>
+
+406
+00:24:26,830 --> 00:24:29,290
+<font face="Roboto Medium" size="26">{\an8}I'm counting on you, Patausche.</font>
+
+407
+00:24:29,290 --> 00:24:31,810
+<font face="Roboto Medium" size="26">{\an8}Let's overcome this trial together.</font>
+
+408
+00:24:31,810 --> 00:24:32,880
+<font face="Roboto Medium" size="26">{\an8}Right.</font>
+
+409
+00:24:38,710 --> 00:24:42,200
+<font face="Roboto Medium" size="26">{\an8}May Saint Mahaeyzel protect us.</font>
+
+410
+00:24:44,700 --> 00:24:47,080
+<font face="Roboto Medium" size="26">{\an8}Now, let's go on the attack.</font>
+
