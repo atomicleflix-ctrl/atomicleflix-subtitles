@@ -1,0 +1,16 @@
+1
+00:01:30,400 --> 00:01:31,000
+<font face="Gandhi Sans" size="24"><b><b><font face="Arial"><font color="#ff060f">m 0 0 l 100 0 100 100 0 100</font></font></b></b></font>
+
+2
+00:01:30,400 --> 00:01:34,820
+<font face="Gandhi Sans" size="24"><b><b><font face="Arial">Sparks Fly</font></b></b></font>
+
+3
+00:10:29,790 --> 00:10:32,860
+<font face="Gandhi Sans" size="24"><b>{\an8}<font size="18"><font color="#feffce">Only Child <font color="#fff8b7">Stuff!</font></font></font></b></font>
+
+4
+00:15:13,140 --> 00:15:15,260
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="28"><font color="#000000">Two Years Ago</font></font></font></b></font>
+
