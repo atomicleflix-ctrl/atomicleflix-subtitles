@@ -1,0 +1,1637 @@
+1
+00:00:02,210 --> 00:00:04,420
+<font size="27"><b>{\an7}ALLEN: AGE 10</b></font>
+
+2
+00:00:02,210 --> 00:00:04,420
+<font size="27"><b>{\an7}OCTOBER</b></font>
+
+3
+00:00:04,830 --> 00:00:08,170
+<font face="Roboto Medium" size="52">I commend you on the past
+six months of recon, Zenof.</font>
+
+4
+00:00:08,540 --> 00:00:10,750
+<font face="Roboto Medium" size="52">So, what is the status of the mines?</font>
+
+5
+00:00:10,920 --> 00:00:14,920
+<font face="Roboto Medium" size="52">Unfortunately, during the long stretch
+of time they went unused,</font>
+
+6
+00:00:15,250 --> 00:00:17,670
+<font face="Roboto Medium" size="52">the mines have become
+a nesting ground for monsters.</font>
+
+7
+00:00:19,040 --> 00:00:21,380
+<font face="Roboto Medium" size="52">It doesn't end with the four mining sites.</font>
+
+8
+00:00:21,630 --> 00:00:25,210
+<font face="Roboto Medium" size="52">The nearby villages that served
+as mithril refineries have also been taken over</font>
+
+9
+00:00:25,210 --> 00:00:26,330
+<font face="Roboto Medium" size="52">by orcs and goblins.</font>
+
+10
+00:00:26,790 --> 00:00:29,630
+<font face="Roboto Medium" size="52">I would like to get
+the closest mine up and running.</font>
+
+11
+00:00:30,540 --> 00:00:32,750
+<font face="Roboto Medium" size="52">How long do you imagine that will take?</font>
+
+12
+00:00:33,040 --> 00:00:34,710
+<font face="Roboto Medium" size="52">At least 3 years.</font>
+
+13
+00:00:34,710 --> 00:00:35,830
+<font face="Roboto Medium" size="52">That long?!</font>
+
+14
+00:00:36,330 --> 00:00:39,790
+<font face="Roboto Medium" size="52">I realize it won't be an easy job,
+but please get it done as quickly as you can.</font>
+
+15
+00:00:40,170 --> 00:00:40,920
+<font face="Roboto Medium" size="52">Yessir.</font>
+
+16
+00:00:41,040 --> 00:00:42,790
+<font face="Roboto Medium" size="52">He's being awfully impatient.</font>
+
+17
+00:00:43,040 --> 00:00:45,790
+<font face="Roboto Medium" size="52">I mean, I get how important it is
+for the economy, but...</font>
+
+18
+00:00:46,330 --> 00:00:49,330
+<font face="Roboto Medium" size="52">On another note,
+what has Viscount Carnel been doing?</font>
+
+19
+00:00:50,130 --> 00:00:54,210
+<font face="Roboto Medium" size="52">He tried to push ahead with their mining
+operations and incurred the White Dragon's wrath.</font>
+
+20
+00:00:54,790 --> 00:00:57,920
+<font face="Roboto Medium" size="52">Word is that all his miners were turned to ash
+in the blink of an eye.</font>
+
+21
+00:00:58,790 --> 00:01:02,830
+<font face="Roboto Medium" size="52">There's no telling what he'll do
+now that his mines will have to shut down.</font>
+
+22
+00:01:03,460 --> 00:01:05,460
+<font face="Roboto Medium" size="52">We must proceed with utmost caution.</font>
+
+23
+00:01:05,670 --> 00:01:06,250
+<font face="Roboto Medium" size="52">Yessir.</font>
+
+24
+00:01:06,500 --> 00:01:10,830
+<font face="Roboto Medium" size="52">So, the time has finally come, huh? The knights
+are going to wipe out all the monsters.</font>
+
+25
+00:01:11,960 --> 00:01:14,330
+<font size="27" color="#ffffca"><b>{\an7}YOU HAVE DEFEATED 1 ORC.</b></font>
+
+26
+00:01:11,960 --> 00:01:14,330
+<font size="27" color="#ffffca"><b>{\an7}YOU HAVE EARNED 15,000 EXP.</b></font>
+
+27
+00:01:16,330 --> 00:01:19,500
+<font face="Roboto Medium" size="52">Well, I've made the most
+out of these last six months.</font>
+
+28
+00:01:19,880 --> 00:01:23,880
+<font face="Roboto Medium" size="52">Once I turn twelve, I'm going to leave
+the Granvelles to become an adventurer.</font>
+
+29
+00:01:24,500 --> 00:01:25,460
+<font face="Roboto Medium" size="52">I still have two years left.</font>
+
+30
+00:01:25,920 --> 00:01:29,710
+<font face="Roboto Medium" size="52">I'll spend that time returning the favor
+by exterminating some monsters.</font>
+
+31
+00:01:30,500 --> 00:01:33,540
+<font face="Roboto Medium" size="52">I won't let the knights hog all the EXP!</font>
+
+32
+00:03:05,580 --> 00:03:10,630
+<font size="27"><b>{\an7}EPISODE 10: THE NOBLE'S DUTY</b></font>
+
+33
+00:03:14,130 --> 00:03:15,420
+<font face="Roboto Medium" size="52">Sic 'em, Teddy!</font>
+
+34
+00:03:18,330 --> 00:03:21,580
+<font face="Roboto Medium" size="52">Let the monsters respawn
+by leaving their spawn point intact.</font>
+
+35
+00:03:22,130 --> 00:03:25,420
+<font face="Roboto Medium" size="52">Back when I was a gamer,
+that's the strategy I would've used</font>
+
+36
+00:03:25,420 --> 00:03:27,630
+<font face="Roboto Medium" size="52">to farm EXP over and over in the same spot.</font>
+
+37
+00:03:28,250 --> 00:03:29,630
+<font face="Roboto Medium" size="52">But this is a different story.</font>
+
+38
+00:03:30,170 --> 00:03:32,330
+<font face="Roboto Medium" size="52">Cuz these assholes feed off humans!</font>
+
+39
+00:03:33,880 --> 00:03:34,670
+<font face="Roboto Medium" size="52">Spidey!</font>
+
+40
+00:03:36,960 --> 00:03:39,670
+<font face="Roboto Medium" size="52">These goblins will only kill more people
+unless I put a stop to them.</font>
+
+41
+00:03:40,290 --> 00:03:43,920
+<font face="Roboto Medium" size="52">So it's time to wipe them off the map entirely!</font>
+
+42
+00:03:44,540 --> 00:03:46,170
+<font face="Roboto Medium" size="52">Go! Teddy squadron!</font>
+
+43
+00:03:53,210 --> 00:03:54,500
+<font face="Roboto Medium" size="52">There's no escape.</font>
+
+44
+00:03:55,290 --> 00:03:56,880
+<font face="Roboto Medium" size="52">I've already blocked off the only exit.</font>
+
+45
+00:03:59,580 --> 00:04:02,500
+<font face="Roboto Medium" size="52">They're dropping like flies.
+Time to throw a "ggez" in chat.</font>
+
+46
+00:04:07,210 --> 00:04:10,750
+<font face="Roboto Medium" size="52">Here comes the big, bad Goblin King.
+But he's not intimidating anybody.</font>
+
+47
+00:04:11,080 --> 00:04:14,540
+<font face="Roboto Medium" size="52">My team has defeated thousands
+of C-rank monsters at this point.</font>
+
+48
+00:04:14,790 --> 00:04:16,500
+<font face="Roboto Medium" size="52">They're gonna steamroll him.</font>
+
+49
+00:04:22,250 --> 00:04:26,170
+<font size="27" color="#ffffca"><b>{\an7}YOU HAVE EARNED 4,200 EXP.</b></font>
+
+50
+00:04:22,250 --> 00:04:26,170
+<font size="27" color="#ffffca"><b>{\an7}YOU HAVE EARNED 4,200 EXP.</b></font>
+
+51
+00:04:26,290 --> 00:04:29,880
+<font face="Roboto Medium" size="52">I racked up a total of
+48,800 EXP from today's battle.</font>
+
+52
+00:04:30,210 --> 00:04:33,040
+<font face="Roboto Medium" size="52">Sounds about right for a couple hundred goblins.</font>
+
+53
+00:04:33,500 --> 00:04:37,080
+<font face="Roboto Medium" size="52">I'm going to wipe out the goblin boroughs
+scattered around here one by one, just like this.</font>
+
+54
+00:04:37,500 --> 00:04:39,170
+<font face="Roboto Medium" size="52">And then, eventually,</font>
+
+55
+00:04:39,460 --> 00:04:42,040
+<font face="Roboto Medium" size="52">the orc borough ruled by the Orc King!</font>
+
+56
+00:04:44,330 --> 00:04:47,210
+<font size="27"><b>{\an7}MARCH OF THE NEW YEAR</b></font>
+
+57
+00:04:49,670 --> 00:04:51,080
+<font face="Roboto Medium" size="52">Elder Brother!</font>
+
+58
+00:04:51,290 --> 00:04:53,540
+<font face="Roboto Medium" size="52">Congratulations on graduating from the Academy!</font>
+
+59
+00:04:53,830 --> 00:04:55,420
+<font face="Roboto Medium" size="52">I'm excited you'll be living with us again!</font>
+
+60
+00:04:56,670 --> 00:04:58,880
+<font face="Roboto Medium" size="52">You're already ten this year, huh, Cecil?</font>
+
+61
+00:04:59,210 --> 00:05:00,420
+<font face="Roboto Medium" size="52">What about it?</font>
+
+62
+00:05:01,000 --> 00:05:01,960
+<font face="Roboto Medium" size="52">Say, Allen?</font>
+
+63
+00:05:02,130 --> 00:05:02,830
+<font face="Roboto Medium" size="52">Yes?</font>
+
+64
+00:05:08,540 --> 00:05:11,080
+<font face="Roboto Medium" size="52">It is just me, or is something wrong with Mihai?</font>
+
+65
+00:05:11,080 --> 00:05:14,290
+<font face="Roboto Medium" size="52">I thought so, too. I've never seen him like this.</font>
+
+66
+00:05:16,670 --> 00:05:19,670
+<font face="Roboto Medium" size="52">Now that I'm ten years old,
+the age restriction on my stats is gone.</font>
+
+67
+00:05:19,830 --> 00:05:22,040
+<font face="Roboto Medium" size="52">That means I'm getting
+the full benefits of my level.</font>
+
+68
+00:05:22,790 --> 00:05:24,540
+<font face="Roboto Medium" size="52">I made 30 copies of Spidey,</font>
+
+69
+00:05:24,750 --> 00:05:26,080
+<font face="Roboto Medium" size="52">and 20 copies of Teddy.</font>
+
+70
+00:05:26,630 --> 00:05:28,750
+<font size="14"><b>{\an7}TALENT: SUMMONER</b></font>
+
+71
+00:05:26,630 --> 00:05:28,750
+<font size="14"><b>{\an7}LEVEL: 34</b></font>
+
+72
+00:05:26,630 --> 00:05:28,750
+<font size="14"><b>{\an7}HP:</b></font>
+
+73
+00:05:26,630 --> 00:05:28,750
+<font size="14"><b>{\an7}MP:</b></font>
+
+74
+00:05:26,630 --> 00:05:28,750
+<font size="14"><b>{\an7}ATTACK:</b></font>
+
+75
+00:05:26,630 --> 00:05:28,750
+<font size="14"><b>{\an7}ENDURANCE:</b></font>
+
+76
+00:05:26,630 --> 00:05:28,750
+<font size="14"><b>{\an7}AGILITY:</b></font>
+
+77
+00:05:26,630 --> 00:05:28,750
+<font size="14"><b>{\an7}INTELLIGENCE:</b></font>
+
+78
+00:05:26,630 --> 00:05:28,750
+<font size="14"><b>{\an7}LUCK:</b></font>
+
+79
+00:05:26,630 --> 00:05:28,750
+<font size="14"><b>{\an7}SKILLS:         SUMMON (5), CREATE (5), FUSE (5)</b></font>
+
+80
+00:05:26,630 --> 00:05:28,750
+<font size="14"><b>{\an7}ENHANCE (5), EXPANSION (4), STORAGE, SHARE,</b></font>
+
+81
+00:05:26,640 --> 00:05:28,750
+<font size="14"><b>{\an7}DELETE, SWORD MASTERY (3), THROW (3)</b></font>
+
+82
+00:05:26,640 --> 00:05:28,750
+<font size="14"><b>{\an7}EXP:</b></font>
+
+83
+00:05:26,640 --> 00:05:28,750
+<font size="14"><b>{\an7}SKILL LEVELS</b></font>
+
+84
+00:05:26,640 --> 00:05:28,750
+<font size="14"><b>{\an7}SUMMON: 5</b></font>
+
+85
+00:05:26,640 --> 00:05:28,750
+<font size="14"><b>{\an7}CREATE: 5    EXP</b></font>
+
+86
+00:05:26,640 --> 00:05:28,750
+<font size="14"><b>{\an7}FUSE: 5      EXP</b></font>
+
+87
+00:05:26,640 --> 00:05:28,750
+<font size="14"><b>{\an7}ENHANCE: 5      EXP</b></font>
+
+88
+00:05:26,640 --> 00:05:28,750
+<font size="14"><b>{\an7}SUMMONS AVAILABLE FOR CREATION:</b></font>
+
+89
+00:05:26,640 --> 00:05:28,750
+<font size="14"><b>{\an7}INSECTS: DEFGH   BEASTS: DEFGH   BIRDS: DEFG   GRASS: DEF</b></font>
+
+90
+00:05:26,640 --> 00:05:28,750
+<font size="14"><b>{\an7}STONES: DE     FISH: D</b></font>
+
+91
+00:05:26,650 --> 00:05:28,750
+<font size="14"><b>{\an7}NAME: ALLEN</b></font>
+
+92
+00:05:26,650 --> 00:05:28,750
+<font size="14"><b>{\an7}AGE: 10</b></font>
+
+93
+00:05:26,650 --> 00:05:28,750
+<font size="14"><b>{\an7}INVENTORY:</b></font>
+
+94
+00:05:26,650 --> 00:05:28,750
+<font size="14"><b>{\an7}INSECTS D 30 COPIES    BEASTS D 30 COPIES   BIRDS    GRASS</b></font>
+
+95
+00:05:26,650 --> 00:05:28,750
+<font size="14"><b>{\an7}STONES           FISH</b></font>
+
+96
+00:05:26,880 --> 00:05:28,630
+<font face="Roboto Medium" size="52">This is me at my very best...</font>
+
+97
+00:05:29,000 --> 00:05:30,630
+<font face="Roboto Medium" size="52">for right now, anyway.</font>
+
+98
+00:05:32,130 --> 00:05:33,000
+<font face="Roboto Medium" size="52">Say, Allen?</font>
+
+99
+00:05:33,250 --> 00:05:34,000
+<font face="Roboto Medium" size="52">Yes?</font>
+
+100
+00:05:34,380 --> 00:05:36,290
+<font face="Roboto Medium" size="52">Will you duel me with no holds barred?</font>
+
+101
+00:05:37,540 --> 00:05:39,080
+<font face="Roboto Medium" size="52">He didn't even need to ask.</font>
+
+102
+00:05:39,710 --> 00:05:41,920
+<font face="Roboto Medium" size="52">I'm out to win this year! Maximum effort!</font>
+
+103
+00:05:44,580 --> 00:05:45,380
+<font face="Roboto Medium" size="52">Thank you.</font>
+
+104
+00:05:46,500 --> 00:05:47,210
+<font face="Roboto Medium" size="52">Begin!</font>
+
+105
+00:05:48,830 --> 00:05:50,580
+<font face="Roboto Medium" size="52">I'm twice as fast as last year!</font>
+
+106
+00:05:51,130 --> 00:05:52,250
+<font face="Roboto Medium" size="52">And I'm going straight for the win!</font>
+
+107
+00:05:59,580 --> 00:06:02,330
+<font face="Roboto Medium" size="52">Why can't I land a hit?
+I should be faster than him!</font>
+
+108
+00:06:04,710 --> 00:06:06,500
+<font face="Roboto Medium" size="52">Is he just reading all my moves?</font>
+
+109
+00:06:10,000 --> 00:06:12,040
+<font face="Roboto Medium" size="52">Dammit! It's my Sword Mastery skill!</font>
+
+110
+00:06:12,460 --> 00:06:14,250
+<font face="Roboto Medium" size="52">The level is too low!</font>
+
+111
+00:06:17,500 --> 00:06:19,000
+<font face="Roboto Medium" size="52">He still hits like a truck!</font>
+
+112
+00:06:20,040 --> 00:06:20,670
+<font face="Roboto Medium" size="52">Crap!</font>
+
+113
+00:06:24,330 --> 00:06:25,210
+<font face="Roboto Medium" size="52">The duel is over!</font>
+
+114
+00:06:27,290 --> 00:06:28,290
+<font face="Roboto Medium" size="52">I lost...</font>
+
+115
+00:06:29,420 --> 00:06:31,580
+<font face="Roboto Medium" size="52">I couldn't throw him off balance,
+even with my superior speed.</font>
+
+116
+00:06:32,170 --> 00:06:33,290
+<font face="Roboto Medium" size="52">Did I need a bigger agility boost?</font>
+
+117
+00:06:33,710 --> 00:06:37,830
+<font face="Roboto Medium" size="52">No, he already overpowers me, so lowering
+my attack stat would just make things worse...</font>
+
+118
+00:06:38,250 --> 00:06:40,330
+<font face="Roboto Medium" size="52">The Granvelle huntsman doesn't disappoint.</font>
+
+119
+00:06:41,000 --> 00:06:42,500
+<font face="Roboto Medium" size="52">You had me sweating there.</font>
+
+120
+00:06:42,960 --> 00:06:45,040
+<font face="Roboto Medium" size="52">Right. Thank you for the...</font>
+
+121
+00:06:48,290 --> 00:06:49,040
+<font face="Roboto Medium" size="52">Mihai.</font>
+
+122
+00:06:50,000 --> 00:06:52,790
+<font face="Roboto Medium" size="52">You've put in hard work at the Academy
+over the past three years.</font>
+
+123
+00:06:53,330 --> 00:06:55,170
+<font face="Roboto Medium" size="52">It's clear from how skillful you've become.</font>
+
+124
+00:06:55,920 --> 00:06:58,380
+<font face="Roboto Medium" size="52">Thank you, Father.</font>
+
+125
+00:06:59,790 --> 00:07:01,960
+<font face="Roboto Medium" size="52">You're pretty tough, Allen!</font>
+
+126
+00:07:02,250 --> 00:07:04,920
+<font face="Roboto Medium" size="52">Still no match for my brother, though.</font>
+
+127
+00:07:04,920 --> 00:07:06,330
+<font face="Roboto Medium" size="52">Who are you to talk?</font>
+
+128
+00:07:06,750 --> 00:07:10,170
+<font face="Roboto Medium" size="52">Oh, hey! You should have Mihai
+start giving you lessons now that he's back.</font>
+
+129
+00:07:10,250 --> 00:07:12,500
+<font face="Roboto Medium" size="52">I would love to learn from him!</font>
+
+130
+00:07:12,500 --> 00:07:14,830
+<font face="Roboto Medium" size="52">Oh, let me join in, too!</font>
+
+131
+00:07:15,250 --> 00:07:16,630
+<font face="Roboto Medium" size="52">Cecil, Thomas.</font>
+
+132
+00:07:16,960 --> 00:07:18,460
+<font face="Roboto Medium" size="52">I need to speak with you two.</font>
+
+133
+00:07:19,040 --> 00:07:20,630
+<font face="Roboto Medium" size="52">What is it, Elder Brother?</font>
+
+134
+00:07:21,460 --> 00:07:24,830
+<font face="Roboto Medium" size="52">I must leave to undertake the Noble's Duty.</font>
+
+135
+00:07:25,420 --> 00:07:27,170
+<font face="Roboto Medium" size="52">I won't be coming home anytime soon.</font>
+
+136
+00:07:27,500 --> 00:07:28,250
+<font face="Roboto Medium" size="52">Huh?</font>
+
+137
+00:07:29,080 --> 00:07:31,580
+<font face="Roboto Medium" size="52">I'm sorry. I know this comes as a surprise.</font>
+
+138
+00:07:31,790 --> 00:07:34,040
+<font face="Roboto Medium" size="52">Hold on. What kind of duty is it?</font>
+
+139
+00:07:34,040 --> 00:07:35,670
+<font face="Roboto Medium" size="52">I'm afraid I can't say...</font>
+
+140
+00:07:35,670 --> 00:07:37,290
+<font face="Roboto Medium" size="52">When do you have to leave?</font>
+
+141
+00:07:37,670 --> 00:07:38,670
+<font face="Roboto Medium" size="52">Tomorrow.</font>
+
+142
+00:07:40,750 --> 00:07:41,960
+<font face="Roboto Medium" size="52">Father?</font>
+
+143
+00:07:46,250 --> 00:07:49,710
+<font face="Roboto Medium" size="52">But I was so excited to have you home again...</font>
+
+144
+00:07:50,040 --> 00:07:53,380
+<font face="Roboto Medium" size="52">Don't fret. I'll be back in three years.</font>
+
+145
+00:07:53,710 --> 00:07:54,750
+<font face="Roboto Medium" size="52">Three years?!</font>
+
+146
+00:07:55,830 --> 00:07:57,040
+<font face="Roboto Medium" size="52">It takes that long?</font>
+
+147
+00:07:57,750 --> 00:07:58,670
+<font face="Roboto Medium" size="52">Cecil...</font>
+
+148
+00:07:58,880 --> 00:08:00,460
+<font face="Roboto Medium" size="52">Don't cry.</font>
+
+149
+00:08:00,920 --> 00:08:02,250
+<font face="Roboto Medium" size="52">I see.</font>
+
+150
+00:08:02,630 --> 00:08:08,750
+<font face="Roboto Medium" size="52">It's such a shame, Baron Granvelle.
+Two of your three kids got saddled with a talent.</font>
+
+151
+00:08:08,750 --> 00:08:11,920
+<font face="Roboto Medium" size="52">I seem to recall your eldest son
+also had a talent, Viscount!</font>
+
+152
+00:08:12,380 --> 00:08:16,000
+<font face="Roboto Medium" size="52">You know how it goes.
+We must fulfill the Noble's Duty.</font>
+
+153
+00:08:16,790 --> 00:08:20,630
+<font face="Roboto Medium" size="52">The baron knew this would happen all along.</font>
+
+154
+00:08:21,500 --> 00:08:23,580
+<font face="Roboto Medium" size="52">The Noble's Duty, huh?</font>
+
+155
+00:08:24,210 --> 00:08:25,830
+<font face="Roboto Medium" size="52">Sounds ominous as hell.</font>
+
+156
+00:08:30,540 --> 00:08:33,460
+<font face="Roboto Medium" size="52">I'll be waiting for you
+to come back, Elder Brother.</font>
+
+157
+00:08:33,790 --> 00:08:36,460
+<font face="Roboto Medium" size="52">Thanks. See you later, Cecil.</font>
+
+158
+00:08:37,000 --> 00:08:39,330
+<font face="Roboto Medium" size="52">You're the pride of our family, son.</font>
+
+159
+00:08:39,750 --> 00:08:42,710
+<font face="Roboto Medium" size="52">Fulfill your duty and come back to us, okay?</font>
+
+160
+00:08:43,830 --> 00:08:44,460
+<font face="Roboto Medium" size="52">Right.</font>
+
+161
+00:08:52,130 --> 00:08:55,290
+<font face="Roboto Medium" size="52">Allen. Watch after Cecil for me.</font>
+
+162
+00:08:56,250 --> 00:08:57,670
+<font face="Roboto Medium" size="52">Keep her safe, okay?</font>
+
+163
+00:08:58,500 --> 00:09:01,210
+<font face="Roboto Medium" size="52">Huh? Uh, sure.</font>
+
+164
+00:09:03,790 --> 00:09:07,380
+<font face="Roboto Medium" size="52">Farewell. I'm off to uphold the Granvelle name.</font>
+
+165
+00:09:09,040 --> 00:09:10,670
+<font face="Roboto Medium" size="52">We'll miss you!</font>
+
+166
+00:09:11,000 --> 00:09:13,080
+<font face="Roboto Medium" size="44">Don't forget about us!</font>
+
+167
+00:09:11,000 --> 00:09:13,080
+<font face="Roboto Medium" size="52">Felt like he was trembling.</font>
+
+168
+00:09:13,080 --> 00:09:14,380
+<font face="Roboto Medium" size="52">Was it just my imagination?</font>
+
+169
+00:09:15,880 --> 00:09:18,750
+<font size="27"><b>{\an7}ALLEN: AGE 10</b></font>
+
+170
+00:09:15,880 --> 00:09:18,750
+<font size="27"><b>{\an7}MAY OF THE FOLLOWING YEAR</b></font>
+
+171
+00:09:22,000 --> 00:09:25,040
+<font face="Roboto Medium" size="52">I've subjugated every goblin borough
+in the area over the past six months.</font>
+
+172
+00:09:25,330 --> 00:09:27,500
+<font face="Roboto Medium" size="52">And now I'm level 35.</font>
+
+173
+00:09:27,750 --> 00:09:29,040
+<font size="27"><b>{\an7}NAME:           ALLEN</b></font>
+
+174
+00:09:27,750 --> 00:09:29,040
+<font size="27"><b>{\an7}AGE:</b></font>
+
+175
+00:09:27,750 --> 00:09:29,040
+<font size="27"><b>{\an7}TALENT:</b></font>
+
+176
+00:09:27,750 --> 00:09:29,040
+<font size="27"><b>{\an7}LEVEL:</b></font>
+
+177
+00:09:27,750 --> 00:09:29,040
+<font size="27"><b>{\an7}HP:</b></font>
+
+178
+00:09:27,750 --> 00:09:29,040
+<font size="27"><b>{\an7}MP:</b></font>
+
+179
+00:09:27,760 --> 00:09:29,040
+<font size="27"><b>{\an7}ATTACK:</b></font>
+
+180
+00:09:27,760 --> 00:09:29,040
+<font size="27"><b>{\an7}ENDURANCE:</b></font>
+
+181
+00:09:27,760 --> 00:09:29,040
+<font size="27"><b>{\an7}AGILITY:</b></font>
+
+182
+00:09:27,760 --> 00:09:29,040
+<font size="27"><b>{\an7}INTELLIGENCE:</b></font>
+
+183
+00:09:27,760 --> 00:09:29,040
+<font size="27"><b>{\an7}LUCK:</b></font>
+
+184
+00:09:28,290 --> 00:09:29,500
+<font face="Roboto Medium" size="52">The time is ripe.</font>
+
+185
+00:09:29,040 --> 00:09:30,210
+<font size="27"><b>{\an7}SKILLS:           SUMMON (5), CREATE (5), FUSE (5)</b></font>
+
+186
+00:09:29,040 --> 00:09:30,210
+<font size="27"><b>{\an7}ENHANCE (5), EXPANSION (4), STORAGE, SHARE,</b></font>
+
+187
+00:09:29,040 --> 00:09:30,210
+<font size="27"><b>{\an7}DELETE, SWORD MASTERY (3), THROW (3)</b></font>
+
+188
+00:09:29,040 --> 00:09:30,210
+<font size="27"><b>{\an7}EXP:</b></font>
+
+189
+00:09:30,580 --> 00:09:31,790
+<font face="Roboto Medium" size="52">Ready up, team!</font>
+
+190
+00:09:32,130 --> 00:09:34,330
+<font face="Roboto Medium" size="52">Let's wreck this orc borough!</font>
+
+191
+00:09:36,960 --> 00:09:41,040
+<font face="Roboto Medium" size="52">Fillet's evasion boost is working wonders.
+My guys are kicking ass one-on-one.</font>
+
+192
+00:09:41,790 --> 00:09:43,250
+<font face="Roboto Medium" size="52">Bron! Use Protect!</font>
+
+193
+00:09:45,170 --> 00:09:46,960
+<font face="Roboto Medium" size="52">Man, Bron comes in real clutch.</font>
+
+194
+00:09:47,170 --> 00:09:52,830
+<font face="Roboto Medium" size="52">I wonder if he's taking any damage? Not being able
+to see the current HP of my summons is a problem.</font>
+
+195
+00:09:53,330 --> 00:09:55,540
+<font face="Roboto Medium" size="52">Although they can fight inexhaustibly,</font>
+
+196
+00:09:55,540 --> 00:09:58,000
+<font face="Roboto Medium" size="52">they disappear without warning
+after taking too much damage.</font>
+
+197
+00:09:58,630 --> 00:10:00,460
+<font face="Roboto Medium" size="52">Come on, Spidey! I need two more of you!</font>
+
+198
+00:09:58,710 --> 00:10:00,250
+<font size="27"><b>{\an7}INSECT D</b></font>
+
+199
+00:09:58,710 --> 00:10:00,250
+<font size="27"><b>{\an7}INSECT D</b></font>
+
+200
+00:09:58,710 --> 00:10:00,250
+<font size="27"><b>{\an7}ENDURANCE +20, AGILITY +20</b></font>
+
+201
+00:09:58,710 --> 00:10:00,250
+<font size="27"><b>{\an7}ENDURANCE +20, AGILITY +20</b></font>
+
+202
+00:10:00,830 --> 00:10:02,080
+<font face="Roboto Medium" size="52">Lock down those archers!</font>
+
+203
+00:10:05,170 --> 00:10:07,670
+<font face="Roboto Medium" size="52">Perfect. Time to press our attack!</font>
+
+204
+00:10:16,580 --> 00:10:19,790
+<font face="Roboto Medium" size="52">Looks to be a hundred of 'em.
+No, more like two hundred.</font>
+
+205
+00:10:20,380 --> 00:10:22,210
+<font face="Roboto Medium" size="52">Gimme all that delicious EXP!</font>
+
+206
+00:10:22,790 --> 00:10:23,790
+<font face="Roboto Medium" size="52">Take 'em down!</font>
+
+207
+00:10:26,790 --> 00:10:28,710
+<font face="Roboto Medium" size="52">Auxiliary team, get in there!</font>
+
+208
+00:10:29,290 --> 00:10:32,630
+<font face="Roboto Medium" size="52">Hot damn! I'm practically swimming in EXP!</font>
+
+209
+00:10:33,080 --> 00:10:35,420
+<font face="Roboto Medium" size="52">The plan is working great so far.</font>
+
+210
+00:10:35,750 --> 00:10:38,750
+<font face="Roboto Medium" size="52">But the orcs are putting up more a fight
+than the goblins did.</font>
+
+211
+00:10:42,630 --> 00:10:43,130
+<font face="Roboto Medium" size="52">Bron!</font>
+
+212
+00:10:45,790 --> 00:10:46,790
+<font face="Roboto Medium" size="52">What was that?!</font>
+
+213
+00:10:47,290 --> 00:10:48,380
+<font face="Roboto Medium" size="52">It must've been a spell.</font>
+
+214
+00:10:50,040 --> 00:10:53,500
+<font face="Roboto Medium" size="52">Is that an Orc King?
+No, there should only be one of those.</font>
+
+215
+00:10:56,540 --> 00:11:00,130
+<font face="Roboto Medium" size="52">So, my first real look at magic in this world
+is thanks to a monster?</font>
+
+216
+00:11:00,460 --> 00:11:02,130
+<font face="Roboto Medium" size="52">Funny, since I can't cast any myself.</font>
+
+217
+00:11:02,420 --> 00:11:04,290
+<font face="Roboto Medium" size="52">Pro gamer mode on, baby.</font>
+
+218
+00:11:06,710 --> 00:11:07,380
+<font face="Roboto Medium" size="52">Brace for a second wave!</font>
+
+219
+00:11:08,330 --> 00:11:09,170
+<font face="Roboto Medium" size="52">Man, that's hot!</font>
+
+220
+00:11:11,000 --> 00:11:14,130
+<font face="Roboto Medium" size="52">Damn. They hit my forces in the rear
+where Bron can't cover.</font>
+
+221
+00:11:14,580 --> 00:11:15,880
+<font face="Roboto Medium" size="52">You're gonna pay for that!</font>
+
+222
+00:11:16,210 --> 00:11:17,210
+<font face="Roboto Medium" size="52">Eat lead, sucker!</font>
+
+223
+00:11:18,880 --> 00:11:21,330
+<font face="Roboto Medium" size="52">Hell yeah! I can OHKO these fools!</font>
+
+224
+00:11:21,540 --> 00:11:23,170
+<font face="Roboto Medium" size="52">I have two steel balls left.</font>
+
+225
+00:11:23,170 --> 00:11:24,830
+<font face="Roboto Medium" size="52">I just need to not miss...</font>
+
+226
+00:11:25,960 --> 00:11:27,210
+<font face="Roboto Medium" size="52">Uh, where'd they go?</font>
+
+227
+00:11:30,880 --> 00:11:34,080
+<font face="Roboto Medium" size="52">Dammit! They moved out of my range!</font>
+
+228
+00:11:34,080 --> 00:11:38,040
+<font face="Roboto Medium" size="52">These damn swine are smart!
+They even know to aim for me.</font>
+
+229
+00:11:48,000 --> 00:11:51,210
+<font face="Roboto Medium" size="52">This is a scene straight outta Hell.
+They've still got a hundred troops or so.</font>
+
+230
+00:11:52,210 --> 00:11:54,710
+<font face="Roboto Medium" size="52">I better quit playing defense
+and make this a war of attrition.</font>
+
+231
+00:11:55,040 --> 00:11:57,000
+<font face="Roboto Medium" size="52">I've got plenty of D-rank magic stones.</font>
+
+232
+00:11:57,330 --> 00:11:59,960
+<font face="Roboto Medium" size="52">I can summon more than 20,000 copies
+of Teddy, if needed.</font>
+
+233
+00:12:00,380 --> 00:12:02,290
+<font face="Roboto Medium" size="52">Plus, I've got 100 MP recovery items stocked up.</font>
+
+234
+00:12:03,040 --> 00:12:04,790
+<font face="Roboto Medium" size="52">I'll just keep going until my MP runs dry.</font>
+
+235
+00:12:05,420 --> 00:12:06,500
+<font face="Roboto Medium" size="52">Sic 'em, Teddy!</font>
+
+236
+00:12:13,500 --> 00:12:15,880
+<font face="Roboto Medium" size="52">Great. The tide is slowly turning in my favor.</font>
+
+237
+00:12:21,830 --> 00:12:23,290
+<font face="Roboto Medium" size="52">Cue boss battle music.</font>
+
+238
+00:12:24,130 --> 00:12:25,420
+<font face="Roboto Medium" size="52">The Orc King is here!</font>
+
+239
+00:12:31,420 --> 00:12:34,540
+<font face="Roboto Medium" size="52">Did he just mow my guys down in one hit?
+B-ranks are freakin' strong!</font>
+
+240
+00:12:35,000 --> 00:12:37,250
+<font face="Roboto Medium" size="52">Create, Enhance, and Summon!</font>
+
+241
+00:12:40,380 --> 00:12:42,040
+<font face="Roboto Medium" size="52">Create, Enhance, and Summon!</font>
+
+242
+00:12:43,830 --> 00:12:45,460
+<font face="Roboto Medium" size="52">Create, Enhance, and Summon!</font>
+
+243
+00:12:46,960 --> 00:12:49,040
+<font face="Roboto Medium" size="52">Shit! I can't keep up!</font>
+
+244
+00:12:49,290 --> 00:12:51,920
+<font face="Roboto Medium" size="52">And Teddy can't even get close enough to attack!</font>
+
+245
+00:12:53,380 --> 00:12:54,710
+<font face="Roboto Medium" size="52">Bron! Use Protec-</font>
+
+246
+00:12:57,290 --> 00:12:58,580
+<font face="Roboto Medium" size="52">Yikes!</font>
+
+247
+00:12:58,710 --> 00:13:00,630
+<font face="Roboto Medium" size="52">I'm in trouble! Bron's down!</font>
+
+248
+00:13:02,670 --> 00:13:03,670
+<font face="Roboto Medium" size="52">Teddy! Cover for me!</font>
+
+249
+00:13:08,080 --> 00:13:09,710
+<font face="Roboto Medium" size="52">Ow, that hurt...</font>
+
+250
+00:13:10,130 --> 00:13:11,670
+<font face="Roboto Medium" size="52">Gotta recover my HP.</font>
+
+251
+00:13:14,630 --> 00:13:15,500
+<font face="Roboto Medium" size="52">What now?</font>
+
+252
+00:13:15,830 --> 00:13:19,500
+<font face="Roboto Medium" size="52">How can I summon enough creatures to
+overwhelm the boss while fending off those spells?</font>
+
+253
+00:13:20,250 --> 00:13:21,830
+<font face="Roboto Medium" size="52">I think I'm boned.</font>
+
+254
+00:13:22,500 --> 00:13:24,380
+<font face="Roboto Medium" size="52">I'll just have to call it quits.</font>
+
+255
+00:13:24,380 --> 00:13:25,960
+<font face="Roboto Medium" size="52">Having a rough go of it, are we?</font>
+
+256
+00:13:33,040 --> 00:13:37,040
+<font size="27"><b>{\an7}THE HARDCORE GAMER DOMINATES</b></font>
+
+257
+00:13:33,040 --> 00:13:37,040
+<font size="27"><b>{\an7}IN ANOTHER WORLD WITH GARBAGE BALANCING</b></font>
+
+258
+00:13:37,830 --> 00:13:39,290
+<font face="Roboto Medium" size="52">Captain Zenof?!</font>
+
+259
+00:13:40,000 --> 00:13:43,750
+<font face="Roboto Medium" size="52">How the hell? The knights shouldn't be here
+until tomorrow at the earliest!</font>
+
+260
+00:13:44,290 --> 00:13:46,580
+<font face="Roboto Medium" size="52">All the smoke prompted me to come take a look.</font>
+
+261
+00:13:49,460 --> 00:13:50,710
+<font face="Roboto Medium" size="52">Care to explain?</font>
+
+262
+00:13:51,130 --> 00:13:54,250
+<font face="Roboto Medium" size="52">Well, I was hoping to wipe out the orc borough...</font>
+
+263
+00:13:54,960 --> 00:13:55,790
+<font face="Roboto Medium" size="52">Hmm.</font>
+
+264
+00:13:56,420 --> 00:13:58,130
+<font face="Roboto Medium" size="52">Oh crap. He's seen everything!</font>
+
+265
+00:13:58,130 --> 00:13:59,040
+<font face="Roboto Medium" size="52">Come back, everybody!</font>
+
+266
+00:14:04,630 --> 00:14:06,790
+<font face="Roboto Medium" size="52">No comment on my summon creatures?</font>
+
+267
+00:14:07,960 --> 00:14:10,130
+<font face="Roboto Medium" size="52">I shall slay the Orc King.</font>
+
+268
+00:14:10,710 --> 00:14:14,540
+<font face="Roboto Medium" size="52">You handle the other riff-raff,
+Vice-Captain Leibrand.</font>
+
+269
+00:14:14,710 --> 00:14:15,920
+<font face="Roboto Medium" size="52">Understood, Captain.</font>
+
+270
+00:14:16,380 --> 00:14:18,000
+<font face="Roboto Medium" size="52">The Vice-Captain is here, too?!</font>
+
+271
+00:14:24,170 --> 00:14:27,790
+<font face="Roboto Medium" size="52">I would've liked some more EXP,
+but this is just as good.</font>
+
+272
+00:14:28,250 --> 00:14:30,460
+<font face="Roboto Medium" size="52">A front row seat to a battle of aces!</font>
+
+273
+00:14:41,380 --> 00:14:42,250
+<font face="Roboto Medium" size="52">Whoa!</font>
+
+274
+00:14:42,250 --> 00:14:45,790
+<font face="Roboto Medium" size="52">The captain earned a sobriquet from being
+such a powerhouse on the battlefield.</font>
+
+275
+00:14:46,670 --> 00:14:49,290
+<font face="Roboto Medium" size="52">People call him: Zenof the War Demon.</font>
+
+276
+00:14:57,960 --> 00:15:00,710
+<font face="Roboto Medium" size="52">No way! He's parrying hits
+from a monster twice his size!</font>
+
+277
+00:15:06,040 --> 00:15:07,460
+<font face="Roboto Medium" size="52">Magic orcs.</font>
+
+278
+00:15:07,790 --> 00:15:09,380
+<font face="Roboto Medium" size="52">That explains where the fire is coming from.</font>
+
+279
+00:15:19,000 --> 00:15:22,460
+<font face="Roboto Medium" size="52">What is that? Something similar
+to Krena's Extra Skill?</font>
+
+280
+00:15:35,250 --> 00:15:37,630
+<font face="Roboto Medium" size="52">He was aiming for the magic orcs all along!</font>
+
+281
+00:15:45,750 --> 00:15:48,580
+<font face="Roboto Medium" size="52">The vice-captain is just as OP as the captain!</font>
+
+282
+00:15:48,750 --> 00:15:51,830
+<font face="Roboto Medium" size="52">How did he get his ass handed to him
+by Krena that one time?!</font>
+
+283
+00:15:54,920 --> 00:15:55,880
+<font face="Roboto Medium" size="52">Captain Zenof!</font>
+
+284
+00:16:14,920 --> 00:16:16,920
+<font face="Roboto Medium" size="52">H-holy shit...!</font>
+
+285
+00:16:17,380 --> 00:16:21,460
+<font face="Roboto Medium" size="52">He took out a B-rank monster
+in one fell swoop? Without an Extra Skill?!</font>
+
+286
+00:16:27,750 --> 00:16:30,210
+<font face="Roboto Medium" size="52">I didn't make it back home before nightfall.</font>
+
+287
+00:16:30,540 --> 00:16:32,250
+<font face="Roboto Medium" size="52">Bet I'm getting yelled at again.</font>
+
+288
+00:16:33,130 --> 00:16:35,380
+<font face="Roboto Medium" size="52">I had a sneaking suspicion, but...</font>
+
+289
+00:16:35,880 --> 00:16:39,000
+<font face="Roboto Medium" size="52">you're the one who took out
+the goblin nests, aren't you?</font>
+
+290
+00:16:40,380 --> 00:16:41,330
+<font face="Roboto Medium" size="52">Yeah.</font>
+
+291
+00:16:43,580 --> 00:16:46,960
+<font face="Roboto Medium" size="52">Not long after you became
+the Granvelle's manservant,</font>
+
+292
+00:16:47,420 --> 00:16:50,880
+<font face="Roboto Medium" size="52">I started hearing reports of monster carcasses
+piling up outside the city.</font>
+
+293
+00:16:51,420 --> 00:16:53,250
+<font face="Roboto Medium" size="52">They had been stripped their magic stones.</font>
+
+294
+00:16:54,170 --> 00:16:57,170
+<font face="Roboto Medium" size="52">It wasn't very difficult to narrow down
+who it could be,</font>
+
+295
+00:16:57,500 --> 00:17:01,250
+<font face="Roboto Medium" size="52">given that you single-handedly hunted a White Deer
+and even competed on par with Master Mihai.</font>
+
+296
+00:17:01,830 --> 00:17:03,460
+<font face="Roboto Medium" size="52">So, the jig is up, huh?</font>
+
+297
+00:17:04,330 --> 00:17:05,960
+<font face="Roboto Medium" size="52">You have a talent.</font>
+
+298
+00:17:06,830 --> 00:17:10,210
+<font face="Roboto Medium" size="52">Those animals who were fighting
+alongside you are part of it, right?</font>
+
+299
+00:17:10,500 --> 00:17:13,580
+<font face="Roboto Medium" size="52">Yep, that figures. My cover's totally blown.</font>
+
+300
+00:17:14,670 --> 00:17:15,790
+<font face="Roboto Medium" size="52">That's right.</font>
+
+301
+00:17:17,210 --> 00:17:19,500
+<font face="Roboto Medium" size="52">I'm not admitting to any more than that.</font>
+
+302
+00:17:19,920 --> 00:17:22,460
+<font face="Roboto Medium" size="52">There's no telling what kind of mess
+it'll make if I say anything</font>
+
+303
+00:17:22,460 --> 00:17:24,830
+<font face="Roboto Medium" size="52">about being on talking terms
+with the God of Creation.</font>
+
+304
+00:17:25,540 --> 00:17:28,330
+<font face="Roboto Medium" size="52">The baron already knows
+you have a talent, by the way.</font>
+
+305
+00:17:29,250 --> 00:17:31,830
+<font face="Roboto Medium" size="52">It's what motivated him
+to promote you to Huntsman.</font>
+
+306
+00:17:32,290 --> 00:17:33,670
+<font face="Roboto Medium" size="52">I suppose that makes sense.</font>
+
+307
+00:17:33,830 --> 00:17:37,000
+<font face="Roboto Medium" size="52">It's unusual for a kid my age to be granted
+so much freedom and responsibility.</font>
+
+308
+00:17:39,290 --> 00:17:40,330
+<font face="Roboto Medium" size="52">Let me wipe you down.</font>
+
+309
+00:17:42,000 --> 00:17:46,330
+<font face="Roboto Medium" size="52">Listen, Allen. If you wish me
+to keep what I saw today a secret,</font>
+
+310
+00:17:46,460 --> 00:17:48,380
+<font face="Roboto Medium" size="52">then I shall leave it out
+of my report to the baron.</font>
+
+311
+00:17:49,000 --> 00:17:53,210
+<font face="Roboto Medium" size="52">But in exchange, I want you to keep me informed
+on the progress of your monster hunts.</font>
+
+312
+00:17:53,880 --> 00:17:56,170
+<font face="Roboto Medium" size="52">Our goals are one in the same, are they not?</font>
+
+313
+00:17:56,580 --> 00:18:01,380
+<font face="Roboto Medium" size="52">I shouldn't undercut the knights
+just for the sake of farming more EXP.</font>
+
+314
+00:18:02,130 --> 00:18:04,170
+<font face="Roboto Medium" size="52">Right. As you wish.</font>
+
+315
+00:18:04,920 --> 00:18:06,250
+<font face="Roboto Medium" size="52">I've gotta say...</font>
+
+316
+00:18:06,830 --> 00:18:10,130
+<font face="Roboto Medium" size="52">I'm shocked this guy is still kicking.</font>
+
+317
+00:18:10,790 --> 00:18:15,420
+<font face="Roboto Medium" size="52">I mean, he's covered in battle scars
+that never went away even after a level up.</font>
+
+318
+00:18:16,330 --> 00:18:19,290
+<font size="27"><b>{\an7}2 WEEKS LATER</b></font>
+
+319
+00:18:19,290 --> 00:18:21,250
+<font size="27" color="#ffffca"><b>{\an7}YOU HAVE EARNED 25,000 EXP.</b></font>
+
+320
+00:18:19,290 --> 00:18:21,250
+<font size="27" color="#ffffca"><b>{\an7}YOU HAVE DEFEATED 1 ORC KING.</b></font>
+
+321
+00:18:20,250 --> 00:18:21,000
+<font face="Roboto Medium" size="52">Sweet!</font>
+
+322
+00:18:21,460 --> 00:18:24,920
+<font face="Roboto Medium" size="52">Mission complete! I've got it down
+to a science now.</font>
+
+323
+00:18:25,250 --> 00:18:32,790
+<font size="27"><b>{\an7}ORC BOROUGH</b></font>
+
+324
+00:18:25,630 --> 00:18:28,380
+<font face="Roboto Medium" size="52">First, I attack from all sides
+with a team of 40 Teddys.</font>
+
+325
+00:18:28,790 --> 00:18:32,250
+<font face="Roboto Medium" size="52">This puts a big dent into the orc forces
+and prevents them from getting into formation.</font>
+
+326
+00:18:32,670 --> 00:18:35,420
+<font face="Roboto Medium" size="52">Then I have my team target
+the magic orcs until they're all dead.</font>
+
+327
+00:18:35,880 --> 00:18:37,420
+<font face="Roboto Medium" size="52">It's a battle of numbers.</font>
+
+328
+00:18:37,960 --> 00:18:42,670
+<font face="Roboto Medium" size="52">So long as I don't get attacked,
+I can keep throwing summons at them until I win.</font>
+
+329
+00:18:43,130 --> 00:18:47,210
+<font face="Roboto Medium" size="52">The total EXP I earn from
+an orc borough is... 335,000!</font>
+
+330
+00:18:47,380 --> 00:18:49,540
+<font face="Roboto Medium" size="52">That's over seven times what I get
+from a goblin one!</font>
+
+331
+00:18:50,080 --> 00:18:52,710
+<font face="Roboto Medium" size="52">Leverage a temporary failure
+to achieve eventual success.</font>
+
+332
+00:18:53,040 --> 00:18:54,830
+<font face="Roboto Medium" size="52">That's the hardcore gamer way!</font>
+
+333
+00:18:56,210 --> 00:18:58,960
+<font size="27"><b>{\an7}ALLEN: AGE 10</b></font>
+
+334
+00:18:56,210 --> 00:18:58,960
+<font size="27"><b>{\an7}SEPTEMBER</b></font>
+
+335
+00:18:59,080 --> 00:19:01,250
+<font face="Roboto Medium" size="52">We're honored to have you here.</font>
+
+336
+00:19:01,580 --> 00:19:03,580
+<font face="Roboto Medium" size="52">Good. Thank you for the warm welcome.</font>
+
+337
+00:19:04,040 --> 00:19:05,710
+<font face="Roboto Medium" size="52">A royal messenger, huh?</font>
+
+338
+00:19:08,670 --> 00:19:11,130
+<font face="Roboto Medium" size="52">May I ask what brings you here today?</font>
+
+339
+00:19:11,540 --> 00:19:13,290
+<font face="Roboto Medium" size="52">I came to deliver this.</font>
+
+340
+00:19:18,880 --> 00:19:20,130
+<font face="Roboto Medium" size="52">What am I looking at?</font>
+
+341
+00:19:21,000 --> 00:19:22,630
+<font face="Roboto Medium" size="52">That is your son's diary.</font>
+
+342
+00:19:23,040 --> 00:19:26,540
+<font face="Roboto Medium" size="52">Everyone is expected to write
+periodic entries while at the barracks.</font>
+
+343
+00:19:28,920 --> 00:19:34,170
+<font face="Roboto Medium" size="52">Please be aware that your son carried out
+his mission dutifully and has been laid to rest.</font>
+
+344
+00:19:38,130 --> 00:19:40,080
+<font face="Roboto Medium" size="52">That's not how this is supposed to go!</font>
+
+345
+00:19:40,420 --> 00:19:42,630
+<font face="Roboto Medium" size="52">How can such a thing happen in just six months?!</font>
+
+346
+00:19:42,960 --> 00:19:46,250
+<font face="Roboto Medium" size="52">You people knew Mihai
+was fresh out of the academy!</font>
+
+347
+00:19:46,580 --> 00:19:50,290
+<font face="Roboto Medium" size="52">I can only assume you used him like fodder
+because of our status as lower-ranking nobles!</font>
+
+348
+00:19:50,290 --> 00:19:54,040
+<font face="Roboto Medium" size="52">And is that a sentiment you wish for me
+to share with the king?</font>
+
+349
+00:19:56,170 --> 00:19:56,960
+<font face="Roboto Medium" size="52">Oh, Mihai...</font>
+
+350
+00:19:57,080 --> 00:19:58,210
+<font face="Roboto Medium" size="52">Milady!</font>
+
+351
+00:19:58,420 --> 00:20:01,920
+<font face="Roboto Medium" size="52">If you'll excuse us,
+we have other places to visit today.</font>
+
+352
+00:20:01,920 --> 00:20:03,000
+<font face="Roboto Medium" size="52">Farewell.</font>
+
+353
+00:20:07,670 --> 00:20:09,790
+<font face="Roboto Medium" size="52">I remember him acting strange that day...</font>
+
+354
+00:20:10,460 --> 00:20:13,670
+<font face="Roboto Medium" size="52">Allen. Watch after Cecil for me.</font>
+
+355
+00:20:14,670 --> 00:20:15,960
+<font face="Roboto Medium" size="52">Keep her safe, okay?</font>
+
+356
+00:20:18,040 --> 00:20:20,750
+<font face="Roboto Medium" size="52">Did he know he would die?!</font>
+
+357
+00:20:22,250 --> 00:20:25,420
+<font face="Roboto Medium" size="52">Father... what is going on?</font>
+
+358
+00:20:26,580 --> 00:20:28,790
+<font face="Roboto Medium" size="52">I need everyone else to clear the room first.</font>
+
+359
+00:20:29,290 --> 00:20:30,790
+<font face="Roboto Medium" size="52">Including you, Thomas.</font>
+
+360
+00:20:31,040 --> 00:20:32,420
+<font face="Roboto Medium" size="52">Huh? But why?!</font>
+
+361
+00:20:32,420 --> 00:20:34,960
+<font face="Roboto Medium" size="52">I want to know, too, Father!</font>
+
+362
+00:20:34,960 --> 00:20:36,500
+<font face="Roboto Medium" size="52">Why only tell Cecil?</font>
+
+363
+00:20:41,170 --> 00:20:42,670
+<font face="Roboto Medium" size="52">Poor Master Mihai...</font>
+
+364
+00:20:44,000 --> 00:20:47,290
+<font face="Roboto Medium" size="52">What? Are you telling me
+you knew Mihai was going to die?!</font>
+
+365
+00:20:48,210 --> 00:20:51,170
+<font face="Roboto Medium" size="52">It's part of a certain duty that we nobles
+are expected to fulfill.</font>
+
+366
+00:20:51,170 --> 00:20:55,920
+<font face="Roboto Medium" size="52">And so what? The only reason
+we're alive is to be killed for this duty?!</font>
+
+367
+00:20:56,080 --> 00:20:57,210
+<font face="Roboto Medium" size="52">It's not like that.</font>
+
+368
+00:20:57,880 --> 00:20:58,750
+<font face="Roboto Medium" size="52">Listen...</font>
+
+369
+00:20:59,880 --> 00:21:01,630
+<font face="Roboto Medium" size="52">Hold on, Cecil!</font>
+
+370
+00:21:10,580 --> 00:21:12,420
+<font face="Roboto Medium" size="52">So there's just nothing they can do?</font>
+
+371
+00:21:12,880 --> 00:21:17,380
+<font face="Roboto Medium" size="52">Is there some catch to being a noble
+that forces them to adhere to this deadly duty?</font>
+
+372
+00:21:21,920 --> 00:21:24,420
+<font face="Roboto Medium" size="52">I hope that Lady Cecil is okay...</font>
+
+373
+00:21:25,170 --> 00:21:27,460
+<font face="Roboto Medium" size="52">She hasn't come out of her room since last night.</font>
+
+374
+00:21:27,710 --> 00:21:33,250
+<font face="Roboto Medium" size="52">As I recall, the baron's parents and elder brother
+also passed away at fairly young ages.</font>
+
+375
+00:21:34,130 --> 00:21:36,630
+<font face="Roboto Medium" size="52">All because of this "Noble's Duty" thing.</font>
+
+376
+00:21:37,500 --> 00:21:41,830
+<font face="Roboto Medium" size="52">I don't get it. Losing your life at 15,
+it's just too cruel...</font>
+
+377
+00:21:44,080 --> 00:21:46,250
+<font face="Roboto Medium" size="52">We need help! Lady Cecil is missing!</font>
+
+378
+00:21:47,080 --> 00:21:48,540
+<font face="Roboto Medium" size="52">Lady Cecil!</font>
+
+379
+00:21:48,790 --> 00:21:49,960
+<font face="Roboto Medium" size="52">Lady Cecil!</font>
+
+380
+00:21:50,790 --> 00:21:53,000
+<font face="Roboto Medium" size="52">Dammit. Some manservant I am!</font>
+
+381
+00:21:55,710 --> 00:21:57,040
+<font face="Roboto Medium" size="52">She climbed down from the window?!</font>
+
+382
+00:21:57,960 --> 00:21:59,460
+<font face="Roboto Medium" size="52">Have you found Cecil?</font>
+
+383
+00:21:59,460 --> 00:22:01,210
+<font face="Roboto Medium" size="52">She might have left the estate.</font>
+
+384
+00:22:01,500 --> 00:22:02,750
+<font face="Roboto Medium" size="52">I'm going to look outside!</font>
+
+385
+00:22:05,040 --> 00:22:07,000
+<font face="Roboto Medium" size="52">I'll find her, no matter what!</font>
+
+386
+00:22:07,380 --> 00:22:09,170
+<font face="Roboto Medium" size="52">I just hope she doesn't do anything rash!</font>
+
