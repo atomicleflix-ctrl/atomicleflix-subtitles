@@ -1,0 +1,31 @@
+1
+00:03:34,940 --> 00:03:36,320
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="22">{\an7}<font color="#0f0c0d">World
+Through a
+<font color="#40db26">Shutter</font></font></font></b></font></b></font>
+
+2
+00:07:10,620 --> 00:07:12,370
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="30"><font color="#2f4c59">Minoru Wagari's Lifestye Advice</font></font></b></font></b></font>
+
+3
+00:07:12,370 --> 00:07:14,870
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="30">{\an8}<font color="#1f1d2b">Blunt Feedback for Your Problems</font></font></b></font></b></font>
+
+4
+00:07:15,870 --> 00:07:20,630
+<font face="Gandhi Sans" size="24"><b>{\an1}<font face="Arial"><font size="20"><font color="#659fc5">Female, 20s</font></font></font></b></font>
+
+5
+00:07:26,380 --> 00:07:29,050
+<font face="Gandhi Sans" size="24"><b>{\an1}<font face="Arial"><font size="20"><font color="#659fc5">Male, teens</font></font></font></b></font>
+
+6
+00:07:39,900 --> 00:07:44,150
+<font face="Gandhi Sans" size="24"><b>{\an1}<font face="Arial"><font size="20"><font color="#659fc5">Male, 40s</font></font></font></b></font>
+
+7
+00:14:46,740 --> 00:14:49,990
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black">Years
+Later</font></b></font>
+
