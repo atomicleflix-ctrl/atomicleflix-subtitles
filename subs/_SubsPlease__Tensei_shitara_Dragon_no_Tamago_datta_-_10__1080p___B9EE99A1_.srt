@@ -1,0 +1,1574 @@
+1
+00:00:04,500 --> 00:00:05,580
+<font face="Roboto Medium" size="52">Gregory!</font>
+
+2
+00:00:10,500 --> 00:00:13,420
+<font face="Roboto Medium" size="52">Damn it, we're done for at this rate...</font>
+
+3
+00:00:13,420 --> 00:00:16,080
+<font face="Roboto Medium" size="52">There's gotta be something I can do!</font>
+
+4
+00:00:17,130 --> 00:00:22,420
+<font face="Roboto Medium" size="52">Run away.
+Run away.</font>
+
+5
+00:00:17,130 --> 00:00:20,540
+<font size="53" color="#ff0000"><b>{\an7} r u n</b></font>
+
+6
+00:00:20,540 --> 00:00:23,130
+<font size="53" color="#ff0000"><b>{\an7}R U N</b></font>
+
+7
+00:00:23,130 --> 00:00:29,630
+<font size="46" color="#ff0000"><b>{\an7}Divine Voice</b></font>
+
+8
+00:00:23,130 --> 00:00:29,630
+<font size="46" color="#ff0000"><b>{\an7}Lv 4</b></font>
+
+9
+00:00:24,250 --> 00:00:29,000
+<font face="Roboto Medium" size="52">The Divine Voice skill has gone
+from level three to level four.</font>
+
+10
+00:00:29,630 --> 00:00:34,080
+<font face="Roboto Medium" size="52">You can now access the
+simplified simulator rendered by Laplace.</font>
+
+11
+00:00:29,630 --> 00:00:35,080
+<font size="53" color="#ff0000"><b>{\an7}Laplace</b></font>
+
+12
+00:00:29,630 --> 00:00:35,080
+<font size="53" color="#ff0000"><b>{\an7}Simplified</b></font>
+
+13
+00:00:29,630 --> 00:00:35,080
+<font size="53" color="#ff0000"><b>{\an7}Simulator</b></font>
+
+14
+00:00:35,290 --> 00:00:37,330
+<font face="Roboto Medium" size="52">What's the big idea?</font>
+
+15
+00:00:37,330 --> 00:00:40,250
+<font face="Roboto Medium" size="52">Whaddaya mean
+the Divine Voice leveled up?!</font>
+
+16
+00:00:40,460 --> 00:00:41,790
+<font face="Roboto Medium" size="52">But I imagine...</font>
+
+17
+00:00:41,790 --> 00:00:45,710
+<font face="Roboto Medium" size="52">you will not run
+no matter how much I warn you.</font>
+
+18
+00:00:46,250 --> 00:00:49,330
+<font face="Roboto Medium" size="52">You were an exception to the rule,
+in so many ways.</font>
+
+19
+00:00:49,330 --> 00:00:52,000
+<font face="Roboto Medium" size="52">It's unfortunate
+this is where we must part.</font>
+
+20
+00:00:52,210 --> 00:00:57,040
+<font face="Roboto Medium" size="52">So you leveled up
+just to tell me this crap?!</font>
+
+21
+00:00:57,880 --> 00:01:01,380
+<font face="Roboto Medium" size="52">I never got tired of watching you.</font>
+
+22
+00:01:01,960 --> 00:01:04,210
+<font face="Roboto Medium" size="52">Rest peacefully now.</font>
+
+23
+00:01:04,500 --> 00:01:07,380
+<font face="Roboto Medium" size="52">I'm so sick of your condescending babble!</font>
+
+24
+00:01:07,380 --> 00:01:09,540
+<font face="Roboto Medium" size="52">Just who the hell are you?!</font>
+
+25
+00:01:09,540 --> 00:01:14,250
+<font face="Roboto Medium" size="52">The Divine Voice cannot provide
+explanations of that nature at level four.</font>
+
+26
+00:01:16,380 --> 00:01:17,920
+<font face="Roboto Medium" size="52">Screw that noise!</font>
+
+27
+00:01:17,920 --> 00:01:21,170
+<font face="Roboto Medium" size="52">I'm gonna prove you wrong!</font>
+
+28
+00:01:21,170 --> 00:01:24,500
+<font face="Roboto Medium" size="52">I still have my last resort...</font>
+
+29
+00:01:26,130 --> 00:01:27,880
+<font face="Roboto Medium" size="52">Evolution.</font>
+
+30
+00:01:27,880 --> 00:01:30,040
+<font face="Roboto Medium" size="52">But it'll change how I look,</font>
+
+31
+00:01:30,040 --> 00:01:35,580
+<font face="Roboto Medium" size="52">which means Myria and the black lizard
+may not recognize me anymore.</font>
+
+32
+00:01:37,960 --> 00:01:41,000
+<font face="Roboto Medium" size="52">There are four different evolutions
+I can choose from now.</font>
+
+33
+00:01:41,750 --> 00:01:43,880
+<font face="Roboto Medium" size="52">Which one should I choose? Think!</font>
+
+34
+00:01:45,040 --> 00:01:46,790
+<font face="Roboto Medium" size="52">Jormungand.</font>
+
+35
+00:01:46,790 --> 00:01:49,210
+<font face="Roboto Medium" size="52">I might stand a chance at winning
+if I pick that,</font>
+
+36
+00:01:49,210 --> 00:01:51,080
+<font face="Roboto Medium" size="52">but its deadly poison
+is seriously bad news!</font>
+
+37
+00:01:51,540 --> 00:01:52,960
+<font face="Roboto Medium" size="52">Rolling Dragon!</font>
+
+38
+00:01:52,960 --> 00:01:54,790
+<font face="Roboto Medium" size="52">It specializes in the Roll skill, right?</font>
+
+39
+00:01:54,790 --> 00:01:56,380
+<font face="Roboto Medium" size="52">Is that actually powerful?!</font>
+
+40
+00:01:56,630 --> 00:01:58,670
+<font face="Roboto Medium" size="52">Dark Drago-human!</font>
+
+41
+00:01:58,670 --> 00:02:00,880
+<font face="Roboto Medium" size="52">But are demi-humans good in battle?</font>
+
+42
+00:02:00,880 --> 00:02:02,920
+<font face="Roboto Medium" size="52">I have no idea what to expect!</font>
+
+43
+00:02:03,210 --> 00:02:05,130
+<font face="Roboto Medium" size="52">Little Arc Dragon!</font>
+
+44
+00:02:05,130 --> 00:02:07,920
+<font face="Roboto Medium" size="52">Can white magic be used to attack?</font>
+
+45
+00:02:07,920 --> 00:02:10,000
+<font face="Roboto Medium" size="52">Is it enough to beat that bastard?!</font>
+
+46
+00:02:11,290 --> 00:02:12,540
+<font face="Roboto Medium" size="52">Which one?</font>
+
+47
+00:02:12,540 --> 00:02:13,830
+<font face="Roboto Medium" size="52">What should I choose?!</font>
+
+48
+00:02:14,580 --> 00:02:17,750
+<font face="Roboto Medium" size="52">Which one is most likely to win?!</font>
+
+49
+00:02:22,170 --> 00:02:23,710
+<font face="Roboto Medium" size="52">What was that just now?</font>
+
+50
+00:02:23,710 --> 00:02:26,210
+<font face="Roboto Medium" size="52">It's like all my MP got taken from me...</font>
+
+51
+00:02:26,670 --> 00:02:30,080
+<font face="Roboto Medium" size="52">You have received the title
+"Laplace Authority Interference."</font>
+
+52
+00:02:31,670 --> 00:02:45,290
+<font size="40"><b>{\an7}Little Arc Dragon</b></font>
+
+53
+00:02:31,960 --> 00:02:36,830
+<font face="Roboto Medium" size="52">If you evolve into Little Arc Dragon,
+your odds of winning are 4%.</font>
+
+54
+00:02:36,830 --> 00:02:41,460
+<font face="Roboto Medium" size="52">There is a less than 1% chance
+of you saving all your injured allies.</font>
+
+55
+00:02:41,670 --> 00:02:43,080
+<font face="Roboto Medium" size="52">The hell does that mean?</font>
+
+56
+00:02:43,080 --> 00:02:45,290
+<font face="Roboto Medium" size="52">Are you telling me I can't win
+even if I evolve?!</font>
+
+57
+00:02:46,130 --> 00:02:58,080
+<font size="40"><b>{\an7}Jormungand</b></font>
+
+58
+00:02:47,670 --> 00:02:53,580
+<font face="Roboto Medium" size="52">If you evolve into Jormungand, your odds
+of ending the battle in a draw are 98%.</font>
+
+59
+00:02:53,580 --> 00:02:57,500
+<font face="Roboto Medium" size="52">There is a 94% chance
+the village is totally destroyed.</font>
+
+60
+00:02:58,420 --> 00:03:00,670
+<font face="Roboto Medium" size="52">What's the point
+if I can't protect the village?!</font>
+
+61
+00:03:01,040 --> 00:03:05,040
+<font size="40"><b>{\an7}Rolling Dragon</b></font>
+
+62
+00:03:01,710 --> 00:03:06,880
+<font face="Roboto Medium" size="52">If you evolve into Rolling Dragon,
+you have less than a 1% chance of victory.</font>
+
+63
+00:03:06,880 --> 00:03:10,670
+<font face="Roboto Medium" size="52">Your odds of a successful escape
+are over 99%.</font>
+
+64
+00:03:10,670 --> 00:03:12,920
+<font face="Roboto Medium" size="52">So you're still telling me
+to run away, then?!</font>
+
+65
+00:03:17,710 --> 00:03:19,170
+<font face="Roboto Medium" size="52">I don't get it.</font>
+
+66
+00:03:19,170 --> 00:03:23,130
+<font face="Roboto Medium" size="52">Why are you giving me
+all these predictions?!</font>
+
+67
+00:03:23,330 --> 00:03:25,330
+<font face="Roboto Medium" size="52">You stupid voice!</font>
+
+68
+00:03:43,750 --> 00:03:50,380
+<font face="Roboto Medium" size="44">Tsuyoku nare itami yo yuuki ni nare</font>
+
+69
+00:03:57,630 --> 00:04:01,630
+<font face="Roboto Medium" size="44">Nani ga umaretan darou</font>
+
+70
+00:04:01,630 --> 00:04:06,830
+<font face="Roboto Medium" size="44">Te o nobashi fureta sekai wa</font>
+
+71
+00:04:06,830 --> 00:04:11,750
+<font face="Roboto Medium" size="44">Kanashikute moroi kagayaki</font>
+
+72
+00:04:11,880 --> 00:04:16,710
+<font face="Roboto Medium" size="44">Dakara koso no more painess</font>
+
+73
+00:04:21,130 --> 00:04:25,790
+<font face="Roboto Medium" size="44">Kono basho de mirai no kodou</font>
+
+74
+00:04:26,210 --> 00:04:29,250
+<font face="Roboto Medium" size="44">Kanjitara mou tomerarenai</font>
+
+75
+00:04:29,460 --> 00:04:33,080
+<font face="Roboto Medium" size="44">Hikari oikakete</font>
+
+76
+00:04:33,080 --> 00:04:34,210
+<font face="Roboto Medium" size="44">Gliding Claw</font>
+
+77
+00:04:34,210 --> 00:04:38,580
+<font face="Roboto Medium" size="44">Dare ka no koto mamoritakunatta</font>
+
+78
+00:04:38,750 --> 00:04:43,330
+<font face="Roboto Medium" size="44">Sou... dakara makenai makerarenai yo</font>
+
+79
+00:04:43,330 --> 00:04:44,580
+<font face="Roboto Medium" size="44">Gliding Claw</font>
+
+80
+00:04:44,580 --> 00:04:51,830
+<font face="Roboto Medium" size="44">Wakatta no wa chiisana jibun ga kawareru koto da to</font>
+
+81
+00:04:51,830 --> 00:04:58,420
+<font face="Roboto Medium" size="44">Tsuyoku nare itami yo yuuki ni nare</font>
+
+82
+00:05:10,130 --> 00:05:13,250
+<font face="Roboto Medium" size="52">I heard a loud noise
+coming from the village.</font>
+
+83
+00:05:17,920 --> 00:05:19,000
+<font face="Roboto Medium" size="52">Let's hurry.</font>
+
+84
+00:05:23,500 --> 00:05:25,380
+<font face="Roboto Medium" size="52">The Rock Dragon is going berserk.</font>
+
+85
+00:05:26,040 --> 00:05:28,130
+<font face="Roboto Medium" size="52">Have all the villagers evacuated?</font>
+
+86
+00:05:28,130 --> 00:05:31,500
+<font face="Roboto Medium" size="52">No, quite a few of them
+haven't shown up yet.</font>
+
+87
+00:05:31,500 --> 00:05:32,790
+<font face="Roboto Medium" size="52">Oh, Jean!</font>
+
+88
+00:05:39,210 --> 00:05:40,710
+<font face="Roboto Medium" size="52">Where's Gregory?</font>
+
+89
+00:05:40,710 --> 00:05:42,080
+<font face="Roboto Medium" size="52">In the center of town.</font>
+
+90
+00:05:42,080 --> 00:05:45,290
+<font face="Roboto Medium" size="52">He and a couple others said
+they were going to stop the Rock Dragon.</font>
+
+91
+00:05:45,290 --> 00:05:47,290
+<font face="Roboto Medium" size="52">I'm heading over there too.</font>
+
+92
+00:05:47,290 --> 00:05:49,540
+<font face="Roboto Medium" size="52">Myria, you provide aid
+for the villagers here!</font>
+
+93
+00:05:49,750 --> 00:05:52,790
+<font face="Roboto Medium" size="52">No.
+I've already helped everyone I can here.</font>
+
+94
+00:05:52,790 --> 00:05:54,460
+<font face="Roboto Medium" size="52">I'm going with you.</font>
+
+95
+00:05:54,670 --> 00:05:55,710
+<font face="Roboto Medium" size="52">But...</font>
+
+96
+00:05:56,250 --> 00:05:59,580
+<font face="Roboto Medium" size="52">I'm sure there are
+plenty of injured people over that way.</font>
+
+97
+00:06:01,380 --> 00:06:03,250
+<font face="Roboto Medium" size="52">All right. Come with me.</font>
+
+98
+00:06:09,170 --> 00:06:10,290
+<font face="Roboto Medium" size="52">Which one should I choose?</font>
+
+99
+00:06:10,290 --> 00:06:12,290
+<font face="Roboto Medium" size="52">I gotta be quick
+or this will just get worse!</font>
+
+100
+00:06:12,580 --> 00:06:16,880
+<font face="Roboto Medium" size="52">If I help Gregory first,
+evolve into the Little Arc Dragon,</font>
+
+101
+00:06:16,880 --> 00:06:18,750
+<font face="Roboto Medium" size="52">and use recovery magic...</font>
+
+102
+00:06:19,960 --> 00:06:24,960
+<font face="Roboto Medium" size="52">If you evolve into Little Arc Dragon,
+your odds of winning are 4%.</font>
+
+103
+00:06:19,960 --> 00:06:24,960
+<font size="46" color="#ff8080"><b>{\an7}Odds of Winning 4%</b></font>
+
+104
+00:06:25,580 --> 00:06:30,330
+<font face="Roboto Medium" size="52">There is a less than 1% chance
+of you saving all your injured allies.</font>
+
+105
+00:06:25,580 --> 00:06:30,330
+<font size="46" color="#ff8080"><b>{\an7}Saving Injured 1%</b></font>
+
+106
+00:06:30,330 --> 00:06:31,540
+<font face="Roboto Medium" size="52">Shut up!</font>
+
+107
+00:06:31,540 --> 00:06:34,880
+<font face="Roboto Medium" size="52">You really think anyone believes
+whatever stupid crap you say?!</font>
+
+108
+00:06:40,670 --> 00:06:42,330
+<font face="Roboto Medium" size="52">Gregory, are you okay?!</font>
+
+109
+00:06:46,290 --> 00:06:48,080
+<font face="Roboto Medium" size="52">He's bleeding out!</font>
+
+110
+00:06:48,080 --> 00:06:49,080
+<font face="Roboto Medium" size="52">Just hold on.</font>
+
+111
+00:06:49,080 --> 00:06:51,630
+<font face="Roboto Medium" size="52">I'll evolve into a Little Arc Dragon
+and heal you.</font>
+
+112
+00:06:55,790 --> 00:06:58,540
+<font face="Roboto Medium" size="52">Don't worry about me.</font>
+
+113
+00:06:59,080 --> 00:07:01,380
+<font face="Roboto Medium" size="52">Huh? What do you mean?!</font>
+
+114
+00:07:02,210 --> 00:07:08,880
+<font face="Roboto Medium" size="52">What reason could a Plague Dragon
+like you have to help humans?</font>
+
+115
+00:07:09,460 --> 00:07:11,290
+<font face="Roboto Medium" size="52">I have absolutely no clue.</font>
+
+116
+00:07:11,750 --> 00:07:16,130
+<font face="Roboto Medium" size="52">It makes no sense,
+but there is one thing I'm convinced of...</font>
+
+117
+00:07:16,130 --> 00:07:17,960
+<font face="Roboto Medium" size="52">It's fine, stop talking!</font>
+
+118
+00:07:17,960 --> 00:07:20,420
+<font face="Roboto Medium" size="52">I'll heal you very soon!</font>
+
+119
+00:07:21,250 --> 00:07:22,580
+<font face="Roboto Medium" size="52">You...</font>
+
+120
+00:07:22,580 --> 00:07:27,380
+<font face="Roboto Medium" size="52">aren't using your true power, are you?</font>
+
+121
+00:07:29,960 --> 00:07:33,000
+<font face="Roboto Medium" size="52">Hey... do me a favor.</font>
+
+122
+00:07:33,750 --> 00:07:35,540
+<font face="Roboto Medium" size="52">Eat me.</font>
+
+123
+00:07:37,710 --> 00:07:40,250
+<font face="Roboto Medium" size="52">You're a Plague Dragon, right?</font>
+
+124
+00:07:40,750 --> 00:07:45,460
+<font face="Roboto Medium" size="52">You eat people,
+and then get stronger, right?</font>
+
+125
+00:07:45,460 --> 00:07:47,420
+<font face="Roboto Medium" size="52">No, no, no, never!</font>
+
+126
+00:07:47,420 --> 00:07:49,750
+<font face="Roboto Medium" size="52">I'm not that extreme of a monster!</font>
+
+127
+00:07:49,750 --> 00:07:53,380
+<font face="Roboto Medium" size="52">I don't eat people!
+And I don't power up like that!</font>
+
+128
+00:07:53,380 --> 00:07:55,750
+<font face="Roboto Medium" size="52">The only way I get stronger
+is through evolution!</font>
+
+129
+00:07:57,080 --> 00:07:58,170
+<font face="Roboto Medium" size="52">Wait...</font>
+
+130
+00:07:58,170 --> 00:08:00,210
+<font face="Roboto Medium" size="52">My evolution tree...</font>
+
+131
+00:08:00,630 --> 00:08:02,080
+<font face="Roboto Medium" size="52">Young Plague Dragon.</font>
+
+132
+00:08:02,080 --> 00:08:04,250
+<font face="Roboto Medium" size="52">The first stage of an Evil Dragon
+that spreads disaster.</font>
+
+133
+00:08:04,250 --> 00:08:08,500
+<font face="Roboto Medium" size="52">However, it has not strayed too far from
+the righteous path, and may yet backtrack.</font>
+
+134
+00:08:08,920 --> 00:08:12,330
+<font face="Roboto Medium" size="52">You have received the title
+"Itty-Bitty Hero" level one.</font>
+
+135
+00:08:12,330 --> 00:08:13,790
+<font face="Roboto Medium" size="52">A light-type!</font>
+
+136
+00:08:13,790 --> 00:08:16,830
+<font face="Roboto Medium" size="52">Hard to believe a Plague Dragon
+can evolve into something so righteous!</font>
+
+137
+00:08:17,170 --> 00:08:20,130
+<font face="Roboto Medium" size="52">You have received the title "Wrongdoer."</font>
+
+138
+00:08:20,130 --> 00:08:24,630
+<font face="Roboto Medium" size="52">But like, why is there no Plague Dragon
+evolution even though I'm a Plague Dragon?</font>
+
+139
+00:08:24,920 --> 00:08:29,420
+<font face="Roboto Medium" size="52">No Plague Dragon...
+No Plague Dragon...</font>
+
+140
+00:08:30,960 --> 00:08:34,290
+<font face="Roboto Medium" size="52">There's no... Plague Dragon.</font>
+
+141
+00:08:37,330 --> 00:08:40,880
+<font face="Roboto Medium" size="52">Even though you helped Myria,</font>
+
+142
+00:08:41,540 --> 00:08:44,580
+<font face="Roboto Medium" size="52">I stabbed you with my spear,</font>
+
+143
+00:08:44,580 --> 00:08:50,540
+<font face="Roboto Medium" size="52">and you're still fighting the Rock Dragon
+to help us humans.</font>
+
+144
+00:08:51,290 --> 00:08:57,290
+<font face="Roboto Medium" size="52">I wanted the humans to accept me,
+as the hero who saved their village!</font>
+
+145
+00:08:57,790 --> 00:09:02,540
+<font face="Roboto Medium" size="52">You're really not at all
+how a monster should be.</font>
+
+146
+00:09:03,250 --> 00:09:04,290
+<font face="Roboto Medium" size="52">But...</font>
+
+147
+00:09:05,710 --> 00:09:09,460
+<font face="Roboto Medium" size="52">if that's the reason
+you can't beat the Rock Dragon, then...</font>
+
+148
+00:09:13,420 --> 00:09:16,670
+<font face="Roboto Medium" size="52">Gregory, what are you...</font>
+
+149
+00:09:20,250 --> 00:09:21,790
+<font face="Roboto Medium" size="52">The village...</font>
+
+150
+00:09:23,330 --> 00:09:26,920
+<font face="Roboto Medium" size="52">Protect the village, Illusia...</font>
+
+151
+00:09:51,920 --> 00:09:56,040
+<font face="Roboto Medium" size="52">Because you have maxed out your level,
+you cannot gain experience points.</font>
+
+152
+00:09:56,500 --> 00:10:00,500
+<font face="Roboto Medium" size="52">The Wrongdoer title
+has gone from level four to level five</font>
+
+153
+00:10:01,040 --> 00:10:04,290
+<font face="Roboto Medium" size="52">The Calamity title
+has gone from level one to level three,</font>
+
+154
+00:10:04,750 --> 00:10:08,750
+<font face="Roboto Medium" size="52">and the Dastardly King title
+has gone from level one to level two.</font>
+
+155
+00:10:09,130 --> 00:10:11,710
+<font face="Roboto Medium" size="52">That was a major level up.</font>
+
+156
+00:10:12,630 --> 00:10:15,500
+<font face="Roboto Medium" size="52">There really is
+no turning back for me now.</font>
+
+157
+00:10:15,500 --> 00:10:17,830
+<font face="Roboto Medium" size="52">Would you like to view the evolution tree?</font>
+
+158
+00:10:17,830 --> 00:10:19,750
+<font face="Roboto Medium" size="52">Show me right now.</font>
+
+159
+00:10:19,960 --> 00:10:22,960
+<font face="Roboto Medium" size="52">Plague Dragon, Rank B-.</font>
+
+160
+00:10:23,420 --> 00:10:25,330
+<font face="Roboto Medium" size="52">An evil dragon that brings disaster
+wherever it roams.</font>
+
+161
+00:10:25,670 --> 00:10:27,750
+<font face="Roboto Medium" size="52">It has destroyed many human villages.</font>
+
+162
+00:10:28,460 --> 00:10:30,420
+<font face="Roboto Medium" size="52">It bathes itself in a sea of blood,</font>
+
+163
+00:10:30,420 --> 00:10:32,920
+<font face="Roboto Medium" size="52">and sleeps atop
+the resulting mountain of corpses.</font>
+
+164
+00:10:30,420 --> 00:10:36,670
+<font size="34"><b>{\an7}Plague Dragon</b></font>
+
+165
+00:10:33,290 --> 00:10:36,250
+<font face="Roboto Medium" size="52">It is one of the three
+great Calamity monsters.</font>
+
+166
+00:10:37,000 --> 00:10:38,540
+<font face="Roboto Medium" size="52">I will...</font>
+
+167
+00:10:38,540 --> 00:10:41,210
+<font face="Roboto Medium" size="52">evolve into a Plague Dragon!</font>
+
+168
+00:11:07,670 --> 00:11:09,460
+<font face="Roboto Medium" size="52">Don't worry.</font>
+
+169
+00:11:09,460 --> 00:11:11,750
+<font face="Roboto Medium" size="52">I will make sure to protect the village!</font>
+
+170
+00:11:12,460 --> 00:11:15,170
+<font face="Roboto Medium" size="52">With the power
+that your sacrifice gave me!</font>
+
+171
+00:11:22,170 --> 00:11:25,420
+<font size="40"><b>{\an7}Status: Enraged (Major)</b></font>
+
+172
+00:11:25,420 --> 00:11:28,920
+<font size="40"><b>{\an7}Attack:</b></font>
+
+173
+00:11:25,420 --> 00:11:28,920
+<font size="40"><b>{\an7}Defense:</b></font>
+
+174
+00:11:25,420 --> 00:11:28,920
+<font size="40"><b>{\an7}Magic:</b></font>
+
+175
+00:11:25,420 --> 00:11:28,920
+<font size="40"><b>{\an7}Agility:</b></font>
+
+176
+00:11:36,040 --> 00:11:38,960
+<font face="Roboto Medium" size="52">Crap, you are way too heavy!</font>
+
+177
+00:11:41,580 --> 00:11:44,710
+<font face="Roboto Medium" size="52">It figures that I can't beat this guy
+in a shoving match.</font>
+
+178
+00:11:44,710 --> 00:11:46,130
+<font face="Roboto Medium" size="52">But...</font>
+
+179
+00:11:50,750 --> 00:11:51,830
+<font face="Roboto Medium" size="52">Take this!</font>
+
+180
+00:11:53,040 --> 00:11:54,540
+<font face="Roboto Medium" size="52">Yeah, that's some thick skin!</font>
+
+181
+00:11:54,540 --> 00:11:55,670
+<font face="Roboto Medium" size="52">But I'm not done!</font>
+
+182
+00:11:59,580 --> 00:12:01,540
+<font face="Roboto Medium" size="52">Okay, the stage is set.</font>
+
+183
+00:12:04,000 --> 00:12:05,170
+<font face="Roboto Medium" size="52">This is where...</font>
+
+184
+00:12:07,170 --> 00:12:09,080
+<font face="Roboto Medium" size="52">I whoop you!</font>
+
+185
+00:12:10,040 --> 00:12:14,000
+<font size="40"><b>{\an7}I Evolved Into an Evil Dragon</b></font>
+
+186
+00:12:17,750 --> 00:12:19,290
+<font face="Roboto Medium" size="52">Illusia!</font>
+
+187
+00:12:19,290 --> 00:12:20,790
+<font face="Roboto Medium" size="52">Mr. Gregory!</font>
+
+188
+00:12:21,790 --> 00:12:23,880
+<font face="Roboto Medium" size="52">Where'd the Rock Dragon go?</font>
+
+189
+00:12:28,540 --> 00:12:30,830
+<font face="Roboto Medium" size="52">Aurus, you're okay?!</font>
+
+190
+00:12:30,830 --> 00:12:33,420
+<font face="Roboto Medium" size="52">Where are the others?
+What's happened to Gregory?</font>
+
+191
+00:12:43,330 --> 00:12:44,710
+<font face="Roboto Medium" size="52">Gregory...</font>
+
+192
+00:12:44,710 --> 00:12:46,380
+<font face="Roboto Medium" size="52">What in the world happened?</font>
+
+193
+00:12:46,670 --> 00:12:48,250
+<font face="Roboto Medium" size="52">It was the black dragon!</font>
+
+194
+00:12:48,250 --> 00:12:50,170
+<font face="Roboto Medium" size="52">It killed Gregory!</font>
+
+195
+00:12:50,380 --> 00:12:51,880
+<font face="Roboto Medium" size="52">Black dragon?</font>
+
+196
+00:12:51,880 --> 00:12:54,500
+<font face="Roboto Medium" size="52">You mean the Plague Dragon
+Myria brought here?!</font>
+
+197
+00:12:55,250 --> 00:12:56,330
+<font face="Roboto Medium" size="52">He couldn't have...</font>
+
+198
+00:12:56,330 --> 00:12:57,580
+<font face="Roboto Medium" size="52">I saw it with my own eyes!</font>
+
+199
+00:12:57,920 --> 00:13:01,380
+<font face="Roboto Medium" size="52">The black dragon cut Gregory's head off!</font>
+
+200
+00:13:01,380 --> 00:13:04,040
+<font face="Roboto Medium" size="52">Then it suddenly got bigger...</font>
+
+201
+00:13:04,250 --> 00:13:05,750
+<font face="Roboto Medium" size="52">It grew?</font>
+
+202
+00:13:05,750 --> 00:13:07,540
+<font face="Roboto Medium" size="52">You mean it evolved?!</font>
+
+203
+00:13:07,830 --> 00:13:09,630
+<font face="Roboto Medium" size="52">I-I don't know.</font>
+
+204
+00:13:09,630 --> 00:13:12,460
+<font face="Roboto Medium" size="52">It moved east
+while fighting the Rock Dragon.</font>
+
+205
+00:13:12,460 --> 00:13:15,040
+<font face="Roboto Medium" size="52">Damn those nasty monsters!</font>
+
+206
+00:13:15,460 --> 00:13:18,500
+<font face="Roboto Medium" size="52">Illusia killed Mr. Gregory?</font>
+
+207
+00:13:19,000 --> 00:13:21,380
+<font face="Roboto Medium" size="52">It can't... It can't be true!</font>
+
+208
+00:13:21,380 --> 00:13:22,960
+<font face="Roboto Medium" size="52">Calm down, Myria.</font>
+
+209
+00:13:23,460 --> 00:13:26,170
+<font face="Roboto Medium" size="52">We have more important things
+to do right now.</font>
+
+210
+00:13:30,830 --> 00:13:31,830
+<font face="Roboto Medium" size="52">Come on.</font>
+
+211
+00:13:31,830 --> 00:13:33,920
+<font face="Roboto Medium" size="52">We need to hurry and treat the injured.</font>
+
+212
+00:13:33,920 --> 00:13:34,960
+<font face="Roboto Medium" size="52">R-right!</font>
+
+213
+00:13:34,960 --> 00:13:36,330
+<font face="Roboto Medium" size="52">Aurus, get a move on!</font>
+
+214
+00:13:36,330 --> 00:13:37,330
+<font face="Roboto Medium" size="52">Okay!</font>
+
+215
+00:13:39,920 --> 00:13:42,080
+<font face="Roboto Medium" size="52">A Rock Dragon and a Plague Dragon, huh?</font>
+
+216
+00:13:42,790 --> 00:13:45,670
+<font face="Roboto Medium" size="52">The village is doomed
+if they come back here.</font>
+
+217
+00:13:54,000 --> 00:13:55,830
+<font face="Roboto Medium" size="52">Using Tremor again?</font>
+
+218
+00:13:55,830 --> 00:13:57,170
+<font face="Roboto Medium" size="52">Is that all you've got?!</font>
+
+219
+00:14:00,460 --> 00:14:02,670
+<font face="Roboto Medium" size="52">It's my turn now!</font>
+
+220
+00:14:00,630 --> 00:14:02,670
+<font size="53" color="#f9c7fd"><b>{\an7}Whirlwind Slash</b></font>
+
+221
+00:14:03,000 --> 00:14:04,830
+<font face="Roboto Medium" size="52">Whirlwind Slash!</font>
+
+222
+00:14:10,170 --> 00:14:13,460
+<font face="Roboto Medium" size="52">So this is my newly gained skill,
+Whirlwind Slash, huh?</font>
+
+223
+00:14:13,790 --> 00:14:15,000
+<font face="Roboto Medium" size="52">How useful.</font>
+
+224
+00:14:14,250 --> 00:14:15,000
+<font size="40"><b>{\an7}Bellow</b></font>
+
+225
+00:14:14,250 --> 00:14:15,000
+<font size="40"><b>{\an7}Meteorite</b></font>
+
+226
+00:14:14,250 --> 00:14:15,000
+<font size="40"><b>{\an7}Nutcracker</b></font>
+
+227
+00:14:14,250 --> 00:14:15,000
+<font size="40"><b>{\an7}Human Transformation</b></font>
+
+228
+00:14:14,250 --> 00:14:15,000
+<font size="40"><b>{\an7}Whirlwind Smash</b></font>
+
+229
+00:14:14,250 --> 00:14:15,000
+<font size="40"><b>{\an7}Neckbreaker</b></font>
+
+230
+00:14:15,460 --> 00:14:17,710
+<font face="Roboto Medium" size="52">I've got one called Neckbreaker too.</font>
+
+231
+00:14:17,710 --> 00:14:19,460
+<font face="Roboto Medium" size="52">Bet that hits hard.</font>
+
+232
+00:14:21,630 --> 00:14:22,960
+<font face="Roboto Medium" size="52">That was close!</font>
+
+233
+00:14:22,960 --> 00:14:25,040
+<font face="Roboto Medium" size="52">I'd have been cooked
+if that attack hit me!</font>
+
+234
+00:14:27,290 --> 00:14:30,040
+<font face="Roboto Medium" size="52">None of the hits I landed
+made a good dent in its HP.</font>
+
+235
+00:14:30,040 --> 00:14:31,960
+<font face="Roboto Medium" size="52">It's sturdy as hell.</font>
+
+236
+00:14:33,130 --> 00:14:35,710
+<font face="Roboto Medium" size="52">Doesn't it have a weak spot somewhere?!</font>
+
+237
+00:14:36,380 --> 00:14:41,080
+<font face="Roboto Medium" size="52">The Divine Voice cannot provide
+explanations of that nature at level four.</font>
+
+238
+00:14:41,630 --> 00:14:43,250
+<font face="Roboto Medium" size="52">Yep, I knew you'd say that!</font>
+
+239
+00:14:43,670 --> 00:14:47,880
+<font face="Roboto Medium" size="52">Considering its body is hard as rock,
+maybe its weak spot is... the head!</font>
+
+240
+00:14:47,880 --> 00:14:50,000
+<font face="Roboto Medium" size="52">There's nothing I can do but try!</font>
+
+241
+00:14:50,460 --> 00:14:52,170
+<font face="Roboto Medium" size="52">Dragon Punch!</font>
+
+242
+00:14:57,250 --> 00:14:58,460
+<font face="Roboto Medium" size="52">Onto the next one!</font>
+
+243
+00:14:58,460 --> 00:15:00,170
+<font face="Roboto Medium" size="52">Dragon Tail!</font>
+
+244
+00:15:01,420 --> 00:15:02,880
+<font face="Roboto Medium" size="52">Try this on for size!</font>
+
+245
+00:15:05,830 --> 00:15:08,540
+<font face="Roboto Medium" size="52">Hell yeah! I crushed its eyes!</font>
+
+246
+00:15:12,210 --> 00:15:14,250
+<font face="Roboto Medium" size="52">This should be easy pickings
+if it can't see.</font>
+
+247
+00:15:14,250 --> 00:15:16,330
+<font face="Roboto Medium" size="52">I can just beat it into submission now!</font>
+
+248
+00:15:18,170 --> 00:15:19,630
+<font face="Roboto Medium" size="52">Wait, not that way!</font>
+
+249
+00:15:22,630 --> 00:15:25,170
+<font face="Roboto Medium" size="52">You're not going any further!</font>
+
+250
+00:15:30,080 --> 00:15:31,080
+<font face="Roboto Medium" size="52">Okay.</font>
+
+251
+00:15:31,580 --> 00:15:35,540
+<font face="Roboto Medium" size="52">Aurus, take those who can move
+and evacuate them west of the village.</font>
+
+252
+00:15:35,540 --> 00:15:36,710
+<font face="Roboto Medium" size="52">You got it!</font>
+
+253
+00:15:37,000 --> 00:15:40,210
+<font face="Roboto Medium" size="52">Myria, we're going to search
+around here...</font>
+
+254
+00:15:41,580 --> 00:15:42,790
+<font face="Roboto Medium" size="52">Myria?</font>
+
+255
+00:15:44,420 --> 00:15:46,290
+<font face="Roboto Medium" size="52">She better not have gone after it!</font>
+
+256
+00:16:04,960 --> 00:16:08,210
+<font face="Roboto Medium" size="52">Stop!</font>
+
+257
+00:16:19,580 --> 00:16:21,290
+<font face="Roboto Medium" size="52">Dragon Scale Powder!</font>
+
+258
+00:16:22,170 --> 00:16:24,750
+<font face="Roboto Medium" size="52">Is my poison working on it?!</font>
+
+259
+00:16:25,630 --> 00:16:26,920
+<font face="Roboto Medium" size="52">Its neck...</font>
+
+260
+00:16:26,920 --> 00:16:30,000
+<font face="Roboto Medium" size="52">You know, the neck
+seems slimmer than the rest of it.</font>
+
+261
+00:16:30,000 --> 00:16:32,040
+<font face="Roboto Medium" size="52">Did I just find its weak spot?</font>
+
+262
+00:16:35,130 --> 00:16:36,130
+<font face="Roboto Medium" size="52">It's working!</font>
+
+263
+00:16:36,130 --> 00:16:38,080
+<font face="Roboto Medium" size="52">Don't stop! I gotta pummel it!</font>
+
+264
+00:16:41,830 --> 00:16:43,040
+<font face="Roboto Medium" size="52">Almost there!</font>
+
+265
+00:16:43,040 --> 00:16:44,750
+<font face="Roboto Medium" size="52">I'll snap the damn thing!</font>
+
+266
+00:16:43,540 --> 00:16:44,750
+<font size="53" color="#c4ffff"><b>{\an7}Neckbreaker</b></font>
+
+267
+00:16:46,080 --> 00:16:47,420
+<font face="Roboto Medium" size="52">There it is!</font>
+
+268
+00:16:48,040 --> 00:16:49,830
+<font face="Roboto Medium" size="52">Take this!</font>
+
+269
+00:16:49,830 --> 00:16:52,040
+<font face="Roboto Medium" size="52">Neckbreaker!</font>
+
+270
+00:17:04,290 --> 00:17:07,790
+<font face="Roboto Medium" size="52">You have received 384 experience points.</font>
+
+271
+00:17:09,420 --> 00:17:12,420
+<font face="Roboto Medium" size="52">Due to the effect
+of the "Walking Egg" title,</font>
+
+272
+00:17:12,420 --> 00:17:16,080
+<font face="Roboto Medium" size="52">you have earned an additional
+384 experience points.</font>
+
+273
+00:17:16,580 --> 00:17:21,040
+<font face="Roboto Medium" size="52">Plague Dragon
+has gone from level 1 to level 19.</font>
+
+274
+00:17:22,290 --> 00:17:23,670
+<font face="Roboto Medium" size="52">All right.</font>
+
+275
+00:17:24,380 --> 00:17:26,580
+<font face="Roboto Medium" size="52">I beat it.</font>
+
+276
+00:17:29,040 --> 00:17:31,170
+<font face="Roboto Medium" size="52">Illusia?</font>
+
+277
+00:17:35,330 --> 00:17:36,960
+<font face="Roboto Medium" size="52">Myria!</font>
+
+278
+00:17:36,960 --> 00:17:39,830
+<font face="Roboto Medium" size="52">You are... Illusia, right?</font>
+
+279
+00:17:40,170 --> 00:17:42,580
+<font face="Roboto Medium" size="52">You still recognize me?</font>
+
+280
+00:17:45,330 --> 00:17:48,630
+<font face="Roboto Medium" size="52">You beat the Rock Dragon for us, huh?</font>
+
+281
+00:17:48,630 --> 00:17:50,960
+<font face="Roboto Medium" size="52">And you've gotten so big...</font>
+
+282
+00:17:50,960 --> 00:17:53,380
+<font face="Roboto Medium" size="52">Did you evolve again?</font>
+
+283
+00:17:54,000 --> 00:17:55,170
+<font face="Roboto Medium" size="52">Evolve?</font>
+
+284
+00:17:55,920 --> 00:17:57,460
+<font face="Roboto Medium" size="52">Oh, right.</font>
+
+285
+00:17:57,460 --> 00:18:00,750
+<font face="Roboto Medium" size="52">I killed Gregory
+and turned into this monstrosity...</font>
+
+286
+00:18:00,750 --> 00:18:01,790
+<font face="Roboto Medium" size="52">Light Sphere!</font>
+
+287
+00:18:03,040 --> 00:18:04,880
+<font face="Roboto Medium" size="52">Myria, get away from it!</font>
+
+288
+00:18:05,080 --> 00:18:06,080
+<font face="Roboto Medium" size="52">What the?!</font>
+
+289
+00:18:06,710 --> 00:18:08,670
+<font face="Roboto Medium" size="52">There's no time to waste, run away!</font>
+
+290
+00:18:08,920 --> 00:18:10,960
+<font face="Roboto Medium" size="52">Please stop, Miss Marielle!</font>
+
+291
+00:18:10,960 --> 00:18:12,000
+<font face="Roboto Medium" size="52">Myria?!</font>
+
+292
+00:18:12,210 --> 00:18:13,710
+<font face="Roboto Medium" size="52">What are you doing?!</font>
+
+293
+00:18:13,710 --> 00:18:14,960
+<font face="Roboto Medium" size="52">Miss Marielle!</font>
+
+294
+00:18:14,960 --> 00:18:18,040
+<font face="Roboto Medium" size="52">This is Illusia,
+the dragon I told you about!</font>
+
+295
+00:18:18,040 --> 00:18:20,710
+<font face="Roboto Medium" size="52">He's bigger now,
+but I'm positive this is him!</font>
+
+296
+00:18:20,710 --> 00:18:23,460
+<font face="Roboto Medium" size="52">Gregory was killed by this monster!</font>
+
+297
+00:18:27,330 --> 00:18:29,460
+<font face="Roboto Medium" size="52">Really, Illusia?</font>
+
+298
+00:18:37,580 --> 00:18:39,250
+<font face="Roboto Medium" size="52">Get away from it!</font>
+
+299
+00:18:39,830 --> 00:18:41,630
+<font face="Roboto Medium" size="52">There must be some misunderstanding!</font>
+
+300
+00:18:41,630 --> 00:18:43,960
+<font face="Roboto Medium" size="52">Illusia would not do that!</font>
+
+301
+00:18:44,960 --> 00:18:46,330
+<font face="Roboto Medium" size="52">Myria...</font>
+
+302
+00:18:46,330 --> 00:18:48,500
+<font face="Roboto Medium" size="52">You believe in me?</font>
+
+303
+00:18:53,420 --> 00:18:56,170
+<font face="Roboto Medium" size="52">Oh yeah, the Dragon Scale Powder!</font>
+
+304
+00:18:56,170 --> 00:18:58,250
+<font face="Roboto Medium" size="52">Miss Marielle, I...</font>
+
+305
+00:19:00,580 --> 00:19:06,210
+<font face="Roboto Medium" size="52">I've turned into a monstrosity
+who can't be near her anymore...</font>
+
+306
+00:19:06,750 --> 00:19:07,790
+<font face="Roboto Medium" size="52">Myria!</font>
+
+307
+00:19:13,380 --> 00:19:14,710
+<font face="Roboto Medium" size="52">Light Sphere!</font>
+
+308
+00:19:21,040 --> 00:19:23,880
+<font face="Roboto Medium" size="52">You must've been hit by
+the Plague Dragon's poison.</font>
+
+309
+00:19:25,000 --> 00:19:26,250
+<font face="Roboto Medium" size="52">No...</font>
+
+310
+00:19:26,880 --> 00:19:29,670
+<font face="Roboto Medium" size="52">No... Illusia...</font>
+
+311
+00:19:30,380 --> 00:19:33,630
+<font face="Roboto Medium" size="52">Farewell, Myria.</font>
+
+312
+00:19:46,630 --> 00:19:49,250
+<font face="Roboto Medium" size="52">So awesome! I'm built like a tank now!</font>
+
+313
+00:19:49,250 --> 00:19:51,460
+<font face="Roboto Medium" size="52">I bet I can kick so much ass!</font>
+
+314
+00:19:56,830 --> 00:19:59,130
+<font face="Roboto Medium" size="52">My whole body feels stiff.</font>
+
+315
+00:19:59,130 --> 00:20:03,290
+<font face="Roboto Medium" size="52">Aren't I supposed to have
+automatic recovery?</font>
+
+316
+00:20:09,460 --> 00:20:13,420
+<font face="Roboto Medium" size="52">You know, I never really cared
+about flowers until today...</font>
+
+317
+00:20:15,710 --> 00:20:19,000
+<font face="Roboto Medium" size="52">Illusia, Value D+.</font>
+
+318
+00:20:19,920 --> 00:20:23,380
+<font size="53"><b>{\an7}Illusia</b></font>
+
+319
+00:20:21,000 --> 00:20:23,380
+<font face="Roboto Medium" size="52">That's... my name.</font>
+
+320
+00:20:24,290 --> 00:20:27,210
+<font face="Roboto Medium" size="52">A beautiful red and white flower.</font>
+
+321
+00:20:27,710 --> 00:20:32,540
+<font face="Roboto Medium" size="52">It is said this flower only blooms
+where monsters live.</font>
+
+322
+00:20:33,080 --> 00:20:36,500
+<font face="Roboto Medium" size="52">For that reason,
+these flowers are difficult to gather,</font>
+
+323
+00:20:36,500 --> 00:20:38,880
+<font face="Roboto Medium" size="52">and they make excellent gifts.</font>
+
+324
+00:20:40,210 --> 00:20:44,710
+<font face="Roboto Medium" size="52">In flower language,
+it symbolizes courage, bravery,</font>
+
+325
+00:20:44,710 --> 00:20:46,290
+<font face="Roboto Medium" size="52">and heroism.</font>
+
+326
+00:20:47,080 --> 00:20:48,250
+<font face="Roboto Medium" size="52">You're a hero.</font>
+
+327
+00:20:50,170 --> 00:20:52,210
+<font face="Roboto Medium" size="52">How about... Illusia?</font>
+
+328
+00:20:52,960 --> 00:20:55,460
+<font face="Roboto Medium" size="52">It's the name of a flower I like.</font>
+
+329
+00:21:04,040 --> 00:21:05,290
+<font face="Roboto Medium" size="52">Erase it!</font>
+
+330
+00:21:05,290 --> 00:21:07,540
+<font face="Roboto Medium" size="52">Get rid of this name!</font>
+
+331
+00:21:07,750 --> 00:21:12,580
+<font face="Roboto Medium" size="52">Once your name is confirmed,
+it cannot be changed.</font>
+
+332
+00:21:12,580 --> 00:21:15,250
+<font face="Roboto Medium" size="52">Bravery? A hero?!</font>
+
+333
+00:21:15,710 --> 00:21:18,790
+<font face="Roboto Medium" size="52">You really think I can use this name?!</font>
+
+334
+00:21:18,790 --> 00:21:21,750
+<font face="Roboto Medium" size="52">Delete it! Get rid of it this instant!</font>
+
+335
+00:21:21,750 --> 00:21:26,670
+<font face="Roboto Medium" size="52">Once your name is confirmed,
+it cannot be changed.</font>
+
+336
+00:21:29,920 --> 00:21:31,710
+<font face="Roboto Medium" size="52">I'm an idiot.</font>
+
+337
+00:21:31,710 --> 00:21:34,420
+<font face="Roboto Medium" size="52">A huge idiot!</font>
+
+338
+00:21:36,250 --> 00:21:40,210
+<font face="Roboto Medium" size="52">What was it I wanted to become?</font>
+
+339
+00:21:41,080 --> 00:21:43,880
+<font face="Roboto Medium" size="52">What did I want to do?</font>
+
+340
+00:21:45,580 --> 00:21:49,460
+<font face="Roboto Medium" size="52">Why was I even brought to this world?</font>
+
+341
+00:21:51,920 --> 00:21:53,750
+<font face="Roboto Medium" size="52">What's that sound?</font>
+
+342
+00:21:54,670 --> 00:21:59,460
+<font face="Roboto Medium" size="52">Ah, whatever, I don't care anymore...</font>
+
+343
+00:22:00,670 --> 00:22:04,000
+<font face="Roboto Medium" size="44">Can you tell me? Shinjita kotoba</font>
+
+344
+00:22:04,000 --> 00:22:07,250
+<font face="Roboto Medium" size="44">Never ending kawareru bokura</font>
+
+345
+00:22:07,250 --> 00:22:10,960
+<font face="Roboto Medium" size="44">Always remember yakusoku nakutashita page</font>
+
+346
+00:22:10,960 --> 00:22:13,210
+<font face="Roboto Medium" size="44">Owaranai monogatari o</font>
+
+347
+00:22:13,420 --> 00:22:17,750
+<font face="Roboto Medium" size="44">Don't let nobody bring you down</font>
+
+348
+00:22:19,920 --> 00:22:24,080
+<font face="Roboto Medium" size="44">Tokihanate break of dawn</font>
+
+349
+00:22:27,170 --> 00:22:30,630
+<font face="Roboto Medium" size="44">Kirei na mama no omoide nara</font>
+
+350
+00:22:30,630 --> 00:22:33,380
+<font face="Roboto Medium" size="44">Oitakita through the rain</font>
+
+351
+00:22:33,580 --> 00:22:37,210
+<font face="Roboto Medium" size="44">Tesaguri demo mae ni susumu emotion</font>
+
+352
+00:22:37,210 --> 00:22:39,920
+<font face="Roboto Medium" size="44">Tsune ni mune ni daite</font>
+
+353
+00:22:40,210 --> 00:22:41,830
+<font face="Roboto Medium" size="44">Atomodori wa nashi</font>
+
+354
+00:22:41,830 --> 00:22:43,460
+<font face="Roboto Medium" size="44">Kokoro ni oshita rakuin</font>
+
+355
+00:22:43,460 --> 00:22:45,130
+<font face="Roboto Medium" size="44">Shoki shoudou no mama ni</font>
+
+356
+00:22:45,130 --> 00:22:46,790
+<font face="Roboto Medium" size="44">Attouteki na made ni</font>
+
+357
+00:22:46,790 --> 00:22:48,290
+<font face="Roboto Medium" size="44">Hisometa ketsui hyoumei wa</font>
+
+358
+00:22:48,290 --> 00:22:49,880
+<font face="Roboto Medium" size="44">Kakumei no makuake sa</font>
+
+359
+00:22:49,880 --> 00:22:52,040
+<font face="Roboto Medium" size="44">Hajimeyou ka 3, 2, 1 GO!!</font>
+
+360
+00:22:52,250 --> 00:22:55,500
+<font face="Roboto Medium" size="44">Can you tell me? Shinjita kotoba</font>
+
+361
+00:22:55,500 --> 00:22:58,670
+<font face="Roboto Medium" size="44">Never ending kawareru bokura</font>
+
+362
+00:22:58,670 --> 00:23:02,330
+<font face="Roboto Medium" size="44">Always remember yakusoku nakushita page</font>
+
+363
+00:23:02,500 --> 00:23:04,750
+<font face="Roboto Medium" size="44">Owaranai monogatari o</font>
+
+364
+00:23:04,920 --> 00:23:07,330
+<font face="Roboto Medium" size="44">Shukumei wa ima da mikansei</font>
+
+365
+00:23:07,330 --> 00:23:08,960
+<font face="Roboto Medium" size="44">Shimesu sono kanousei</font>
+
+366
+00:23:08,960 --> 00:23:12,460
+<font face="Roboto Medium" size="44">We fly together koko de wa nai dokoka e</font>
+
+367
+00:23:12,460 --> 00:23:18,000
+<font face="Roboto Medium" size="44">Yoru ga akeru made</font>
+
+368
+00:23:18,250 --> 00:23:20,500
+<font face="Roboto Medium" size="44">Hane hiroge</font>
+
+369
+00:23:20,710 --> 00:23:24,170
+<font face="Roboto Medium" size="44">Itsuka sora ni kieru made</font>
+
+370
+00:23:30,080 --> 00:23:36,040
+<font size="40"><b>{\an7}I Caught Sight of the Mastermind</b></font>
+
+371
+00:23:31,830 --> 00:23:34,500
+<font face="Roboto Medium" size="52">"I Caught Sight of the Mastermind".</font>
+
