@@ -1,0 +1,1876 @@
+1
+00:00:12,510 --> 00:00:14,510
+<font face="Roboto Medium" size="26"></font>
+
+2
+00:00:14,510 --> 00:00:16,180
+<font face="Roboto Medium" size="26">So, like I was saying.</font>
+
+3
+00:00:16,810 --> 00:00:20,060
+<font face="Roboto Medium" size="26">She will be joining our class,
+starting today.</font>
+
+4
+00:00:20,310 --> 00:00:22,020
+<font face="Roboto Medium" size="26">{\an8}ANNA AKECHI</font>
+
+5
+00:00:20,560 --> 00:00:23,650
+<font face="Roboto Medium" size="26">I'm Anna Akechi. Nice to meet you!</font>
+
+6
+00:00:26,150 --> 00:00:28,610
+<font face="Roboto Medium" size="26">-Nice to meet you!
+-Nice to meet you!</font>
+
+7
+00:00:28,780 --> 00:00:31,740
+<font face="Roboto Medium" size="26">If you have any questions, just ask!</font>
+
+8
+00:00:31,910 --> 00:00:34,370
+<font face="Roboto Medium" size="26">Ask me, as long as
+it's not about studying!</font>
+
+9
+00:00:35,200 --> 00:00:40,000
+<font face="Roboto Medium" size="26">{\an8}ANNA AKECHI</font>
+
+10
+00:00:36,790 --> 00:00:39,000
+<font face="Roboto Medium" size="26">Okay, that's it for introductions.</font>
+
+11
+00:00:39,160 --> 00:00:42,170
+<font face="Roboto Medium" size="26">Miss Akechi, you can sit
+next to Miss Kobayashi.</font>
+
+12
+00:00:47,880 --> 00:00:48,800
+<font face="Roboto Medium" size="26">Okay!</font>
+
+13
+00:00:53,890 --> 00:00:57,640
+<font face="Roboto Medium" size="26">{\an8}<i>sagashi ni iku yo Heart ni Hint!</i></font>
+
+14
+00:00:53,890 --> 00:00:57,640
+<font face="Roboto Medium" size="26"><i>Let's look for it
+The hint is in the heart!</i></font>
+
+15
+00:00:57,810 --> 00:01:00,890
+<font face="Roboto Medium" size="26">{\an8}<i>rinto hirameku</i></font>
+
+16
+00:00:57,810 --> 00:01:00,890
+<font face="Roboto Medium" size="26"><i>A brilliant inspiration</i></font>
+
+17
+00:01:01,140 --> 00:01:03,770
+<font face="Roboto Medium" size="26">{\an8}<i>kitto mitsukeru
+datte Precure</i></font>
+
+18
+00:01:01,140 --> 00:01:03,770
+<font face="Roboto Medium" size="26"><i>I'm sure we'll find it
+We're Precure, after all</i></font>
+
+19
+00:01:03,940 --> 00:01:06,570
+<font face="Roboto Medium" size="26">{\an8}<i>watashitachi wo yondeiru</i></font>
+
+20
+00:01:03,940 --> 00:01:06,570
+<font face="Roboto Medium" size="26"><i>It's calling to us</i></font>
+
+21
+00:01:06,730 --> 00:01:09,400
+<font face="Roboto Medium" size="26">{\an8}<i>shinjitsu wa doko?
+hakken wa nani?</i></font>
+
+22
+00:01:06,730 --> 00:01:09,400
+<font face="Roboto Medium" size="26"><i>Where's the truth?
+What will we discover?</i></font>
+
+23
+00:01:09,570 --> 00:01:13,030
+<font face="Roboto Medium" size="26">{\an8}<i>nazo ga nazo wo yondeiru</i></font>
+
+24
+00:01:09,570 --> 00:01:13,030
+<font face="Roboto Medium" size="26"><i>One mystery after another</i></font>
+
+25
+00:01:13,820 --> 00:01:19,160
+<font face="Roboto Medium" size="26">{\an8}<i>Puzzle wo atsume
+genzai kara kako, mirai e</i></font>
+
+26
+00:01:13,820 --> 00:01:19,160
+<font face="Roboto Medium" size="26"><i>Gather the pieces
+From now to the past and future</i></font>
+
+27
+00:01:19,330 --> 00:01:24,540
+<font face="Roboto Medium" size="26">{\an8}<i>shouko mitai ni
+toki wo koe kagayaku mono</i></font>
+
+28
+00:01:19,330 --> 00:01:24,540
+<font face="Roboto Medium" size="26"><i>Like evidence
+Something shining across time</i></font>
+
+29
+00:01:24,710 --> 00:01:27,380
+<font face="Roboto Medium" size="26">{\an8}<i>nande? nande? Trick kana?</i></font>
+
+30
+00:01:24,710 --> 00:01:27,380
+<font face="Roboto Medium" size="26"><i>How? How? Is it a trick?</i></font>
+
+31
+00:01:27,550 --> 00:01:30,220
+<font face="Roboto Medium" size="26">{\an8}<i>naze? naze? tachimukau</i></font>
+
+32
+00:01:27,550 --> 00:01:30,220
+<font face="Roboto Medium" size="26"><i>Why? Why? We'll face it</i></font>
+
+33
+00:01:30,630 --> 00:01:35,800
+<font face="Roboto Medium" size="26">{\an8}<i>mitsumete kanjite
+himitsu wo tokiakasu no</i></font>
+
+34
+00:01:30,630 --> 00:01:35,800
+<font face="Roboto Medium" size="26"><i>Look and feel
+Figure out the secret</i></font>
+
+35
+00:01:36,260 --> 00:01:41,770
+<font face="Roboto Medium" size="26">{\an8}<i>yuuki no ippo ga kiseki made michibiku</i></font>
+
+36
+00:01:36,260 --> 00:01:41,770
+<font face="Roboto Medium" size="26"><i>One brave step will lead to a miracle</i></font>
+
+37
+00:01:42,100 --> 00:01:47,320
+<font face="Roboto Medium" size="26">{\an8}<i>kotae!?
+Kizuitenai mono ni kizuita toki</i></font>
+
+38
+00:01:42,100 --> 00:01:47,320
+<font face="Roboto Medium" size="26"><i>The answer?!
+Found when you notice the unnoticed</i></font>
+
+39
+00:01:47,570 --> 00:01:52,990
+<font face="Roboto Medium" size="26">{\an8}<i>unmei ne tte daisuki yo tte
+chicchana koe</i></font>
+
+40
+00:01:47,570 --> 00:01:52,990
+<font face="Roboto Medium" size="26"><i>It's destiny, it's love
+Whispered in a tiny voice</i></font>
+
+41
+00:01:53,160 --> 00:01:56,530
+<font face="Roboto Medium" size="26">{\an8}<i>issho ni aruite ikou!</i></font>
+
+42
+00:01:53,160 --> 00:01:56,530
+<font face="Roboto Medium" size="26"><i>Let's walk that road together!</i></font>
+
+43
+00:01:56,700 --> 00:02:00,450
+<font face="Roboto Medium" size="26">{\an8}<i>sagashi ni iku yo Heart ni Hint!</i></font>
+
+44
+00:01:56,700 --> 00:02:00,450
+<font face="Roboto Medium" size="26"><i>Let's look for it
+The hint is in the heart!</i></font>
+
+45
+00:02:00,660 --> 00:02:02,290
+<font face="Roboto Medium" size="26">{\an8}<i>rinto hirameku</i></font>
+
+46
+00:02:00,660 --> 00:02:02,290
+<font face="Roboto Medium" size="26"><i>A brilliant inspiration</i></font>
+
+47
+00:02:02,460 --> 00:02:08,130
+<font face="Roboto Medium" size="26">{\an8}<i>Jewel no kagi ga tsunagaru
+tsugi e no kizuna hiraku yo</i></font>
+
+48
+00:02:02,460 --> 00:02:08,130
+<font face="Roboto Medium" size="26"><i>The jewel key connects us
+Opening the link moving forward</i></font>
+
+49
+00:02:08,300 --> 00:02:13,220
+<font face="Roboto Medium" size="26">{\an8}<i>nee umareta koto
+meguri aeta koto no shinpi</i></font>
+
+50
+00:02:08,300 --> 00:02:13,220
+<font face="Roboto Medium" size="26"><i>Hey, us being born and having met
+Is a wonderful mystery</i></font>
+
+51
+00:02:13,380 --> 00:02:16,850
+<font face="Roboto Medium" size="26">{\an8}<i>susume! Meitantei Precure!</i></font>
+
+52
+00:02:13,380 --> 00:02:16,850
+<font face="Roboto Medium" size="26"><i>Go on! Star Detective Precure!</i></font>
+
+53
+00:02:23,310 --> 00:02:28,020
+<font face="Roboto Medium" size="26"><i>Yikes! The School is a Maze?</i></font>
+
+54
+00:02:29,190 --> 00:02:30,150
+<font face="Roboto Medium" size="26">Hey, hey!</font>
+
+55
+00:02:30,570 --> 00:02:32,610
+<font face="Roboto Medium" size="26">Miss Akechi, where are you from?</font>
+
+56
+00:02:32,780 --> 00:02:34,950
+<font face="Roboto Medium" size="26">Uh, the Chairwoman enrolled me.</font>
+
+57
+00:02:35,110 --> 00:02:36,370
+<font face="Roboto Medium" size="26">Were you in a club?</font>
+
+58
+00:02:36,530 --> 00:02:39,160
+<font face="Roboto Medium" size="26">Do you have a phone?
+Let's be text buddies.</font>
+
+59
+00:02:39,330 --> 00:02:40,410
+<font face="Roboto Medium" size="26">Text buddies?</font>
+
+60
+00:02:40,580 --> 00:02:41,580
+<font face="Roboto Medium" size="26">Me too!</font>
+
+61
+00:02:41,750 --> 00:02:44,870
+<font face="Roboto Medium" size="26">Whoa! Um, um!</font>
+
+62
+00:02:45,040 --> 00:02:46,000
+<font face="Roboto Medium" size="26">Anna!</font>
+
+63
+00:02:46,170 --> 00:02:47,830
+<font face="Roboto Medium" size="26">Take your time answering!</font>
+
+64
+00:02:48,000 --> 00:02:52,380
+<font face="Roboto Medium" size="26">Sorry, it's just rare to have
+a transfer student at this time of year.</font>
+
+65
+00:02:52,550 --> 00:02:54,170
+<font face="Roboto Medium" size="26">Can I call you Anna?</font>
+
+66
+00:02:54,340 --> 00:02:56,180
+<font face="Roboto Medium" size="26">Yeah! Of course!</font>
+
+67
+00:02:56,340 --> 00:02:59,720
+<font face="Roboto Medium" size="26">Do you believe in the occult?
+The July predictions?</font>
+
+68
+00:02:59,890 --> 00:03:01,140
+<font face="Roboto Medium" size="26">July?</font>
+
+69
+00:03:01,640 --> 00:03:03,600
+<font face="Roboto Medium" size="26">It's a big story these days!</font>
+
+70
+00:03:04,100 --> 00:03:06,600
+<font face="Roboto Medium" size="26"><i>In the year 1999, the seventh month.</i></font>
+
+71
+00:03:06,980 --> 00:03:09,860
+<font face="Roboto Medium" size="26">The King of Terror
+will descend from the sky.</font>
+
+72
+00:03:10,360 --> 00:03:11,320
+<font face="Roboto Medium" size="26">That story.</font>
+
+73
+00:03:11,480 --> 00:03:13,570
+<font face="Roboto Medium" size="26">Well, it's just a rumor anyway.</font>
+
+74
+00:03:13,740 --> 00:03:15,240
+<font face="Roboto Medium" size="26">Wow.</font>
+
+75
+00:03:15,400 --> 00:03:18,490
+<font face="Roboto Medium" size="26">Oh yeah, I heard you two
+live in the same house?</font>
+
+76
+00:03:19,070 --> 00:03:20,700
+<font face="Roboto Medium" size="26">What's the connection?</font>
+
+77
+00:03:22,120 --> 00:03:25,460
+<font face="Roboto Medium" size="26">-Truth be told...
+-We are actually...</font>
+
+78
+00:03:26,710 --> 00:03:28,500
+<font face="Roboto Medium" size="26">Detectives!</font>
+
+79
+00:03:29,040 --> 00:03:30,420
+<font face="Roboto Medium" size="26">Here, take one.</font>
+
+80
+00:03:29,380 --> 00:03:30,420
+<font face="Roboto Medium" size="26">{\an8}ANNA AKECHI</font>
+
+81
+00:03:30,590 --> 00:03:31,880
+<font face="Roboto Medium" size="26">Huh?</font>
+
+82
+00:03:32,340 --> 00:03:33,550
+<font face="Roboto Medium" size="26">Fwip, fwip, fwip!</font>
+
+83
+00:03:34,340 --> 00:03:35,380
+<font face="Roboto Medium" size="26">Detectives?</font>
+
+84
+00:03:35,550 --> 00:03:38,640
+<font face="Roboto Medium" size="26">Wow, Mikuru! Why didn't you tell us?</font>
+
+85
+00:03:39,680 --> 00:03:42,390
+<font face="Roboto Medium" size="26">We gold-star solve any case!</font>
+
+86
+00:03:42,560 --> 00:03:45,680
+<font face="Roboto Medium" size="26">Leave it to the CUREtto Detective Agency.</font>
+
+87
+00:03:45,850 --> 00:03:51,190
+<font face="Roboto Medium" size="26">-And we're also Star Detective Prec--
+-Whoa!</font>
+
+88
+00:03:51,980 --> 00:03:54,030
+<font face="Roboto Medium" size="26">The Precure part is a secret!</font>
+
+89
+00:03:54,190 --> 00:03:55,240
+<font face="Roboto Medium" size="26">Oh yeah!</font>
+
+90
+00:03:57,200 --> 00:03:58,740
+<font face="Roboto Medium" size="26">What's that sound?</font>
+
+91
+00:03:58,910 --> 00:04:00,030
+<font face="Roboto Medium" size="26">A mobile phone?</font>
+
+92
+00:04:01,530 --> 00:04:02,240
+<font face="Roboto Medium" size="26">Whoa!</font>
+
+93
+00:04:02,780 --> 00:04:05,120
+<font face="Roboto Medium" size="26">It, it's a--</font>
+
+94
+00:04:05,950 --> 00:04:07,210
+<font face="Roboto Medium" size="26">The bell rang.</font>
+
+95
+00:04:07,370 --> 00:04:09,330
+<font face="Roboto Medium" size="26">Let's talk more later.</font>
+
+96
+00:04:11,710 --> 00:04:12,790
+<font face="Roboto Medium" size="26">Whew!</font>
+
+97
+00:04:15,550 --> 00:04:18,090
+<font face="Roboto Medium" size="26">-I knew it was you.
+-Hush!</font>
+
+98
+00:04:22,930 --> 00:04:23,810
+<font face="Roboto Medium" size="26">Hmm.</font>
+
+99
+00:04:24,350 --> 00:04:27,430
+<font face="Roboto Medium" size="26">A Precure from another time...</font>
+
+100
+00:04:27,930 --> 00:04:29,310
+<font face="Roboto Medium" size="26">Maestro Usonoir!</font>
+
+101
+00:04:29,940 --> 00:04:33,570
+<font face="Roboto Medium" size="26">The Tome of Mirages has shown
+the next Makoto Jewel.</font>
+
+102
+00:04:33,730 --> 00:04:37,860
+<font face="Roboto Medium" size="26">I, Goemon, should be the one to go.</font>
+
+103
+00:04:38,030 --> 00:04:40,610
+<font face="Roboto Medium" size="26">Newcomers. Come along.</font>
+
+104
+00:04:40,780 --> 00:04:41,820
+<font face="Roboto Medium" size="26">Huh?</font>
+
+105
+00:04:41,990 --> 00:04:43,740
+<font face="Roboto Medium" size="26">Why do we have to?</font>
+
+106
+00:04:43,910 --> 00:04:45,240
+<font face="Roboto Medium" size="26">Yes, okay.</font>
+
+107
+00:04:45,410 --> 00:04:48,290
+<font face="Roboto Medium" size="26">Huh? If you insist.</font>
+
+108
+00:04:48,460 --> 00:04:52,130
+<font face="Roboto Medium" size="26">I'll get a Makoto Jewel for sure!</font>
+
+109
+00:04:52,540 --> 00:04:53,500
+<font face="Roboto Medium" size="26">Lie lie, sir!</font>
+
+110
+00:04:53,920 --> 00:04:55,250
+<font face="Roboto Medium" size="26">Lie lie, sir!</font>
+
+111
+00:04:57,170 --> 00:05:00,720
+<font face="Roboto Medium" size="26">This school is huge!</font>
+
+112
+00:05:01,260 --> 00:05:02,890
+<font face="Roboto Medium" size="26">Next is science, right?</font>
+
+113
+00:05:03,260 --> 00:05:05,930
+<font face="Roboto Medium" size="26">I'll get lost when we move classes.</font>
+
+114
+00:05:06,600 --> 00:05:08,350
+<font face="Roboto Medium" size="26">I figured you might!</font>
+
+115
+00:05:08,890 --> 00:05:10,020
+<font face="Roboto Medium" size="26">Ta-da!</font>
+
+116
+00:05:10,810 --> 00:05:11,810
+<font face="Roboto Medium" size="26">Is that...</font>
+
+117
+00:05:11,980 --> 00:05:16,230
+<font face="Roboto Medium" size="26">{\an8}FIRST FLOOR, SECOND FLOOR</font>
+
+118
+00:05:11,980 --> 00:05:13,480
+<font face="Roboto Medium" size="26">a map of the school!</font>
+
+119
+00:05:13,650 --> 00:05:17,230
+<font face="Roboto Medium" size="26">I made it because I always got lost
+when I transferred here!</font>
+
+120
+00:05:16,400 --> 00:05:18,860
+<font face="Roboto Medium" size="26">{\an8}OUR CLASS IS 2-1</font>
+
+121
+00:05:17,400 --> 00:05:18,860
+<font face="Roboto Medium" size="26">My hero!</font>
+
+122
+00:05:20,110 --> 00:05:21,200
+<font face="Roboto Medium" size="26">What's that?</font>
+
+123
+00:05:22,110 --> 00:05:23,660
+<font face="Roboto Medium" size="26">Pochitan, of course!</font>
+
+124
+00:05:25,120 --> 00:05:26,580
+<font face="Roboto Medium" size="26">Huh...</font>
+
+125
+00:05:26,740 --> 00:05:27,990
+<font face="Roboto Medium" size="26">I see the resemblance!</font>
+
+126
+00:05:30,540 --> 00:05:35,250
+<font face="Roboto Medium" size="26">Go across here, then on the right
+is the science classroom...</font>
+
+127
+00:05:40,840 --> 00:05:42,970
+<font face="Roboto Medium" size="26">What a huge cherry blossom tree!</font>
+
+128
+00:05:43,430 --> 00:05:46,350
+<font face="Roboto Medium" size="26">It's said to have been there
+since the school was founded!</font>
+
+129
+00:05:46,510 --> 00:05:49,270
+<font face="Roboto Medium" size="26">Wow! That's amazing!</font>
+
+130
+00:05:49,980 --> 00:05:52,270
+<font face="Roboto Medium" size="26">Wait, class is starting soon!</font>
+
+131
+00:05:52,440 --> 00:05:53,230
+<font face="Roboto Medium" size="26">Right!</font>
+
+132
+00:05:57,360 --> 00:06:01,740
+<font face="Roboto Medium" size="26">I didn't expect the Precures!
+I'll just quickly get the Makoto Jewel...</font>
+
+133
+00:06:01,900 --> 00:06:03,410
+<font face="Roboto Medium" size="26">-Hang on.
+-Huh?</font>
+
+134
+00:06:04,740 --> 00:06:06,370
+<font face="Roboto Medium" size="26">What is it, Newcomer?</font>
+
+135
+00:06:06,530 --> 00:06:08,910
+<font face="Roboto Medium" size="26">The Precure from another time.</font>
+
+136
+00:06:10,410 --> 00:06:11,540
+<font face="Roboto Medium" size="26">Aren't you curious?</font>
+
+137
+00:06:12,410 --> 00:06:14,750
+<font face="Roboto Medium" size="26">Considering what happened to Nijee,</font>
+
+138
+00:06:14,920 --> 00:06:17,790
+<font face="Roboto Medium" size="26"><i>that fairy must have a secret.</i></font>
+
+139
+00:06:18,420 --> 00:06:21,210
+<font face="Roboto Medium" size="26">Hmm. Then I have an idea.</font>
+
+140
+00:06:21,720 --> 00:06:25,550
+<font face="Roboto Medium" size="26">If the Precures get in trouble,
+how will the fairy respond?</font>
+
+141
+00:06:27,600 --> 00:06:31,060
+<font face="Roboto Medium" size="26">I'll find out! With my special talent!</font>
+
+142
+00:06:34,600 --> 00:06:36,860
+<font face="Roboto Medium" size="26">{\an8}SCIENCE CLASSROOM</font>
+
+143
+00:06:34,600 --> 00:06:36,860
+<font face="Roboto Medium" size="26">Hurry, hurry!</font>
+
+144
+00:06:37,360 --> 00:06:39,270
+<font face="Roboto Medium" size="26">Did we make it?</font>
+
+145
+00:06:40,480 --> 00:06:42,490
+<font face="Roboto Medium" size="26">This isn't the science classroom!</font>
+
+146
+00:06:45,030 --> 00:06:46,450
+<font face="Roboto Medium" size="26">What does this mean?</font>
+
+147
+00:06:46,820 --> 00:06:49,030
+<font face="Roboto Medium" size="26">Welcome to my trick maze!</font>
+
+148
+00:06:49,740 --> 00:06:51,540
+<font face="Roboto Medium" size="26">The Phantom Thieves' Guild!</font>
+
+149
+00:06:51,700 --> 00:06:54,250
+<font face="Roboto Medium" size="26">You've come to take another Makoto Jewel.</font>
+
+150
+00:06:54,410 --> 00:06:56,210
+<font face="Roboto Medium" size="26">What's a trick maze?</font>
+
+151
+00:06:57,040 --> 00:07:01,920
+<font face="Roboto Medium" size="26">I've used my powers to transform
+the whole school into a place of mystery!</font>
+
+152
+00:07:02,090 --> 00:07:04,340
+<font face="Roboto Medium" size="26">It's now a trick maze!</font>
+
+153
+00:07:05,090 --> 00:07:08,180
+<font face="Roboto Medium" size="26"><i>You two will have to solve the puzzles.</i></font>
+
+154
+00:07:08,850 --> 00:07:13,890
+<font face="Roboto Medium" size="26"><i>If you fail to solve a single one,
+you'll be trapped in the maze forever.</i></font>
+
+155
+00:07:14,770 --> 00:07:15,810
+<font face="Roboto Medium" size="26">Forever?</font>
+
+156
+00:07:15,980 --> 00:07:17,020
+<font face="Roboto Medium" size="26">No way!</font>
+
+157
+00:07:17,560 --> 00:07:20,610
+<font face="Roboto Medium" size="26">I'll invite you to the first puzzle.</font>
+
+158
+00:07:22,440 --> 00:07:23,230
+<font face="Roboto Medium" size="26">Huh?</font>
+
+159
+00:07:31,080 --> 00:07:32,200
+<font face="Roboto Medium" size="26">Where are we?</font>
+
+160
+00:07:32,700 --> 00:07:34,080
+<font face="Roboto Medium" size="26">The science classroom?</font>
+
+161
+00:07:37,370 --> 00:07:39,170
+<font face="Roboto Medium" size="26">I can't open it!</font>
+
+162
+00:07:39,330 --> 00:07:41,290
+<font face="Roboto Medium" size="26">That other door won't open either.</font>
+
+163
+00:07:41,460 --> 00:07:43,250
+<font face="Roboto Medium" size="26">Are we trapped?</font>
+
+164
+00:07:43,420 --> 00:07:45,170
+<font face="Roboto Medium" size="26">We have to do something!</font>
+
+165
+00:07:47,510 --> 00:07:48,510
+<font face="Roboto Medium" size="26">A keyhole!</font>
+
+166
+00:07:49,010 --> 00:07:50,550
+<font face="Roboto Medium" size="26"><i>Escape...</i></font>
+
+167
+00:07:51,140 --> 00:07:53,770
+<font face="Roboto Medium" size="26"><i>A key is needed to open the door.</i></font>
+
+168
+00:07:54,220 --> 00:07:57,980
+<font face="Roboto Medium" size="26"><i>Obey the warnings in the science classroom
+and find the key.</i></font>
+
+169
+00:07:58,140 --> 00:08:01,730
+<font face="Roboto Medium" size="26">We need a key to get out of here.</font>
+
+170
+00:08:01,900 --> 00:08:04,230
+<font face="Roboto Medium" size="26">Okay! Good to know!</font>
+
+171
+00:08:05,360 --> 00:08:06,150
+<font face="Roboto Medium" size="26">Not here!</font>
+
+172
+00:08:06,570 --> 00:08:07,360
+<font face="Roboto Medium" size="26">Not here!</font>
+
+173
+00:08:07,530 --> 00:08:08,320
+<font face="Roboto Medium" size="26">Not here!</font>
+
+174
+00:08:10,530 --> 00:08:13,030
+<font face="Roboto Medium" size="26">I can't find it anywhere!</font>
+
+175
+00:08:13,910 --> 00:08:17,750
+<font face="Roboto Medium" size="26">Obey the warnings in the science classroom
+and find it?</font>
+
+176
+00:08:17,910 --> 00:08:20,080
+<font face="Roboto Medium" size="26">The warnings in the science classroom...</font>
+
+177
+00:08:21,380 --> 00:08:22,790
+<font face="Roboto Medium" size="26">Anna, over here!</font>
+
+178
+00:08:23,840 --> 00:08:24,880
+<font face="Roboto Medium" size="26">What is it?</font>
+
+179
+00:08:25,050 --> 00:08:26,130
+<font face="Roboto Medium" size="26">Look at this!</font>
+
+180
+00:08:26,760 --> 00:08:27,760
+<font face="Roboto Medium" size="26">Fire.</font>
+
+181
+00:08:27,920 --> 00:08:29,590
+<font face="Roboto Medium" size="26">It's about fire.</font>
+
+182
+00:08:29,760 --> 00:08:32,760
+<font face="Roboto Medium" size="26">Obey the warnings.
+Maybe it's about this?</font>
+
+183
+00:08:32,930 --> 00:08:37,850
+<font face="Roboto Medium" size="26">Yes... Many experiments use fire,
+so we have to be careful.</font>
+
+184
+00:08:38,440 --> 00:08:42,060
+<font face="Roboto Medium" size="26">If a big flame comes up,
+you have to put it out.</font>
+
+185
+00:08:42,230 --> 00:08:43,690
+<font face="Roboto Medium" size="26">Put out the fire.</font>
+
+186
+00:08:46,070 --> 00:08:48,280
+<font face="Roboto Medium" size="26">We should put out this fire.</font>
+
+187
+00:08:48,450 --> 00:08:50,860
+<font face="Roboto Medium" size="26">The fire on the poster? How?</font>
+
+188
+00:08:51,030 --> 00:08:53,580
+<font face="Roboto Medium" size="26">Like this!</font>
+
+189
+00:08:58,500 --> 00:09:01,830
+<font face="Roboto Medium" size="26">-Huh? This part too?
+-Whoa! A key!</font>
+
+190
+00:09:04,750 --> 00:09:06,710
+<font face="Roboto Medium" size="26">Hooray!</font>
+
+191
+00:09:06,880 --> 00:09:08,050
+<font face="Roboto Medium" size="26"><i>Not bad.</i></font>
+
+192
+00:09:08,590 --> 00:09:12,090
+<font face="Roboto Medium" size="26"><i>But can you solve the next puzzle?</i></font>
+
+193
+00:09:12,720 --> 00:09:13,600
+<font face="Roboto Medium" size="26">Mikuru!</font>
+
+194
+00:09:13,760 --> 00:09:14,600
+<font face="Roboto Medium" size="26">Yeah!</font>
+
+195
+00:09:14,760 --> 00:09:18,180
+<font face="Roboto Medium" size="26">We'll solve any mystery!</font>
+
+196
+00:09:19,890 --> 00:09:21,980
+<font face="Roboto Medium" size="26">Huh? Again?</font>
+
+197
+00:09:23,810 --> 00:09:26,980
+<font face="Roboto Medium" size="26">Come on... This classroom is...</font>
+
+198
+00:09:27,690 --> 00:09:29,440
+<font face="Roboto Medium" size="26">The music classroom?</font>
+
+199
+00:09:38,160 --> 00:09:42,620
+<font face="Roboto Medium" size="26">{\an8}MUSIC CLASSROOM, PASSAGE, SCIENCE CLASROOM</font>
+
+200
+00:09:38,160 --> 00:09:40,540
+<font face="Roboto Medium" size="26">The first one was the science classroom.</font>
+
+201
+00:09:40,710 --> 00:09:42,620
+<font face="Roboto Medium" size="26">Now we're in the music classroom.</font>
+
+202
+00:09:42,790 --> 00:09:45,590
+<font face="Roboto Medium" size="26">We're being transported
+to different places.</font>
+
+203
+00:09:45,750 --> 00:09:46,840
+<font face="Roboto Medium" size="26"><i>Escape...</i></font>
+
+204
+00:09:47,420 --> 00:09:50,090
+<font face="Roboto Medium" size="26"><i>A key is needed to open the door.</i></font>
+
+205
+00:09:50,260 --> 00:09:51,800
+<font face="Roboto Medium" size="26"><i>Press the keys.</i></font>
+
+206
+00:09:51,970 --> 00:09:54,640
+<font face="Roboto Medium" size="26">Press the keys? What does that mean?</font>
+
+207
+00:09:55,100 --> 00:09:58,970
+<font face="Roboto Medium" size="26">That's interesting.
+What are those five lines?</font>
+
+208
+00:09:59,140 --> 00:10:01,390
+<font face="Roboto Medium" size="26">Five lines in the music classroom...</font>
+
+209
+00:10:01,560 --> 00:10:03,190
+<font face="Roboto Medium" size="26">Could it be a staff?</font>
+
+210
+00:10:03,350 --> 00:10:05,810
+<font face="Roboto Medium" size="26">Oh, that thing that music is written on!</font>
+
+211
+00:10:05,980 --> 00:10:11,860
+<font face="Roboto Medium" size="26">If it is, then the keyhole represents
+notes. Align this on the staff, and...</font>
+
+212
+00:10:12,360 --> 00:10:15,820
+<font face="Roboto Medium" size="26">Do, mi, so. The key is do, mi, so!</font>
+
+213
+00:10:15,990 --> 00:10:18,700
+<font face="Roboto Medium" size="26">But how can we
+press the key of do, mi, so?</font>
+
+214
+00:10:18,870 --> 00:10:20,250
+<font face="Roboto Medium" size="26">I'm not sure...</font>
+
+215
+00:10:21,370 --> 00:10:23,920
+<font face="Roboto Medium" size="26">I feel like I almost got it...</font>
+
+216
+00:10:26,290 --> 00:10:29,050
+<font face="Roboto Medium" size="26">Where is the do, mi, so key?</font>
+
+217
+00:10:29,210 --> 00:10:31,050
+<font face="Roboto Medium" size="26">There! The piano!</font>
+
+218
+00:10:31,210 --> 00:10:32,260
+<font face="Roboto Medium" size="26">Why the piano?</font>
+
+219
+00:10:32,420 --> 00:10:35,680
+<font face="Roboto Medium" size="26">Specifically, that part of the piano!
+The keyboard!</font>
+
+220
+00:10:35,840 --> 00:10:38,050
+<font face="Roboto Medium" size="26">{\an8}KEYBOARD</font>
+
+221
+00:10:35,840 --> 00:10:37,760
+<font face="Roboto Medium" size="26">You write keyboard like this, right?</font>
+
+222
+00:10:37,930 --> 00:10:40,560
+<font face="Roboto Medium" size="26">The first part can be read as "key."</font>
+
+223
+00:10:38,220 --> 00:10:43,100
+<font face="Roboto Medium" size="26">{\an8}KEY</font>
+
+224
+00:10:40,720 --> 00:10:43,270
+<font face="Roboto Medium" size="26">Oh! So that's what
+pressing the keys means!</font>
+
+225
+00:10:43,430 --> 00:10:45,480
+<font face="Roboto Medium" size="26">We play it on the keyboard!</font>
+
+226
+00:10:45,650 --> 00:10:50,730
+<font face="Roboto Medium" size="26">Those notes we saw!
+They're in a line like balls on a skewer.</font>
+
+227
+00:10:50,900 --> 00:10:52,360
+<font face="Roboto Medium" size="26">{\an8}CHORD</font>
+
+228
+00:10:50,900 --> 00:10:55,570
+<font face="Roboto Medium" size="26">That's a chord, and you take
+different notes on the keyboard,</font>
+
+229
+00:10:52,650 --> 00:10:55,070
+<font face="Roboto Medium" size="26">{\an8}DO MI SO</font>
+
+230
+00:10:56,660 --> 00:10:58,780
+<font face="Roboto Medium" size="26">and play them at the same time!</font>
+
+231
+00:10:58,950 --> 00:11:01,330
+<font face="Roboto Medium" size="26">So, using the piano...</font>
+
+232
+00:11:01,870 --> 00:11:03,910
+<font face="Roboto Medium" size="26">We play the do, mi, so chord!</font>
+
+233
+00:11:07,500 --> 00:11:10,040
+<font face="Roboto Medium" size="26">-Alright!
+-Mikuru, you're amazing!</font>
+
+234
+00:11:10,210 --> 00:11:11,960
+<font face="Roboto Medium" size="26">I used to take piano lessons!</font>
+
+235
+00:11:13,460 --> 00:11:15,090
+<font face="Roboto Medium" size="26">They got it!</font>
+
+236
+00:11:15,260 --> 00:11:16,840
+<font face="Roboto Medium" size="26">Goemon, you're having fun.</font>
+
+237
+00:11:17,010 --> 00:11:19,800
+<font face="Roboto Medium" size="26">Weren't you watching
+for the fairy's power?</font>
+
+238
+00:11:19,970 --> 00:11:23,020
+<font face="Roboto Medium" size="26">It's about time for my entrance.</font>
+
+239
+00:11:23,180 --> 00:11:24,600
+<font face="Roboto Medium" size="26">He's not listening.</font>
+
+240
+00:11:24,770 --> 00:11:26,980
+<font face="Roboto Medium" size="26">Let's just watch.</font>
+
+241
+00:11:27,150 --> 00:11:28,020
+<font face="Roboto Medium" size="26">Yeah.</font>
+
+242
+00:11:28,650 --> 00:11:30,570
+<font face="Roboto Medium" size="26">Okay, ready for the next key!</font>
+
+243
+00:11:30,730 --> 00:11:31,900
+<font face="Roboto Medium" size="26"><i>Escape...</i></font>
+
+244
+00:11:32,400 --> 00:11:34,820
+<font face="Roboto Medium" size="26"><i>A key is needed to open the door.</i></font>
+
+245
+00:11:34,990 --> 00:11:36,910
+<font face="Roboto Medium" size="26"><i>I have the key.</i></font>
+
+246
+00:11:37,070 --> 00:11:38,490
+<font face="Roboto Medium" size="26">He has it?</font>
+
+247
+00:11:38,660 --> 00:11:41,530
+<font face="Roboto Medium" size="26">I guess we have to find
+that Goemon character.</font>
+
+248
+00:11:41,700 --> 00:11:46,040
+<font face="Roboto Medium" size="26">That's simple! We just check every place
+we think he might hide!</font>
+
+249
+00:11:43,660 --> 00:11:46,040
+<font face="Roboto Medium" size="26">{\an8}LENDING DESK</font>
+
+250
+00:11:46,210 --> 00:11:48,000
+<font face="Roboto Medium" size="26"><i>Oh, I almost forgot!</i></font>
+
+251
+00:11:48,580 --> 00:11:51,380
+<font face="Roboto Medium" size="26"><i>This time you have one minute to solve it!</i></font>
+
+252
+00:11:51,540 --> 00:11:55,260
+<font face="Roboto Medium" size="26"><i>If you don't find me
+within the time limit, it's game over.</i></font>
+
+253
+00:11:55,420 --> 00:11:57,720
+<font face="Roboto Medium" size="26">-Huh?!
+-That's not fair!</font>
+
+254
+00:11:57,880 --> 00:11:59,180
+<font face="Roboto Medium" size="26"><i>Start!</i></font>
+
+255
+00:11:59,640 --> 00:12:01,680
+<font face="Roboto Medium" size="26">W-What are we gonna do?</font>
+
+256
+00:12:03,100 --> 00:12:04,470
+<font face="Roboto Medium" size="26">I know! The Pre-Kit!</font>
+
+257
+00:12:04,640 --> 00:12:05,560
+<font face="Roboto Medium" size="26">Oh yeah!</font>
+
+258
+00:12:09,190 --> 00:12:10,060
+<font face="Roboto Medium" size="26">Open!</font>
+
+259
+00:12:12,860 --> 00:12:14,570
+<font face="Roboto Medium" size="26">Pre-Kit Mirror Loupe!</font>
+
+260
+00:12:15,240 --> 00:12:16,150
+<font face="Roboto Medium" size="26">Hmm?</font>
+
+261
+00:12:16,320 --> 00:12:19,610
+<font face="Roboto Medium" size="26"><i>So that's the Precures'
+detective toolset, the Pre-Kit!</i></font>
+
+262
+00:12:19,780 --> 00:12:25,450
+<font face="Roboto Medium" size="26">Jett-senpai says with the Mirror Loupe
+we won't miss any important clues!</font>
+
+263
+00:12:29,120 --> 00:12:30,580
+<font face="Roboto Medium" size="26">Gold-star discovery!</font>
+
+264
+00:12:30,750 --> 00:12:33,750
+<font face="Roboto Medium" size="26">That's the shape of Goemon's sandal print!</font>
+
+265
+00:12:34,250 --> 00:12:37,380
+<font face="Roboto Medium" size="26"><i>So that's one way to use it. Fine.</i></font>
+
+266
+00:12:37,920 --> 00:12:42,970
+<font face="Roboto Medium" size="26"><i>They call me the master of hide-and-seek.
+Will they be able to find me?</i></font>
+
+267
+00:12:43,140 --> 00:12:44,430
+<font face="Roboto Medium" size="26">The tracks stop here.</font>
+
+268
+00:12:44,600 --> 00:12:46,770
+<font face="Roboto Medium" size="26">Are there any more?</font>
+
+269
+00:12:46,930 --> 00:12:48,890
+<font face="Roboto Medium" size="26">We only have ten seconds left!</font>
+
+270
+00:12:49,060 --> 00:12:49,770
+<font face="Roboto Medium" size="26">Huh?</font>
+
+271
+00:12:49,940 --> 00:12:52,610
+<font face="Roboto Medium" size="26">W-What about behind this bookshelf?</font>
+
+272
+00:12:56,860 --> 00:12:58,440
+<font face="Roboto Medium" size="26">We found him!</font>
+
+273
+00:13:00,740 --> 00:13:02,120
+<font face="Roboto Medium" size="26">Good job, Star Detectives.</font>
+
+274
+00:13:03,240 --> 00:13:05,740
+<font face="Roboto Medium" size="26">Imagine beating me at hide and seek!</font>
+
+275
+00:13:06,200 --> 00:13:07,250
+<font face="Roboto Medium" size="26">Kudos to you!</font>
+
+276
+00:13:09,120 --> 00:13:10,790
+<font face="Roboto Medium" size="26">We cleared the library puzzle!</font>
+
+277
+00:13:12,630 --> 00:13:14,210
+<font face="Roboto Medium" size="26">HOME EC CLASSROOM</font>
+
+278
+00:13:14,380 --> 00:13:15,840
+<font face="Roboto Medium" size="26">KNIT A KEY</font>
+
+279
+00:13:23,850 --> 00:13:25,390
+<font face="Roboto Medium" size="26">ART CLASSROOM</font>
+
+280
+00:13:35,820 --> 00:13:36,610
+<font face="Roboto Medium" size="26">Huh?</font>
+
+281
+00:13:37,190 --> 00:13:38,480
+<font face="Roboto Medium" size="26">The gym?</font>
+
+282
+00:13:38,650 --> 00:13:40,700
+<font face="Roboto Medium" size="26">This was our first location.</font>
+
+283
+00:13:40,860 --> 00:13:42,570
+<font face="Roboto Medium" size="26"><i>This is the final puzzle.</i></font>
+
+284
+00:13:43,160 --> 00:13:44,570
+<font face="Roboto Medium" size="26"><i>Escape...</i></font>
+
+285
+00:13:44,990 --> 00:13:46,950
+<font face="Roboto Medium" size="26"><i>Choose the correct door!</i></font>
+
+286
+00:13:47,120 --> 00:13:51,710
+<font face="Roboto Medium" size="26"><i>To go forward you must go back.
+Create a path from nothing.</i></font>
+
+287
+00:13:52,170 --> 00:13:54,920
+<font face="Roboto Medium" size="26">To go forward, go back?</font>
+
+288
+00:13:55,080 --> 00:13:57,090
+<font face="Roboto Medium" size="26">I think it's a hint.</font>
+
+289
+00:14:01,090 --> 00:14:02,340
+<font face="Roboto Medium" size="26">A mark on the door?</font>
+
+290
+00:14:05,090 --> 00:14:06,140
+<font face="Roboto Medium" size="26">That one, too!</font>
+
+291
+00:14:07,260 --> 00:14:10,100
+<font face="Roboto Medium" size="26">Each of the five doors has one.</font>
+
+292
+00:14:10,520 --> 00:14:14,810
+<font face="Roboto Medium" size="26">A circle, triangle, star,
+music note, and an X.</font>
+
+293
+00:14:14,980 --> 00:14:17,440
+<font face="Roboto Medium" size="26">I think they're hints
+to help solve the puzzle.</font>
+
+294
+00:14:17,610 --> 00:14:20,280
+<font face="Roboto Medium" size="26">Those marks,
+and the meaning of the clue...</font>
+
+295
+00:14:22,150 --> 00:14:24,740
+<font face="Roboto Medium" size="26"><i>If you're stuck, go back to the beginning!</i></font>
+
+296
+00:14:24,910 --> 00:14:26,910
+<font face="Roboto Medium" size="26">You said that before, didn't you?</font>
+
+297
+00:14:27,080 --> 00:14:30,040
+<font face="Roboto Medium" size="26">We should look back on
+the other puzzles we solved!</font>
+
+298
+00:14:30,200 --> 00:14:31,000
+<font face="Roboto Medium" size="26">Okay!</font>
+
+299
+00:14:31,160 --> 00:14:39,090
+<font face="Roboto Medium" size="26">{\an8}GYM, SCIENCE CLASSROOM, MUSIC CLASSROOM
+LIBRARY, HOME EC CLASSROOM, ART CLASSROOM</font>
+
+300
+00:14:31,160 --> 00:14:34,370
+<font face="Roboto Medium" size="26">The rooms we passed through,
+and the marks.</font>
+
+301
+00:14:35,250 --> 00:14:39,090
+<font face="Roboto Medium" size="26">We solved a puzzle in the music room,
+so maybe it's the note?</font>
+
+302
+00:14:39,250 --> 00:14:42,130
+<font face="Roboto Medium" size="26">Remember what Goemon said.</font>
+
+303
+00:14:42,340 --> 00:14:47,850
+<font face="Roboto Medium" size="26">{\an8}CREATE A PATH FROM NOTHING</font>
+
+304
+00:14:42,670 --> 00:14:44,590
+<font face="Roboto Medium" size="26">Create a path from nothing.</font>
+
+305
+00:14:44,760 --> 00:14:46,680
+<font face="Roboto Medium" size="26">I think that's important.</font>
+
+306
+00:14:46,840 --> 00:14:47,850
+<font face="Roboto Medium" size="26">A path...</font>
+
+307
+00:14:48,350 --> 00:14:53,600
+<font face="Roboto Medium" size="26">This is a trick maze.
+To get through the maze, we solve puzzles.</font>
+
+308
+00:14:54,890 --> 00:14:55,940
+<font face="Roboto Medium" size="26">I've got it!</font>
+
+309
+00:14:56,100 --> 00:14:57,230
+<font face="Roboto Medium" size="26">What is it?</font>
+
+310
+00:14:57,400 --> 00:15:00,570
+<font face="Roboto Medium" size="26">All the places we passed through!
+We should connect them!</font>
+
+311
+00:15:00,730 --> 00:15:02,030
+<font face="Roboto Medium" size="26">{\an8}GYM</font>
+
+312
+00:15:01,150 --> 00:15:02,650
+<font face="Roboto Medium" size="26">First, the gym.</font>
+
+313
+00:15:02,650 --> 00:15:06,660
+<font face="Roboto Medium" size="26">{\an8}SCIENCE CLASSROOM, MUSIC CLASSROOM
+LYBRARY</font>
+
+314
+00:15:02,820 --> 00:15:06,660
+<font face="Roboto Medium" size="26">Then the science classroom,
+music classroom, library.</font>
+
+315
+00:15:06,820 --> 00:15:11,540
+<font face="Roboto Medium" size="26">Home ec classroom, art classroom,
+and back to the gym.</font>
+
+316
+00:15:07,160 --> 00:15:11,540
+<font face="Roboto Medium" size="26">{\an8}HOME EC CLASSROOM, ART CLASSROOM
+GYM</font>
+
+317
+00:15:13,830 --> 00:15:16,000
+<font face="Roboto Medium" size="26">It should mean something...</font>
+
+318
+00:15:24,340 --> 00:15:26,680
+<font face="Roboto Medium" size="26">-Oh! We overlap them!
+-Huh?</font>
+
+319
+00:15:27,430 --> 00:15:29,680
+<font face="Roboto Medium" size="26">The maps!
+First floor and second floor!</font>
+
+320
+00:15:30,140 --> 00:15:32,640
+<font face="Roboto Medium" size="26">Separately, they look like nothing.</font>
+
+321
+00:15:32,810 --> 00:15:35,690
+<font face="Roboto Medium" size="26">Put them together, and the paths join up!</font>
+
+322
+00:15:42,610 --> 00:15:43,650
+<font face="Roboto Medium" size="26">I see!</font>
+
+323
+00:15:43,820 --> 00:15:45,860
+<font face="Roboto Medium" size="26">This is the answer!</font>
+
+324
+00:15:46,320 --> 00:15:48,160
+<font face="Roboto Medium" size="26">It's the door with the star!</font>
+
+325
+00:15:48,950 --> 00:15:50,740
+<font face="Roboto Medium" size="26">-Let's go!
+-Yeah!</font>
+
+326
+00:15:57,040 --> 00:15:58,330
+<font face="Roboto Medium" size="26">Are we out?</font>
+
+327
+00:15:58,880 --> 00:16:00,330
+<font face="Roboto Medium" size="26">Well done!</font>
+
+328
+00:16:01,090 --> 00:16:05,920
+<font face="Roboto Medium" size="26">I didn't learn much about the fairy,
+but I'll take the Makoto Jewel!</font>
+
+329
+00:16:08,430 --> 00:16:10,640
+<font face="Roboto Medium" size="26">Lies, envelop!</font>
+
+330
+00:16:11,300 --> 00:16:14,310
+<font face="Roboto Medium" size="26">Come on, Hanninda!</font>
+
+331
+00:16:19,980 --> 00:16:22,940
+<font face="Roboto Medium" size="26">Hanninda!</font>
+
+332
+00:16:23,610 --> 00:16:26,490
+<font face="Roboto Medium" size="26">-The cherry blossom tree!
+-Mikuru, let's go!</font>
+
+333
+00:16:31,200 --> 00:16:32,410
+<font face="Roboto Medium" size="26">Open!</font>
+
+334
+00:16:37,120 --> 00:16:38,960
+<font face="Roboto Medium" size="26">Jewel Cure Watch!</font>
+
+335
+00:16:41,710 --> 00:16:44,340
+<font face="Roboto Medium" size="26">Precure! Wake-up Time!</font>
+
+336
+00:16:44,500 --> 00:16:46,460
+<font face="Roboto Medium" size="26">3! Discover!</font>
+
+337
+00:16:59,270 --> 00:17:01,270
+<font face="Roboto Medium" size="26">6! And face one another!</font>
+
+338
+00:17:13,280 --> 00:17:15,530
+<font face="Roboto Medium" size="26">9! We are the miraculous duo!</font>
+
+339
+00:17:24,670 --> 00:17:26,590
+<font face="Roboto Medium" size="26">Spin around!</font>
+
+340
+00:17:26,750 --> 00:17:28,460
+<font face="Roboto Medium" size="26">And finish off cutely!</font>
+
+341
+00:17:52,610 --> 00:17:55,700
+<font face="Roboto Medium" size="26">Gold-star closing the case on any mystery!</font>
+
+342
+00:17:55,870 --> 00:17:58,370
+<font face="Roboto Medium" size="26">Star Detective Cure Answer!</font>
+
+343
+00:18:00,790 --> 00:18:03,960
+<font face="Roboto Medium" size="26">Jumping towards smiles
+with layered reasoning!</font>
+
+344
+00:18:04,130 --> 00:18:07,040
+<font face="Roboto Medium" size="26">Star Detective Cure Mystique!</font>
+
+345
+00:18:11,340 --> 00:18:13,470
+<font face="Roboto Medium" size="26">Star Detective Precure!</font>
+
+346
+00:18:15,800 --> 00:18:18,510
+<font face="Roboto Medium" size="26">I'll show you my answer!</font>
+
+347
+00:18:18,930 --> 00:18:20,310
+<font face="Roboto Medium" size="26">Hanninda!</font>
+
+348
+00:18:24,900 --> 00:18:27,230
+<font face="Roboto Medium" size="26">Nin! Da!</font>
+
+349
+00:18:27,400 --> 00:18:29,690
+<font face="Roboto Medium" size="26">Hanninda!</font>
+
+350
+00:18:34,660 --> 00:18:36,870
+<font face="Roboto Medium" size="26">Mystique Reflection!</font>
+
+351
+00:18:40,410 --> 00:18:42,040
+<font face="Roboto Medium" size="26">Cunning!</font>
+
+352
+00:18:45,460 --> 00:18:47,840
+<font face="Roboto Medium" size="26">Get smothered in cherry blossom petals!</font>
+
+353
+00:18:48,000 --> 00:18:50,300
+<font face="Roboto Medium" size="26">-Mystique!
+-I've got this!</font>
+
+354
+00:18:53,380 --> 00:18:55,300
+<font face="Roboto Medium" size="26">Nin! Da!</font>
+
+355
+00:18:55,470 --> 00:18:56,930
+<font face="Roboto Medium" size="26">-Let's go!
+-Okay!</font>
+
+356
+00:18:57,600 --> 00:18:58,800
+<font face="Roboto Medium" size="26">I won't let you!</font>
+
+357
+00:19:01,470 --> 00:19:02,640
+<font face="Roboto Medium" size="26">I can't see!</font>
+
+358
+00:19:03,600 --> 00:19:05,020
+<font face="Roboto Medium" size="26">Hanninda!</font>
+
+359
+00:19:07,360 --> 00:19:08,650
+<font face="Roboto Medium" size="26">There you are!</font>
+
+360
+00:19:13,780 --> 00:19:15,200
+<font face="Roboto Medium" size="26">What can we do?</font>
+
+361
+00:19:15,360 --> 00:19:18,320
+<font face="Roboto Medium" size="26">It's okay! We got out of that maze!</font>
+
+362
+00:19:18,490 --> 00:19:20,580
+<font face="Roboto Medium" size="26">We can do anything!</font>
+
+363
+00:19:20,990 --> 00:19:21,790
+<font face="Roboto Medium" size="26">Right.</font>
+
+364
+00:19:25,830 --> 00:19:27,000
+<font face="Roboto Medium" size="26">Take that!</font>
+
+365
+00:19:35,470 --> 00:19:37,510
+<font face="Roboto Medium" size="26">They keep running!</font>
+
+366
+00:19:39,260 --> 00:19:41,060
+<font face="Roboto Medium" size="26">Hanninda!</font>
+
+367
+00:19:41,600 --> 00:19:42,520
+<font face="Roboto Medium" size="26">Now!</font>
+
+368
+00:19:43,430 --> 00:19:45,020
+<font face="Roboto Medium" size="26">Jump!</font>
+
+369
+00:19:48,810 --> 00:19:50,440
+<font face="Roboto Medium" size="26">H-Hanninda!</font>
+
+370
+00:19:50,610 --> 00:19:53,150
+<font face="Roboto Medium" size="26">Hm? Huh? My fan is gone!</font>
+
+371
+00:19:53,320 --> 00:19:54,690
+<font face="Roboto Medium" size="26">Hanninda!</font>
+
+372
+00:19:54,860 --> 00:19:56,450
+<font face="Roboto Medium" size="26">-Over here!
+-Nin?</font>
+
+373
+00:20:02,790 --> 00:20:05,580
+<font face="Roboto Medium" size="26">Answer Attack!</font>
+
+374
+00:20:06,830 --> 00:20:07,960
+<font face="Roboto Medium" size="26">Da!</font>
+
+375
+00:20:11,960 --> 00:20:13,000
+<font face="Roboto Medium" size="26">Open!</font>
+
+376
+00:20:17,130 --> 00:20:18,970
+<font face="Roboto Medium" size="26">Pre-Kit Mirror Loupe!</font>
+
+377
+00:20:19,140 --> 00:20:20,340
+<font face="Roboto Medium" size="26">Pochitan!</font>
+
+378
+00:20:26,980 --> 00:20:28,230
+<font face="Roboto Medium" size="26">Makoto Jewel!</font>
+
+379
+00:20:36,690 --> 00:20:37,610
+<font face="Roboto Medium" size="26">Look!</font>
+
+380
+00:20:39,280 --> 00:20:40,610
+<font face="Roboto Medium" size="26">Feel!</font>
+
+381
+00:20:42,910 --> 00:20:44,410
+<font face="Roboto Medium" size="26">Solve the mystery!</font>
+
+382
+00:20:46,620 --> 00:20:50,420
+<font face="Roboto Medium" size="26">This is our answer!</font>
+
+383
+00:20:51,080 --> 00:20:54,460
+<font face="Roboto Medium" size="26">Precure! Flying Spectrum!</font>
+
+384
+00:21:04,640 --> 00:21:06,430
+<font face="Roboto Medium" size="26">CUREtto Case Closed!</font>
+
+385
+00:21:07,640 --> 00:21:11,650
+<font face="Roboto Medium" size="26">Hanninda!</font>
+
+386
+00:21:21,240 --> 00:21:23,780
+<font face="Roboto Medium" size="26">Pochi Pochi Cure Cure!</font>
+
+387
+00:21:29,460 --> 00:21:31,620
+<font face="Roboto Medium" size="26">Humph! That was fun!</font>
+
+388
+00:21:33,540 --> 00:21:35,250
+<font face="Roboto Medium" size="26">They've got a tricky power!</font>
+
+389
+00:21:35,790 --> 00:21:37,130
+<font face="Roboto Medium" size="26">As expected.</font>
+
+390
+00:21:39,010 --> 00:21:41,090
+<font face="Roboto Medium" size="26">I'm so glad it's back to normal!</font>
+
+391
+00:21:42,260 --> 00:21:43,890
+<font face="Roboto Medium" size="26">Have we forgotten something?</font>
+
+392
+00:21:44,050 --> 00:21:45,470
+<font face="Roboto Medium" size="26">Science class!</font>
+
+393
+00:21:47,470 --> 00:21:48,890
+<font face="Roboto Medium" size="26">I barely made it!</font>
+
+394
+00:21:49,060 --> 00:21:50,350
+<font face="Roboto Medium" size="26">You're late.</font>
+
+395
+00:21:51,100 --> 00:21:53,440
+<font face="Roboto Medium" size="26">-Where's Anna?
+-Huh?</font>
+
+396
+00:21:53,600 --> 00:21:55,520
+<font face="Roboto Medium" size="26">She should be with...?</font>
+
+397
+00:21:56,320 --> 00:21:58,860
+<font face="Roboto Medium" size="26">Mikuru, where are you?</font>
+
+398
+00:21:59,320 --> 00:22:01,570
+<font face="Roboto Medium" size="26">Where's the science classroom?</font>
+
+399
+00:22:04,320 --> 00:22:06,280
+<font face="Roboto Medium" size="26">Oops, I left her behind...</font>
+
+400
+00:22:06,870 --> 00:22:08,950
+<font face="Roboto Medium" size="26">Where are you, Anna?</font>
+
+401
+00:22:09,120 --> 00:22:12,330
+<font face="Roboto Medium" size="26">I've had enough of mazes!</font>
+
+402
+00:22:16,630 --> 00:22:22,420
+<font face="Roboto Medium" size="26">{\an8}<i>(NaNaNaNa naze? naze? WHY?
+NaNaNaNa nazo? nazo! ANSWER?!)</i></font>
+
+403
+00:22:16,630 --> 00:22:22,420
+<font face="Roboto Medium" size="26"><i>(NaNaNaNa why? Why? WHY?
+NaNaNaNa mystery? Mystery! ANSWER?!)</i></font>
+
+404
+00:22:27,560 --> 00:22:30,430
+<font face="Roboto Medium" size="26">{\an8}<i>ten to ten musundara ara? ara!</i></font>
+
+405
+00:22:27,560 --> 00:22:30,430
+<font face="Roboto Medium" size="26"><i>Connect the dots, oh? Oh my!</i></font>
+
+406
+00:22:30,600 --> 00:22:33,390
+<font face="Roboto Medium" size="26">{\an8}<i>"hanamaru kaiketsu!" kana? kana?</i></font>
+
+407
+00:22:30,600 --> 00:22:33,390
+<font face="Roboto Medium" size="26"><i>Could it be a "gold-star case closed!"?
+Could it?</i></font>
+
+408
+00:22:33,560 --> 00:22:38,610
+<font face="Roboto Medium" size="26">{\an8}<i>suiri to nazo wa uragaeshi
+niten santen gyakuten</i></font>
+
+409
+00:22:33,560 --> 00:22:38,610
+<font face="Roboto Medium" size="26"><i>Reasoning turns around riddles
+Twists and turns, reverse</i></font>
+
+410
+00:22:39,360 --> 00:22:44,950
+<font face="Roboto Medium" size="26">{\an8}<i>kotoba ya shigusa sae wana? wana!
+unomi ni shite wa dame! dame!</i></font>
+
+411
+00:22:39,360 --> 00:22:44,950
+<font face="Roboto Medium" size="26"><i>Even words and behavior are traps? Traps!
+Don't just believe them! No!</i></font>
+
+412
+00:22:45,110 --> 00:22:50,160
+<font face="Roboto Medium" size="26">{\an8}<i>yoku mite, kangaete, sorekara
+fumidasu no yo ippo!</i></font>
+
+413
+00:22:45,110 --> 00:22:50,160
+<font face="Roboto Medium" size="26"><i>Pay attention, think and then
+Take the first step!</i></font>
+
+414
+00:22:50,910 --> 00:22:56,540
+<font face="Roboto Medium" size="26">{\an8}<i>komatteiru hito mitara
+sugu ni tasuketai</i></font>
+
+415
+00:22:50,910 --> 00:22:56,540
+<font face="Roboto Medium" size="26"><i>When I see someone in trouble
+I immediately want to help</i></font>
+
+416
+00:22:56,710 --> 00:23:01,460
+<font face="Roboto Medium" size="26">{\an8}<i>datte nantoka nantoka nantoka shitakute
+kakedashiteiru</i></font>
+
+417
+00:22:56,710 --> 00:23:01,460
+<font face="Roboto Medium" size="26"><i>Cause I wanna, wanna do something
+So I go running off</i></font>
+
+418
+00:23:01,630 --> 00:23:03,380
+<font face="Roboto Medium" size="26">{\an8}<i>Na Na Na nazo! nazo!</i></font>
+
+419
+00:23:01,630 --> 00:23:03,380
+<font face="Roboto Medium" size="26"><i>Na Na Na mystery! Mystery!</i></font>
+
+420
+00:23:03,550 --> 00:23:07,850
+<font face="Roboto Medium" size="26">{\an8}<i>nazo wo toku no ga meitantei</i></font>
+
+421
+00:23:03,550 --> 00:23:07,850
+<font face="Roboto Medium" size="26"><i>Solving mysteries
+Is what a Star Detective does</i></font>
+
+422
+00:23:08,010 --> 00:23:13,060
+<font face="Roboto Medium" size="26">{\an8}<i>uso ka makoto ka mikiwamete
+egao no kotae mitsukeru</i></font>
+
+423
+00:23:08,010 --> 00:23:13,060
+<font face="Roboto Medium" size="26"><i>See through lies and find truth
+Find the answer for a smile</i></font>
+
+424
+00:23:13,230 --> 00:23:19,270
+<font face="Roboto Medium" size="26">{\an8}<i>Na Na Na naze? naze?
+minna to iru to yuuki 100 bai</i></font>
+
+425
+00:23:13,230 --> 00:23:19,270
+<font face="Roboto Medium" size="26"><i>Na Na Na why? Why?
+Together, I've got courage times 100</i></font>
+
+426
+00:23:19,440 --> 00:23:24,780
+<font face="Roboto Medium" size="26">{\an8}<i>chikara awasete norikoeru
+tomo wa kiseki no katamari</i></font>
+
+427
+00:23:19,440 --> 00:23:24,780
+<font face="Roboto Medium" size="26"><i>Working together, we can figure it out
+Friends are a true miracle</i></font>
+
+428
+00:23:24,950 --> 00:23:27,160
+<font face="Roboto Medium" size="26">{\an8}<i>iku yo! Meitantei</i></font>
+
+429
+00:23:24,950 --> 00:23:27,160
+<font face="Roboto Medium" size="26"><i>Let's go! Star Detective</i></font>
+
+430
+00:23:27,740 --> 00:23:33,830
+<font face="Roboto Medium" size="26">{\an8}<i>Na Na Na naze? naze?
+minna to iru to yuuki 1,000 bai</i></font>
+
+431
+00:23:27,740 --> 00:23:33,830
+<font face="Roboto Medium" size="26"><i>Na Na Na why? Why?
+Together, I've got courage times 1,000</i></font>
+
+432
+00:23:34,000 --> 00:23:39,250
+<font face="Roboto Medium" size="26">{\an8}<i>tomodachi to te ni te wo totte
+banjikaiketsu suru made!</i></font>
+
+433
+00:23:34,000 --> 00:23:39,250
+<font face="Roboto Medium" size="26"><i>Hand in hand with my friends
+Until everything's solved!</i></font>
+
+434
+00:23:39,420 --> 00:23:43,550
+<font face="Roboto Medium" size="26">{\an8}<i>DATTE Precure
+(NaNaNaNa naze? nazo! ANSWER!)</i></font>
+
+435
+00:23:39,420 --> 00:23:43,550
+<font face="Roboto Medium" size="26"><i>We're Precure, after all
+(NaNaNaNa mystery? Mystery! ANSWER!)</i></font>
+
+436
+00:23:47,640 --> 00:23:50,720
+<font face="Roboto Medium" size="26"><i>The Pre-Kits that Jett-senpai
+makes are super cute!</i></font>
+
+437
+00:23:50,890 --> 00:23:53,220
+<font face="Roboto Medium" size="26"><i>I wish even more people could use them!</i></font>
+
+438
+00:23:54,220 --> 00:23:56,640
+<font face="Roboto Medium" size="26"><i>I know! Let's open a store!</i></font>
+
+439
+00:23:57,310 --> 00:24:01,570
+<font face="Roboto Medium" size="26"><i>Star Detective Precure!
+"Pretty Smiles at Pretty Holic!"</i></font>
+
+440
+00:24:01,730 --> 00:24:04,110
+<font face="Roboto Medium" size="26"><i>That mystery! CUREtto Case Closed!</i></font>
+
