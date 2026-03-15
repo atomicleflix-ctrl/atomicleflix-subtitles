@@ -1,0 +1,50 @@
+1
+00:04:16,250 --> 00:04:20,760
+<font face="Gandhi Sans" size="24"><b>{\an1}<font size="30"><font face="Impact"><font color="#ebe166">I Was the Same</font></font></font></b></font>
+
+2
+00:04:27,890 --> 00:04:29,310
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="14"><font color="#44443f"><b>This individual is authorized
+ to vend independently.</b></font></font></font></b></font>
+
+3
+00:04:27,890 --> 00:04:29,310
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><font size="18"><font color="#44443f"><b>Kayashima Daiki</b></font></font></font></b></font>
+
+4
+00:04:55,090 --> 00:05:00,390
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="18">{\an9}<font color="#4d3d75">I'll photograph your ancestors
+<font color="#d3cd9a"><font face="Comic Sans MS">(or guardian spirit) <font face="Impact"><font color="#a4363c">Low price</font></font></font></font></font></font></font></b></font>
+
+5
+00:05:20,160 --> 00:05:25,410
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="16"><font color="#8b7d91">Dorm 1\h\h\h\h\h\h\h\h\h\hDorm 2\h\h\h\h\h\h\hDorm 3</font></font></font></b></font>
+
+6
+00:05:27,670 --> 00:05:29,920
+<font face="Gandhi Sans" size="24"><b><font face="Comic Sans MS"><font size="30">{\an1}<font color="#6af8dd"><b>Mystery Show</b></font></font></font></b></font>
+
+7
+00:05:27,670 --> 00:05:29,920
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="30"><font color="#827e7d"><b>Who really did it?!</b></font></font></font></b></font>
+
+8
+00:08:07,280 --> 00:08:10,290
+<font face="Gandhi Sans" size="24"><b><font face="Comic Sans MS"><font size="18">{\an8}<font color="#923e6b">Haunted House</font></font></font></b></font>
+
+9
+00:11:33,500 --> 00:11:35,500
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="14">{\an1}<font color="#484f59">You know what to do, Kadoma</font></font></font></b></font>
+
+10
+00:11:33,500 --> 00:11:35,500
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="14">{\an1}<font color="#484f59">Don't screw it up</font></font></font></b></font>
+
+11
+00:19:24,960 --> 00:19:28,460
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="16"><font color="#8b7d91">Dorm 1\h\h\h\h\h\h\h\h\h\hDorm 2\h\h\h\h\h\h\hDorm 3</font></font></font></b></font>
+
+12
+00:21:04,570 --> 00:21:07,940
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="16"><font color="#8b7d91">Dorm 1\h\h\h\h\h\h\h\h\h\h\hDorm 2\h\h\h\h\h\h\h\hDorm 3</font></font></font></b></font>
+
