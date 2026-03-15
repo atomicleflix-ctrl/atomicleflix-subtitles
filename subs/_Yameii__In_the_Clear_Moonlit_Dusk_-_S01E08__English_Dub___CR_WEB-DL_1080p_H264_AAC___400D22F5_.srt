@@ -1,0 +1,130 @@
+1
+00:02:44,830 --> 00:02:46,060
+<font size="20">{\an8}<font face="Impact"><b><font size="40"><font color="#e261b1">Yoi-chan!</font></font></b></font></font>
+
+2
+00:02:44,830 --> 00:02:46,060
+<font size="20">{\an8}<font face="Impact"><b><font size="40"><font color="#e261b1">Yoi-chan!</font></font></b></font></font>
+
+3
+00:05:24,130 --> 00:05:24,260
+<font size="20">{\an8}<b><font size="8"><font color="#4b5254">You have a new message.</font></font></b></font>
+
+4
+00:05:24,260 --> 00:05:24,380
+<font size="20">{\an8}<b><font size="8"><font color="#4b5254">You have a new message.</font></font></b></font>
+
+5
+00:05:24,380 --> 00:05:24,510
+<font size="20">{\an8}<b><font size="8"><font color="#4b5254">You have a new message.</font></font></b></font>
+
+6
+00:05:24,510 --> 00:05:24,630
+<font size="20">{\an8}<b><font size="8"><font color="#4b5254">You have a new message.</font></font></b></font>
+
+7
+00:05:24,630 --> 00:05:25,340
+<font size="20">{\an8}<b><font size="8"><font color="#4b5254">You have a new message.</font></font></b></font>
+
+8
+00:05:25,340 --> 00:05:25,400
+<font size="20">{\an8}<b><font size="8"><font color="#4b5254">You have a new message.</font></font></b></font>
+
+9
+00:06:44,500 --> 00:06:49,220
+<font size="20">{\an8}<b><font face="Comic Sans MS"><font size="15"><font color="#636d6e">School
+Motto</font></font></font></b></font>
+
+10
+00:06:44,500 --> 00:06:49,220
+<font size="20">{\an8}<b><font face="Comic Sans MS"><font size="15"><font color="#84867d">Steady progress towards your goal,
+with sober and irreproachable conduct.</font></font></font></b></font>
+
+11
+00:06:49,360 --> 00:06:54,180
+<font size="20">{\an8}<font face="Comic Sans MS"><b><font color="#808072"><font size="10">Regarding future
+relationship plans.</font></font></b></font></font>
+
+12
+00:07:37,220 --> 00:07:41,690
+<font size="20">{\an8}<font face="Comic Sans MS"><font size="15"><font color="#2b2c21">-As a basic rule, plans should be discussed and
+decided more than a week in advance.
+-Avoid areas where the school staff can see us
+together.
+-Be mindful to behave appropriately and maintain
+proper manners as a high school student.
+(Avoid excessive physical contact.)</font></font></font></font>
+
+13
+00:07:37,220 --> 00:07:41,690
+<font size="20">{\an8}<font color="#d0d0be">m 0 0 l 258 0 258 50 0 50</font></font>
+
+14
+00:09:10,440 --> 00:09:12,650
+<font size="20">{\an8}<font face="Comic Sans MS"><b><font color="#a99e72"><font size="10">Regarding future
+relationship plans.</font></font></b></font></font>
+
+15
+00:11:55,750 --> 00:11:57,270
+<font size="20">{\an8}<font size="32"><font face="Impact"><b><font color="#f0970c">Kya!</font></b></font></font></font>
+
+16
+00:11:55,750 --> 00:11:57,270
+<font size="20">{\an8}<font size="32"><font face="Impact"><b><font color="#8135b9">Kya!</font></b></font></font></font>
+
+17
+00:11:55,750 --> 00:11:57,270
+<font size="20">{\an8}<font size="40"><font face="Impact"><b><font color="#e30035">Kya<font color="#e7e7e5">!</font></font></b></font></font></font>
+
+18
+00:12:15,750 --> 00:12:18,130
+<font size="20">{\an8}<font face="Comic Sans MS"><b><font size="15"><font color="#b8b7bf">Nasu Oyaji Curry</font></font></b></font></font>
+
+19
+00:12:25,760 --> 00:12:26,780
+<font size="20">{\an8}<b><font size="10"><font color="#4b4f3e">You have a new message.</font></font></b></font>
+
+20
+00:15:36,950 --> 00:15:43,670
+<font size="20">{\an8}<b><font color="#1e4553">Shark Park</font></b></font>
+
+21
+00:17:28,670 --> 00:17:28,770
+<font size="20">{\an8}<font size="40"><font face="Comic Sans MS"><b><font color="#a24eae">D-<font color="#d75596">D<font color="#f56a94">a<font color="#f58384">s<font color="#f8e381">h</font></font></font></font></font></b></font></font></font>
+
+22
+00:17:28,770 --> 00:17:31,340
+<font size="20">{\an8}<font size="32"><font face="Comic Sans MS"><b><font color="#a24eae">D-<font color="#d75596">D<font color="#f56a94">a<font color="#f58384">s<font color="#f8e381">h</font></font></font></font></font></b></font></font></font>
+
+23
+00:17:55,230 --> 00:17:58,200
+<font size="20">{\an8}<font face="Comic Sans MS"><b><font color="#f25560">That's right<font color="#f6c00b">!!</font></font></b></font></font>
+
+24
+00:20:58,540 --> 00:21:02,820
+<font size="20">{\an8}<font size="40"><font face="Comic Sans MS"><font color="#1b19ce">Stare</font></font></font></font>
+
+25
+00:22:04,760 --> 00:22:08,470
+<font size="20">{\an8}<font size="15"><font face="Comic Sans MS"><b><font color="#a3474d">Yoi on trip</font></b></font></font></font>
+
+26
+00:22:10,470 --> 00:22:15,330
+<font size="20">{\an8}<font size="18"><font color="#1f2139"><b><font face="Comic Sans MS">Earring</font></b></font></font></font>
+
+27
+00:22:29,010 --> 00:22:32,390
+<font size="20">{\an8}<font size="10"><font face="Times New Roman"><b><font color="#dcdcdc">Translation:
+Timing:
+Editing:
+Quality Control:
+Final Quality Control:</font></b></font></font></font>
+
+28
+00:22:29,010 --> 00:22:32,390
+<font size="20">{\an8}<font size="10"><font face="Times New Roman"><b><font color="#dcdcdc">Yukari Murase-Louden
+Andy Ellis
+Gabriella Alabanza
+Salem Alabanza
+Elizabeth Ellis</font></b></font></font></font>
+
