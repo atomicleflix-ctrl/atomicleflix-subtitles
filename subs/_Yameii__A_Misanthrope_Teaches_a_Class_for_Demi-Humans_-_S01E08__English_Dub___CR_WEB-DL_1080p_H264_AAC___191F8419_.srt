@@ -1,0 +1,72 @@
+1
+00:02:28,180 --> 00:02:33,150
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="13"><font color="#f5f5f5">Episode <font size="21">8</font></font></font></font></b></font>
+
+2
+00:02:28,180 --> 00:02:33,150
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="13"><font color="#f5f5f5">Episode <font size="21">8</font></font></font></font></b></font>
+
+3
+00:02:28,180 --> 00:02:33,150
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="9"><font color="#effefb">The Misanthrope and the Magic for Peace and Quiet</font></font></font></b></font>
+
+4
+00:02:28,180 --> 00:02:33,150
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="9"><font color="#effefb">The Misanthrope and the Magic for Peace and Quiet</font></font></font></b></font>
+
+5
+00:03:04,750 --> 00:03:09,900
+<font face="Gandhi Sans" size="24"><b>{\an8}<font size="28"><b><font color="#f5fafd">Marshmallows</font></b></font></b></font>
+
+6
+00:07:08,200 --> 00:07:09,950
+<font face="Gandhi Sans" size="24"><b>{\an8}<b><font color="#7b8184"><font size="30">Art Room</font></font></b></b></font>
+
+7
+00:08:39,010 --> 00:08:41,150
+<font face="Gandhi Sans" size="24"><b>{\an8}<b><font color="#7b8184"><font size="30">A/V Room</font></font></b></b></font>
+
+8
+00:08:54,160 --> 00:08:55,180
+<font face="Gandhi Sans" size="24"><b>{\an9}<font color="#999696">Werewolf</font></b></font>
+
+9
+00:08:54,160 --> 00:08:59,180
+<font face="Gandhi Sans" size="24"><b>{\an9}<font color="#999696">Mermaid</font></b></font>
+
+10
+00:08:56,260 --> 00:09:03,060
+<font face="Gandhi Sans" size="24"><b>{\an9}<font color="#999696">Yuki-onna</font></b></font>
+
+11
+00:08:59,770 --> 00:09:04,380
+<font face="Gandhi Sans" size="24"><b>{\an9}<font color="#999696">Crow Tengu</font></b></font>
+
+12
+00:09:52,420 --> 00:09:56,340
+<font face="Gandhi Sans" size="24"><b>{\an8}<b><font color="#656c6f"><font size="22">Director's Office</font></font></b></b></font>
+
+13
+00:12:27,310 --> 00:12:33,340
+<font face="Gandhi Sans" size="24"><b>{\an9}<font color="#999696">Nekomata</font></b></font>
+
+14
+00:14:13,730 --> 00:14:15,730
+<font face="Gandhi Sans" size="24"><b>{\an8}<b><font color="#7b8184"><font size="30">Art Room</font></font></b></b></font>
+
+15
+00:15:47,360 --> 00:15:49,200
+<font face="Gandhi Sans" size="24"><b><b><font size="30">Shiranui High</font></b></b></font>
+
+16
+00:16:09,670 --> 00:16:11,480
+<font face="Gandhi Sans" size="24"><b>{\an8}<b><font color="#656c6f"><font size="22">Principal's Office</font></font></b></b></font>
+
+17
+00:23:32,950 --> 00:23:39,920
+<font face="Gandhi Sans" size="24"><b>{\an8}<font size="18"><font face="Arial"><font color="#ebfeef"><b>Next Episode:</b></font></font></font></b></font>
+
+18
+00:23:32,950 --> 00:23:39,920
+<font face="Gandhi Sans" size="24"><b>{\an8}<font size="19"><font face="Arial"><font color="#ebfeef"><b>The Misanthrope and the Heart's Deepest Desire</b></font></font></font></b></font>
+
