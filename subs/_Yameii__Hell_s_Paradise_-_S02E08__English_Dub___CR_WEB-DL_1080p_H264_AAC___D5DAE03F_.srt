@@ -1,0 +1,205 @@
+1
+00:01:30,150 --> 00:01:31,110
+<font face="Times New Roman" size="20"><b>{\an8}<font size="40"><font color="#2d1508">Hell's Paradise</font></font></b></font>
+
+2
+00:01:31,110 --> 00:01:36,470
+<font face="Gandhi Sans" size="24"><b>A faint flower was blooming 
+unnoticed by anyone</b></font>
+
+3
+00:01:36,470 --> 00:01:41,470
+<font face="Gandhi Sans" size="24"><b>Not a burning red, 
+but flickering serenely in red</b></font>
+
+4
+00:01:41,470 --> 00:01:46,820
+<font face="Gandhi Sans" size="24"><b>I've been pausing for a long time 
+dragging my past at my feet</b></font>
+
+5
+00:01:46,820 --> 00:01:49,420
+<font face="Gandhi Sans" size="24"><b>If I break free from this ambivalence,</b></font>
+
+6
+00:01:49,420 --> 00:01:52,830
+<font face="Gandhi Sans" size="24"><b>will I be able to bloom by its side?</b></font>
+
+7
+00:01:52,830 --> 00:01:55,470
+<font face="Gandhi Sans" size="24"><b>The future is slipping away 
+between my fingers</b></font>
+
+8
+00:01:55,470 --> 00:01:57,990
+<font face="Gandhi Sans" size="24"><b>What mistake did I make 
+to pay this price?</b></font>
+
+9
+00:01:57,990 --> 00:02:02,840
+<font face="Gandhi Sans" size="24"><b>Always hurting myself</b></font>
+
+10
+00:02:02,840 --> 00:02:08,190
+<font face="Gandhi Sans" size="24"><b>and hesitant even to a small joy</b></font>
+
+11
+00:02:08,700 --> 00:02:10,390
+<font face="Gandhi Sans" size="24"><b>I want to stop now</b></font>
+
+12
+00:02:10,390 --> 00:02:12,910
+<font face="Gandhi Sans" size="24"><b>The flower just bloomed in dignity</b></font>
+
+13
+00:02:12,910 --> 00:02:15,530
+<font face="Gandhi Sans" size="24"><b>and that was all I needed to be happy</b></font>
+
+14
+00:02:15,530 --> 00:02:20,300
+<font face="Gandhi Sans" size="24"><b>I just wanted to protect this one flower</b></font>
+
+15
+00:02:20,650 --> 00:02:23,360
+<font face="Gandhi Sans" size="24"><b>Wishing to be strong, I</b></font>
+
+16
+00:02:23,360 --> 00:02:26,020
+<font face="Gandhi Sans" size="24"><b>picked up the vulnerability 
+I had once cast away</b></font>
+
+17
+00:02:26,020 --> 00:02:27,970
+<font face="Gandhi Sans" size="24"><b>Can't break free from the ambivalence</b></font>
+
+18
+00:02:27,970 --> 00:02:31,160
+<font face="Gandhi Sans" size="24"><b>In ambivalence, I become myself</b></font>
+
+19
+00:02:31,160 --> 00:02:33,870
+<font face="Gandhi Sans" size="24"><b>Like rooting strongly into the soil</b></font>
+
+20
+00:02:33,870 --> 00:02:36,420
+<font face="Gandhi Sans" size="24"><b>like swaying ephemerally to the wind</b></font>
+
+21
+00:02:36,420 --> 00:02:39,650
+<font face="Gandhi Sans" size="24"><b>I'm slowly loosening myself to bloom</b></font>
+
+22
+00:02:39,510 --> 00:02:42,720
+<font face="Times New Roman" size="20"><b>{\an8}<font size="40">Hell's Paradise</font></b></font>
+
+23
+00:02:46,560 --> 00:02:52,530
+<font face="Times New Roman" size="20"><b>Chrysanthemum and Peach</b></font>
+
+24
+00:04:32,170 --> 00:04:36,170
+<font face="Times New Roman" size="20"><b></b>{\an8}<font color="#555557"><font size="25">Sakataya Rice</font></font></font>
+
+25
+00:05:57,460 --> 00:06:05,720
+{\an8}<font color="#e4f0dd">Wood</font>
+
+26
+00:05:57,460 --> 00:06:05,720
+{\an8}<font color="#e6acaf">Fire</font>
+
+27
+00:05:57,460 --> 00:06:05,720
+{\an8}<font color="#f3e0d4">Earth</font>
+
+28
+00:05:57,460 --> 00:06:05,720
+{\an8}<font color="#e5dec7">Metal</font>
+
+29
+00:05:57,460 --> 00:06:05,720
+{\an8}<font color="#dce9f5">Water</font>
+
+30
+00:09:07,270 --> 00:09:11,020
+<font face="Times New Roman" size="20"><b>{\an8}<font color="#03020f"><font size="25">Hell's Paradise</font></font></b></font>
+
+31
+00:19:00,580 --> 00:19:05,920
+{\an8}<font color="#e4f0dd">Wood</font>
+
+32
+00:19:00,580 --> 00:19:05,920
+{\an8}<font color="#e6acaf">Fire</font>
+
+33
+00:19:00,580 --> 00:19:05,920
+{\an8}<font color="#f3e0d4">Earth</font>
+
+34
+00:19:00,580 --> 00:19:05,920
+{\an8}<font color="#e5dec7">Metal</font>
+
+35
+00:19:00,580 --> 00:19:05,920
+{\an8}<font color="#dce9f5">Water</font>
+
+36
+00:21:08,100 --> 00:21:14,230
+<font face="Gandhi Sans" size="24"><b>On the other side, even today</b></font>
+
+37
+00:21:14,230 --> 00:21:20,190
+<font face="Gandhi Sans" size="24"><b>Someone is unraveling, 
+yet they still stand</b></font>
+
+38
+00:21:20,190 --> 00:21:26,100
+<font face="Gandhi Sans" size="24"><b>A stab to the chest, this loneliness</b></font>
+
+39
+00:21:26,100 --> 00:21:31,930
+<font face="Gandhi Sans" size="24"><b>Points and lines, 
+breaking off and vanishing</b></font>
+
+40
+00:21:31,930 --> 00:21:34,830
+<font face="Gandhi Sans" size="24"><b>My shattered mask</b></font>
+
+41
+00:21:34,830 --> 00:21:37,910
+<font face="Gandhi Sans" size="24"><b>It's more than I can bear</b></font>
+
+42
+00:21:37,910 --> 00:21:40,900
+<font face="Gandhi Sans" size="24"><b>But I must keep on living</b></font>
+
+43
+00:21:40,900 --> 00:21:45,690
+<font face="Gandhi Sans" size="24"><b>Tomorrow awaits to greet me</b></font>
+
+44
+00:21:45,690 --> 00:21:48,650
+<font face="Gandhi Sans" size="24"><b>It's endless</b></font>
+
+45
+00:21:48,650 --> 00:21:51,220
+<font face="Gandhi Sans" size="24"><b>And so fragile</b></font>
+
+46
+00:21:51,220 --> 00:21:57,450
+<font face="Gandhi Sans" size="24"><b>Is it better to believe 
+hearts don't exist at all?</b></font>
+
+47
+00:21:57,450 --> 00:22:03,010
+<font face="Gandhi Sans" size="24"><b>Radiant and soft</b></font>
+
+48
+00:22:03,010 --> 00:22:04,720
+<font face="Gandhi Sans" size="24"><b>Was the hand</b></font>
+
+49
+00:22:04,720 --> 00:22:13,300
+<font face="Gandhi Sans" size="24"><b>I squeezed back on that day</b></font>
+
