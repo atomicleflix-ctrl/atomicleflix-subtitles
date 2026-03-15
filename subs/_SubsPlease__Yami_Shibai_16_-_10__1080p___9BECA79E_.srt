@@ -1,0 +1,251 @@
+1
+00:00:07,600 --> 00:00:10,480
+<font face="Roboto Medium" size="26">Step right up and have a look...</font>
+
+2
+00:00:10,480 --> 00:00:13,900
+<font face="Roboto Medium" size="26">It's time for Yamishibai.</font>
+
+3
+00:00:10,610 --> 00:00:17,530
+<font face="Times New Roman" size="44" color="#593826"><b>{\an8}<font color="#5e3623"><font color="#5c352c">Theatre of Darkness: Yamishibai</font></font></b></font>
+
+4
+00:00:13,360 --> 00:00:17,530
+<font face="Times New Roman" size="22" color="#3d2b20"><font color="#2b1f0a">Musubime-sama</font></font>
+
+5
+00:00:17,080 --> 00:00:23,360
+<font face="Roboto Medium" size="26">This is the story of a young man and 
+woman who recently started dating...</font>
+
+6
+00:00:23,360 --> 00:00:26,210
+<font face="Roboto Medium" size="26">I appreciate you always giving me a lift.</font>
+
+7
+00:00:27,340 --> 00:00:29,640
+<font face="Roboto Medium" size="26">When are you going to 
+get your license, Toma?</font>
+
+8
+00:00:29,640 --> 00:00:31,260
+<font face="Roboto Medium" size="26">It's on the agenda.</font>
+
+9
+00:00:31,670 --> 00:00:34,880
+<font face="Roboto Medium" size="26">Oh, I heard something from 
+my senpai at work today.</font>
+
+10
+00:00:34,880 --> 00:00:37,120
+<font face="Roboto Medium" size="26">You ever hear of Musubime-sama, 
+the Sewn Eye Woman?</font>
+
+11
+00:00:37,120 --> 00:00:40,130
+<font face="Roboto Medium" size="26">Sure have. Yukari said 
+she tried it before.</font>
+
+12
+00:00:40,130 --> 00:00:40,900
+<font face="Roboto Medium" size="26">Seriously?</font>
+
+13
+00:00:42,010 --> 00:00:43,360
+<font face="Roboto Medium" size="26">If I remember right...</font>
+
+14
+00:00:44,690 --> 00:00:48,280
+<font face="Roboto Medium" size="26">you're supposed to go to a big 
+shrine in the mountains alone</font>
+
+15
+00:00:48,280 --> 00:00:50,220
+<font face="Roboto Medium" size="26">on the night of a new moon.</font>
+
+16
+00:00:50,220 --> 00:00:52,660
+<font face="Roboto Medium" size="26">As the time passes, eventually...</font>
+
+17
+00:00:55,480 --> 00:00:57,740
+<font face="Roboto Medium" size="26">Musubime-sama will appear.</font>
+
+18
+00:00:59,170 --> 00:01:03,590
+<font face="Roboto Medium" size="26">The ritual with her needs to be 
+carried out with utmost respect.</font>
+
+19
+00:01:04,460 --> 00:01:06,480
+<font face="Roboto Medium" size="26">You give her a polite introduction,</font>
+
+20
+00:01:06,480 --> 00:01:09,240
+<font face="Roboto Medium" size="26">and then the process begins 
+with a specific order.</font>
+
+21
+00:01:09,700 --> 00:01:13,800
+<font face="Roboto Medium" size="26">Musubime-sama's hair is really kinked 
+and tends to get caught on her comb.</font>
+
+22
+00:01:14,430 --> 00:01:18,940
+<font face="Roboto Medium" size="26">If you're not careful about how hard you 
+go, you can end up pulling her hair out.</font>
+
+23
+00:01:19,840 --> 00:01:22,380
+<font face="Roboto Medium" size="26">If that happens, you need 
+to beg for forgiveness.</font>
+
+24
+00:01:23,560 --> 00:01:27,030
+<font face="Roboto Medium" size="26">You cannot upset Musubime-sama, 
+no matter what.</font>
+
+25
+00:01:27,030 --> 00:01:30,320
+<font face="Roboto Medium" size="26">If you do, your wish won't come true.</font>
+
+26
+00:01:31,350 --> 00:01:35,060
+<font face="Roboto Medium" size="26">And after she forgives you, 
+you resume the ritual.</font>
+
+27
+00:01:36,730 --> 00:01:39,320
+<font face="Roboto Medium" size="26">Once the combing is done, 
+you put her hair up.</font>
+
+28
+00:01:42,830 --> 00:01:45,400
+<font face="Roboto Medium" size="26">After that, you give your 
+regards one more time,</font>
+
+29
+00:01:46,740 --> 00:01:49,430
+<font face="Roboto Medium" size="26">and then, for the first time, 
+you look at her face.</font>
+
+30
+00:01:52,720 --> 00:01:55,870
+<font face="Roboto Medium" size="26">You cannot recoil at the 
+sight of how horrible it is.</font>
+
+31
+00:01:56,240 --> 00:01:58,310
+<font face="Roboto Medium" size="26">Because the ritual still isn't over.</font>
+
+32
+00:01:59,120 --> 00:02:01,180
+<font face="Roboto Medium" size="26">Last comes the eye-opening.</font>
+
+33
+00:02:01,640 --> 00:02:05,170
+<font face="Roboto Medium" size="26">You have to be careful not 
+to harm Musubime-sama.</font>
+
+34
+00:02:05,590 --> 00:02:09,110
+<font face="Roboto Medium" size="26">Do that, and you won't leave alive.</font>
+
+35
+00:02:09,860 --> 00:02:14,450
+<font face="Roboto Medium" size="26">Then, once her eyes are open, 
+you give your final regards.</font>
+
+36
+00:02:15,900 --> 00:02:19,890
+<font face="Roboto Medium" size="26">Then, once Musubime-sama's eyes are open,</font>
+
+37
+00:02:19,890 --> 00:02:22,730
+<font face="Roboto Medium" size="26">you're supposed to end up with 
+the object of your affections.</font>
+
+38
+00:02:22,730 --> 00:02:24,630
+<font face="Roboto Medium" size="26">You really know your stuff.</font>
+
+39
+00:02:24,630 --> 00:02:27,710
+<font face="Roboto Medium" size="26">N-No, Yukari just likes to talk.</font>
+
+40
+00:02:29,600 --> 00:02:33,090
+<font face="Roboto Medium" size="26">From what I heard, 
+there's a continuation, though.</font>
+
+41
+00:02:33,460 --> 00:02:36,900
+<font face="Roboto Medium" size="26">There is? I-I don't know about that.</font>
+
+42
+00:02:36,900 --> 00:02:41,060
+<font face="Roboto Medium" size="26">Apparently, Musubime-sama 
+needs to have eyes.</font>
+
+43
+00:02:41,060 --> 00:02:41,960
+<font face="Roboto Medium" size="26">Eyes?</font>
+
+44
+00:02:41,960 --> 00:02:43,400
+<font face="Roboto Medium" size="26">Like, eyeballs.</font>
+
+45
+00:02:43,400 --> 00:02:45,330
+<font face="Roboto Medium" size="26">Apparently, once her eyes are open,</font>
+
+46
+00:02:45,330 --> 00:02:48,380
+<font face="Roboto Medium" size="26">if the sockets are empty, 
+you'll never end up with anyone.</font>
+
+47
+00:02:48,380 --> 00:02:49,310
+<font face="Roboto Medium" size="26">No way!</font>
+
+48
+00:02:49,310 --> 00:02:51,580
+<font face="Roboto Medium" size="26">I'm not lying. It's just what I heard.</font>
+
+49
+00:02:51,580 --> 00:02:54,510
+<font face="Roboto Medium" size="26">But that's... Then what I saw...</font>
+
+50
+00:02:54,510 --> 00:02:57,670
+<font face="Roboto Medium" size="26">It didn't mean I'd end up with you?</font>
+
+51
+00:02:58,470 --> 00:03:00,550
+<font face="Roboto Medium" size="26">What are you muttering about?</font>
+
+52
+00:03:03,630 --> 00:03:05,830
+<font face="Roboto Medium" size="26">I can't see! I can't see!</font>
+
+53
+00:03:05,830 --> 00:03:06,580
+<font face="Roboto Medium" size="26">What's wrong?!</font>
+
+54
+00:03:06,580 --> 00:03:09,480
+<font face="Roboto Medium" size="26">I can't see! Why?! I can't see!</font>
+
+55
+00:03:11,150 --> 00:03:13,140
+<font face="Roboto Medium" size="26">I can't see! I can't see!</font>
+
+56
+00:03:26,180 --> 00:03:30,180
+<font face="Times New Roman" size="44" color="#593826"><b>{\an8}<font size="34">Theatre of Darkness: Yamishibai</font></b></font>
+
+57
+00:03:26,850 --> 00:03:28,970
+<font face="Roboto Medium" size="26">The end.</font>
+
