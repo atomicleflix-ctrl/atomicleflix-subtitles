@@ -1,0 +1,284 @@
+1
+00:02:09,150 --> 00:02:10,990
+<font face="Gandhi Sans" size="24"><b><font face="Impact"><font size="90"><b><font color="#d1082a">MF Ghost</font></b></font></font></b></font>
+
+2
+00:02:11,820 --> 00:02:12,420
+<font face="Gandhi Sans" size="24"><b><b><font face="Arial"><font color="#ff060f">m 0 0 l 100 0 100 100 0 100</font></font></b></b></font>
+
+3
+00:02:11,820 --> 00:02:16,240
+<font face="Gandhi Sans" size="24"><b><b><font face="Arial">The Red Bullet</font></b></b></font>
+
+4
+00:03:39,030 --> 00:03:40,160
+<font face="Gandhi Sans" size="24"><b><font color="#f1994e">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+5
+00:03:39,030 --> 00:03:40,160
+<font face="Gandhi Sans" size="24"><b><font color="#f5984f">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+6
+00:03:39,040 --> 00:03:40,160
+<font face="Gandhi Sans" size="24"><b><font size="11"><font color="#161414">Name</font></font></b></font>
+
+7
+00:03:39,040 --> 00:03:40,160
+<font face="Gandhi Sans" size="24"><b><font size="11"><font color="#161414">Age</font></font></b></font>
+
+8
+00:03:39,040 --> 00:03:40,160
+<font face="Gandhi Sans" size="24"><b><font size="11">{\an1}<font color="#161414">years old</font></font></b></font>
+
+9
+00:03:39,040 --> 00:03:40,160
+<font face="Gandhi Sans" size="24"><b><font size="11"><font color="#161414">Height</font></font></b></font>
+
+10
+00:03:39,040 --> 00:03:40,160
+<font face="Gandhi Sans" size="24"><b><font size="10"><font color="#161414">Nationality</font></font></b></font>
+
+11
+00:03:39,040 --> 00:03:40,160
+<font face="Gandhi Sans" size="24"><b><font size="11"><font color="#161414">Japan</font></font></b></font>
+
+12
+00:03:39,040 --> 00:03:40,160
+<font face="Gandhi Sans" size="24"><b><font size="11"><font color="#161414">Car</font></font></b></font>
+
+13
+00:03:39,410 --> 00:03:42,410
+<font face="Gandhi Sans" size="24"><b><font color="#ed9d4b">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+14
+00:03:39,410 --> 00:03:42,410
+<font face="Gandhi Sans" size="24"><b><font color="#ed9d4b">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+15
+00:03:39,420 --> 00:03:42,410
+<font face="Gandhi Sans" size="24"><b><font size="11"><font color="#161414">Name</font></font></b></font>
+
+16
+00:03:39,420 --> 00:03:42,410
+<font face="Gandhi Sans" size="24"><b><font size="11"><font color="#161414">Age</font></font></b></font>
+
+17
+00:03:39,420 --> 00:03:42,410
+<font face="Gandhi Sans" size="24"><b><font size="11">{\an1}<font color="#161414">years old</font></font></b></font>
+
+18
+00:03:39,420 --> 00:03:42,410
+<font face="Gandhi Sans" size="24"><b><font size="11"><font color="#161414">Height</font></font></b></font>
+
+19
+00:03:39,420 --> 00:03:42,410
+<font face="Gandhi Sans" size="24"><b><font size="10"><font color="#161414">Nationality</font></font></b></font>
+
+20
+00:03:39,420 --> 00:03:42,410
+<font face="Gandhi Sans" size="24"><b><font size="11"><font color="#161414">Japan</font></font></b></font>
+
+21
+00:03:39,420 --> 00:03:42,410
+<font face="Gandhi Sans" size="24"><b><font size="11"><font color="#161414">Car</font></font></b></font>
+
+22
+00:03:41,660 --> 00:03:44,160
+<font face="Gandhi Sans" size="24"><b><font color="#ed9d4b">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+23
+00:03:41,660 --> 00:03:44,160
+<font face="Gandhi Sans" size="24"><b><font color="#ed9d4b">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+24
+00:03:41,670 --> 00:03:44,160
+<font face="Gandhi Sans" size="24"><b><font size="11"><font color="#161414">Name</font></font></b></font>
+
+25
+00:03:41,670 --> 00:03:44,160
+<font face="Gandhi Sans" size="24"><b><font size="11"><font color="#161414">Age</font></font></b></font>
+
+26
+00:03:41,670 --> 00:03:44,160
+<font face="Gandhi Sans" size="24"><b><font size="11">{\an1}<font color="#161414">years old</font></font></b></font>
+
+27
+00:03:41,670 --> 00:03:44,160
+<font face="Gandhi Sans" size="24"><b><font size="11"><font color="#161414">Height</font></font></b></font>
+
+28
+00:03:41,670 --> 00:03:44,160
+<font face="Gandhi Sans" size="24"><b><font size="10"><font color="#161414">Nationality</font></font></b></font>
+
+29
+00:03:41,670 --> 00:03:44,160
+<font face="Gandhi Sans" size="24"><b><font size="11"><font color="#161414">Great Britain</font></font></b></font>
+
+30
+00:03:41,670 --> 00:03:44,160
+<font face="Gandhi Sans" size="24"><b><font size="11"><font color="#161414">Car</font></font></b></font>
+
+31
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed8c45">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+32
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed8a44">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+33
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed8944">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+34
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed8844">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+35
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed8744">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+36
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed8543">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+37
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed8443">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+38
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed8343">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+39
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed8243">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+40
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed8142">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+41
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed7f42">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+42
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed7e42">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+43
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed7d42">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+44
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed7c41">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+45
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed7a41">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+46
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed7941">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+47
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed7841">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+48
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed7740">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+49
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed7640">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+50
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed7440">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+51
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed7340">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+52
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed723f">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+53
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed713f">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+54
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed6f3f">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+55
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed6e3f">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+56
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed6d3e">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+57
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed6c3e">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+58
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed6b3e">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+59
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed693e">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+60
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed683d">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+61
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed673d">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+62
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed663d">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+63
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ed653d">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+64
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font size="12"><font color="#161414">Name</font></font></b></font>
+
+65
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font size="12"><font color="#161414">Age</font></font></b></font>
+
+66
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font size="12">{\an1}<font color="#161414">years old</font></font></b></font>
+
+67
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font size="12"><font color="#161414">Height</font></font></b></font>
+
+68
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font size="11"><font color="#161414">Nationality</font></font></b></font>
+
+69
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font color="#ee6c32">m 0 0 l 100 0 100 100 0 100</font></b></font>
+
+70
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font size="12"><font color="#161414">Great Britain</font></font></b></font>
+
+71
+00:17:38,500 --> 00:17:42,420
+<font face="Gandhi Sans" size="24"><b><font size="12"><font color="#161414">Car</font></font></b></font>
+
