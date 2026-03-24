@@ -1,0 +1,16 @@
+1
+00:02:26,380 --> 00:02:30,260
+<font face="Gandhi Sans" size="24"><b><font face="Impact"><b><font size="45"><font color="#090000">Sentenced to Be a Hero</font></font></b></font></b></font>
+
+2
+00:02:30,340 --> 00:02:32,130
+<font face="Gandhi Sans" size="24"><b><font face="Impact"><b><font size="45"><font color="#110c0e">Sentenced to Be a Hero</font></font></b></font></b></font>
+
+3
+00:21:56,960 --> 00:21:58,000
+<font face="Gandhi Sans" size="24"><b><font face="Georgia"><font size="30"></font></font></b><font color="#5c5e55">Xylo</font></font>
+
+4
+00:22:01,750 --> 00:22:03,090
+<font face="Gandhi Sans" size="24"><b><font face="Georgia"><font size="26"><font color="#5c5e55">Keep fighting...</font></font></font></b></font>
+
