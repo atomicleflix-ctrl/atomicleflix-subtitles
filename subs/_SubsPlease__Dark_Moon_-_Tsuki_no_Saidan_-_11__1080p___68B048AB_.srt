@@ -1,0 +1,856 @@
+1
+00:00:00,550 --> 00:00:02,270
+<font face="Roboto Medium" size="26">You...</font>
+
+2
+00:00:02,670 --> 00:00:08,940
+<font face="Roboto Medium" size="26">I finally found you, Lycanthrope.</font>
+
+3
+00:00:12,610 --> 00:00:14,570
+<font face="Roboto Medium" size="26">So it <i>is</i> you.</font>
+
+4
+00:00:17,000 --> 00:00:20,160
+<font face="Roboto Medium" size="26">You're the one looking for me.</font>
+
+5
+00:00:21,470 --> 00:00:23,910
+<font face="Roboto Medium" size="26">If you already know, 
+that makes things simple.</font>
+
+6
+00:00:23,910 --> 00:00:27,460
+<font face="Roboto Medium" size="26">You'll pay for what you 
+did to our brothers!</font>
+
+7
+00:00:28,650 --> 00:00:30,380
+<font face="Roboto Medium" size="26">Najak!</font>
+
+8
+00:00:32,680 --> 00:00:35,630
+<font face="Roboto Medium" size="26">I wouldn't recommend trying to fight me.</font>
+
+9
+00:00:36,220 --> 00:00:40,600
+<font face="Roboto Medium" size="26">Many of your friends are still 
+trapped at the moon altar.</font>
+
+10
+00:00:41,100 --> 00:00:43,730
+<font face="Roboto Medium" size="26">Don't you care what happens to them?</font>
+
+11
+00:00:44,500 --> 00:00:47,400
+<font face="Roboto Medium" size="26">Tell us one thing. What do you want?</font>
+
+12
+00:00:48,690 --> 00:00:54,950
+<font face="Roboto Medium" size="26">To become this nation's—no, 
+this world's king.</font>
+
+13
+00:01:00,660 --> 00:01:04,290
+<font face="Roboto Medium" size="26">And to do that, I need your blood.</font>
+
+14
+00:01:05,550 --> 00:01:07,790
+<font face="Roboto Medium" size="26">Come with me.</font>
+
+15
+00:01:10,210 --> 00:01:11,720
+<font face="Roboto Medium" size="26">Don't worry.</font>
+
+16
+00:01:12,070 --> 00:01:20,150
+<font face="Roboto Medium" size="26">When I become king, I'll allow you 
+werewolves to serve me alongside vampires.</font>
+
+17
+00:01:20,150 --> 00:01:21,540
+<font face="Roboto Medium" size="26">Screw you!</font>
+
+18
+00:01:23,330 --> 00:01:24,980
+<font face="Roboto Medium" size="26">I'll go with you.</font>
+
+19
+00:01:25,560 --> 00:01:29,810
+<font face="Roboto Medium" size="26">In exchange, promise you 
+won't hurt my brothers.</font>
+
+20
+00:01:30,070 --> 00:01:32,610
+<font face="Roboto Medium" size="26">Very well.</font>
+
+21
+00:01:35,670 --> 00:01:38,320
+<font face="Roboto Medium" size="26">Okay. I'll do as you say.</font>
+
+22
+00:01:38,320 --> 00:01:39,590
+<font face="Roboto Medium" size="26">Khan!</font>
+
+23
+00:01:39,590 --> 00:01:40,570
+<font face="Roboto Medium" size="26">Don't do it!</font>
+
+24
+00:01:40,570 --> 00:01:41,120
+<font face="Roboto Medium" size="26">Khan!</font>
+
+25
+00:01:41,120 --> 00:01:42,530
+<font face="Roboto Medium" size="26">You still can't—</font>
+
+26
+00:01:45,110 --> 00:01:47,790
+<font face="Roboto Medium" size="26">I'll be fine.</font>
+
+27
+00:01:50,010 --> 00:01:52,550
+<font face="Roboto Medium" size="26">Take care of Najak.</font>
+
+28
+00:02:06,870 --> 00:02:09,190
+<font face="Roboto Medium" size="26">Shall we go?</font>
+
+29
+00:02:12,440 --> 00:02:15,360
+<font face="Roboto Medium" size="26">Someone you've been wanting 
+to see is there, too.</font>
+
+30
+00:03:55,060 --> 00:04:00,970
+<font face="Times New Roman" size="13"><b>{\an8}<font size="30">- Dark Moon: The Blood Altar -</font></b></font>
+
+31
+00:04:02,990 --> 00:04:05,970
+<font face="Times New Roman" size="23" color="#f9fcfd"><b><font size="22">- Vargr's Blood -</font></b></font>
+
+32
+00:04:18,390 --> 00:04:20,230
+<font face="Roboto Medium" size="26">Shion, are you okay?</font>
+
+33
+00:04:21,690 --> 00:04:23,210
+<font face="Roboto Medium" size="26">I'm fine.</font>
+
+34
+00:04:23,210 --> 00:04:25,610
+<font face="Roboto Medium" size="26">Sooha will heal us again, right?</font>
+
+35
+00:04:26,650 --> 00:04:31,800
+<font face="Roboto Medium" size="26">Actually, I think our 
+healing is slowing down.</font>
+
+36
+00:04:32,250 --> 00:04:35,610
+<font face="Roboto Medium" size="26">My grip feels weak.</font>
+
+37
+00:04:35,610 --> 00:04:37,920
+<font face="Roboto Medium" size="26">So does mine.</font>
+
+38
+00:04:38,390 --> 00:04:41,620
+<font face="Roboto Medium" size="26">Did something happen to Sooha?</font>
+
+39
+00:04:42,680 --> 00:04:43,650
+<font face="Roboto Medium" size="26">Let's hurry.</font>
+
+40
+00:04:44,840 --> 00:04:46,090
+<font face="Roboto Medium" size="26">Something's coming.</font>
+
+41
+00:04:56,200 --> 00:04:58,250
+<font face="Roboto Medium" size="26">What are you doing here?</font>
+
+42
+00:04:58,250 --> 00:04:59,780
+<font face="Roboto Medium" size="26">What are <i>you</i> doing here?</font>
+
+43
+00:05:02,770 --> 00:05:04,110
+<font face="Roboto Medium" size="26">Dardan took Khan?!</font>
+
+44
+00:05:06,850 --> 00:05:08,240
+<font face="Roboto Medium" size="26">We're running out of time.</font>
+
+45
+00:05:09,010 --> 00:05:10,410
+<font face="Roboto Medium" size="26">Once the full moon rises...</font>
+
+46
+00:05:10,710 --> 00:05:12,300
+<font face="Roboto Medium" size="26">He'll take her power.</font>
+
+47
+00:05:12,300 --> 00:05:14,290
+<font face="Roboto Medium" size="26">Do we not stand a chance?</font>
+
+48
+00:05:14,290 --> 00:05:16,430
+<font face="Roboto Medium" size="26">I'm not letting that happen!</font>
+
+49
+00:05:17,170 --> 00:05:21,430
+<font face="Roboto Medium" size="26">Either way, I can't believe 
+Sooha is a princess.</font>
+
+50
+00:05:38,130 --> 00:05:39,030
+<font face="Roboto Medium" size="26">Sooha!</font>
+
+51
+00:05:43,390 --> 00:05:45,820
+<font face="Roboto Medium" size="26"><i>She gave them too much power.</i></font>
+
+52
+00:05:47,060 --> 00:05:50,120
+<font face="Roboto Medium" size="26">Her name is Princess Selen. 
+Haven't you missed her?</font>
+
+53
+00:05:50,120 --> 00:05:51,600
+<font face="Roboto Medium" size="26">Princess Selen?</font>
+
+54
+00:05:51,600 --> 00:05:54,950
+<font face="Roboto Medium" size="26">Oh, right. You don't know.</font>
+
+55
+00:05:54,950 --> 00:05:57,850
+<font face="Roboto Medium" size="26">In that case, I'll enlighten you.</font>
+
+56
+00:06:00,330 --> 00:06:03,590
+<font face="Roboto Medium" size="26">She's the reincarnation of 
+an ancient kingdom's princess?</font>
+
+57
+00:06:05,050 --> 00:06:07,150
+<font face="Roboto Medium" size="26">You must've noticed it, too.</font>
+
+58
+00:06:07,590 --> 00:06:10,840
+<font face="Roboto Medium" size="26">Sooha has the power to control us.</font>
+
+59
+00:06:10,840 --> 00:06:12,220
+<font face="Roboto Medium" size="26">Please, guys!</font>
+
+60
+00:06:16,670 --> 00:06:21,440
+<font face="Roboto Medium" size="26">We also instinctively want to protect her.</font>
+
+61
+00:06:21,440 --> 00:06:22,840
+<font face="Roboto Medium" size="26">You're right.</font>
+
+62
+00:06:22,840 --> 00:06:26,780
+<font face="Roboto Medium" size="26">So, were you guys reincarnated like her?</font>
+
+63
+00:06:26,780 --> 00:06:29,200
+<font face="Roboto Medium" size="26">No, in our case...</font>
+
+64
+00:06:30,060 --> 00:06:33,240
+<font face="Roboto Medium" size="26">Princess Selen used her dying breath</font>
+
+65
+00:06:33,660 --> 00:06:38,250
+<font face="Roboto Medium" size="26">to send our souls centuries 
+into the future and save us.</font>
+
+66
+00:06:42,750 --> 00:06:54,060
+<font face="Roboto Medium" size="26">We'd forgotten for hundreds of years and 
+hid that we were vampires until now.</font>
+
+67
+00:06:54,890 --> 00:06:59,750
+<font face="Roboto Medium" size="26">We didn't even know why we existed.</font>
+
+68
+00:07:00,390 --> 00:07:03,980
+<font face="Roboto Medium" size="26">But the princess was reborn as Sooha.</font>
+
+69
+00:07:03,980 --> 00:07:07,650
+<font face="Roboto Medium" size="26">Meeting her brought back 
+our past memories.</font>
+
+70
+00:07:08,230 --> 00:07:12,940
+<font face="Roboto Medium" size="26">Of everything that happened 
+when the kingdom fell.</font>
+
+71
+00:07:13,470 --> 00:07:17,740
+<font face="Roboto Medium" size="26">And that we exist to protect Sooha.</font>
+
+72
+00:07:17,740 --> 00:07:21,560
+<font face="Roboto Medium" size="26">The time has come to settle 
+matters with Dardan.</font>
+
+73
+00:07:21,920 --> 00:07:23,150
+<font face="Roboto Medium" size="26">This time, we'll stop him.</font>
+
+74
+00:07:23,710 --> 00:07:24,860
+<font face="Roboto Medium" size="26">Yeah.</font>
+
+75
+00:07:27,890 --> 00:07:29,150
+<font face="Roboto Medium" size="26">Sooha...</font>
+
+76
+00:07:30,010 --> 00:07:34,140
+<font face="Roboto Medium" size="26">Now, give me your blood.</font>
+
+77
+00:07:38,690 --> 00:07:40,640
+<font face="Roboto Medium" size="26">Give it to me, or else...</font>
+
+78
+00:07:45,240 --> 00:07:46,810
+<font face="Roboto Medium" size="26">I'm worried.</font>
+
+79
+00:07:46,810 --> 00:07:51,360
+<font face="Roboto Medium" size="26">Khan still hasn't transformed 
+into a wolf a single time.</font>
+
+80
+00:08:36,600 --> 00:08:40,060
+<font face="Roboto Medium" size="26">This is the power of Vargr's blood.</font>
+
+81
+00:08:40,520 --> 00:08:41,910
+<font face="Roboto Medium" size="26">Sooha! Are you okay?</font>
+
+82
+00:08:42,130 --> 00:08:43,340
+<font face="Roboto Medium" size="26">Wake up!</font>
+
+83
+00:08:43,340 --> 00:08:46,970
+<font face="Roboto Medium" size="26">Who said you could 
+lay hands on the princess?</font>
+
+84
+00:08:54,230 --> 00:08:56,700
+<font face="Roboto Medium" size="26">You bastard! What did you do to Sooha?!</font>
+
+85
+00:08:56,700 --> 00:09:03,730
+<font face="Roboto Medium" size="26">I told you, your brothers' lives
+ depend on your cooperation.</font>
+
+86
+00:09:07,180 --> 00:09:14,030
+<font face="Roboto Medium" size="26">As a Lycanthrope, you won't sit 
+back and watch your brothers die.</font>
+
+87
+00:09:14,030 --> 00:09:15,390
+<font face="Roboto Medium" size="26">Am I wrong?</font>
+
+88
+00:09:16,920 --> 00:09:19,490
+<font face="Roboto Medium" size="26">Get away from the princess.</font>
+
+89
+00:09:25,210 --> 00:09:29,590
+<font face="Roboto Medium" size="26">Didn't you hear me?!</font>
+
+90
+00:09:33,210 --> 00:09:36,770
+<font face="Roboto Medium" size="26">You've also fallen for her,
+ haven't you?</font>
+
+91
+00:09:36,770 --> 00:09:41,600
+<font face="Roboto Medium" size="26">Then you should be willing to 
+sacrifice your brothers to save her!</font>
+
+92
+00:09:42,080 --> 00:09:48,030
+<font face="Roboto Medium" size="26">You can't save either 
+because you can't choose!</font>
+
+93
+00:10:03,740 --> 00:10:04,660
+<font face="Roboto Medium" size="26">The sun...</font>
+
+94
+00:10:06,060 --> 00:10:10,020
+<font face="Times New Roman" size="13"><b>{\an8}- Dark Moon: The Blood Altar -</b></font>
+
+95
+00:10:10,060 --> 00:10:14,000
+<font face="Times New Roman" size="13"><b>{\an8}- Dark Moon: The Blood Altar -</b></font>
+
+96
+00:10:23,510 --> 00:10:27,270
+<font face="Roboto Medium" size="26">Now I have everything I need.</font>
+
+97
+00:10:27,870 --> 00:10:29,260
+<font face="Roboto Medium" size="26">The incantation.</font>
+
+98
+00:10:29,660 --> 00:10:30,940
+<font face="Roboto Medium" size="26">The princess.</font>
+
+99
+00:10:31,520 --> 00:10:33,380
+<font face="Roboto Medium" size="26">The blood of Vargr.</font>
+
+100
+00:10:37,650 --> 00:10:45,120
+<font face="Roboto Medium" size="26">When the full moon rises high in the 
+night sky, I will recite the incantation.</font>
+
+101
+00:10:45,120 --> 00:10:51,420
+<font face="Roboto Medium" size="26">The power sealed within the altar will be 
+released and passed on to the princess.</font>
+
+102
+00:10:52,680 --> 00:10:58,130
+<font face="Roboto Medium" size="26">Then I will claim that power for myself.</font>
+
+103
+00:11:04,060 --> 00:11:08,120
+<font face="Roboto Medium" size="26"><i>If only I were stronger...</i></font>
+
+104
+00:11:12,040 --> 00:11:14,450
+<font face="Roboto Medium" size="26"><i>Lycanthrope.</i></font>
+
+105
+00:11:15,780 --> 00:11:18,270
+<font face="Roboto Medium" size="26"><i>Lycanthrope.</i></font>
+
+106
+00:11:19,010 --> 00:11:20,460
+<font face="Roboto Medium" size="26">That voice...</font>
+
+107
+00:11:26,300 --> 00:11:28,870
+<font face="Roboto Medium" size="26">Lycanthrope.</font>
+
+108
+00:11:32,350 --> 00:11:38,040
+<font face="Roboto Medium" size="26">Within your veins courses my blood. 
+The blood of Vargr, the wolf god.</font>
+
+109
+00:11:39,640 --> 00:11:44,220
+<font face="Roboto Medium" size="26">To our kind, you are like the moon.</font>
+
+110
+00:11:44,650 --> 00:11:48,210
+<font face="Roboto Medium" size="26">You can awaken their strength.</font>
+
+111
+00:11:48,210 --> 00:11:51,090
+<font face="Roboto Medium" size="26">But how?</font>
+
+112
+00:11:51,960 --> 00:11:55,980
+<font face="Roboto Medium" size="26">Your instincts will show you the way.</font>
+
+113
+00:11:56,420 --> 00:12:01,160
+<font face="Roboto Medium" size="26">Call out to the others 
+and become our moon.</font>
+
+114
+00:12:01,780 --> 00:12:06,990
+<font face="Roboto Medium" size="26">Use your power to protect 
+the princess you serve.</font>
+
+115
+00:12:27,940 --> 00:12:32,100
+<font face="Roboto Medium" size="26">I carry Vargr's blood.</font>
+
+116
+00:12:47,490 --> 00:12:50,210
+<font face="Roboto Medium" size="26">That's a Lycanthrope!</font>
+
+117
+00:12:53,000 --> 00:12:55,000
+<font face="Roboto Medium" size="26">It's a Lycanthrope!</font>
+
+118
+00:12:55,000 --> 00:12:57,390
+<font face="Roboto Medium" size="26">He's here to save us!</font>
+
+119
+00:13:08,110 --> 00:13:09,850
+<font face="Roboto Medium" size="26">Run, guys!</font>
+
+120
+00:13:09,850 --> 00:13:10,930
+<font face="Roboto Medium" size="26">Hurry!</font>
+
+121
+00:13:19,270 --> 00:13:21,170
+<font face="Roboto Medium" size="26">You're wasting your time!</font>
+
+122
+00:13:34,370 --> 00:13:37,620
+<font face="Roboto Medium" size="26">You told me not to touch 
+the princess, right?</font>
+
+123
+00:13:37,860 --> 00:13:41,880
+<font face="Roboto Medium" size="26">Well, right back at you!</font>
+
+124
+00:13:41,880 --> 00:13:44,480
+<font face="Roboto Medium" size="26">I won't let you have your way!</font>
+
+125
+00:13:46,970 --> 00:13:48,760
+<font face="Roboto Medium" size="26">Silence!</font>
+
+126
+00:13:55,980 --> 00:14:00,520
+<font face="Roboto Medium" size="26">You're just a werewolf. 
+You think you can beat me now?</font>
+
+127
+00:14:01,290 --> 00:14:07,570
+<font face="Roboto Medium" size="26">If you defy me, I'll kill you.
+ You and your brothers.</font>
+
+128
+00:14:16,410 --> 00:14:17,420
+<font face="Roboto Medium" size="26">What's that?</font>
+
+129
+00:14:17,950 --> 00:14:19,790
+<font face="Roboto Medium" size="26">Sounds like a lot of them.</font>
+
+130
+00:14:27,710 --> 00:14:29,840
+<font face="Roboto Medium" size="26">They're not enemies.</font>
+
+131
+00:14:29,840 --> 00:14:31,170
+<font face="Roboto Medium" size="26">They're our kind.</font>
+
+132
+00:14:37,990 --> 00:14:40,060
+<font face="Roboto Medium" size="26">What happened? Where did you come from?</font>
+
+133
+00:14:40,060 --> 00:14:43,150
+<font face="Roboto Medium" size="26">The moon altar.</font>
+
+134
+00:14:44,110 --> 00:14:45,180
+<font face="Roboto Medium" size="26">Where's Khan?</font>
+
+135
+00:14:45,180 --> 00:14:46,150
+<font face="Roboto Medium" size="26">Is he all right?</font>
+
+136
+00:14:46,150 --> 00:14:52,160
+<font face="Roboto Medium" size="26">Khan? You mean that Lycanthrope?</font>
+
+137
+00:14:53,320 --> 00:14:56,970
+<font face="Roboto Medium" size="26">He saved us.</font>
+
+138
+00:14:58,150 --> 00:14:59,450
+<font face="Roboto Medium" size="26">Then Khan...</font>
+
+139
+00:14:59,450 --> 00:15:01,530
+<font face="Roboto Medium" size="26">...transformed into a wolf!</font>
+
+140
+00:15:05,330 --> 00:15:07,260
+<font face="Roboto Medium" size="26">So, where's Khan?</font>
+
+141
+00:15:07,260 --> 00:15:11,020
+<font face="Roboto Medium" size="26">He's facing Dardan all by himself.</font>
+
+142
+00:15:21,850 --> 00:15:24,750
+<font face="Roboto Medium" size="26">Stay there.</font>
+
+143
+00:15:39,870 --> 00:15:43,670
+<font face="Roboto Medium" size="26">The seal has begun to release.</font>
+
+144
+00:15:44,370 --> 00:15:49,430
+<font face="Roboto Medium" size="26">This is the power passed down for 
+generations in the ancient kingdom.</font>
+
+145
+00:15:51,130 --> 00:15:55,920
+<font face="Roboto Medium" size="26">I can feel its tremendous energy 
+just by standing near it.</font>
+
+146
+00:15:55,920 --> 00:15:57,890
+<font face="Roboto Medium" size="26">Such overwhelming power!</font>
+
+147
+00:15:58,530 --> 00:16:02,410
+<font face="Roboto Medium" size="26">And this will all be mine.</font>
+
+148
+00:16:04,730 --> 00:16:06,400
+<font face="Roboto Medium" size="26">Princess.</font>
+
+149
+00:16:06,820 --> 00:16:08,170
+<font face="Roboto Medium" size="26">Let's begin.</font>
+
+150
+00:16:35,880 --> 00:16:36,550
+<font face="Roboto Medium" size="26">Look!</font>
+
+151
+00:16:36,820 --> 00:16:39,500
+<font face="Roboto Medium" size="26">That light... Is that...</font>
+
+152
+00:16:40,560 --> 00:16:44,690
+<font face="Roboto Medium" size="26">The royal power sealed in the altar...</font>
+
+153
+00:16:44,690 --> 00:16:47,020
+<font face="Roboto Medium" size="26">The ritual must've started.</font>
+
+154
+00:16:47,020 --> 00:16:47,440
+<font face="Roboto Medium" size="26">Let's go!</font>
+
+155
+00:16:48,490 --> 00:16:55,460
+<font face="Roboto Medium" size="26">This power will be all mine.</font>
+
+156
+00:17:01,790 --> 00:17:04,940
+<font face="Roboto Medium" size="26">I won't let you have it.</font>
+
+157
+00:17:12,120 --> 00:17:13,530
+<font face="Roboto Medium" size="26">Stop!</font>
+
+158
+00:17:17,020 --> 00:17:18,430
+<font face="Roboto Medium" size="26">You mutt!</font>
+
+159
+00:17:23,810 --> 00:17:28,350
+<font face="Roboto Medium" size="26">I can't allow you to live any longer!</font>
+
+160
+00:17:36,550 --> 00:17:37,280
+<font face="Roboto Medium" size="26">Let's go!</font>
+
+161
+00:17:40,240 --> 00:17:42,240
+<font face="Roboto Medium" size="26">Khan, are you okay?!</font>
+
+162
+00:17:49,170 --> 00:17:50,140
+<font face="Roboto Medium" size="26">Heli...</font>
+
+163
+00:17:51,510 --> 00:17:53,670
+<font face="Roboto Medium" size="26">You're too late.</font>
+
+164
+00:17:53,670 --> 00:17:55,780
+<font face="Roboto Medium" size="26">Why did you even bother coming?</font>
+
+165
+00:17:57,190 --> 00:17:58,220
+<font face="Roboto Medium" size="26"><i>Sooha.</i></font>
+
+166
+00:18:00,110 --> 00:18:02,600
+<font face="Roboto Medium" size="26"><i>Her hair color... Could it be...</i></font>
+
+167
+00:18:02,600 --> 00:18:03,740
+<font face="Roboto Medium" size="26">Khan!</font>
+
+168
+00:18:03,740 --> 00:18:04,680
+<font face="Roboto Medium" size="26">Khan!</font>
+
+169
+00:18:05,030 --> 00:18:06,730
+<font face="Roboto Medium" size="26">He's badly injured.</font>
+
+170
+00:18:06,730 --> 00:18:08,060
+<font face="Roboto Medium" size="26">Hang in there!</font>
+
+171
+00:18:10,970 --> 00:18:13,220
+<font face="Roboto Medium" size="26">I'm fine.</font>
+
+172
+00:18:13,220 --> 00:18:14,940
+<font face="Roboto Medium" size="26">How are our brothers?</font>
+
+173
+00:18:16,120 --> 00:18:17,400
+<font face="Roboto Medium" size="26">They're all safe.</font>
+
+174
+00:18:17,730 --> 00:18:19,950
+<font face="Roboto Medium" size="26">I... I see.</font>
+
+175
+00:18:29,030 --> 00:18:31,610
+<font face="Roboto Medium" size="26"><i>Is it because she granted us power?</i></font>
+
+176
+00:18:38,250 --> 00:18:40,710
+<font face="Roboto Medium" size="26"><i>No, this is...</i></font>
+
+177
+00:18:41,750 --> 00:18:43,090
+<font face="Roboto Medium" size="26">Our power...</font>
+
+178
+00:18:43,740 --> 00:18:48,350
+<font face="Roboto Medium" size="26">It's being drained from our bodies.</font>
+
+179
+00:18:51,390 --> 00:18:56,650
+<font face="Roboto Medium" size="26"><i>The power Sooha shared with 
+us is returning to her.</i></font>
+
+180
+00:18:57,030 --> 00:18:58,180
+<font face="Roboto Medium" size="26">This is bad!</font>
+
+181
+00:18:58,180 --> 00:18:59,700
+<font face="Roboto Medium" size="26">We have to stop him, now!</font>
+
+182
+00:18:59,980 --> 00:19:03,170
+<font face="Trebuchet MS" size="24" color="#f4e1e1"><i>Jakah, I'm going to draw 
+Dardan's attention.</i></font>
+
+183
+00:19:03,170 --> 00:19:04,840
+<font face="Trebuchet MS" size="24" color="#f4e1e1"><i>While he's distracted, save Sooha.</i></font>
+
+184
+00:19:08,660 --> 00:19:11,290
+<font face="Roboto Medium" size="26">My telepathy's not working.</font>
+
+185
+00:19:11,640 --> 00:19:13,250
+<font face="Roboto Medium" size="26">Jakah, get Sooha!</font>
+
+186
+00:19:17,690 --> 00:19:20,220
+<font face="Roboto Medium" size="26"><i>I can't use my power?!</i></font>
+
+187
+00:19:21,140 --> 00:19:23,890
+<font face="Roboto Medium" size="26">This is the best part.</font>
+
+188
+00:19:23,890 --> 00:19:26,720
+<font face="Roboto Medium" size="26">You mustn't interfere 
+with Lord Dardan's plans!</font>
+
+189
+00:19:59,680 --> 00:20:04,760
+<font face="Roboto Medium" size="26">Watch as everything becomes mine.</font>
+
+190
+00:20:04,760 --> 00:20:09,890
+<font face="Roboto Medium" size="26">Both this power and 
+the princess belong to me.</font>
+
+191
+00:20:09,890 --> 00:20:12,470
+<font face="Roboto Medium" size="26">Sear this sight into your eyes!</font>
+
+192
+00:20:17,060 --> 00:20:19,010
+<font face="Roboto Medium" size="26">Let's go, guys!</font>
+
+193
+00:20:19,010 --> 00:20:19,730
+<font face="Roboto Medium" size="26">Yeah!</font>
+
+194
+00:20:33,310 --> 00:20:35,120
+<font face="Roboto Medium" size="26">Let us handle this!</font>
+
+195
+00:20:35,120 --> 00:20:36,830
+<font face="Roboto Medium" size="26">Go defeat Dardan!</font>
+
+196
+00:20:43,130 --> 00:20:44,260
+<font face="Roboto Medium" size="26">Dardan!</font>
+
+197
+00:20:45,630 --> 00:20:49,760
+<font face="Roboto Medium" size="26">You don't stand a chance against me.</font>
+
+198
+00:20:59,690 --> 00:21:02,030
+<font face="Roboto Medium" size="26">How laughable.</font>
+
+199
+00:21:02,030 --> 00:21:05,670
+<font face="Roboto Medium" size="26">You were once the kingdom's 
+greatest knights.</font>
+
+200
+00:21:06,410 --> 00:21:11,660
+<font face="Roboto Medium" size="26">And now you're kneeling at my feet.</font>
+
+201
+00:21:12,500 --> 00:21:16,900
+<font face="Roboto Medium" size="26">Soon, you'll lose all your power.</font>
+
+202
+00:21:18,580 --> 00:21:27,930
+<font face="Roboto Medium" size="26">Once you lose the power you were granted, 
+you'll realize you're nothing at all.</font>
+
+203
+00:23:34,170 --> 00:23:39,980
+<font face="Roboto Medium" size="26"><i>Next time, Episode 12: 
+"Dark Moon: The Moon Altar."</i></font>
+
+204
+00:23:37,030 --> 00:23:40,250
+<font face="Times New Roman" size="23" color="#f9fcfd"><b><font size="22">- The Moon Altar -</font></b></font>
+
