@@ -1,0 +1,493 @@
+1
+00:00:18,540 --> 00:00:20,250
+<font face="Comic Sans MS" size="32" color="#000000"><b><font size="28">{\an9}<font color="#4fdeeb">FREEZE...</font></font></b></font>
+
+2
+00:00:20,370 --> 00:00:25,630
+<font face="Comic Sans MS" size="32" color="#000000"><b>{\an8}<font size="24"><font color="#f093c3">TRUDGE TRUDGE TRUDGE</font></font></b></font>
+
+3
+00:00:36,520 --> 00:00:39,520
+<font face="Comic Sans MS" size="32" color="#000000"><b></b><font face="Trebuchet MS"><font size="16"><font color="#ffffff">{\an8}CLASS TRIP</font></font></font></font>
+
+4
+00:00:36,520 --> 00:00:39,520
+<font face="Comic Sans MS" size="32" color="#000000"><b></b><font face="Trebuchet MS"><font size="12"><font color="#ffffff">OBJECTIVES</font></font></font></font>
+
+5
+00:00:36,520 --> 00:00:39,520
+<font face="Comic Sans MS" size="32" color="#000000"><b></b><font face="Trebuchet MS"><font size="12"><font color="#ffffff">BROADEN
+YOUR
+EXPERIENCE</font></font></font></font>
+
+6
+00:00:36,520 --> 00:00:39,520
+<font face="Comic Sans MS" size="32" color="#000000"><b></b><font face="Trebuchet MS"><font size="12"><font color="#ffffff">ABIDE BY THE RULES
+OF LIVING IN A GROUP</font></font></font></font>
+
+7
+00:00:36,520 --> 00:00:39,520
+<font face="Comic Sans MS" size="32" color="#000000"><b></b><font face="Trebuchet MS"><font size="12"><font color="#ffffff">STUDY
+ HISTORY</font></font></font></font>
+
+8
+00:00:36,520 --> 00:00:39,520
+<font face="Comic Sans MS" size="32" color="#000000"><b></b><font face="Trebuchet MS"><font size="16"><font color="#ffffff">DAY 1
+KYOTO</font></font></font></font>
+
+9
+00:00:36,520 --> 00:00:39,520
+<font face="Comic Sans MS" size="32" color="#000000"><b></b><font face="Trebuchet MS"><font size="16"><font color="#ffffff">GROUP ACTIVITIES</font></font></font></font>
+
+10
+00:00:36,520 --> 00:00:39,520
+<font face="Comic Sans MS" size="32" color="#000000"><b></b><font face="Trebuchet MS"><font size="16"><font color="#ffffff">NARA
+DAY 2</font></font></font></font>
+
+11
+00:00:36,520 --> 00:00:39,520
+<font face="Comic Sans MS" size="32" color="#000000"><b></b><font face="Trebuchet MS"><font size="16"><font color="#ffffff">DAY 3
+OSAKA</font></font></font></font>
+
+12
+00:00:53,530 --> 00:00:57,040
+<font face="Comic Sans MS" size="32" color="#000000"><b></b><font face="Trebuchet MS"><font size="24"><font color="#ffffff">CLASS TRIP</font></font></font></font>
+
+13
+00:00:53,530 --> 00:00:57,040
+<font face="Comic Sans MS" size="32" color="#000000"><b></b><font face="Trebuchet MS"><font size="24"><font color="#ffffff">OBJECTIVES</font></font></font></font>
+
+14
+00:01:09,470 --> 00:01:14,260
+<font face="Comic Sans MS" size="32" color="#000000"><b><font face="Arial">{\an8}YOU AND I ARE POLAR OPPOSITES</font></b></font>
+
+15
+00:02:27,000 --> 00:02:29,210
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#585755"><font size="16">CLASS TRIP GUIDE</font></font></b></font>
+
+16
+00:02:27,000 --> 00:02:29,210
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#585755"><font size="16">YEAR 2 CLASS</font></font></b></font>
+
+17
+00:02:27,080 --> 00:02:29,210
+<font face="Comic Sans MS" size="32" color="#000000"><b><font size="24"><font color="#d0dfdd">KYOTO</font></font></b></font>
+
+18
+00:02:29,210 --> 00:02:32,970
+<font face="Comic Sans MS" size="32" color="#000000"><b></b><font face="Arial"><font size="16">EVERYONE IN THE
+GOING-HOME CLUB</font></font></font>
+
+19
+00:02:36,220 --> 00:02:38,470
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#585755"><font size="24">KONEKO PREFECTURAL
+HIGH SCHOOL</font></font></b></font>
+
+20
+00:02:36,220 --> 00:02:38,470
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#585755"><font size="24">CLASS TRIP GUIDE</font></font></b></font>
+
+21
+00:02:36,220 --> 00:02:38,470
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#585755"><font size="24">YEAR 2 CLASS</font></font></b></font>
+
+22
+00:02:38,470 --> 00:02:40,970
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#f2ffb5"><font size="28">{\an8}QUIET FOCUS...</font></font></b></font>
+
+23
+00:02:41,020 --> 00:02:43,480
+<font face="Comic Sans MS" size="32" color="#000000"><b><font face="Arial"></font></b><font size="20">DEAD-END
+PIECE</font></font>
+
+24
+00:02:54,990 --> 00:03:03,580
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#ea9950"><font size="24">{\an8}MUTTER MUTTER MUTTER</font></font></b></font>
+
+25
+00:03:00,410 --> 00:03:03,580
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#f1df97"><font size="16">2-8 CLASS REPS</font></font></b></font>
+
+26
+00:03:03,580 --> 00:03:14,260
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#a01004"><font size="28">CRACKLE...</font></font></b></font>
+
+27
+00:03:18,300 --> 00:03:19,760
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#ec518f"><font size="16">HEE HEE...</font></font></b></font>
+
+28
+00:03:31,270 --> 00:03:32,020
+<font face="Comic Sans MS" size="32" color="#000000"><b><font size="24"><font face="Trebuchet MS"><font color="#b7ff85">JOLT</font></font></font></b></font>
+
+29
+00:03:38,780 --> 00:03:41,780
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#ea1587"><font face="Trebuchet MS"><font size="28"><i>{\an9}WAAAAAAH</i></font></font></font></b></font>
+
+30
+00:03:42,120 --> 00:03:44,790
+<font face="Comic Sans MS" size="32" color="#000000"><b><font size="16"><font face="Arial"><font color="#f9f9f9">Day 1</font></font></font></b></font>
+
+31
+00:03:42,120 --> 00:03:44,790
+<font face="Comic Sans MS" size="32" color="#000000"><b><font size="16"><font face="Arial"><font color="#f9f9f9">Day 2</font></font></font></b></font>
+
+32
+00:03:44,830 --> 00:03:46,540
+<font face="Comic Sans MS" size="32" color="#000000"><b><font face="Trebuchet MS"><font size="20"><font color="#f8ffaa">QUICK QUICK QUICK</font></font></font></b></font>
+
+33
+00:04:50,600 --> 00:04:53,360
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#54adc1"></font></b>SHFF...</font>
+
+34
+00:04:59,360 --> 00:05:01,610
+<font face="Comic Sans MS" size="32" color="#000000"><b>{\an8}<font size="28"><font face="Trebuchet MS"></font></font></b><i><font color="#88069e">THUD THUD THUD THUD</font></i></font>
+
+35
+00:05:01,660 --> 00:05:04,870
+<font face="Comic Sans MS" size="32" color="#000000"><b><font size="14"><font face="Arial"></font></font></b>"I AM JUST BACKGROUND" MODE</font>
+
+36
+00:05:04,870 --> 00:05:09,870
+<font face="Comic Sans MS" size="32" color="#000000"><b><font size="28"><font face="Trebuchet MS"></font></font></b><i><font color="#1a191c">{\an8}THUD THUD</font></i></font>
+
+37
+00:05:10,000 --> 00:05:12,120
+<font face="Comic Sans MS" size="32" color="#000000"><b>{\an8}<font face="Trebuchet MS"><font color="#9affd6">FWIP FWIP FWIP</font></font></b></font>
+
+38
+00:05:12,920 --> 00:05:14,380
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#086a8f"><font face="Arial"><font size="16"></font></font></font></b>CONTRADICTORY</font>
+
+39
+00:05:20,010 --> 00:05:23,140
+<font face="Comic Sans MS" size="32" color="#000000"><b>{\an8}<font size="28"><font color="#29aa89">SHFF...</font></font></b></font>
+
+40
+00:06:15,980 --> 00:06:20,730
+<font face="Comic Sans MS" size="32" color="#000000"><b></b>{\an8}IT'S NOT LIKE I HAVE ABSOLUTELY NO IDEA</font>
+
+41
+00:07:11,160 --> 00:07:17,120
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#990181"><font size="24"><font face="Trebuchet MS">AWKWARD</font></font></font></b></font>
+
+42
+00:07:44,070 --> 00:07:49,030
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#77572e"></font></b><font size="12">TRAIN-TO-SCHOOL GROUP</font></font>
+
+43
+00:08:35,200 --> 00:08:43,460
+<font face="Comic Sans MS" size="32" color="#000000"><b></b><font color="#d7dbf0"><font size="16">CLASS TRIP</font></font></font>
+
+44
+00:08:35,200 --> 00:08:43,460
+<font face="Comic Sans MS" size="32" color="#000000"><b></b><font color="#d7dbf0"><font size="16">PICKING GROUPS</font></font></font>
+
+45
+00:08:59,890 --> 00:09:01,230
+<font face="Comic Sans MS" size="32" color="#000000"><b>{\an8}<font color="#ed5009"><font size="28">ARGHHHH</font></font></b></font>
+
+46
+00:09:38,520 --> 00:09:43,400
+<font face="Comic Sans MS" size="32" color="#000000"><b><font size="16"><font color="#d43dcf">{\an8}HANG OUT A LOT</font></font></b></font>
+
+47
+00:09:39,890 --> 00:09:43,400
+<font face="Comic Sans MS" size="32" color="#000000"><b><font size="16"><font color="#5d53e2">HANG-OUT GROUP
+(+SUZUKI)</font></font></b></font>
+
+48
+00:09:41,140 --> 00:09:41,640
+<font face="Comic Sans MS" size="32" color="#000000"><b><font face="Trebuchet MS"><font size="20"><font color="#2acc2d">ALWAYS TOGETHER</font></font></font></b></font>
+
+49
+00:09:41,770 --> 00:09:42,270
+<font face="Comic Sans MS" size="32" color="#000000"><b><font face="Trebuchet MS"><font size="20"><font color="#2acc2d">ALWAYS TOGETHER</font></font></font></b></font>
+
+50
+00:09:42,390 --> 00:09:43,400
+<font face="Comic Sans MS" size="32" color="#000000"><b><font face="Trebuchet MS"><font size="20"><font color="#2acc2d">ALWAYS TOGETHER</font></font></font></b></font>
+
+51
+00:09:45,060 --> 00:09:47,270
+<font face="Comic Sans MS" size="32" color="#000000"><b>{\an8}<font size="24"><font color="#ee368e">GLANCE GLANCE GLANCE</font></font></b></font>
+
+52
+00:09:50,400 --> 00:09:52,900
+<font face="Comic Sans MS" size="32" color="#000000"><b><font face="Trebuchet MS"><font size="20"><font color="#fee9ff"></font></font></font></b>(I'LL GO TO A DIFFERENT GROUP)</font>
+
+53
+00:09:52,150 --> 00:09:54,660
+<font face="Comic Sans MS" size="32" color="#000000"><b><font face="Trebuchet MS"><font size="24"><font color="#ffe8fd"></font></font></font></b>(GOT IT!)</font>
+
+54
+00:09:53,320 --> 00:09:54,660
+<font face="Comic Sans MS" size="32" color="#000000"><b><font face="Arial"><font size="12"><font color="#6b5088">DID SHE UNDERSTAND...?</font></font></font></b></font>
+
+55
+00:10:01,960 --> 00:10:04,920
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#eefe37"><font size="20">IF IT GETS DONE,
+ANYTHING'S FINE.</font></font></b></font>
+
+56
+00:10:04,920 --> 00:10:06,920
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#e9edef"><font size="24">IN THE END...</font></font></b></font>
+
+57
+00:10:07,210 --> 00:10:09,420
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#f8fc9b">YAY!</font></b></font>
+
+58
+00:10:09,920 --> 00:10:11,920
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#f7a8f3"><font size="24">SIGH...</font></font></b></font>
+
+59
+00:10:11,940 --> 00:10:16,600
+<font face="Comic Sans MS" size="32" color="#000000"><b><font face="Trebuchet MS"><font size="24"><font color="#f8dd85">TABIPPLE</font></font></font></b></font>
+
+60
+00:10:11,940 --> 00:10:13,930
+<font face="Comic Sans MS" size="32" color="#000000"><b><font size="24"><font color="#ffffff">FALL</font></font></b></font>
+
+61
+00:10:11,970 --> 00:10:13,930
+<font face="Comic Sans MS" size="32" color="#000000"><b><font face="Trebuchet MS"><font size="32"><font color="#fdff75">BAM</font></font></font></b></font>
+
+62
+00:10:16,600 --> 00:10:21,640
+<font face="Comic Sans MS" size="32" color="#000000"><b><font size="24"><font color="#5d8fea">{\an8}FWIP FWIP FWIP</font></font></b></font>
+
+63
+00:10:21,520 --> 00:10:23,730
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#f9ff83"><font face="Trebuchet MS"><font size="30">...HUH?</font></font></font></b></font>
+
+64
+00:10:44,250 --> 00:10:47,210
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#f4c6ee"><font face="Trebuchet MS"><font size="20">{\an7}YEAR 1, SPRING</font></font></font></b></font>
+
+65
+00:10:44,290 --> 00:10:47,170
+<font face="Comic Sans MS" size="32" color="#000000"><b><font face="Arial"><font size="16"></font></font></b><font color="#d057a3">1. KAWASAKI</font></font>
+
+66
+00:10:47,210 --> 00:10:49,630
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#f8f9e0"><font face="Trebuchet MS"><font size="20">{\an7}YEAR 2, SPRING</font></font></font></b></font>
+
+67
+00:10:47,330 --> 00:10:49,630
+<font face="Comic Sans MS" size="32" color="#000000"><b><font face="Arial"><font size="16"></font></font></b><font color="#800da4">2. SUZUKI</font></font>
+
+68
+00:11:38,590 --> 00:11:40,800
+<font face="Comic Sans MS" size="32" color="#000000"><b></b><font color="#d7dbf0"><font size="16">CLASS TRIP</font></font></font>
+
+69
+00:11:38,590 --> 00:11:40,800
+<font face="Comic Sans MS" size="32" color="#000000"><b></b><font color="#d7dbf0"><font size="16">PICKING GROUPS</font></font></font>
+
+70
+00:11:38,840 --> 00:11:41,300
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#befff4"><font size="24">SILENCE...</font></font></b></font>
+
+71
+00:11:38,930 --> 00:11:40,890
+<font face="Comic Sans MS" size="32" color="#000000"><b><font size="28"><font color="#bbffc1">SENSE OF ANXIETY</font></font></b></font>
+
+72
+00:11:41,680 --> 00:11:47,060
+<font face="Comic Sans MS" size="32" color="#000000"><b><font face="Trebuchet MS"><font size="20"><font color="#f8dd85">TABIPPLE</font></font></font></b></font>
+
+73
+00:11:41,680 --> 00:11:47,060
+<font face="Comic Sans MS" size="32" color="#000000"><b><font size="16"><font color="#ffffff">FALL</font></font></b></font>
+
+74
+00:11:41,810 --> 00:11:47,060
+<font face="Comic Sans MS" size="32" color="#000000"><b><font size="28">{\an8}<font color="#fcbce8">NO SENSE OF ANXIETY</font></font></b></font>
+
+75
+00:13:56,820 --> 00:14:00,690
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#625656"><font size="24">TEA</font></font></b></font>
+
+76
+00:13:56,820 --> 00:14:00,690
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#625656"><font size="24">TEA</font></font></b></font>
+
+77
+00:13:56,820 --> 00:14:00,690
+<font face="Comic Sans MS" size="32" color="#000000"><b><font face="Arial"><font size="12"></font></font></b>FOR SALE AT THE HOTEL SHOP</font>
+
+78
+00:14:22,720 --> 00:14:25,470
+<font face="Comic Sans MS" size="32" color="#000000"><b><font face="Arial"><font size="12"></font></font></b>TAIYAKI</font>
+
+79
+00:14:25,470 --> 00:14:28,970
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#886d54">O D E N</font></b></font>
+
+80
+00:14:36,980 --> 00:14:39,980
+<font face="Comic Sans MS" size="32" color="#000000"><b>{\an3}<font size="20"><font color="#a12565">DAY 1: HANDS-ON LEARNING</font></font></b></font>
+
+81
+00:14:36,980 --> 00:14:39,980
+<font face="Comic Sans MS" size="32" color="#000000"><b>{\an7}<font size="8"><font color="#f1cfdd"><font face="Arial">EVERYONE SPLITS UP TO TAKE
+THE COURSE THEY CHOSE</font></font></font></b></font>
+
+82
+00:14:36,980 --> 00:14:39,980
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#a1026e"><font size="12">PAINTING 1</font></font></b></font>
+
+83
+00:14:36,980 --> 00:14:39,980
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#a1026e"><font size="12">PAINTING 2</font></font></b></font>
+
+84
+00:14:36,980 --> 00:14:39,980
+<font face="Comic Sans MS" size="32" color="#000000"><b>{\an7}<font face="Trebuchet MS"><font size="28"><font color="#f2503b">TR<font color="#f88de1">IP <font color="#fbffca">GUIDE</font></font></font></font></font></b></font>
+
+85
+00:14:36,980 --> 00:14:39,980
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#a1026e"><font size="12">MAKING
+JAPANESE
+SWEETS</font></font></b></font>
+
+86
+00:14:36,980 --> 00:14:39,980
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#a1026e"><font size="12">CERAMICS</font></font></b></font>
+
+87
+00:14:36,980 --> 00:14:39,980
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#a1026e"><font size="12">KUMIHIMO BRAIDING</font></font></b></font>
+
+88
+00:14:45,780 --> 00:14:48,410
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#695241"></font></b><font size="12">CERAMICS GROUP</font></font>
+
+89
+00:14:45,780 --> 00:14:48,410
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#505b65"></font></b><font size="12">PAINTING GROUP</font></font>
+
+90
+00:14:48,910 --> 00:14:53,790
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#bf7d53"></font></b><font size="12">JAPANESE SWEETS
+GROUP</font></font>
+
+91
+00:14:58,590 --> 00:15:01,250
+<font face="Comic Sans MS" size="32" color="#000000"><b><font size="12"><font face="Arial"></font></font></b>JAPANESE SWEETS
+MAKING VENUE</font>
+
+92
+00:15:13,810 --> 00:15:15,020
+<font face="Comic Sans MS" size="32" color="#000000"><b><font face="Arial"><i><font color="#f3f6d1">SMILE</font></i></font></b></font>
+
+93
+00:15:13,890 --> 00:15:15,020
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#cb1a7b">(NEUTRAL ATTITUDE)</font></b></font>
+
+94
+00:16:10,320 --> 00:16:15,700
+<font face="Comic Sans MS" size="32" color="#000000"><b><font size="24"><font color="#beff8d">GRIN...</font></font></b></font>
+
+95
+00:16:14,040 --> 00:16:15,700
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#eb3db0"><font face="Trebuchet MS"><font size="16">I'D LOVE
+TO...!!!!</font></font></font></b></font>
+
+96
+00:16:17,960 --> 00:16:20,960
+<font face="Comic Sans MS" size="32" color="#000000"><b><font face="Trebuchet MS"><font color="#c00587">BIG ROOM</font></font></b></font>
+
+97
+00:16:46,610 --> 00:16:50,990
+<font face="Comic Sans MS" size="32" color="#000000"><b><font face="Trebuchet MS"><font size="20"><font color="#ffffcc">EXAMPLE</font></font></font></b></font>
+
+98
+00:16:50,990 --> 00:17:02,250
+<font face="Comic Sans MS" size="32" color="#000000"><b>{\an8}<font face="Trebuchet MS"><font size="24"><font color="#f8fdbc">SQUEE SQUEE
+<font size="28"><font color="#f49ad5">YAY YAY</font></font></font></font></font></b></font>
+
+99
+00:17:33,160 --> 00:17:34,780
+<font face="Comic Sans MS" size="32" color="#000000"><b><font size="24"><font color="#f7f4d4">{\an8}I WOULD LIKE
+<font color="#db8dbc">TO HUG...</font></font></font></b></font>
+
+100
+00:17:34,530 --> 00:17:35,910
+<font face="Comic Sans MS" size="32" color="#000000"><b><font size="24"><font face="Trebuchet MS"><font color="#89bed6">{\an8}STARE...</font></font></font></b></font>
+
+101
+00:17:35,660 --> 00:17:38,830
+<font face="Comic Sans MS" size="32" color="#000000"><b><font size="24"><i><font color="#e25dcc"><font face="Trebuchet MS">{\an8}BA-DUMP</font></font></i></font></b></font>
+
+102
+00:18:04,940 --> 00:18:17,700
+<font face="Comic Sans MS" size="32" color="#000000"><b><font size="24"><font face="Trebuchet MS"><font color="#f6f5bb">GURGLE
+GURGLE
+GURGLE</font></font></font></b></font>
+
+103
+00:18:16,200 --> 00:18:17,700
+<font face="Comic Sans MS" size="32" color="#000000"><b><font size="20"></font></b><font face="Arial">{\an8}<font color="#9648a4">NOT DENYING IT</font></font></font>
+
+104
+00:18:29,210 --> 00:18:33,220
+<font face="Comic Sans MS" size="32" color="#000000"><b><font size="20"><font face="Trebuchet MS"><font color="#f6f5bb">GURGLE
+GURGLE
+GURGLE</font></font></font></b></font>
+
+105
+00:18:33,470 --> 00:18:35,720
+<font face="Comic Sans MS" size="32" color="#000000"><b><font size="16"><font color="#ca6b8b">SMOOCH...</font></font></b></font>
+
+106
+00:18:45,230 --> 00:18:50,730
+<font face="Comic Sans MS" size="32" color="#000000"><b><font size="24"><i><font face="Trebuchet MS"><font color="#d5a6f7">I'M NOT A
+GOOD EXAMPLE...</font></font></i></font></b></font>
+
+107
+00:19:10,750 --> 00:19:13,760
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#bb2490"><font size="16">TINTED</font></font></b></font>
+
+108
+00:19:11,130 --> 00:19:13,760
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#bb2490"><font size="16">COLORED LIP BALM</font></font></b></font>
+
+109
+00:19:11,500 --> 00:19:13,760
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#bb2490"><font size="16">MINERAL
+FOUNDATION</font></font></b></font>
+
+110
+00:19:19,890 --> 00:19:23,640
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#cfff85">{\an8}SNEAK...</font></b></font>
+
+111
+00:19:41,160 --> 00:19:42,910
+<font face="Comic Sans MS" size="32" color="#000000"><b><font size="24"><font color="#bc48c8"><i>{\an9}THUMP
+THUMP
+THUMP</i></font></font></b></font>
+
+112
+00:19:47,790 --> 00:19:53,050
+<font face="Comic Sans MS" size="32" color="#000000"><b><font size="24"><font color="#ed5c80"><i>{\an7}THUMP THUMP THUMP</i></font></font></b></font>
+
+113
+00:19:53,460 --> 00:19:55,050
+<font face="Comic Sans MS" size="32" color="#000000"><b><font size="24"><font color="#d8db7f">OH NO...!!</font></font></b></font>
+
+114
+00:19:59,340 --> 00:20:07,060
+<font face="Comic Sans MS" size="32" color="#000000"><b><font size="16"><font color="#740083">CHANGING THE SUBJECT
+TO HIDE EMBARRASSMENT</font></font></b></font>
+
+115
+00:20:38,380 --> 00:20:39,220
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#ea4095"><font size="16">OH...?</font></font></b></font>
+
+116
+00:20:44,100 --> 00:20:49,310
+<font face="Comic Sans MS" size="32" color="#000000"><b><font color="#fbfebc"><font face="Trebuchet MS"><font size="24">SOLITARY</font></font></font></b></font>
+
