@@ -1,0 +1,88 @@
+1
+00:01:58,010 --> 00:01:59,510
+<font size="20">{\an8}<b><font face="Times New Roman"><font color="#837a61">Hyogo</font></font></b></font>
+
+2
+00:01:58,010 --> 00:01:59,510
+<font size="20">{\an8}<b><font face="Times New Roman"><font color="#81695d">Nankinmachi</font></font></b></font>
+
+3
+00:06:39,520 --> 00:06:39,620
+<font size="20">{\an8}<b><font size="22"><font color="#51504e">You have a new message.</font></font></b></font>
+
+4
+00:06:39,620 --> 00:06:39,750
+<font size="20">{\an8}<b><font size="22"><font color="#51504e">You have a new message.</font></font></b></font>
+
+5
+00:06:39,750 --> 00:06:39,870
+<font size="20">{\an8}<b><font size="22"><font color="#51504e">You have a new message.</font></font></b></font>
+
+6
+00:06:39,870 --> 00:06:40,000
+<font size="20">{\an8}<b><font size="22"><font color="#51504e">You have a new message.</font></font></b></font>
+
+7
+00:06:40,000 --> 00:06:40,120
+<font size="20">{\an8}<b><font size="22"><font color="#51504e">You have a new message.</font></font></b></font>
+
+8
+00:06:40,120 --> 00:06:40,250
+<font size="20">{\an8}<b><font size="22"><font color="#51504e">You have a new message.</font></font></b></font>
+
+9
+00:06:40,250 --> 00:06:40,370
+<font size="20">{\an8}<b><font size="22"><font color="#51504e">You have a new message.</font></font></b></font>
+
+10
+00:06:40,370 --> 00:06:42,330
+<font size="20">{\an8}<font size="10"><b><font color="#fedee7">Today</font></b></font></font>
+
+11
+00:06:40,370 --> 00:06:40,870
+<font size="20">{\an8}<font size="10"><b><font color="#5c6167">Are you still awake?</font></b></font></font>
+
+12
+00:06:40,870 --> 00:06:41,000
+<font size="20">{\an8}<font size="10"><b><font color="#5c6167">Are you still awake?</font></b></font></font>
+
+13
+00:06:41,000 --> 00:06:41,130
+<font size="20">{\an8}<font size="10"><b><font color="#5c6167">Are you still awake?</font></b></font></font>
+
+14
+00:06:41,130 --> 00:06:41,250
+<font size="20">{\an8}<font size="10"><b><font color="#5c6167">Are you still awake?</font></b></font></font>
+
+15
+00:06:41,250 --> 00:06:42,330
+<font size="20">{\an8}<font size="10"><b><font color="#5c6167">Are you still awake?</font></b></font></font>
+
+16
+00:15:53,590 --> 00:15:55,050
+<font size="20">{\an8}<b><font color="#706386">Koi Food</font></b></font>
+
+17
+00:16:32,900 --> 00:16:35,840
+<font size="20">{\an8}<font face="Comic Sans MS"><b><font size="8"><font color="#a5946c">Big Sister</font></font></b></font></font>
+
+18
+00:22:13,200 --> 00:22:15,790
+<font size="20">{\an8}<font size="18"><font color="#2f2a58"><b><font face="Comic Sans MS">A Goodnight Hug</font></b></font></font></font>
+
+19
+00:22:35,970 --> 00:22:39,120
+<font size="20">{\an8}<font size="10"><font face="Times New Roman"><b><font color="#dcdcdc">Translation:
+Timing:
+Editing:
+Quality Control:
+Final Quality Control:</font></b></font></font></font>
+
+20
+00:22:35,970 --> 00:22:39,120
+<font size="20">{\an8}<font size="10"><font face="Times New Roman"><b><font color="#dcdcdc">Yukari Murase-Louden
+Andy Ellis
+Gabriella Alabanza
+Salem Alabanza
+Elizabeth Ellis</font></b></font></font></font>
+
