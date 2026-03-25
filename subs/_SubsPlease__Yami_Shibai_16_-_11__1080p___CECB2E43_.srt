@@ -1,0 +1,254 @@
+1
+00:00:07,600 --> 00:00:10,480
+<font face="Roboto Medium" size="26">Step right up and have a look...</font>
+
+2
+00:00:10,480 --> 00:00:13,900
+<font face="Roboto Medium" size="26">It's time for Yamishibai.</font>
+
+3
+00:00:10,610 --> 00:00:17,530
+<font face="Times New Roman" size="44" color="#593826"><b>{\an8}<font color="#5e3623"><font color="#5c352c">Theatre of Darkness: Yamishibai</font></font></b></font>
+
+4
+00:00:13,360 --> 00:00:17,530
+<font face="Times New Roman" size="22" color="#3d2b20"><font color="#2b1f0a">Dream Connection</font></font>
+
+5
+00:00:17,130 --> 00:00:23,760
+<font face="Roboto Medium" size="26">This is the story of a high school 
+student who lives in the dorms...</font>
+
+6
+00:00:27,100 --> 00:00:29,410
+<font face="Roboto Medium" size="26">Someone... collapsed.</font>
+
+7
+00:00:31,310 --> 00:00:32,850
+<font face="Roboto Medium" size="26">Why can't I get out of here?</font>
+
+8
+00:00:33,120 --> 00:00:35,670
+<font face="Roboto Medium" size="26">Yukiya? Yukiya.</font>
+
+9
+00:00:35,670 --> 00:00:36,920
+<font face="Roboto Medium" size="26">Yukiya!</font>
+
+10
+00:00:38,310 --> 00:00:39,680
+<font face="Roboto Medium" size="26">Just a dream...</font>
+
+11
+00:00:39,680 --> 00:00:42,110
+<font face="Roboto Medium" size="26">Dude, you were really freaking out.</font>
+
+12
+00:00:42,110 --> 00:00:45,980
+<font face="Roboto Medium" size="26">S-Sorry. I keep having
+the same dream lately...</font>
+
+13
+00:00:48,130 --> 00:00:50,780
+<font face="Roboto Medium" size="26">So you're in the mountains
+and can't find your way down?</font>
+
+14
+00:00:50,780 --> 00:00:53,740
+<font face="Roboto Medium" size="26">Yeah. It's the same thing every night.</font>
+
+15
+00:00:53,740 --> 00:00:55,540
+<font face="Roboto Medium" size="26">It's making me not want to sleep.</font>
+
+16
+00:00:55,970 --> 00:00:58,910
+<font face="Roboto Medium" size="26">Wanna do a dream connection with me, then?</font>
+
+17
+00:00:58,910 --> 00:01:01,380
+<font face="Roboto Medium" size="26">Dream... what?</font>
+
+18
+00:01:01,380 --> 00:01:03,010
+<font face="Roboto Medium" size="26">Dream connection.</font>
+
+19
+00:01:03,010 --> 00:01:07,390
+<font face="Roboto Medium" size="26">People who are having nightmares
+connect their dreams and help each other.</font>
+
+20
+00:01:07,390 --> 00:01:10,480
+<font face="Roboto Medium" size="26">It's kind of a ritual that 
+we do back where I'm from.</font>
+
+21
+00:01:10,480 --> 00:01:12,880
+<font face="Roboto Medium" size="26">Where are you from, again?</font>
+
+22
+00:01:13,740 --> 00:01:18,060
+<font face="Roboto Medium" size="26">Look, just humor me. 
+I've been having weird dreams, too.</font>
+
+23
+00:01:18,060 --> 00:01:20,120
+<font face="Roboto Medium" size="26">I'm in the mountains,
+trying to make my way up,</font>
+
+24
+00:01:20,120 --> 00:01:22,580
+<font face="Roboto Medium" size="26">but always find myself back at the base.</font>
+
+25
+00:01:24,750 --> 00:01:26,810
+<font face="Roboto Medium" size="26">The opposite of mine, huh?</font>
+
+26
+00:01:27,660 --> 00:01:29,540
+<font face="Roboto Medium" size="26">That oughta do it.</font>
+
+27
+00:01:30,720 --> 00:01:32,090
+<font face="Roboto Medium" size="26">And that's it?</font>
+
+28
+00:01:32,090 --> 00:01:36,240
+<font face="Roboto Medium" size="26">Yep. Look at mine. 
+Now our dreams should be connected.</font>
+
+29
+00:01:36,240 --> 00:01:39,580
+<font face="Roboto Medium" size="26">If this works, my dream might help 
+you make it out of the mountains.</font>
+
+30
+00:01:41,110 --> 00:01:45,400
+<font face="Roboto Medium" size="26"><i>This sure is weird.
+But I'd feel rude turning him down.</i></font>
+
+31
+00:01:46,760 --> 00:01:48,880
+<font face="Roboto Medium" size="26"><i>Maybe this room is 
+causing my weird dreams.</i></font>
+
+32
+00:01:49,340 --> 00:01:51,010
+<font face="Roboto Medium" size="26"><i>It's always so dark...</i></font>
+
+33
+00:01:55,880 --> 00:01:59,330
+<font face="Roboto Medium" size="26"><i>I'm pretty sure it's this path.
+So if I go a bit further...</i></font>
+
+34
+00:02:00,270 --> 00:02:03,030
+<font face="Roboto Medium" size="26"><i>Huh? Animal carcasses?</i></font>
+
+35
+00:02:04,210 --> 00:02:07,700
+<font face="Roboto Medium" size="26"><i>That's different from how
+this usually goes. But it's weird...</i></font>
+
+36
+00:02:09,910 --> 00:02:11,240
+<font face="Roboto Medium" size="26"><i>Wh-What the...</i></font>
+
+37
+00:02:11,960 --> 00:02:13,640
+<font face="Roboto Medium" size="26"><i>A different path?</i></font>
+
+38
+00:02:14,760 --> 00:02:16,480
+<font face="Roboto Medium" size="26">Wh-What?!</font>
+
+39
+00:02:17,770 --> 00:02:20,200
+<font face="Roboto Medium" size="26">It worked! I made it down!</font>
+
+40
+00:02:21,580 --> 00:02:22,470
+<font face="Roboto Medium" size="26">What the...</font>
+
+41
+00:02:28,960 --> 00:02:30,400
+<font face="Roboto Medium" size="26">What?! Who's there?!</font>
+
+42
+00:02:32,500 --> 00:02:37,880
+<font face="Roboto Medium" size="26">What is this?!
+Hey! Stay back! Damn it!</font>
+
+43
+00:02:40,630 --> 00:02:42,380
+<font face="Roboto Medium" size="26">No... No...</font>
+
+44
+00:02:42,380 --> 00:02:45,970
+<font face="Roboto Medium" size="26">Yukiya... It's not so bad in that world, huh?</font>
+
+45
+00:02:46,700 --> 00:02:50,500
+<font face="Roboto Medium" size="26">Don't worry. I'll take good care
+of you inside my dream.</font>
+
+46
+00:02:51,600 --> 00:02:54,630
+<font face="Roboto Medium" size="26">Hey! First-years! Breakfast time!</font>
+
+47
+00:02:55,260 --> 00:02:56,380
+<font face="Roboto Medium" size="26">Coming!</font>
+
+48
+00:02:57,000 --> 00:02:59,110
+<font face="Roboto Medium" size="26">Man, you guys keep it dark in here.</font>
+
+49
+00:02:59,960 --> 00:03:02,480
+<font face="Roboto Medium" size="26">Huh? Were you...</font>
+
+50
+00:03:02,480 --> 00:03:04,750
+<font face="Roboto Medium" size="26">Kota's the name. Okajima Kota.</font>
+
+51
+00:03:05,060 --> 00:03:06,900
+<font face="Roboto Medium" size="26">Has that always been your name?</font>
+
+52
+00:03:06,900 --> 00:03:09,230
+<font face="Roboto Medium" size="26">Come on, Senpai,
+are you still asleep or something?</font>
+
+53
+00:03:09,230 --> 00:03:11,750
+<font face="Roboto Medium" size="26">It's been a while since
+I enrolled here, y'know.</font>
+
+54
+00:03:11,750 --> 00:03:14,340
+<font face="Roboto Medium" size="26">Yeah... Yeah, I guess so.</font>
+
+55
+00:03:14,340 --> 00:03:17,540
+<font face="Roboto Medium" size="26">By the way, Senpai,
+do you ever dream of the mountains?</font>
+
+56
+00:03:17,540 --> 00:03:21,250
+<font face="Roboto Medium" size="26">Huh? How did you know about that?</font>
+
+57
+00:03:21,250 --> 00:03:25,350
+<font face="Roboto Medium" size="26">Maybe we should connect dreams, then.</font>
+
+58
+00:03:26,180 --> 00:03:30,180
+<font face="Times New Roman" size="44" color="#593826"><b>{\an8}<font size="34">Theatre of Darkness: Yamishibai</font></b></font>
+
+59
+00:03:26,850 --> 00:03:28,970
+<font face="Roboto Medium" size="26">The end.</font>
+
