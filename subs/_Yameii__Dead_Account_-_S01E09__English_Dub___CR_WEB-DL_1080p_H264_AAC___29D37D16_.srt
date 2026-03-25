@@ -1,0 +1,154 @@
+1
+00:00:04,730 --> 00:00:06,740
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="12">Unread Messages</font></font></b></font>
+
+2
+00:00:04,730 --> 00:00:06,740
+<font face="Gandhi Sans" size="24"><b>{\an1}<font face="Arial"><font size="14"><font color="#4f4d57"><b>Kukuru and Wagari are fighting near
+ the hot springs!</b></font></font></font></b></font>
+
+3
+00:02:47,610 --> 00:02:48,730
+<font face="Gandhi Sans" size="24"><b>{\an1}<font face="Arial Black"><font color="#0d0e10">Little <font color="#d10074">Mine <font color="#0d0e10">Book</font></font></font></font></b></font>
+
+4
+00:02:52,110 --> 00:02:54,110
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font color="#0d0e10">Mixed <font color="#d10074">Martial <font color="#0d0e10">Artist</font></font></font></font></b></font>
+
+5
+00:02:52,110 --> 00:02:54,110
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font color="#0d0e10">Futo Ryuno</font></font></b></font>
+
+6
+00:03:09,670 --> 00:03:11,750
+<font face="Gandhi Sans" size="24"><b>{\an3}<font face="Comic Sans MS"><b><font color="#283214">Lame</font></b></font></b></font>
+
+7
+00:03:52,340 --> 00:03:54,840
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b>{\an9}<font color="#030403">Sticky <font color="#7600de">Love <font color="#030403">Bomb</font></font></font></b></font></b></font>
+
+8
+00:04:17,190 --> 00:04:24,030
+<font face="Gandhi Sans" size="24"><b>{\an1}<font size="16"><font face="Arial Black"><font color="#0d0e10">Land <font color="#d10074">Mine <font color="#0d0e10">Connection</font></font></font></font></font></b></font>
+
+9
+00:04:17,460 --> 00:04:24,030
+<font face="Gandhi Sans" size="24"><b>{\an1}<font size="20"><font face="Arial Black"><font color="#d10074">Beau<font color="#0d0e10">tician</font></font></font></font></b></font>
+
+10
+00:04:17,460 --> 00:04:24,030
+<font face="Gandhi Sans" size="24"><b><font size="20"><font face="Arial Black"><font color="#0d0e10">Shota Ryuha</font></font></font></b></font>
+
+11
+00:06:32,330 --> 00:06:33,580
+<font face="Gandhi Sans" size="24"><b>{\an1}<font size="16"><font face="Arial Black"><font color="#0d0e10">Land <font color="#d10074">Mine <font color="#0d0e10">Connection</font></font></font></font></font></b></font>
+
+12
+00:06:32,600 --> 00:06:33,580
+<font face="Gandhi Sans" size="24"><b>{\an1}<font size="20"><font face="Arial Black"><font color="#d10074">Sumo <font color="#0d0e10">Wrestler</font></font></font></font></b></font>
+
+13
+00:06:32,600 --> 00:06:33,580
+<font face="Gandhi Sans" size="24"><b><font size="20"><font face="Arial Black"><font color="#0d0e10">Gintakewaka</font></font></font></b></font>
+
+14
+00:06:36,130 --> 00:06:38,880
+<font face="Gandhi Sans" size="24"><b>{\an9}<font size="16"><font face="Arial Black"><font color="#0d0e10">Land <font color="#d10074">Mine <font color="#0d0e10">Connection</font></font></font></font></font></b></font>
+
+15
+00:06:36,390 --> 00:06:38,880
+<font face="Gandhi Sans" size="24"><b>{\an9}<font size="20"><font face="Arial Black"><font color="#d10074">Digital <font color="#0d0e10">Artist 
+Ginpei Ishiyama</font></font></font></font></b></font>
+
+16
+00:07:03,570 --> 00:07:10,830
+<font face="Gandhi Sans" size="24"><b>{\an7}<font face="Arial Black"><font size="36"><font color="#2e3925">Freak</font></font></font></b></font>
+
+17
+00:07:03,570 --> 00:07:10,830
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Arial"><font size="12"><font color="#46492e">Stay out of school</font></font></font></b></font>
+
+18
+00:07:03,570 --> 00:07:10,830
+<font face="Gandhi Sans" size="24"><b>{\an4}<font face="Arial"><b><font size="18"><font color="#252719">Go back to your ivory tower</font></font></b></font></b></font>
+
+19
+00:07:03,570 --> 00:07:10,830
+<font face="Gandhi Sans" size="24"><b>{\an6}<font face="Arial"><b><font size="20"><font color="#2b392c">Get lost</font></font></b></font></b></font>
+
+20
+00:10:29,230 --> 00:10:31,360
+<font face="Gandhi Sans" size="24"><b><font face="Impact"><font color="#3f3c77">M<font color="#6da694">i<font color="#3f3c77">lk</font></font></font></font></b></font>
+
+21
+00:10:31,360 --> 00:10:33,360
+<font face="Gandhi Sans" size="24"><b><font face="Impact"><font size="28"><font color="#524caa">M<font color="#6da694">i<font color="#524caa">lk</font></font></font></font></font></b></font>
+
+22
+00:10:55,880 --> 00:10:57,970
+<font face="Gandhi Sans" size="24"><b>{\an7}<font face="Arial"><b><font size="24"><font color="#f4f3f2">Kiyomi Urusugawa
+ Eru Kusaba</font></font></b></font></b></font>
+
+23
+00:10:55,980 --> 00:10:57,970
+<font face="Gandhi Sans" size="24"><b>{\an7}<font face="Arial"><b><font size="24"><font color="#0c0c0b">Out of the fight</font></font></b></font></b></font>
+
+24
+00:14:07,160 --> 00:14:09,040
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><font size="30"><b>{\an7}<font color="#0d0d0b">Enflame</font></b></font></font></b></font>
+
+25
+00:14:07,550 --> 00:14:09,040
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><font size="36"><b>{\an3}<font color="#11cbf9">Eye</font></b></font></font></b></font>
+
+26
+00:15:06,640 --> 00:15:09,010
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><font size="30"><b>{\an7}<font color="#0d0d0b">Enflame</font></b></font></font></b></font>
+
+27
+00:15:06,900 --> 00:15:09,010
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><font size="36"><b>{\an3}<font color="#11cbf9">Shoulder</font></b></font></font></b></font>
+
+28
+00:15:54,350 --> 00:15:56,530
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="16">{\an8}<b><font color="#3d4243">Dei Surugi  <font color="#abacab">To: <font color="#4fc5ee">atggldq
+</font></font></font></b><font color="#484848">HOLY SHIT UR UGLY LOLOLOL GUESS THEY
+LET ANYONE BE AN IDOL THESE DAYS
+ WHAT ARE YOU A BEHEMOTH</font></font></font></b></font>
+
+29
+00:15:56,530 --> 00:15:59,450
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="16">{\an8}<b><font color="#3d4243">Mayolar <font color="#abacab">To: <font color="#4fc5ee">sO.nWpYzU
+</font></font></font></b><font color="#484848">Reported</font></font></font></b></font>
+
+30
+00:15:59,450 --> 00:16:02,620
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="16">{\an8}<b><font color="#3d4243">Sayaka-chan stan <font color="#abacab">To: <font color="#4fc5ee">sO.nWpYzU
+</font></font></font></b><font color="#484848">Who the hell is this guy? 
+Pretty sad to get your kicks riling people up online</font></font></font></b></font>
+
+31
+00:16:02,620 --> 00:16:03,820
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="16">{\an8}<b><font color="#3d4243">Pavlov-san <font color="#abacab">To: <font color="#4fc5ee">sO.nWpYzU
+</font></font></font></b><font color="#484848">Nobody likes you</font></font></font></b></font>
+
+32
+00:18:16,570 --> 00:18:19,080
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="20"><font color="#f4f3f2">Five Minutes Earlier</font></font></b></font></b></font>
+
+33
+00:19:18,800 --> 00:19:21,510
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Arial"><b><font color="#29241c">Order</font></b></font></b></font>
+
+34
+00:19:19,030 --> 00:19:21,510
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Arial"><b><font color="#29241c">Attack Kukuru Kasubata</font></b></font></b></font>
+
+35
+00:20:26,830 --> 00:20:29,830
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Arial"><b><font color="#29241c">Order</font></b></font></b></font>
+
+36
+00:20:27,850 --> 00:20:29,830
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Arial"><b><font color="#29241c">Dance to death</font></b></font></b></font>
+
