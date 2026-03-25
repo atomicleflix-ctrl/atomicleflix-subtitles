@@ -1,0 +1,1569 @@
+1
+00:00:05,560 --> 00:00:08,650
+<font size="20"><b><font color="#333433">Sunday</font></b></font>
+
+2
+00:00:24,790 --> 00:00:26,940
+<font face="Roboto Medium" size="26">Good morning, Your Majesty.</font>
+
+3
+00:00:26,940 --> 00:00:29,380
+<font face="Roboto Medium" size="26">Morning, Kanadge.</font>
+
+4
+00:00:29,380 --> 00:00:33,930
+<font face="Roboto Medium" size="26">Since we're working on a weekend, 
+let's head straight to the venue.</font>
+
+5
+00:00:33,930 --> 00:00:35,150
+<font face="Roboto Medium" size="26">Sure.</font>
+
+6
+00:00:38,260 --> 00:00:41,330
+<font face="Roboto Medium" size="26"><i>He made sure to recline the seat.</i></font>
+
+7
+00:00:43,100 --> 00:00:45,400
+<font face="Roboto Medium" size="26">How considerate of you, Kanadge.</font>
+
+8
+00:00:45,400 --> 00:00:46,450
+<font face="Roboto Medium" size="26">Thank you!</font>
+
+9
+00:00:49,710 --> 00:00:56,110
+<font face="Roboto Medium" size="26"><i>When traveling by car, the Hell-Lord 
+must always sit in a fully-reclined seat.</i></font>
+
+10
+00:00:56,110 --> 00:00:57,760
+<font face="Roboto Medium" size="26"><i>As for the reason why...</i></font>
+
+11
+00:00:58,860 --> 00:01:01,070
+<font face="Roboto Medium" size="26"><i>To avoid this!</i></font>
+
+12
+00:01:01,070 --> 00:01:05,580
+<font face="Roboto Medium" size="26"><i>By the way, this is 
+a Hellhorde company car.</i></font>
+
+13
+00:02:36,170 --> 00:02:38,010
+<font size="20"><b><font color="#d01c76">{\an8}<font size="32">'Tis Time for <font color="#020000">"Torture,"
+<font color="#cf1374">Princess</font></font></font></font></b></font>
+
+14
+00:02:38,010 --> 00:02:40,260
+<font size="20">{\an7}<font color="#9d9ea2">m 0 0 l 230 0 230 80 0 80</font></font>
+
+15
+00:02:38,010 --> 00:02:40,260
+<font size="20"><font size="11"><font color="#3f4346"><font face="Times New Roman">{\an8}Hellhorde Performance Award Speech
+ Don't forget to smile!
+ Thank you all for gathering here today 
+for the Hellhorde Performance Award Ceremony.
+ (Make sure to pause!)
+ To foster further growth and
+peace in the Demon World, 
+the members of the Hellhorde spare
+ no effort working diligently daily, 
+in the area best suited to their talents.
+ <font color="#4d1c2a">* Take a breath. Calm yourself!
+ <font color="#3f4346">Among them, the people we recognize 
+today have made significant 
+contributions to the Hellhorde this quarter.</font></font></font></font></font></font>
+
+16
+00:02:40,790 --> 00:02:45,320
+<font face="Roboto Medium" size="26">Have you memorized your speech for 
+the Hellhorde Performance Award Ceremony?</font>
+
+17
+00:02:45,320 --> 00:02:47,830
+<font face="Roboto Medium" size="26">Yes, barely.</font>
+
+18
+00:02:48,260 --> 00:02:51,180
+<font face="Roboto Medium" size="26">But I'm getting nervous.</font>
+
+19
+00:02:52,160 --> 00:02:53,660
+<font face="Roboto Medium" size="26">I know you'll do great.</font>
+
+20
+00:02:55,490 --> 00:02:56,370
+<font face="Roboto Medium" size="26">Oh.</font>
+
+21
+00:02:56,360 --> 00:02:59,440
+<font size="20"><b><font size="6"><font color="#575a45">Drive-Thru</font></font></b></font>
+
+22
+00:02:56,650 --> 00:02:58,900
+<font face="Roboto Medium" size="26">There's a Mark D's. 
+Should we stop to eat here?</font>
+
+23
+00:02:59,440 --> 00:03:02,280
+<font size="20"><b><font color="#474c4d">Drive-Thru</font></b></font>
+
+24
+00:02:59,720 --> 00:03:04,000
+<font face="Roboto Medium" size="26">I remember Your Majesty saying you 
+wanted to try their limited-time burger.</font>
+
+25
+00:03:04,710 --> 00:03:07,910
+<font face="Roboto Medium" size="26">No, it's fine, but thank you.</font>
+
+26
+00:03:07,910 --> 00:03:10,990
+<font face="Roboto Medium" size="26">I've got no appetite right now 
+with these nerves.</font>
+
+27
+00:03:11,330 --> 00:03:14,010
+<font face="Roboto Medium" size="26">Not to mention the item 
+I was interested in...</font>
+
+28
+00:03:14,000 --> 00:03:17,750
+<font size="20"><font color="#7f220e"><b>Grand Croquette Burger</b></font></font>
+
+29
+00:03:14,000 --> 00:03:17,750
+<font size="20"><font color="#7f220e"><b>Grand Croquette Burger</b></font></font>
+
+30
+00:03:14,010 --> 00:03:17,180
+<font face="Roboto Medium" size="26">is only sold on their lunch menu.</font>
+
+31
+00:03:17,760 --> 00:03:21,770
+<font face="Roboto Medium" size="26">That's right, they're still on 
+their breakfast menu right now.</font>
+
+32
+00:03:22,050 --> 00:03:26,030
+<font face="Roboto Medium" size="26">Although the breakfast menu 
+is great in its own right.</font>
+
+33
+00:03:26,030 --> 00:03:27,010
+<font face="Roboto Medium" size="26">That's true.</font>
+
+34
+00:03:29,420 --> 00:03:32,850
+<font face="Roboto Medium" size="26">You know the one they have 
+with a meat patty between two pancakes?</font>
+
+35
+00:03:32,850 --> 00:03:35,810
+<font face="Roboto Medium" size="26">Yes. I love it.</font>
+
+36
+00:03:36,080 --> 00:03:41,660
+<font face="Roboto Medium" size="26">I love putting the hash brown you get 
+with the meal <i>inside</i> the sandwich.</font>
+
+37
+00:03:42,620 --> 00:03:48,060
+<font face="Roboto Medium" size="26">That sweet and salty goodness, 
+plus the hash brown's crispy texture...</font>
+
+38
+00:03:48,060 --> 00:03:49,540
+<font face="Roboto Medium" size="26">It's the best.</font>
+
+39
+00:04:01,290 --> 00:04:02,650
+<font face="Roboto Medium" size="26">Hey...</font>
+
+40
+00:04:03,380 --> 00:04:07,450
+<font face="Roboto Medium" size="26">Why would you say 
+that after we've passed it?</font>
+
+41
+00:04:07,450 --> 00:04:09,450
+<font face="Roboto Medium" size="26">S-Sorry.</font>
+
+42
+00:04:11,710 --> 00:04:15,010
+<font face="Roboto Medium" size="26">I want to eat it really badly now.</font>
+
+43
+00:04:16,180 --> 00:04:17,560
+<font face="Roboto Medium" size="26">Should I turn back?</font>
+
+44
+00:04:17,560 --> 00:04:20,460
+<font face="Roboto Medium" size="26">No, we've almost made it to the venue.</font>
+
+45
+00:04:20,460 --> 00:04:22,230
+<font face="Roboto Medium" size="26">Let's keep going.</font>
+
+46
+00:04:22,720 --> 00:04:23,870
+<font face="Roboto Medium" size="26">I'm sorry.</font>
+
+47
+00:04:28,200 --> 00:04:31,290
+<font size="20"><font color="#2a3738"><b>{\an9}Demon World Cultural Center</b></font></font>
+
+48
+00:04:28,280 --> 00:04:31,290
+<font size="20"><font color="#fafafc"><b>{\an9}West Parking Lot</b></font></font>
+
+49
+00:04:32,770 --> 00:04:35,430
+<font face="Roboto Medium" size="26">It looks like there's 
+a corner store nearby.</font>
+
+50
+00:04:35,430 --> 00:04:37,000
+<font face="Roboto Medium" size="26">Do you need me to get you anything?</font>
+
+51
+00:04:38,160 --> 00:04:39,590
+<font face="Roboto Medium" size="26">Your Majesty?</font>
+
+52
+00:04:40,000 --> 00:04:43,420
+<font face="Roboto Medium" size="26">That Mark Dragon is around 
+a kilometer away.</font>
+
+53
+00:04:43,420 --> 00:04:45,510
+<font face="Roboto Medium" size="26">Two kilometers for a round trip.</font>
+
+54
+00:04:45,510 --> 00:04:49,610
+<font face="Roboto Medium" size="26">My body should be able to 
+withstand that distance.</font>
+
+55
+00:04:49,610 --> 00:04:50,520
+<font face="Roboto Medium" size="26">What?</font>
+
+56
+00:04:58,620 --> 00:05:02,450
+<font face="Roboto Medium" size="26">Hell-Lord Speed Form!</font>
+
+57
+00:04:59,150 --> 00:05:02,440
+<font size="20"><b><font color="#314a1e"><font size="35"><font face="Georgia">Hell-Lord Speed Form</font></font></font></b></font>
+
+58
+00:05:04,670 --> 00:05:06,820
+<font face="Roboto Medium" size="26">I'm gonna go stop by the Mark Dragon.</font>
+
+59
+00:05:12,700 --> 00:05:15,460
+<font size="20"><b><font size="15"><font color="#42463a">Drive-Thru</font></font></b></font>
+
+60
+00:05:15,450 --> 00:05:18,180
+<font face="Roboto Medium" size="26">Will this be for take-out or dine-in?</font>
+
+61
+00:05:18,180 --> 00:05:20,550
+<font face="Roboto Medium" size="26">So that'll be one cheeseburger?</font>
+
+62
+00:05:20,550 --> 00:05:22,260
+<font face="Roboto Medium" size="26">Would you like fries with that?</font>
+
+63
+00:05:28,380 --> 00:05:33,360
+<font face="Roboto Medium" size="26">Put the hash brown between 
+the patty and the egg...</font>
+
+64
+00:05:34,300 --> 00:05:35,620
+<font face="Roboto Medium" size="26">Here I go.</font>
+
+65
+00:05:42,500 --> 00:05:44,370
+<font face="Roboto Medium" size="26">Delicious!</font>
+
+66
+00:05:44,710 --> 00:05:50,390
+<font face="Roboto Medium" size="26"><i>Immediately after biting into 
+the fluffy pancake and juicy patty,</i></font>
+
+67
+00:05:50,390 --> 00:05:53,360
+<font face="Roboto Medium" size="26"><i>I get the crunch from the hash brown...</i></font>
+
+68
+00:05:54,150 --> 00:05:56,580
+<font face="Roboto Medium" size="26"><i>What an exciting surprise.</i></font>
+
+69
+00:05:56,580 --> 00:05:59,440
+<font face="Roboto Medium" size="26"><i>My fangs are crying in joy!</i></font>
+
+70
+00:06:00,270 --> 00:06:03,240
+<font face="Roboto Medium" size="26"><i>The rich, slightly melted cheese...</i></font>
+
+71
+00:06:03,240 --> 00:06:06,190
+<font face="Roboto Medium" size="26"><i>And that firm egg is great, too.</i></font>
+
+72
+00:06:06,190 --> 00:06:09,450
+<font face="Roboto Medium" size="26"><i>Which will you get, 
+the whites or the yolk?</i></font>
+
+73
+00:06:09,970 --> 00:06:14,340
+<font face="Roboto Medium" size="26"><i>It's a matter of taste, but I get
+a little happy when it's the yolk.</i></font>
+
+74
+00:06:15,020 --> 00:06:16,790
+<font face="Roboto Medium" size="26"><i>You could say that...</i></font>
+
+75
+00:06:16,790 --> 00:06:19,810
+<font face="Roboto Medium" size="26"><i>All of the ingredients 
+are in perfect unity.</i></font>
+
+76
+00:06:19,810 --> 00:06:22,320
+<font face="Roboto Medium" size="26"><i>A quintuple combo of delicious.</i></font>
+
+77
+00:06:23,590 --> 00:06:25,720
+<font face="Roboto Medium" size="26"><i>Not a single weak spot.</i></font>
+
+78
+00:06:26,460 --> 00:06:29,310
+<font face="Roboto Medium" size="26"><i>Truly splendid!</i></font>
+
+79
+00:06:29,310 --> 00:06:31,000
+<font face="Roboto Medium" size="26">I'm glad you like it.</font>
+
+80
+00:06:32,710 --> 00:06:35,780
+<font face="Roboto Medium" size="26">It really does taste 
+good eating it like this.</font>
+
+81
+00:06:37,760 --> 00:06:41,180
+<font face="Roboto Medium" size="26">I was so nervous 
+that I couldn't eat breakfast,</font>
+
+82
+00:06:41,180 --> 00:06:45,220
+<font face="Roboto Medium" size="26">but thanks to you, I regained my appetite 
+and shook off my nerves.</font>
+
+83
+00:06:46,040 --> 00:06:48,460
+<font face="Roboto Medium" size="26">Thanks, Kanadge.</font>
+
+84
+00:06:48,470 --> 00:06:52,220
+<font size="20">{\an7}<font color="#e8e8e8">m 0 0 l 230 0 230 80 0 80</font></font>
+
+85
+00:06:48,470 --> 00:06:52,220
+<font size="20"><font size="11"><font color="#202020"><font face="Times New Roman">{\an8}Hellhorde Performance Award Speech
+ Don't forget to smile!
+ Thank you all for gathering here today 
+for the Hellhorde Performance Award Ceremony.
+ (Make sure to pause!)
+ To foster further growth and
+peace in the Demon World, 
+the members of the Hellhorde spare
+ no effort working diligently daily, 
+in the area best suited to their talents.
+ <font color="#a03d52">* Take a breath. Calm yourself!
+ <font color="#202020">Among them, the people we recognize 
+today have made significant 
+contributions to the Hellhorde this quarter.</font></font></font></font></font></font>
+
+86
+00:06:48,940 --> 00:06:51,120
+<font face="Roboto Medium" size="26">I'll knock 'em dead.</font>
+
+87
+00:06:52,220 --> 00:06:56,220
+<font size="20"><b><font color="#d01c76">{\an8}<font size="20">'Tis Time for <font color="#020000">"Torture,"<font color="#cf1374">Princess</font></font></font></font></b></font>
+
+88
+00:06:52,220 --> 00:06:56,220
+<font size="20"><b><font face="Verdana"><font size="15">{\an7}<font color="#f2bc69">Aside from Speed Form, the Hell-Lord 
+has multiple forms, such as Attack Form
+ and Defense Form</font></font></font></b></font>
+
+89
+00:06:56,310 --> 00:06:58,680
+<font size="20"><b><font color="#333231"><font size="15">Meanwhile</font></font></b></font>
+
+90
+00:06:59,070 --> 00:07:03,850
+<font face="Roboto Medium" size="26"><i>Today is Sunday. 
+Since there's no torture today...</i></font>
+
+91
+00:07:08,280 --> 00:07:11,090
+<font face="Roboto Medium" size="26"><i>The gang is here for some bowling.</i></font>
+
+92
+00:07:18,760 --> 00:07:19,830
+<font face="Roboto Medium" size="26">Why?</font>
+
+93
+00:07:20,420 --> 00:07:22,560
+<font face="Roboto Medium" size="26">Good luck, Princess-chan.</font>
+
+94
+00:07:22,560 --> 00:07:24,670
+<font face="Roboto Medium" size="26">Just relax.</font>
+
+95
+00:07:24,930 --> 00:07:28,450
+<font face="Roboto Medium" size="26">Bowling? I know the rules, at least.</font>
+
+96
+00:07:28,840 --> 00:07:32,520
+<font face="Roboto Medium" size="26">You throw the ball down there 
+and try to get the highest score, right?</font>
+
+97
+00:07:32,520 --> 00:07:33,920
+<font face="Roboto Medium" size="26">That's right.</font>
+
+98
+00:07:36,380 --> 00:07:37,310
+<font face="Roboto Medium" size="26">Your Highness?!</font>
+
+99
+00:07:37,310 --> 00:07:39,600
+<font face="Roboto Medium" size="26">Go!</font>
+
+100
+00:07:42,560 --> 00:07:43,810
+<font size="20">{\an8}<b><font size="25"><font color="#2b3335">Prin-Prin
+
+
+
+
+
+
+
+
+Vanillucky</font></font></b></font>
+
+101
+00:07:43,820 --> 00:07:45,310
+<font face="Roboto Medium" size="26">Yes! I got a goal!</font>
+
+102
+00:07:45,630 --> 00:07:47,300
+<font face="Roboto Medium" size="26">The G stands for "gutter ball."</font>
+
+103
+00:07:47,300 --> 00:07:49,320
+<font face="Roboto Medium" size="26">Never seen a gutter ball like that.</font>
+
+104
+00:07:49,320 --> 00:07:52,560
+<font face="Roboto Medium" size="26">You didn't know the rules at all, huh?</font>
+
+105
+00:07:52,560 --> 00:07:54,420
+<font face="Roboto Medium" size="26">That's not it, Princess.</font>
+
+106
+00:07:54,420 --> 00:07:56,020
+<font face="Roboto Medium" size="26">You don't launch the 
+ball through the air.</font>
+
+107
+00:07:56,300 --> 00:07:59,910
+<font face="Roboto Medium" size="26">The objective is to roll the ball 
+to knock down the pins that are lined up.</font>
+
+108
+00:07:59,910 --> 00:08:01,340
+<font face="Roboto Medium" size="26">Oh, really?</font>
+
+109
+00:08:03,240 --> 00:08:05,250
+<font face="Roboto Medium" size="26">Let me show you how it's done.</font>
+
+110
+00:08:05,580 --> 00:08:08,550
+<font face="Roboto Medium" size="26">I'll be taking over 
+for your second roll, Princess.</font>
+
+111
+00:08:08,550 --> 00:08:09,760
+<font face="Roboto Medium" size="26">Second roll?</font>
+
+112
+00:08:09,760 --> 00:08:14,290
+<font face="Roboto Medium" size="26">First, place your fingers inside the 
+ball's three holes and take position.</font>
+
+113
+00:08:14,290 --> 00:08:17,130
+<font face="Roboto Medium" size="26"><i>She's dead serious, 
+even when it's just a game.</i></font>
+
+114
+00:08:15,370 --> 00:08:17,810
+<font face="Roboto Medium" size="26">{\an8}The standard is a four-step approach.</font>
+
+115
+00:08:17,130 --> 00:08:20,310
+<font face="Roboto Medium" size="26"><i>That's the Senpai I know! 
+I'm learning so much!</i></font>
+
+116
+00:08:20,630 --> 00:08:23,310
+<font face="Roboto Medium" size="26">Begin your swing on the second step.</font>
+
+117
+00:08:23,600 --> 00:08:25,800
+<font face="Roboto Medium" size="26">Don't exert too much energy here.</font>
+
+118
+00:08:25,800 --> 00:08:30,730
+<font face="Roboto Medium" size="26">Let the ball's weight do the work, 
+with your shoulder acting as a pivot.</font>
+
+119
+00:08:31,100 --> 00:08:34,480
+<font face="Roboto Medium" size="26">On the third step, your arm 
+should reach its highest point.</font>
+
+120
+00:08:34,810 --> 00:08:38,410
+<font face="Roboto Medium" size="26">On the fourth step, bend your left 
+knee as you firmly plant your foot.</font>
+
+121
+00:08:38,410 --> 00:08:42,240
+<font face="Roboto Medium" size="26">Think of it as shifting your weight 
+from the right leg to the left one.</font>
+
+122
+00:08:42,240 --> 00:08:44,010
+<font face="Roboto Medium" size="26">Follow through and release the ball.</font>
+
+123
+00:08:51,720 --> 00:08:54,020
+<font face="Roboto Medium" size="26">Is it okay that you 
+didn't knock down any pins?</font>
+
+124
+00:08:54,020 --> 00:08:56,100
+<font face="Roboto Medium" size="26">Isn't the point to knock them down?</font>
+
+125
+00:08:56,100 --> 00:08:58,050
+<font face="Roboto Medium" size="26">Well? Well? Well?</font>
+
+126
+00:08:58,050 --> 00:08:58,810
+<font face="Roboto Medium" size="26">Well?</font>
+
+127
+00:08:58,810 --> 00:09:00,050
+<font face="Roboto Medium" size="26">Shut your mouth!</font>
+
+128
+00:09:00,050 --> 00:09:03,290
+<font face="Roboto Medium" size="26">Huh? Why are you mad at me?</font>
+
+129
+00:09:03,790 --> 00:09:06,350
+<font face="Roboto Medium" size="26">That one's on you, Princess-chan.</font>
+
+130
+00:09:06,350 --> 00:09:07,860
+<font face="Roboto Medium" size="26">I agree.</font>
+
+131
+00:09:07,860 --> 00:09:09,250
+<font face="Roboto Medium" size="26">Your Highness is at fault.</font>
+
+132
+00:09:09,560 --> 00:09:11,730
+<font size="20">{\an8}<b><font size="25"><font color="#2b3335">Prin-Prin
+
+
+
+
+
+
+
+
+
+Vanillucky</font></font></b></font>
+
+133
+00:09:12,050 --> 00:09:13,890
+<font face="Roboto Medium" size="26">So be it.</font>
+
+134
+00:09:14,440 --> 00:09:19,440
+<font face="Roboto Medium" size="26">Let me, of the noble House of Peschutz, 
+teach you how it's played!</font>
+
+135
+00:09:19,440 --> 00:09:21,620
+<font face="Roboto Medium" size="26">You brought your own ball and glove...</font>
+
+136
+00:09:21,620 --> 00:09:24,120
+<font face="Roboto Medium" size="26">Are you a pretty experienced bowler?!</font>
+
+137
+00:09:24,120 --> 00:09:26,580
+<font face="Roboto Medium" size="26">Nope! I just bought these!</font>
+
+138
+00:09:26,580 --> 00:09:28,820
+<font face="Roboto Medium" size="26">So you just like to look the part!</font>
+
+139
+00:09:32,750 --> 00:09:34,710
+<font size="20">{\an8}<b><font size="25"><font color="#2b3335">Prin-Prin
+
+
+
+
+
+
+
+
+
+
+Vanillucky</font></font></b></font>
+
+140
+00:09:34,710 --> 00:09:38,770
+<font face="Roboto Medium" size="26">I wanted to look cool 
+in front of the princess...</font>
+
+141
+00:09:38,770 --> 00:09:40,970
+<font face="Roboto Medium" size="26">Stay strong, Vanilla-senpai!</font>
+
+142
+00:09:42,520 --> 00:09:44,050
+<font face="Roboto Medium" size="26">Sure.</font>
+
+143
+00:09:44,290 --> 00:09:50,250
+<font face="Roboto Medium" size="26">Okay, let a former school basketball 
+player show you how it's really done.</font>
+
+144
+00:09:50,250 --> 00:09:51,560
+<font face="Roboto Medium" size="26">We're not playing basketball.</font>
+
+145
+00:09:51,560 --> 00:09:55,280
+<font face="Roboto Medium" size="26">Oh, but my bowling skills come 
+from being on the basketball team!</font>
+
+146
+00:09:55,280 --> 00:09:58,470
+<font face="Roboto Medium" size="26">Family restaurants! Karaoke! Bowling!</font>
+
+147
+00:09:58,470 --> 00:10:01,330
+<font face="Roboto Medium" size="26">The three main places you can find every 
+basketball player in the world!</font>
+
+148
+00:10:01,330 --> 00:10:03,160
+<font face="Roboto Medium" size="26">You're insulting all 
+the basketball players!</font>
+
+149
+00:10:03,390 --> 00:10:06,700
+<font face="Roboto Medium" size="26">Here I go! The true power of someone 
+who was on the basketball team!</font>
+
+150
+00:10:13,590 --> 00:10:14,890
+<font face="Roboto Medium" size="26">Looking good.</font>
+
+151
+00:10:14,890 --> 00:10:17,970
+<font face="Roboto Medium" size="26">Next I'll aim for the right, 
+with a little bit of spin...</font>
+
+152
+00:10:20,260 --> 00:10:21,260
+<font size="20"><b><font size="20"><font color="#2f393a">{\an8}Vanillucky
+
+
+
+
+
+
+
+
+
+
+
+
+
+youk
+
+
+
+
+
+
+
+
+
+
+
+
+<font size="15">
+<font size="20">In-In</font></font></font></font></b></font>
+
+153
+00:10:21,260 --> 00:10:23,470
+<font face="Roboto Medium" size="26">Yeah! How do you like <i>that</i>?!</font>
+
+154
+00:10:24,760 --> 00:10:27,590
+<font face="Roboto Medium" size="26">No real opinions 
+to offer one way or another.</font>
+
+155
+00:10:30,530 --> 00:10:33,220
+<font face="Roboto Medium" size="26">Looks like I'm up next.</font>
+
+156
+00:10:34,560 --> 00:10:35,560
+<font face="Roboto Medium" size="26">There!</font>
+
+157
+00:10:37,400 --> 00:10:39,920
+<font face="Roboto Medium" size="26">In-chan threw it with both hands.</font>
+
+158
+00:10:39,920 --> 00:10:41,550
+<font face="Roboto Medium" size="26">Is that allowed?</font>
+
+159
+00:10:41,550 --> 00:10:44,150
+<font face="Roboto Medium" size="26">You're mostly free to throw 
+the ball however you like.</font>
+
+160
+00:10:44,150 --> 00:10:49,790
+<font face="Roboto Medium" size="26">However, you'll find it's not so easy to 
+knock down the pins without proper form.</font>
+
+161
+00:10:49,910 --> 00:10:51,670
+<font size="20"><b><font size="16"><font color="#333333">The only thing she has is proper form</font></font></b></font>
+
+162
+00:10:53,120 --> 00:10:55,010
+<font face="Roboto Medium" size="26">Yes! Got a strike!</font>
+
+163
+00:10:58,880 --> 00:11:01,710
+<font face="Roboto Medium" size="26">Th-The game's only just begun!</font>
+
+164
+00:11:01,710 --> 00:11:03,180
+<font face="Roboto Medium" size="26">Yeah!</font>
+
+165
+00:11:13,010 --> 00:11:14,680
+<font face="Roboto Medium" size="26">Hi-yah!</font>
+
+166
+00:11:29,580 --> 00:11:32,000
+<font face="Roboto Medium" size="26"><i>They all had fun.</i></font>
+
+167
+00:11:33,020 --> 00:11:34,170
+<font face="Roboto Medium" size="26">Why?</font>
+
+168
+00:11:34,960 --> 00:11:37,460
+<font size="20"><font size="7"><font color="#46ded6"><b>Demon World Ristorante e Caffè</b></font></font></font>
+
+169
+00:11:34,960 --> 00:11:37,460
+<font size="20"><font size="15"><font color="#c27974"><b>Sayizatso</b></font></font></font>
+
+170
+00:11:34,960 --> 00:11:37,460
+<font size="20"><font size="9"><font color="#51535c"><font face="Georgia"><b>Hell-Lord Pharmacy</b></font></font></font></font>
+
+171
+00:11:34,960 --> 00:11:37,460
+<font size="20"><font size="9"><font color="#f9f8f6">Prescriptions Filled Here</font></font></font>
+
+172
+00:11:41,430 --> 00:11:43,750
+<font face="Roboto Medium" size="26">Well? Did you find them?</font>
+
+173
+00:11:44,230 --> 00:11:47,940
+<font face="Roboto Medium" size="26">I found the spot here with the eyeball...</font>
+
+174
+00:11:49,790 --> 00:11:52,070
+<font face="Roboto Medium" size="26">That's where things start getting hard.</font>
+
+175
+00:11:52,070 --> 00:11:53,710
+<font face="Roboto Medium" size="26">Oh, found it! Here!</font>
+
+176
+00:11:53,710 --> 00:11:54,550
+<font face="Roboto Medium" size="26">What?</font>
+
+177
+00:11:53,890 --> 00:11:56,520
+<font face="Roboto Medium" size="26">{\an8}You're right! The clouds are different!</font>
+
+178
+00:11:56,520 --> 00:12:00,010
+<font face="Roboto Medium" size="26"><i>They also enjoyed 
+the spot-the-difference puzzle.</i></font>
+
+179
+00:12:02,710 --> 00:12:05,010
+<font face="Roboto Medium" size="26">Seriously, why?</font>
+
+180
+00:12:08,950 --> 00:12:11,000
+<font size="20"><b><font color="#d01c76">{\an8}<font size="22">'Tis Time for <font color="#020000">"Torture,"
+<font color="#cf1374">Princess</font></font></font></font></b></font>
+
+181
+00:12:20,720 --> 00:12:22,910
+<font face="Roboto Medium" size="26">This is really amazing.</font>
+
+182
+00:12:22,910 --> 00:12:25,460
+<font face="Roboto Medium" size="26">Nah, it's not a big deal...</font>
+
+183
+00:12:27,520 --> 00:12:30,660
+<font face="Roboto Medium" size="26">Yoo-hoo. What are you up to?</font>
+
+184
+00:12:30,660 --> 00:12:31,930
+<font face="Roboto Medium" size="26">Master Mama.</font>
+
+185
+00:12:32,620 --> 00:12:35,910
+<font face="Roboto Medium" size="26">Vanilla, can I show this to Master Mama?</font>
+
+186
+00:12:35,910 --> 00:12:37,180
+<font face="Roboto Medium" size="26">Sure...</font>
+
+187
+00:12:37,230 --> 00:12:41,320
+<font size="20">{\an8}<b><font face="Comic Sans MS"><font size="30"><font color="#4e94e6">The <font color="#30cb36">Eli<font color="#e00a2b">te <font color="#4e94e6">Li'l <font color="#30cb36">Kitt<font color="#e00a2b">y</font></font></font></font></font></font></font></font></b></font>
+
+188
+00:12:37,550 --> 00:12:40,040
+<font face="Roboto Medium" size="26">Look, Vanilla made this picture book!</font>
+
+189
+00:12:40,040 --> 00:12:41,310
+<font face="Roboto Medium" size="26">What? That's amazing!</font>
+
+190
+00:12:41,310 --> 00:12:43,060
+<font face="Roboto Medium" size="26">You published a picture book?</font>
+
+191
+00:12:43,060 --> 00:12:47,680
+<font face="Roboto Medium" size="26">No, I found a printing service that
+lets you print books in small batches,</font>
+
+192
+00:12:47,680 --> 00:12:49,180
+<font face="Roboto Medium" size="26">so I used it to make this.</font>
+
+193
+00:12:49,180 --> 00:12:51,100
+<font face="Roboto Medium" size="26">Wow, that's incredible.</font>
+
+194
+00:12:51,100 --> 00:12:54,190
+<font face="Roboto Medium" size="26">The drawings are so cute. 
+I could swear it was professional.</font>
+
+195
+00:12:55,790 --> 00:12:59,290
+<font face="Roboto Medium" size="26">It's my dream to put out 
+a real picture book someday.</font>
+
+196
+00:12:59,290 --> 00:13:00,760
+<font face="Roboto Medium" size="26">That's great.</font>
+
+197
+00:13:00,760 --> 00:13:03,700
+<font face="Roboto Medium" size="26">It just so happens that picture books 
+are why I'm here today.</font>
+
+198
+00:13:03,700 --> 00:13:04,550
+<font face="Roboto Medium" size="26">What?</font>
+
+199
+00:13:04,550 --> 00:13:10,220
+<font face="Roboto Medium" size="26">A Hellhorde employee in my year later 
+quit to become a picture book author.</font>
+
+200
+00:13:10,890 --> 00:13:16,640
+<font face="Roboto Medium" size="26">He won a newcomer award some time ago, 
+so we're celebrating with drinks.</font>
+
+201
+00:13:16,640 --> 00:13:18,220
+<font face="Roboto Medium" size="26">Gekkou...</font>
+
+202
+00:13:18,220 --> 00:13:19,520
+<font face="Roboto Medium" size="26">You know him?</font>
+
+203
+00:13:19,520 --> 00:13:21,060
+<font face="Roboto Medium" size="26">Y-Yeah...</font>
+
+204
+00:13:21,660 --> 00:13:26,040
+<font face="Roboto Medium" size="26">They released his book that won 
+the award, so I read it, too.</font>
+
+205
+00:13:26,040 --> 00:13:27,610
+<font face="Roboto Medium" size="26">I really liked it.</font>
+
+206
+00:13:27,610 --> 00:13:29,590
+<font face="Roboto Medium" size="26">You follow his work!</font>
+
+207
+00:13:30,020 --> 00:13:31,970
+<font face="Roboto Medium" size="26"><i>I read about him in an interview.</i></font>
+
+208
+00:13:31,970 --> 00:13:35,190
+<font face="Roboto Medium" size="26"><i>He said that he wrote tons 
+of picture books while working.</i></font>
+
+209
+00:13:35,190 --> 00:13:36,900
+<font face="Roboto Medium" size="26"><i>I want to ask him about that...</i></font>
+
+210
+00:13:36,900 --> 00:13:41,190
+<font face="Roboto Medium" size="26"><i>If possible, I want him to read my book 
+and give me his thoughts.</i></font>
+
+211
+00:13:41,800 --> 00:13:46,060
+<font face="Roboto Medium" size="26"><i>But I'm sure I'd just be bothering him...</i></font>
+
+212
+00:13:46,060 --> 00:13:48,590
+<font face="Roboto Medium" size="26">Would you like to meet Gekkou, then?</font>
+
+213
+00:13:48,590 --> 00:13:49,550
+<font face="Roboto Medium" size="26">What?</font>
+
+214
+00:13:49,550 --> 00:13:52,420
+<font face="Roboto Medium" size="26">I know he'd love to hear 
+how you felt about his book.</font>
+
+215
+00:13:52,420 --> 00:13:54,550
+<font face="Roboto Medium" size="26">You could show him your 
+picture book as well.</font>
+
+216
+00:13:59,560 --> 00:14:02,380
+<font face="Roboto Medium" size="26">No. It's fine.</font>
+
+217
+00:14:02,380 --> 00:14:03,670
+<font face="Roboto Medium" size="26">Are you sure?</font>
+
+218
+00:14:03,940 --> 00:14:06,780
+<font face="Roboto Medium" size="26">I'd be too embarrassed 
+to have him read it.</font>
+
+219
+00:14:08,100 --> 00:14:09,540
+<font face="Roboto Medium" size="26">Oh...</font>
+
+220
+00:14:10,010 --> 00:14:11,530
+<font face="Roboto Medium" size="26">I'll see you around.</font>
+
+221
+00:14:11,530 --> 00:14:12,480
+<font face="Roboto Medium" size="26">Yeah!</font>
+
+222
+00:14:20,260 --> 00:14:22,340
+<font face="Roboto Medium" size="26">Are you sure about this, Vanilla-chan?</font>
+
+223
+00:14:23,180 --> 00:14:26,760
+<font face="Roboto Medium" size="26">I'd feel bad intruding 
+on their celebration.</font>
+
+224
+00:14:26,760 --> 00:14:32,430
+<font size="20">{\an5}<b><font face="Comic Sans MS"><font size="30"><font color="#4e94e6">The <font color="#30cb36">Eli<font color="#e00a2b">te <font color="#4e94e6">Li'l <font color="#30cb36">Kitt<font color="#e00a2b">y</font></font></font></font></font></font></font></font></b></font>
+
+225
+00:14:26,760 --> 00:14:29,810
+<font face="Roboto Medium" size="26">And the idea of showing it 
+to a pro author...</font>
+
+226
+00:14:29,810 --> 00:14:31,990
+<font face="Roboto Medium" size="26">I just made this as a hobby...</font>
+
+227
+00:14:32,420 --> 00:14:36,600
+<font face="Roboto Medium" size="26">For now, it's just a hobby, 
+not to mention it sucks.</font>
+
+228
+00:14:37,230 --> 00:14:39,240
+<font face="Roboto Medium" size="26">And I don't have the talent...</font>
+
+229
+00:14:39,910 --> 00:14:45,600
+<font face="Roboto Medium" size="26">I think it takes courage, not talent, 
+to make your dreams come true.</font>
+
+230
+00:14:52,640 --> 00:14:53,700
+<font face="Roboto Medium" size="26">Giant!</font>
+
+231
+00:14:55,060 --> 00:14:57,110
+<font face="Roboto Medium" size="26">Rats! She's gone!</font>
+
+232
+00:14:57,110 --> 00:15:01,040
+<font face="Roboto Medium" size="26">Her long stride means she walks fast 
+when she's by herself!</font>
+
+233
+00:14:58,290 --> 00:14:58,870
+<font size="20"><b><font color="#374a8a">Stomp</font></b></font>
+
+234
+00:14:58,790 --> 00:14:59,370
+<font size="20"><b><font color="#374a8a">Stomp</font></b></font>
+
+235
+00:14:59,290 --> 00:14:59,870
+<font size="20"><b><font color="#374a8a">Stomp</font></b></font>
+
+236
+00:14:59,790 --> 00:15:00,370
+<font size="20"><b><font color="#374a8a">Stomp</font></b></font>
+
+237
+00:15:00,290 --> 00:15:00,870
+<font size="20"><b><font color="#374a8a">Stomp</font></b></font>
+
+238
+00:15:00,790 --> 00:15:01,040
+<font size="20"><b><font color="#374a8a">Stomp</font></b></font>
+
+239
+00:15:02,370 --> 00:15:03,630
+<font face="Roboto Medium" size="26">I've got this!</font>
+
+240
+00:15:03,970 --> 00:15:06,200
+<font face="Roboto Medium" size="26">Master Mama!</font>
+
+241
+00:15:10,580 --> 00:15:12,800
+<font face="Roboto Medium" size="26">G-Gekkou.</font>
+
+242
+00:15:12,800 --> 00:15:18,110
+<font face="Roboto Medium" size="26">I-I liked your newcomer award-winning
+ book, <i>What's a Ninja?</i> a lot.</font>
+
+243
+00:15:18,110 --> 00:15:19,540
+<font face="Roboto Medium" size="26">I really look up to you!</font>
+
+244
+00:15:19,540 --> 00:15:22,230
+<font face="Roboto Medium" size="26">Look up to me? I'm not sure how to react.</font>
+
+245
+00:15:22,230 --> 00:15:24,970
+<font face="Roboto Medium" size="26">Well, thank you. 
+I'm really glad to hear that.</font>
+
+246
+00:15:24,970 --> 00:15:28,450
+<font face="Roboto Medium" size="26">A-And, well...</font>
+
+247
+00:15:29,560 --> 00:15:33,180
+<font face="Roboto Medium" size="26">I-I wrote this picture book.</font>
+
+248
+00:15:33,180 --> 00:15:34,510
+<font face="Roboto Medium" size="26">You wrote this?</font>
+
+249
+00:15:34,510 --> 00:15:35,950
+<font face="Roboto Medium" size="26">Yes.</font>
+
+250
+00:15:35,950 --> 00:15:39,330
+<font face="Roboto Medium" size="26">It's my dream to become 
+a picture book author like you.</font>
+
+251
+00:15:39,330 --> 00:15:41,630
+<font face="Roboto Medium" size="26">Could you take a look at it?</font>
+
+252
+00:15:41,990 --> 00:15:44,950
+<font face="Roboto Medium" size="26">Of course. It'd be an honor.</font>
+
+253
+00:15:53,490 --> 00:15:55,670
+<font face="Roboto Medium" size="26">It's a wonderful thing to have a dream.</font>
+
+254
+00:15:55,670 --> 00:15:56,680
+<font face="Roboto Medium" size="26">Yeah.</font>
+
+255
+00:15:57,550 --> 00:15:59,770
+<font face="Roboto Medium" size="26">What's your dream, Master Mama?</font>
+
+256
+00:16:00,140 --> 00:16:01,780
+<font face="Roboto Medium" size="26">My dream?</font>
+
+257
+00:16:03,510 --> 00:16:05,100
+<font face="Roboto Medium" size="26">I don't have one!</font>
+
+258
+00:16:04,770 --> 00:16:06,520
+<font size="20">{\an9}<b><font color="#e91b77">Bam</font></b></font>
+
+259
+00:16:05,100 --> 00:16:06,520
+<font face="Roboto Medium" size="26">You don't?</font>
+
+260
+00:16:06,520 --> 00:16:10,500
+<font face="Roboto Medium" size="26">I'm happy just enjoying 
+every day to its fullest.</font>
+
+261
+00:16:10,930 --> 00:16:14,780
+<font face="Roboto Medium" size="26">It's lovely having a dream, 
+but you can have fun without one.</font>
+
+262
+00:16:15,850 --> 00:16:17,210
+<font face="Roboto Medium" size="26">Guess you're right.</font>
+
+263
+00:16:17,210 --> 00:16:18,650
+<font face="Roboto Medium" size="26">Princess!</font>
+
+264
+00:16:21,080 --> 00:16:22,120
+<font face="Roboto Medium" size="26">How'd it go?</font>
+
+265
+00:16:22,890 --> 00:16:25,120
+<font face="Roboto Medium" size="26">I want to write more now!</font>
+
+266
+00:16:26,250 --> 00:16:28,500
+<font face="Roboto Medium" size="26">And I'd love to read more from you!</font>
+
+267
+00:16:30,000 --> 00:16:35,380
+<font size="20">{\an8}<b><font face="Comic Sans MS"><font size="30"><font color="#4e94e6">The <font color="#30cb36">Eli<font color="#e00a2b">te <font color="#4e94e6">Li'l <font color="#30cb36">Kitt<font color="#e00a2b">y</font></font></font></font></font></font></font></font></b></font>
+
+268
+00:16:35,380 --> 00:16:38,430
+<font size="20">{\an8}<b><font face="Comic Sans MS"><font size="30"><font color="#4e94e6">The <font color="#30cb36">Eli<font color="#e00a2b">te <font color="#4e94e6">Li'l <font color="#30cb36">Kitt<font color="#e00a2b">y</font></font></font></font></font></font></font></font></b></font>
+
+269
+00:16:35,970 --> 00:16:37,810
+<font face="Roboto Medium" size="26"><i>The Elite Li'l Kitty.</i></font>
+
+270
+00:16:39,780 --> 00:16:44,450
+<font face="Roboto Medium" size="26"><i>The elite li'l kitty was better 
+at everything than all the others.</i></font>
+
+271
+00:16:45,530 --> 00:16:47,830
+<font face="Roboto Medium" size="26"><i>She was always first by a mile!</i></font>
+
+272
+00:16:46,730 --> 00:16:53,360
+<font size="20"><font face="Comic Sans MS"><font color="#282828"><b>Award</b></font></font></font>
+
+273
+00:16:48,930 --> 00:16:51,900
+<font face="Roboto Medium" size="26"><i>No one else could even hope 
+to compete with her.</i></font>
+
+274
+00:16:53,490 --> 00:16:59,310
+<font face="Roboto Medium" size="26"><i>But no matter how many times she 
+came in first or got compliments,</i></font>
+
+275
+00:16:59,310 --> 00:17:01,750
+<font face="Roboto Medium" size="26"><i>she still felt weird and wiggly inside.</i></font>
+
+276
+00:17:02,540 --> 00:17:04,120
+<font face="Roboto Medium" size="26"><i>Until one day...</i></font>
+
+277
+00:17:06,470 --> 00:17:09,200
+<font face="Roboto Medium" size="26"><i>The li'l kitty made a friend!</i></font>
+
+278
+00:17:10,590 --> 00:17:15,040
+<font face="Roboto Medium" size="26"><i>The li'l kitty had fun doing all 
+sorts of things with her friend.</i></font>
+
+279
+00:17:16,800 --> 00:17:22,350
+<font face="Roboto Medium" size="26"><i>The li'l kitty found out how happy 
+it made her being with someone else.</i></font>
+
+280
+00:17:23,020 --> 00:17:26,980
+<font size="20"><b><font size="35"><font face="Comic Sans MS"><font color="#2a2a2a">The End</font></font></font></b></font>
+
+281
+00:17:24,080 --> 00:17:25,330
+<font face="Roboto Medium" size="26"><i>The end.</i></font>
+
+282
+00:17:35,900 --> 00:17:39,030
+<font size="20"><font face="Times New Roman">{\an9}<font size="13"><font color="#1f1e1e">Translation:
+Timing:
+Editing:
+Quality Control:
+Translation Check:</font></font></font></font>
+
+283
+00:17:35,900 --> 00:17:39,030
+<font size="20"><font face="Times New Roman">{\an7}<font size="13"><font color="#1f1e1e">John K.
+Edgar Cruz
+Salem Alabanza
+Alicia Ashby
+Sho Stifler</font></font></font></font>
+
+284
+00:18:57,030 --> 00:18:59,530
+<font size="20"><b><font color="#8dc456">Chuo Hellway</font></b></font>
+
+285
+00:18:57,030 --> 00:18:59,530
+<font size="20"><b><font color="#f7fbed">Hellholm</font></b></font>
+
+286
+00:19:02,900 --> 00:19:05,930
+<font face="Roboto Medium" size="26"><i>The National Inquisitors Conference 
+ran longer than scheduled,</i></font>
+
+287
+00:19:05,930 --> 00:19:07,740
+<font face="Roboto Medium" size="26"><i>and now it's gotten late.</i></font>
+
+288
+00:19:08,330 --> 00:19:12,060
+<font face="Roboto Medium" size="26"><i>Perhaps I should have booked a hotel, 
+like His Majesty suggested.</i></font>
+
+289
+00:19:12,960 --> 00:19:16,830
+<font face="Roboto Medium" size="26">No, I was planning to go see 
+Mille-chan's baby tomorrow!</font>
+
+290
+00:19:16,830 --> 00:19:18,640
+<font face="Roboto Medium" size="26">I must return home tonight!</font>
+
+291
+00:19:20,400 --> 00:19:22,060
+<font face="Roboto Medium" size="26">A rest stop?</font>
+
+292
+00:19:22,700 --> 00:19:26,750
+<font face="Roboto Medium" size="26">I should take a short break 
+and grab some coffee.</font>
+
+293
+00:19:30,880 --> 00:19:35,160
+<font face="Roboto Medium" size="26"><i>Rest stops these days are
+getting more and more luxurious.</i></font>
+
+294
+00:19:35,160 --> 00:19:39,860
+<font face="Roboto Medium" size="26"><i>I haven't been to one with just bathrooms 
+and vending machines in ages.</i></font>
+
+295
+00:19:40,240 --> 00:19:42,350
+<font face="Roboto Medium" size="26"><i>Time for some coffee...</i></font>
+
+296
+00:19:42,350 --> 00:19:44,570
+<font face="Roboto Medium" size="26">I-I don't believe it!</font>
+
+297
+00:19:44,910 --> 00:19:46,600
+<font face="Roboto Medium" size="26">Hot snacks!</font>
+
+298
+00:19:46,600 --> 00:19:47,860
+<font face="Roboto Medium" size="26">And this here is...</font>
+
+299
+00:19:48,230 --> 00:19:50,200
+<font face="Roboto Medium" size="26">An instant noodle vending 
+machine you don't see anymore!</font>
+
+300
+00:19:50,480 --> 00:19:52,330
+<font face="Roboto Medium" size="26">And one for soba and udon!</font>
+
+301
+00:19:52,330 --> 00:19:56,120
+<font face="Roboto Medium" size="26">This is the last place one would expect 
+to find all this treasure!</font>
+
+302
+00:19:56,120 --> 00:19:59,340
+<font face="Roboto Medium" size="26">Everything this world has to 
+offer is right here!</font>
+
+303
+00:19:59,340 --> 00:20:04,570
+<font face="Roboto Medium" size="26">So this is where the One Piece was, 
+the greatest single treasure of them all!</font>
+
+304
+00:20:05,090 --> 00:20:08,010
+<font size="20"><font size="8"><b><font color="#473d33">{\an8}Tasty potatoes deep-fried in oil.</font></b></font></font>
+
+305
+00:20:05,900 --> 00:20:08,010
+<font face="Roboto Medium" size="26"><i>Let's start with some french fries.</i></font>
+
+306
+00:20:08,540 --> 00:20:11,550
+<font face="Roboto Medium" size="26"><i>Open the lid, being careful 
+not to burn yourself...</i></font>
+
+307
+00:20:15,800 --> 00:20:19,360
+<font face="Roboto Medium" size="26"><i>Sprinkle the included salt 
+packet unevenly on purpose,</i></font>
+
+308
+00:20:19,360 --> 00:20:21,900
+<font face="Roboto Medium" size="26"><i>creating pockets of salty 
+and not-salty regions.</i></font>
+
+309
+00:20:26,360 --> 00:20:27,740
+<font face="Roboto Medium" size="26"><i>They're great.</i></font>
+
+310
+00:20:28,230 --> 00:20:30,690
+<font face="Roboto Medium" size="26"><i>You can really taste the potatoes.</i></font>
+
+311
+00:20:32,310 --> 00:20:35,220
+<font face="Roboto Medium" size="26"><i>So salty! Jackpot.</i></font>
+
+312
+00:20:36,780 --> 00:20:41,880
+<font face="Roboto Medium" size="26"><i>A way to enjoy fries that differs from 
+the calculated taste at a restaurant.</i></font>
+
+313
+00:20:43,420 --> 00:20:45,410
+<font face="Roboto Medium" size="26"><i>Next up is...</i></font>
+
+314
+00:20:45,800 --> 00:20:48,760
+<font size="20"><b><font face="Georgia"><font size="17"><font color="#5c5c5d">Soba & Udon</font></font></font></b></font>
+
+315
+00:20:47,220 --> 00:20:48,420
+<font face="Roboto Medium" size="26"><i>Some soba.</i></font>
+
+316
+00:20:48,760 --> 00:20:52,060
+<font size="20"><font face="Georgia"><b><font size="14"><font color="#5a2f21">Tempura Udon</font></font></b></font></font>
+
+317
+00:20:48,760 --> 00:20:52,060
+<font size="20"><font face="Georgia"><b><font size="14"><font color="#5a2f21">Tempura Soba</font></font></b></font></font>
+
+318
+00:20:58,510 --> 00:21:00,810
+<font face="Roboto Medium" size="26">It's filled to the brim with broth.</font>
+
+319
+00:21:01,320 --> 00:21:04,550
+<font face="Roboto Medium" size="26">These machines are old. 
+It adds to the charm.</font>
+
+320
+00:21:24,240 --> 00:21:25,870
+<font face="Roboto Medium" size="26">It's delicious.</font>
+
+321
+00:21:27,450 --> 00:21:29,830
+<font face="Roboto Medium" size="26"><i>This soft and spongy mixed tempura...</i></font>
+
+322
+00:21:29,830 --> 00:21:32,270
+<font face="Roboto Medium" size="26"><i>I enjoy a good, crispy 
+tempura added at the end,</i></font>
+
+323
+00:21:32,270 --> 00:21:35,260
+<font face="Roboto Medium" size="26"><i>but when it gets soft 
+and soggy like this...</i></font>
+
+324
+00:21:35,960 --> 00:21:37,480
+<font face="Roboto Medium" size="26"><i>I love that, too!</i></font>
+
+325
+00:21:39,400 --> 00:21:42,390
+<font face="Roboto Medium" size="26"><i>I can feel the flavor filling my mouth!</i></font>
+
+326
+00:21:43,500 --> 00:21:45,780
+<font face="Roboto Medium" size="26"><i>This slightly cheap fish cake...</i></font>
+
+327
+00:21:46,310 --> 00:21:48,720
+<font face="Roboto Medium" size="26"><i>But for this soba...</i></font>
+
+328
+00:21:50,580 --> 00:21:54,160
+<font face="Roboto Medium" size="26"><i>Yep, this is fine. The best, even!</i></font>
+
+329
+00:22:03,780 --> 00:22:05,360
+<font face="Roboto Medium" size="26">That was great.</font>
+
+330
+00:22:08,540 --> 00:22:13,130
+<font face="Roboto Medium" size="26"><i>There's nothing but trees around us, 
+so it's pitch-black outside.</i></font>
+
+331
+00:22:14,310 --> 00:22:19,250
+<font face="Roboto Medium" size="26"><i>A world of total natural darkness, 
+separated by bright artificial lights.</i></font>
+
+332
+00:22:20,070 --> 00:22:22,840
+<font face="Roboto Medium" size="26"><i>It feels like I'm on a spaceship.</i></font>
+
+333
+00:22:39,120 --> 00:22:42,080
+<font face="Roboto Medium" size="26">I wanted to try some 
+instant noodles as well,</font>
+
+334
+00:22:42,080 --> 00:22:44,200
+<font face="Roboto Medium" size="26">but I really have no room for them.</font>
+
+335
+00:22:44,760 --> 00:22:49,380
+<font face="Roboto Medium" size="26">Even though instant noodles eaten outside 
+are thirty percent tastier.</font>
+
+336
+00:22:50,510 --> 00:22:52,840
+<font face="Roboto Medium" size="26">Preferably with a fork 
+against convention.</font>
+
+337
+00:22:53,960 --> 00:22:56,660
+<font face="Roboto Medium" size="26">I suppose I should get going.</font>
+
+338
+00:23:00,310 --> 00:23:02,810
+<font size="20"><font color="#745c1a"><font size="10"><b>Hot and ready in sixty seconds.</b></font></font></font>
+
+339
+00:23:16,890 --> 00:23:18,570
+<font face="Roboto Medium" size="26"><i>This is a souvenir.</i></font>
+
+340
+00:23:18,860 --> 00:23:20,070
+<font face="Roboto Medium" size="26"><i>A late-night snack.</i></font>
+
+341
+00:23:20,510 --> 00:23:24,000
+<font face="Roboto Medium" size="26"><i>You don't come across 
+a piece of treasure like this very often.</i></font>
+
+342
+00:23:26,510 --> 00:23:29,950
+<font face="Roboto Medium" size="26"><i>Just a little more driving, 
+and I'll be at Bonepile Junction.</i></font>
+
+343
+00:23:30,700 --> 00:23:32,870
+<font face="Roboto Medium" size="26"><i>Off we go!</i></font>
+
