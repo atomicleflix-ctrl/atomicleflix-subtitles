@@ -1,0 +1,41 @@
+1
+00:01:30,260 --> 00:01:34,880
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="12"><font color="#f5f5f5">Episode <font size="19">9</font></font></font></font></b></font>
+
+2
+00:01:30,260 --> 00:01:34,880
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="12"><font color="#f5f5f5">Episode <font size="19">9</font></font></font></font></b></font>
+
+3
+00:01:30,260 --> 00:01:34,880
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="10"><font color="#effefb">The Misanthrope and the Heart's Deepest Desire</font></font></font></b></font>
+
+4
+00:01:30,260 --> 00:01:34,880
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="10"><font color="#effefb">The Misanthrope and the Heart's Deepest Desire</font></font></font></b></font>
+
+5
+00:01:32,500 --> 00:01:34,970
+<font face="Gandhi Sans" size="24"><b>{\an8}<b><font color="#656c6f"><font size="22">Director's Office</font></font></b></b></font>
+
+6
+00:07:37,310 --> 00:07:49,390
+<font face="Gandhi Sans" size="24"><b>{\an8}<font size="15"><font face="Times New Roman"><b><font color="#c92b4c">Shiranui High
+Student Dorm Manual</font></b></font></font></b></font>
+
+7
+00:10:50,020 --> 00:10:52,240
+<font face="Gandhi Sans" size="24"><b>{\an8}<b><font color="#7b8184"><font size="30">Advanced Class</font></font></b></b></font>
+
+8
+00:18:55,780 --> 00:18:59,310
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><font color="#544746">Neneko Kurosawa</font></font></b></font>
+
+9
+00:23:32,990 --> 00:23:40,020
+<font face="Gandhi Sans" size="24"><b>{\an8}<font size="18"><font face="Arial"><font color="#ebfeef"><b>Next Episode:</b></font></font></font></b></font>
+
+10
+00:23:32,990 --> 00:23:40,020
+<font face="Gandhi Sans" size="24"><b>{\an8}<font size="19"><font face="Arial"><font color="#ebfeef"><b>The Misanthrope and the Comet's Pilgrimage</b></font></font></font></b></font>
+
