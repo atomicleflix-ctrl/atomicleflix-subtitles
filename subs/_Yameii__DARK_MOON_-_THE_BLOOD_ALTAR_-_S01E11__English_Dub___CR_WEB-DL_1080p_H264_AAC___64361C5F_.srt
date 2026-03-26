@@ -1,0 +1,20 @@
+1
+00:03:55,060 --> 00:04:00,970
+<font face="Times New Roman" size="13"><b>{\an8}<font size="30">- Dark Moon: The Blood Altar -</font></b></font>
+
+2
+00:04:02,990 --> 00:04:05,970
+<font face="Times New Roman" size="23" color="#f9fcfd"><b><font size="22">- Vargr's Blood -</font></b></font>
+
+3
+00:10:06,060 --> 00:10:10,020
+<font face="Times New Roman" size="13"><b>{\an8}- Dark Moon: The Blood Altar -</b></font>
+
+4
+00:10:10,060 --> 00:10:14,000
+<font face="Times New Roman" size="13"><b>{\an8}- Dark Moon: The Blood Altar -</b></font>
+
+5
+00:23:37,030 --> 00:23:40,250
+<font face="Times New Roman" size="23" color="#f9fcfd"><b><font size="22">- The Moon Altar -</font></b></font>
+
