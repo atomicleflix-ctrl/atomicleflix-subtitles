@@ -1,0 +1,250 @@
+1
+00:02:06,020 --> 00:02:09,110
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="5"><font color="#962152">Exhibition</font></font></b></font></b></font>
+
+2
+00:02:06,020 --> 00:02:09,110
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="5"><font color="#825ab0">Takeru</font></font></b></font></b></font>
+
+3
+00:02:06,020 --> 00:02:09,110
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="5"><font color="#825ab0">Shiratori</font></font></b></font></b></font>
+
+4
+00:02:09,110 --> 00:02:16,120
+<font face="Gandhi Sans" size="24"><b><font face="Impact"><font size="32"><font color="#c3900e">This Week's Top Events</font></font></font></b></font>
+
+5
+00:02:55,820 --> 00:02:57,200
+<font face="Gandhi Sans" size="24"><b><b><font size="9">{\an8}<font face="Georgia"><font color="#82601f">Groveling
+on Your Feet</font></font></font></b></b></font>
+
+6
+00:03:11,550 --> 00:03:14,050
+<font face="Gandhi Sans" size="24"><b><b><font size="12">{\an8}<font face="Georgia"><font color="#736333">S Dog</font></font></font></b></b></font>
+
+7
+00:03:18,930 --> 00:03:29,940
+<font face="Gandhi Sans" size="24"><b><b><font size="10">{\an8}<font face="Georgia"><font color="#736333">(5) Revised Edition</font></font></font></b></b></font>
+
+8
+00:04:05,810 --> 00:04:08,770
+<font face="Gandhi Sans" size="24"><b><font size="12"><b><font color="#64959d">Mi<font color="#da92ba">xy<font color="#64959d">-M<font color="#da92ba">i<font color="#64959d">x</font></font></font></font></font></b></font></b></font>
+
+9
+00:04:05,810 --> 00:04:08,770
+<font face="Gandhi Sans" size="24"><b><b>{\an8}<font color="#63600e">Mixy-
+Mix</font></b></b></font>
+
+10
+00:05:29,630 --> 00:05:34,940
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Georgia"><b><font size="30"><font color="#fbf6dc">Takeru</font></font></b></font></b></font>
+
+11
+00:05:29,630 --> 00:05:34,940
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Georgia"><b><font size="30"><font color="#96994c">Takeru</font></font></b></font></b></font>
+
+12
+00:05:29,630 --> 00:05:34,940
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Georgia"><b><font size="34"><font color="#fbf6dc">Shiratori</font></font></b></font></b></font>
+
+13
+00:05:29,630 --> 00:05:34,940
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Georgia"><b><font size="34"><font color="#96994c">Shiratori</font></font></b></font></b></font>
+
+14
+00:05:29,640 --> 00:05:34,950
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Georgia"><b><font size="30"><font color="#fbf6dc">Critters</font></font></b></font></b></font>
+
+15
+00:05:29,640 --> 00:05:34,950
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Georgia"><b><font size="30"><font color="#96994c">Critters</font></font></b></font></b></font>
+
+16
+00:05:29,640 --> 00:05:34,950
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Georgia"><b><font size="32"><font color="#fbf6dc">Bodies</font></font></b></font></b></font>
+
+17
+00:05:29,640 --> 00:05:34,950
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Georgia"><b><font size="32"><font color="#96994c">Bodies</font></font></b></font></b></font>
+
+18
+00:05:34,940 --> 00:05:36,770
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Georgia"><b><font size="30"><font color="#fbf6dc">Takeru</font></font></b></font></b></font>
+
+19
+00:05:34,940 --> 00:05:36,770
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Georgia"><b><font size="30"><font color="#96994c">Takeru</font></font></b></font></b></font>
+
+20
+00:05:34,940 --> 00:05:36,770
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Georgia"><b><font size="34"><font color="#fbf6dc">Shiratori</font></font></b></font></b></font>
+
+21
+00:05:34,940 --> 00:05:36,770
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Georgia"><b><font size="34"><font color="#96994c">Shiratori</font></font></b></font></b></font>
+
+22
+00:05:34,950 --> 00:05:36,780
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Georgia"><b><font size="30"><font color="#fbf6dc">Critters</font></font></b></font></b></font>
+
+23
+00:05:34,950 --> 00:05:36,780
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Georgia"><b><font size="30"><font color="#96994c">Critters</font></font></b></font></b></font>
+
+24
+00:05:34,950 --> 00:05:36,780
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Georgia"><b><font size="32"><font color="#fbf6dc">Bodies</font></font></b></font></b></font>
+
+25
+00:05:34,950 --> 00:05:36,780
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Georgia"><b><font size="32"><font color="#96994c">Bodies</font></font></b></font></b></font>
+
+26
+00:05:36,770 --> 00:05:38,280
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Georgia"><b><font size="30"><font color="#fbf6dc">Takeru</font></font></b></font></b></font>
+
+27
+00:05:36,770 --> 00:05:38,280
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Georgia"><b><font size="30"><font color="#96994c">Takeru</font></font></b></font></b></font>
+
+28
+00:05:36,770 --> 00:05:38,280
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Georgia"><b><font size="34"><font color="#fbf6dc">Shiratori</font></font></b></font></b></font>
+
+29
+00:05:36,770 --> 00:05:38,280
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Georgia"><b><font size="34"><font color="#96994c">Shiratori</font></font></b></font></b></font>
+
+30
+00:05:36,780 --> 00:05:38,290
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Georgia"><b><font size="30"><font color="#fbf6dc">Critters</font></font></b></font></b></font>
+
+31
+00:05:36,780 --> 00:05:38,290
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Georgia"><b><font size="30"><font color="#96994c">Critters</font></font></b></font></b></font>
+
+32
+00:05:36,780 --> 00:05:38,290
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Georgia"><b><font size="32"><font color="#fbf6dc">Bodies</font></font></b></font></b></font>
+
+33
+00:05:36,780 --> 00:05:38,290
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Georgia"><b><font size="32"><font color="#96994c">Bodies</font></font></b></font></b></font>
+
+34
+00:07:27,970 --> 00:07:31,720
+<font face="Gandhi Sans" size="24"><b><b><font size="10">{\an8}<font face="Georgia"><font color="#625632">My Girl, She's Like the Sun, Yeah?</font></font></font></b></b></font>
+
+35
+00:07:31,720 --> 00:07:33,970
+<font face="Gandhi Sans" size="24"><b><b><font size="10">{\an8}<font face="Georgia"><font color="#707434">My Girl, She's Like the Sun, Yeah?</font></font></font></b></b></font>
+
+36
+00:09:11,200 --> 00:09:13,450
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><b><font size="42"><font color="#623d97">The Dark Nav</font></font></b></font></b></font>
+
+37
+00:09:11,200 --> 00:09:13,450
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><b><font size="42"><font color="#623d97">The Dark Nav</font></font></b></font></b></font>
+
+38
+00:09:11,200 --> 00:09:13,450
+<font face="Gandhi Sans" size="24"><b><font size="15">Login</font></b></font>
+
+39
+00:09:11,200 --> 00:09:13,450
+<font face="Gandhi Sans" size="24"><b><font size="15">Register</font></b></font>
+
+40
+00:10:55,680 --> 00:10:56,340
+<font face="Gandhi Sans" size="24"><b><b><font size="18"><font color="#202020">Calling all rescue specialists!</font></font></b></b></font>
+
+41
+00:10:55,680 --> 00:10:56,340
+<font face="Gandhi Sans" size="24"><b>{\an8}<font size="14"><font color="#202020">Client: Kenichi Kitami</font></font></b></font>
+
+42
+00:10:55,680 --> 00:10:56,340
+<font face="Gandhi Sans" size="24"><b><font size="12"><b><font color="#202020">Reward</font></b></font></b></font>
+
+43
+00:10:55,680 --> 00:10:56,340
+<font face="Gandhi Sans" size="24"><b>{\an7}<font size="14"><b><font color="#76a4e8">yen</font></b></font></b></font>
+
+44
+00:10:55,680 --> 00:10:56,340
+<font face="Gandhi Sans" size="24"><b><font size="12"><b><font color="#202020">Client History</font></b></font></b></font>
+
+45
+00:10:55,680 --> 00:10:56,340
+<font face="Gandhi Sans" size="24"><b><font size="10"><b><font color="#202020">Job Description</font></b></font></b></font>
+
+46
+00:10:55,680 --> 00:10:56,340
+<font face="Gandhi Sans" size="24"><b><font size="10"><b><font color="#202020">Payment Details</font></b></font></b></font>
+
+47
+00:10:55,680 --> 00:10:56,260
+<font face="Gandhi Sans" size="24"><b><font size="10"><b><font color="#202020">Client Information</font></b></font></b></font>
+
+48
+00:10:57,010 --> 00:10:59,680
+<font face="Gandhi Sans" size="24"><b><font size="12"><b><font color="#202020">Job Description</font></b></font></b></font>
+
+49
+00:10:57,010 --> 00:10:59,680
+<font face="Gandhi Sans" size="24"><b>{\an1}<font size="12"><font color="#202020">Rescue our kidnapped leader.</font></font></b></font>
+
+50
+00:10:57,010 --> 00:10:59,680
+<font face="Gandhi Sans" size="24"><b>{\an1}<font size="12"><font color="#202020">If you're a master of armed and unarmed combat</font></font></b></font>
+
+51
+00:10:57,010 --> 00:10:59,680
+<font face="Gandhi Sans" size="24"><b>{\an1}<font size="12"><font color="#202020">with the athletic ability to sneak into any secret base,</font></font></b></font>
+
+52
+00:10:57,010 --> 00:10:59,680
+<font face="Gandhi Sans" size="24"><b>{\an1}<font size="12"><font color="#202020">wouldn't you like to put your skills to the test?</font></font></b></font>
+
+53
+00:10:57,010 --> 00:10:59,680
+<font face="Gandhi Sans" size="24"><b>{\an1}<font size="12"><font color="#202020">Experienced applicants welcome! Inexperienced ones, too!</font></font></b></font>
+
+54
+00:11:54,890 --> 00:11:56,990
+<font face="Gandhi Sans" size="24"><b><font face="Georgia"><font size="22"><b>What Is "Charm," Anyway?</b></font></font></b></font>
+
+55
+00:11:59,280 --> 00:12:01,280
+<font face="Gandhi Sans" size="24"><b><font size="11"><b><font color="#010810">No Unauthorized Personnel</font></b></font></b></font>
+
+56
+00:11:59,280 --> 00:12:01,280
+<font face="Gandhi Sans" size="24"><b><font size="11"><b><font color="#010810">Beyond This Point</font></b></font></b></font>
+
+57
+00:19:38,320 --> 00:19:40,690
+<font face="Gandhi Sans" size="24"><b><font face="Impact"><font size="56">{\an8}<font color="#a2a9a9">Modified Bloodline</font></font></font></b></font>
+
+58
+00:19:58,340 --> 00:20:06,310
+<font face="Gandhi Sans" size="24"><b><font face="Impact"><font size="46">{\an8}<font color="#cbcece">Curse?</font></font></font></b></font>
+
+59
+00:20:11,360 --> 00:20:16,690
+<font face="Gandhi Sans" size="24"><b><font face="Impact"><font size="56">{\an8}<font color="#cbcece">My company's business suit</font></font></font></b></font>
+
+60
+00:20:16,690 --> 00:20:20,600
+<font face="Gandhi Sans" size="24"><b><font face="Impact"><font size="56">{\an8}<font color="#cbcece">DUN DUN DUUUN</font></font></font></b></font>
+
+61
+00:20:23,160 --> 00:20:26,360
+<font face="Gandhi Sans" size="24"><b><font face="Impact"><font size="46">{\an8}<font color="#cbcece">SIGH</font></font></font></b></font>
+
+62
+00:23:53,200 --> 00:23:55,960
+<font face="Gandhi Sans" size="24"><b><font face="Georgia"><font size="26"><b>My First</b></font></font></b></font>
+
