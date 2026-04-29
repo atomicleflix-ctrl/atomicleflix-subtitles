@@ -1,0 +1,105 @@
+1
+00:02:03,220 --> 00:02:08,230
+<font face="Gandhi Sans" size="24"><b><font face="Arial">{\an3}<font size="14"><b><font color="#876e2d">Sh<font color="#a1000f">ockwave</font></font></b></font></font></b></font>
+
+2
+00:05:36,310 --> 00:05:39,310
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="18">One Week Later</font></font></b></font>
+
+3
+00:10:13,670 --> 00:10:17,050
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="18">Liar Game Ends in 16 Days</font></font></b></font>
+
+4
+00:10:37,570 --> 00:10:39,050
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="10"><font color="#585151">Closet</font></font></font></b></font>
+
+5
+00:10:37,570 --> 00:10:39,050
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="10"><font color="#585151">Japanese-Style
+Room</font></font></font></b></font>
+
+6
+00:10:37,570 --> 00:10:38,720
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="10"><font color="#585151">Japanese-Style Room</font></font></font></b></font>
+
+7
+00:10:38,840 --> 00:10:40,090
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="10"><font color="#585151">Japanese-Style Room</font></font></font></b></font>
+
+8
+00:10:39,220 --> 00:10:40,640
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="10"><font color="#585151">Kitchen</font></font></font></b></font>
+
+9
+00:10:40,640 --> 00:10:41,570
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="10"><font color="#585151">Kitchen</font></font></font></b></font>
+
+10
+00:10:40,840 --> 00:10:41,570
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="10"><font color="#585151">Japanese-Style Room</font></font></font></b></font>
+
+11
+00:10:40,840 --> 00:10:41,570
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="10"><font color="#585151">Closet</font></font></font></b></font>
+
+12
+00:11:04,390 --> 00:11:07,140
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="18">Liar Game Ends in 10 Days</font></font></b></font>
+
+13
+00:18:18,740 --> 00:18:23,740
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="18">Liar Game Ends in 4 Days</font></font></b></font>
+
+14
+00:18:31,830 --> 00:18:34,250
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><font size="18"><font color="#999eb0">Game Ends in 4 Days</font></font></font></b></font>
+
+15
+00:18:31,830 --> 00:18:34,250
+<font face="Gandhi Sans" size="24"><b>{\an1}<font face="Times New Roman"><font size="12"><font color="#999eb0">Kazuo Fujisawa</font></font></font></b></font>
+
+16
+00:18:31,830 --> 00:18:34,250
+<font face="Gandhi Sans" size="24"><b>{\an1}<font face="Times New Roman"><font size="12"><font color="#999eb0">Nao Kanzaki</font></font></font></b></font>
+
+17
+00:18:31,830 --> 00:18:34,250
+<font face="Gandhi Sans" size="24"><b>{\an1}<font face="Times New Roman"><font size="10"><font color="#999eb0">We will collect the money at 5:00 PM on June 14th. The game will end then.</font></font></font></b></font>
+
+18
+00:19:16,090 --> 00:19:19,340
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="18">Liar Game Ends in 3 Days</font></font></b></font>
+
+19
+00:19:27,100 --> 00:19:30,350
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="18">Liar Game Ends in 2 Days</font></font></b></font>
+
+20
+00:19:32,850 --> 00:19:36,110
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="18">Liar Game Ends in 23 Hours</font></font></b></font>
+
+21
+00:19:36,610 --> 00:19:39,860
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="18">Liar Game Ends in 12 Hours</font></font></b></font>
+
+22
+00:19:48,120 --> 00:19:51,120
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="18">Liar Game Ends in 5 Hours</font></font></b></font>
+
+23
+00:20:01,130 --> 00:20:04,890
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="18">Liar Game Ends in...</font></font></b></font>
+
+24
+00:20:07,470 --> 00:20:10,970
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="18">...55 Minutes</font></font></b></font>
+
+25
+00:23:45,020 --> 00:23:50,100
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><font size="16"><font color="#c3c3a8">Next Time</font></font></font></b></font>
+
+26
+00:23:45,020 --> 00:23:50,100
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman">{\an8}<b>Resolution</b></font></b></font>
+
