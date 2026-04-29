@@ -1,0 +1,20 @@
+1
+00:02:46,750 --> 00:02:49,000
+<font face="Gandhi Sans" size="24"><b>{\an8}THE BEGINNING</b></font>
+
+2
+00:12:04,380 --> 00:12:07,330
+<font face="Gandhi Sans" size="24"><b>{\an8}FAREWELL, CAIMAN</b></font>
+
+3
+00:13:12,960 --> 00:13:15,080
+<font face="Gandhi Sans" size="24"><b>{\an8}BURNING HEART</b></font>
+
+4
+00:19:00,630 --> 00:19:06,040
+<font face="Gandhi Sans" size="24"><b>{\an8}MEMORY BUBBLES</b></font>
+
+5
+00:24:15,210 --> 00:24:16,960
+<font face="Gandhi Sans" size="24"><b>{\an8}THE END</b></font>
+
