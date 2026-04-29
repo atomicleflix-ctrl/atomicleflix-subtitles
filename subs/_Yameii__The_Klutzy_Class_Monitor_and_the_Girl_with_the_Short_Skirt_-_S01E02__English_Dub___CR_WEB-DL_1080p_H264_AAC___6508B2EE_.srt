@@ -1,0 +1,147 @@
+1
+00:00:26,880 --> 00:00:29,010
+<font face="Trebuchet MS" size="24">{\an8}<font face="Arial"><b><font color="#000000">Klutzy</font></b></font></font>
+
+2
+00:00:41,150 --> 00:00:44,020
+<font face="Trebuchet MS" size="24"><font size="24"><font color="#000000">{\an8}The <font face="Arial"><b><font color="#0cc0e9"><font size="30">Klutzy <font color="#000000"></font></font></font></b>Class Monitor<font size="20"> and
+<font size="24">the <font size="30"><font face="Arial"><b><font color="#dc3a95">Girl <font color="#ffffff"><font size="20">with <font color="#000000"></font></font></font></font></b><font size="24">the <font size="30"><font face="Arial"><b><font color="#dc3a95">Short Skirt</font></b></font></font></font></font></font></font></font></font></font></font></font>
+
+3
+00:02:06,520 --> 00:02:11,490
+<font face="Trebuchet MS" size="24">{\an1}<font face="Arial"><b><font size="20"><font color="#000000">The <font color="#0fbdea">Klutzy <font color="#000000">Class Monitor and the Library Assistant</font></font></font></font></b></font></font>
+
+4
+00:03:08,750 --> 00:03:15,510
+<font face="Gandhi Sans" size="24"><b>{\an8}<font size="30"><b><font color="#000000">Class Monitor</font></b></font></b></font>
+
+5
+00:04:00,220 --> 00:04:03,560
+<font face="Trebuchet MS" size="24">{\an8}<font color="#413327"><b>Library Assistant
+Tsukishima Seiichi</b></font></font>
+
+6
+00:05:01,360 --> 00:05:03,870
+<font face="Trebuchet MS" size="24"><font color="#161618"><b>{\an8}Is that so?!</b></font></font>
+
+7
+00:06:41,670 --> 00:06:43,800
+<font face="Trebuchet MS" size="24">{\an8}<font face="Times New Roman"><b><font color="#000000">It's definitely not him</font></b></font></font>
+
+8
+00:06:47,050 --> 00:06:54,560
+<font face="Trebuchet MS" size="24">{\an8}<font face="Arial"><b><font color="#181517">Grumble
+Grumble</font></b></font></font>
+
+9
+00:06:57,140 --> 00:06:59,060
+<font face="Trebuchet MS" size="24"><font face="Arial"><b><font color="#181517">Grumble Grumble</font></b></font></font>
+
+10
+00:07:01,610 --> 00:07:04,820
+<font face="Trebuchet MS" size="24">{\an3}<font face="Arial"><b><font color="#181517">Grumble
+Grumble</font></b></font></font>
+
+11
+00:07:04,820 --> 00:07:09,320
+<font face="Trebuchet MS" size="24">{\an5}<font size="14"><font face="Arial"><b><font color="#181517">Grumble Grumble</font></b></font></font></font>
+
+12
+00:07:35,060 --> 00:07:36,140
+<font face="Trebuchet MS" size="24"><font face="Arial"><b><font color="#4524ba">Lion at Home</font></b></font></font>
+
+13
+00:07:36,140 --> 00:07:38,520
+<font face="Trebuchet MS" size="24"><font face="Arial"><b><font color="#73eb51">Lion at the Library</font></b></font></font>
+
+14
+00:08:21,810 --> 00:08:27,360
+<font face="Trebuchet MS" size="24">{\an8}<font face="Arial"><b><font color="#000000">Snore Snore</font></b></font></font>
+
+15
+00:08:38,080 --> 00:08:44,210
+<font face="Trebuchet MS" size="24"><b><font color="#f5f0ef">Wide Open</font></b></font>
+
+16
+00:08:39,330 --> 00:08:44,210
+<font face="Trebuchet MS" size="24"><b><font color="#f5f0ef">Snoring</font></b></font>
+
+17
+00:08:41,880 --> 00:08:44,210
+<font face="Trebuchet MS" size="24">{\an8}<font face="Arial"><b><font color="#e61a80">Princess</font></b></font></font>
+
+18
+00:09:09,360 --> 00:09:16,990
+<font face="Trebuchet MS" size="24">{\an9}<b><font color="#000000">Blah blah blah</font></b></font>
+
+19
+00:09:31,880 --> 00:09:32,630
+<font face="Trebuchet MS" size="24">{\an8}<b>Camera 1</b></font>
+
+20
+00:09:32,630 --> 00:09:33,260
+<font face="Trebuchet MS" size="24">{\an8}<b>Camera 2</b></font>
+
+21
+00:09:33,260 --> 00:09:33,890
+<font face="Trebuchet MS" size="24">{\an8}<b>Camera 3</b></font>
+
+22
+00:09:35,930 --> 00:09:37,640
+<font face="Trebuchet MS" size="24">{\an8}<font color="#e32e42">Out of the Library</font></font>
+
+23
+00:09:40,850 --> 00:09:46,190
+<font face="Trebuchet MS" size="24">{\an2}<b><font color="#000000">Squeak Squeak Squeak</font></b></font>
+
+24
+00:10:39,700 --> 00:10:41,750
+<font face="Trebuchet MS" size="24"><font face="Arial"><b><font color="#f5cd6c"><font size="30">Beam</font></font></b></font></font>
+
+25
+00:11:21,030 --> 00:11:25,990
+<font face="Trebuchet MS" size="24"><font size="20">{\an5}m 0 0 l 115.5 0 l 115.5 108 l 0 108</font></font>
+
+26
+00:11:21,030 --> 00:11:25,990
+<font face="Trebuchet MS" size="24"><font size="20"><font color="#000000">{\an5}The <font face="Arial"><b><font color="#0cc0e9"><font size="20">Klutzy
+<font color="#000000"></font></font></font></b>Class Monitor<font size="12"> and
+<font size="16">the <font size="20"><font face="Arial"><b><font color="#dc3a95">Girl <font color="#ffffff"><font size="12">with
+<font color="#000000"></font></font></font></font></b><font size="16">the <font size="20"><font face="Arial"><b><font color="#dc3a95">Short Skirt</font></b></font></font></font></font></font></font></font></font></font></font></font>
+
+27
+00:11:26,040 --> 00:11:31,000
+<font face="Trebuchet MS" size="24"><font size="20">{\an5}m 0 0 l 115.5 0 l 115.5 108 l 0 108</font></font>
+
+28
+00:11:26,040 --> 00:11:31,000
+<font face="Trebuchet MS" size="24"><font size="20"><font color="#000000">{\an5}The <font face="Arial"><b><font color="#0cc0e9"><font size="20">Klutzy
+<font color="#000000"></font></font></font></b>Class Monitor<font size="12"> and
+<font size="16">the <font size="20"><font face="Arial"><b><font color="#dc3a95">Girl <font color="#ffffff"><font size="12">with
+<font color="#000000"></font></font></font></font></b><font size="16">the <font size="20"><font face="Arial"><b><font color="#dc3a95">Short Skirt</font></b></font></font></font></font></font></font></font></font></font></font></font>
+
+29
+00:11:52,440 --> 00:11:57,400
+<font face="Trebuchet MS" size="24">{\an1}<font face="Arial"><b><font size="20"><font color="#000000">The Time She Spent Lunch With the <font color="#0ebde3">Klutz</font></font></font></b></font></font>
+
+30
+00:14:00,030 --> 00:14:03,990
+<font face="Trebuchet MS" size="24">{\an8}<font face="Times New Roman"><b><font color="#3f2c28"><font size="12">Health <font color="#953e46">(And Dignity) <font color="#312923">Representative</font></font></font></font></b></font></font>
+
+31
+00:14:54,330 --> 00:14:56,790
+<font face="Trebuchet MS" size="24"><font size="12"><font color="#1e208d"><b>Checkout
+Desk</b></font></font></font>
+
+32
+00:15:04,170 --> 00:15:07,840
+<font face="Trebuchet MS" size="24"><font size="40"><b><font color="#060969">Return Slot</font></b></font></font>
+
+33
+00:15:45,470 --> 00:15:46,840
+<font face="Trebuchet MS" size="24">{\an2}<b><font color="#000000"><font size="20">Squeak Squeak Squeak</font></font></b></font>
+
+34
+00:20:36,050 --> 00:20:40,260
+<font face="Trebuchet MS" size="24"><font color="#bd5324"><b><font size="12">Po-chan ♥</font></b></font></font>
+
