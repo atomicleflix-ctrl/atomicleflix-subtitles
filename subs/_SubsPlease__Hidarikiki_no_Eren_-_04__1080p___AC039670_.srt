@@ -1,0 +1,1894 @@
+1
+00:00:04,900 --> 00:00:08,470
+<font face="Roboto Medium" size="26">I know some may feel it's too soon.</font>
+
+2
+00:00:08,470 --> 00:00:09,540
+<font face="Roboto Medium" size="26">However...</font>
+
+3
+00:00:09,540 --> 00:00:11,200
+<font face="Roboto Medium" size="26">We need even fresher concepts,</font>
+
+4
+00:00:11,200 --> 00:00:12,830
+<font face="Roboto Medium" size="26">even lighter footwork,</font>
+
+5
+00:00:12,830 --> 00:00:15,330
+<font face="Roboto Medium" size="26">and passion that burns even brighter!</font>
+
+6
+00:00:15,580 --> 00:00:17,980
+<font face="Roboto Medium" size="26">In order to meet 
+our client's expectations,</font>
+
+7
+00:00:17,980 --> 00:00:23,090
+<font face="Roboto Medium" size="26">we've created a new team 
+led by our youngest creative director.</font>
+
+8
+00:00:24,610 --> 00:00:26,210
+<font face="Roboto Medium" size="26">I give you Team Kamiya!</font>
+
+9
+00:00:28,830 --> 00:00:30,800
+<font face="Roboto Medium" size="26"><i>Oh, come on. This is definitely premature.</i></font>
+
+10
+00:00:30,800 --> 00:00:33,470
+<font face="Roboto Medium" size="26"><i>Must be nice being 
+the director's favorite.</i></font>
+
+11
+00:00:33,880 --> 00:00:35,280
+<font face="Roboto Medium" size="26"><i>The heck is this?</i></font>
+
+12
+00:00:35,280 --> 00:00:38,330
+<font face="Roboto Medium" size="26"><i>And here I went to the trouble
+ of raising a soldier...</i></font>
+
+13
+00:00:38,330 --> 00:00:40,730
+<font face="Roboto Medium" size="26"><i>Training him was such a waste of effort.</i></font>
+
+14
+00:00:40,730 --> 00:00:43,840
+<font face="Roboto Medium" size="26"><i>{\an8}Well, I bet people will have 
+plenty to say about us.</i></font>
+
+15
+00:00:43,770 --> 00:00:45,770
+<font size="20">PRODUCTION HQ, CREATIVE DEPT.,
+1ST CREATIVE DEPT. DIVISION, TEAM KASUGA</font>
+
+16
+00:00:43,840 --> 00:00:46,860
+<font face="Roboto Medium" size="26"><i>{\an8}I'm glad I was able to transfer 
+out of marketing, but...</i></font>
+
+17
+00:00:45,770 --> 00:00:46,860
+<font size="20">COPYWRITER YURINA MITSUHASHI</font>
+
+18
+00:00:46,860 --> 00:00:50,490
+<font face="Roboto Medium" size="26"><i>Looks like it's gonna be rough sailing, 
+don't you think, Asakura-senpai?</i></font>
+
+19
+00:00:50,490 --> 00:00:51,990
+<font face="Roboto Medium" size="26">Success!</font>
+
+20
+00:00:53,590 --> 00:00:55,870
+<font face="Roboto Medium" size="26">A few words, if you would, Kamiya.</font>
+
+21
+00:00:56,670 --> 00:01:00,920
+<font face="Roboto Medium" size="26">I'm gonna tackle things head-on 
+at full force to create something great.</font>
+
+22
+00:01:01,660 --> 00:01:03,490
+<font face="Roboto Medium" size="26">Lookin' forward to working with all of ya!</font>
+
+23
+00:02:38,550 --> 00:02:41,770
+<font size="20">{\an8}EPISODE 4: WHEN YOU FIND
+YOURSELF THE BEST TEAM</font>
+
+24
+00:02:43,770 --> 00:02:46,150
+<font size="20">KOU YATANI (24)</font>
+
+25
+00:02:43,770 --> 00:02:45,660
+<font face="Roboto Medium" size="26">{\an8}Yatani-paisen.</font>
+
+26
+00:02:46,820 --> 00:02:50,100
+<font face="Roboto Medium" size="26">Congratulations on that job offer 
+from Dai Nihon Advertisement.</font>
+
+27
+00:02:50,100 --> 00:02:51,400
+<font face="Roboto Medium" size="26">What's your starting salary?</font>
+
+28
+00:02:51,730 --> 00:02:52,520
+<font face="Roboto Medium" size="26">Hey...</font>
+
+29
+00:02:52,520 --> 00:02:55,730
+<font face="Roboto Medium" size="26">Say, show me your job-hunting portfolio.</font>
+
+30
+00:02:55,730 --> 00:02:57,870
+<font face="Roboto Medium" size="26">I'mma reverse engineer how you succeeded</font>
+
+31
+00:02:57,870 --> 00:03:00,530
+<font face="Roboto Medium" size="26">and take the shortest route 
+to landing an agency gig.</font>
+
+32
+00:03:00,930 --> 00:03:03,700
+<font face="Roboto Medium" size="26">You have a ways to go before 
+you worry about job hunting.</font>
+
+33
+00:03:03,700 --> 00:03:05,540
+<font face="Roboto Medium" size="26">First-years should focus on coursework.</font>
+
+34
+00:03:05,540 --> 00:03:08,670
+<font size="20">YUSUKE KAMIYA (19)</font>
+
+35
+00:03:05,540 --> 00:03:08,670
+<font face="Roboto Medium" size="26">{\an8}Classes are so boring, though!</font>
+
+36
+00:03:08,670 --> 00:03:11,210
+<font face="Roboto Medium" size="26">I mean, come on, we don't do
+ projects we can actually use</font>
+
+37
+00:03:11,210 --> 00:03:14,010
+<font face="Roboto Medium" size="26">for job hunting until our third year? 
+That's way too late.</font>
+
+38
+00:03:15,380 --> 00:03:18,550
+<font face="Roboto Medium" size="26">Did you come to art school 
+purely to become a designer?</font>
+
+39
+00:03:18,550 --> 00:03:20,160
+<font face="Roboto Medium" size="26">What's a guy to do, man?</font>
+
+40
+00:03:20,160 --> 00:03:23,560
+<font face="Roboto Medium" size="26">You gotta be an art school graduate
+to get a design position at an ad agency.</font>
+
+41
+00:03:24,860 --> 00:03:26,390
+<font face="Roboto Medium" size="26">Listen, Kamiya...</font>
+
+42
+00:03:26,390 --> 00:03:27,720
+<font face="Roboto Medium" size="26">There's a guy named Matsuura</font>
+
+43
+00:03:27,720 --> 00:03:29,940
+<font face="Roboto Medium" size="26">who's looking to staff
+his graduation project.</font>
+
+44
+00:03:30,350 --> 00:03:31,720
+<font face="Roboto Medium" size="26">Why not try helping him out?</font>
+
+45
+00:03:31,720 --> 00:03:32,720
+<font face="Roboto Medium" size="26">Huh?</font>
+
+46
+00:03:33,320 --> 00:03:38,320
+<font size="20">{\an8}FILM DEPARTMENT
+RECRUITING MEMBERS!</font>
+
+47
+00:03:33,320 --> 00:03:35,650
+<font face="Roboto Medium" size="26">You've only been here half a year, huh?</font>
+
+48
+00:03:35,650 --> 00:03:37,750
+<font face="Roboto Medium" size="26">Must be nice! You're so young.</font>
+
+49
+00:03:37,750 --> 00:03:42,090
+<font face="Roboto Medium" size="26">Illustrator, Photoshop... 
+I've mastered all the design software.</font>
+
+50
+00:03:42,090 --> 00:03:42,740
+<font face="Roboto Medium" size="26">Oh, wow.</font>
+
+51
+00:03:42,740 --> 00:03:45,200
+<font face="Roboto Medium" size="26">I also have an understanding 
+of video-editing software.</font>
+
+52
+00:03:45,200 --> 00:03:46,690
+<font face="Roboto Medium" size="26">{\an8}That's exciting to hear!</font>
+
+53
+00:03:45,750 --> 00:03:48,210
+<font size="20">NAOKI MATSUURA (22)</font>
+
+54
+00:03:46,690 --> 00:03:48,210
+<font face="Roboto Medium" size="26">{\an8}In fact...</font>
+
+55
+00:03:48,210 --> 00:03:51,120
+<font face="Roboto Medium" size="26">I know how to do planning and PR as well,</font>
+
+56
+00:03:51,120 --> 00:03:53,090
+<font face="Roboto Medium" size="26">so feel free to take 
+advantage of my skills.</font>
+
+57
+00:03:53,820 --> 00:03:56,740
+<font face="Roboto Medium" size="26">All right, thanks. Let's make 
+something really great toge—</font>
+
+58
+00:03:56,740 --> 00:03:58,220
+<font face="Roboto Medium" size="26">That's not what I meant.</font>
+
+59
+00:03:58,840 --> 00:04:00,470
+<font face="Roboto Medium" size="26">Y'know, there're greats like Lasseter</font>
+
+60
+00:04:00,470 --> 00:04:03,270
+<font face="Roboto Medium" size="26">who're capable of doing 
+everything by themselves.</font>
+
+61
+00:04:03,270 --> 00:04:06,480
+<font face="Roboto Medium" size="26">You're pretty much saying you can't,
+ so you need help, right?</font>
+
+62
+00:04:08,350 --> 00:04:09,940
+<font face="Roboto Medium" size="26"><i>Did I piss him off?</i></font>
+
+63
+00:04:09,940 --> 00:04:11,120
+<font face="Roboto Medium" size="26"><i>Oh well.</i></font>
+
+64
+00:04:11,120 --> 00:04:12,300
+<font face="Roboto Medium" size="26">I like that!</font>
+
+65
+00:04:12,300 --> 00:04:13,020
+<font face="Roboto Medium" size="26">Huh?</font>
+
+66
+00:04:13,020 --> 00:04:16,740
+<font face="Roboto Medium" size="26">The fun of working together in a group
+is getting different takes on things.</font>
+
+67
+00:04:16,740 --> 00:04:17,540
+<font face="Roboto Medium" size="26">That's not—</font>
+
+68
+00:04:17,540 --> 00:04:18,580
+<font face="Roboto Medium" size="26">Oh, I know!</font>
+
+69
+00:04:18,400 --> 00:04:21,160
+<font size="20">{\an8}FINAL STORYBOARD, DIR. NAOKI MATSUURA
+<i>A SINGLE DROP</i> MAU GRADUATION PROJECT</font>
+
+70
+00:04:18,580 --> 00:04:20,510
+<font face="Roboto Medium" size="26">Your thoughts on the presentation too?</font>
+
+71
+00:04:20,510 --> 00:04:23,540
+<font face="Roboto Medium" size="26">Yusuke, could you take a look 
+at the storyboard?</font>
+
+72
+00:04:24,900 --> 00:04:27,790
+<font face="Roboto Medium" size="26"><i>What the heck is up with 
+this bubbly spring chicken?</i></font>
+
+73
+00:04:28,910 --> 00:04:31,550
+<font face="Roboto Medium" size="26">Hey, where's my hair clip?</font>
+
+74
+00:04:31,550 --> 00:04:33,480
+<font face="Roboto Medium" size="26">Huh? Gotta be around there somewhere.</font>
+
+75
+00:04:34,170 --> 00:04:35,170
+<font face="Roboto Medium" size="26">Wait.</font>
+
+76
+00:04:35,170 --> 00:04:36,570
+<font face="Roboto Medium" size="26">What's this?</font>
+
+77
+00:04:37,770 --> 00:04:38,920
+<font face="Roboto Medium" size="26">An earring, right?</font>
+
+78
+00:04:39,500 --> 00:04:41,990
+<font face="Roboto Medium" size="26">But this is sounding 
+like a trick question, so...</font>
+
+79
+00:04:41,990 --> 00:04:43,050
+<font face="Roboto Medium" size="26">I give up!</font>
+
+80
+00:04:44,520 --> 00:04:47,180
+<font face="Roboto Medium" size="26">You don't give a shit about me, do you?</font>
+
+81
+00:04:47,180 --> 00:04:50,900
+<font face="Roboto Medium" size="26">That's why I told you, y'know? 
+I'm not interested in dating anyone.</font>
+
+82
+00:04:51,310 --> 00:04:53,810
+<font face="Roboto Medium" size="26">She's not my girlfriend either.</font>
+
+83
+00:04:53,810 --> 00:04:56,940
+<font face="Roboto Medium" size="26">But you never said anything
+about there being another girl!</font>
+
+84
+00:04:56,940 --> 00:04:58,770
+<font face="Roboto Medium" size="26">Then let's stop seeing each other.</font>
+
+85
+00:04:59,110 --> 00:05:00,450
+<font face="Roboto Medium" size="26">Anyway, you hungry?</font>
+
+86
+00:05:08,360 --> 00:05:09,670
+<font face="Roboto Medium" size="26">Another woman?</font>
+
+87
+00:05:09,670 --> 00:05:14,740
+<font face="Roboto Medium" size="26">Say, Yatani-san, why'd you tell me to help
+with Matsuura-san's graduation project?</font>
+
+88
+00:05:14,740 --> 00:05:17,100
+<font face="Roboto Medium" size="26">You know I'm better suited
+to working on my own.</font>
+
+89
+00:05:18,200 --> 00:05:19,700
+<font face="Roboto Medium" size="26">It's not just you.</font>
+
+90
+00:05:19,700 --> 00:05:22,260
+<font face="Roboto Medium" size="26">Art students in general aren't crazy 
+about group projects.</font>
+
+91
+00:05:22,600 --> 00:05:23,590
+<font face="Roboto Medium" size="26">But you know...</font>
+
+92
+00:05:23,590 --> 00:05:26,130
+<font face="Roboto Medium" size="26">Even Lasseter who you like so much...</font>
+
+93
+00:05:26,130 --> 00:05:28,030
+<font face="Roboto Medium" size="26">His truly revolutionary breakthroughs</font>
+
+94
+00:05:28,030 --> 00:05:30,980
+<font face="Roboto Medium" size="26">only came when he found himself 
+the best team, don't you think?</font>
+
+95
+00:05:33,640 --> 00:05:35,730
+<font face="Roboto Medium" size="26">You're too full of yourself.</font>
+
+96
+00:05:36,810 --> 00:05:38,640
+<font face="Roboto Medium" size="26">Learn some humility, Kamiya.</font>
+
+97
+00:05:41,020 --> 00:05:43,740
+<font face="Roboto Medium" size="26"><i>Screw you. It's fine.</i></font>
+
+98
+00:05:44,450 --> 00:05:48,990
+<font face="Roboto Medium" size="26"><i>As long as I've got the skills, 
+I'm allowed to be full of myself!</i></font>
+
+99
+00:05:54,290 --> 00:06:00,420
+<font size="20">{\an8}<i>A SINGLE DROP</i> DIR. NAOKI MATSUURA
+ANIMATED SHORT, MAU GRADUATION PROJECT</font>
+
+100
+00:05:54,750 --> 00:05:57,200
+<font face="Roboto Medium" size="26"><i>You'd think it's a standard font,
+but look closer,</i></font>
+
+101
+00:05:57,200 --> 00:06:00,420
+<font face="Roboto Medium" size="26"><i>and it's been carefully manipulated 
+to match the mood of the art.</i></font>
+
+102
+00:06:01,000 --> 00:06:04,180
+<font face="Roboto Medium" size="26"><i>He's a first-year, yet he's capable
+ of such sophisticated design.</i></font>
+
+103
+00:06:04,690 --> 00:06:08,610
+<font face="Roboto Medium" size="26"><i>He must've been studying constantly, 
+even before getting into the university.</i></font>
+
+104
+00:06:10,810 --> 00:06:13,130
+<font face="Roboto Medium" size="26">Really impressive, Yusuke.</font>
+
+105
+00:06:13,130 --> 00:06:15,550
+<font face="Roboto Medium" size="26">Right? I've already made arrangements
+ to submit it and—</font>
+
+106
+00:06:15,550 --> 00:06:17,000
+<font face="Roboto Medium" size="26">But this won't do.</font>
+
+107
+00:06:17,000 --> 00:06:17,870
+<font face="Roboto Medium" size="26">Huh?</font>
+
+108
+00:06:17,870 --> 00:06:20,340
+<font face="Roboto Medium" size="26">The design itself is near complete,</font>
+
+109
+00:06:20,340 --> 00:06:23,570
+<font face="Roboto Medium" size="26">but as it stands, it won't touch
+ the audience I really want it to.</font>
+
+110
+00:06:23,570 --> 00:06:25,160
+<font face="Roboto Medium" size="26">I don't follow.</font>
+
+111
+00:06:25,160 --> 00:06:27,880
+<font face="Roboto Medium" size="26">What exactly is wrong with this poster?</font>
+
+112
+00:06:27,880 --> 00:06:31,020
+<font face="Roboto Medium" size="26">It's a bit off from 
+the intended theme of the film.</font>
+
+113
+00:06:31,020 --> 00:06:33,150
+<font face="Roboto Medium" size="26">It needs to reach my audience beyond that.</font>
+
+114
+00:06:33,150 --> 00:06:34,980
+<font face="Roboto Medium" size="26">Then <i>you</i> do it!</font>
+
+115
+00:06:34,980 --> 00:06:36,190
+<font face="Roboto Medium" size="26">Oh, but you can't, can ya?!</font>
+
+116
+00:06:36,190 --> 00:06:37,460
+<font face="Roboto Medium" size="26">That's why you asked me!</font>
+
+117
+00:06:37,460 --> 00:06:38,430
+<font face="Roboto Medium" size="26">Kamiya!</font>
+
+118
+00:06:38,430 --> 00:06:40,910
+<font face="Roboto Medium" size="26">That's right. I've asked you 
+because I can't do it.</font>
+
+119
+00:06:40,910 --> 00:06:43,090
+<font face="Roboto Medium" size="26">But if something isn't right, 
+I'm going to say so.</font>
+
+120
+00:06:43,090 --> 00:06:45,510
+<font face="Roboto Medium" size="26">There's no point 
+in being a team if I don't.</font>
+
+121
+00:06:45,510 --> 00:06:47,010
+<font face="Roboto Medium" size="26">A team?</font>
+
+122
+00:06:47,010 --> 00:06:52,020
+<font face="Roboto Medium" size="26">That's right. As the team manager, 
+I cannot approve this poster.</font>
+
+123
+00:06:57,710 --> 00:06:59,650
+<font face="Roboto Medium" size="26">Yeah, yeah. Okay.</font>
+
+124
+00:07:00,280 --> 00:07:01,750
+<font face="Roboto Medium" size="26">Oh, and by the way...</font>
+
+125
+00:07:01,750 --> 00:07:04,530
+<font face="Roboto Medium" size="26">I'm going to add your name 
+to the end credits, Yusuke.</font>
+
+126
+00:07:04,530 --> 00:07:07,840
+<font face="Roboto Medium" size="26"><i>He's gonna credit me in the 
+special thanks with everyone else.</i></font>
+
+127
+00:07:07,840 --> 00:07:08,980
+<font face="Roboto Medium" size="26"><i>How freakin' lame!</i></font>
+
+128
+00:07:10,280 --> 00:07:13,410
+<font size="20">{\an8}<i>A SINGLE DROP</i> DIR. NAOKI MATSUURA
+ANIMATED SHORT, MAU GRADUATION PROJECT</font>
+
+129
+00:07:13,410 --> 00:07:16,410
+<font face="Roboto Medium" size="26">This is the one! I've been curious
+about it since I saw the poster.</font>
+
+130
+00:07:16,410 --> 00:07:18,930
+<font face="Roboto Medium" size="26">Really went all out for
+a graduation project, didn't they?</font>
+
+131
+00:07:20,600 --> 00:07:24,290
+<font face="Roboto Medium" size="26"><i>We will now begin the screening 
+of </i>A Single Drop<i>,</i></font>
+
+132
+00:07:24,290 --> 00:07:26,720
+<font face="Roboto Medium" size="26"><i>directed by Naoki Matsuura.</i></font>
+
+133
+00:07:52,950 --> 00:07:56,580
+<font face="Roboto Medium" size="26"><i>Yusuke, you'll shine brightly someday.</i></font>
+
+134
+00:07:57,430 --> 00:07:59,380
+<font face="Roboto Medium" size="26"><i>But please don't ever forget...</i></font>
+
+135
+00:08:00,330 --> 00:08:01,270
+<font size="20">{\an8}PLANNING AND ORIGINAL WORK
+NAOKI MATSUURA</font>
+
+136
+00:08:01,250 --> 00:08:04,090
+<font face="Roboto Medium" size="26"><i>Thanks to everyone involved in this,</i></font>
+
+137
+00:08:01,270 --> 00:08:02,210
+<font size="20">{\an8}SCENARIO
+NAOKI MATSUURA</font>
+
+138
+00:08:02,210 --> 00:08:03,150
+<font size="20">{\an8}STORYBOARD
+NAOKI MATSUURA</font>
+
+139
+00:08:03,150 --> 00:08:04,090
+<font size="20">{\an8}CHARACTER DESIGN
+NAOKI MATSUURA, KENSUKE SAIKATSU</font>
+
+140
+00:08:04,090 --> 00:08:05,090
+<font size="20">{\an8}ORGANIZERS: DAISUKE ITOU, KANAMI UEDA,
+AINE FUKUDA, YOICHIROU YAMAGUCHI</font>
+
+141
+00:08:04,650 --> 00:08:07,750
+<font face="Roboto Medium" size="26"><i>and thanks to the work itself...</i></font>
+
+142
+00:08:05,090 --> 00:08:06,090
+<font size="20">{\an8}CREATIVE SUPERVISOR
+KOU YATANI</font>
+
+143
+00:08:06,090 --> 00:08:07,090
+<font size="20">{\an8}ART DIRECTOR, DESIGNER
+YUSUKE KAMIYA</font>
+
+144
+00:08:07,090 --> 00:08:08,090
+<font size="20">{\an8}VENUE STAFF, VOLUNTEERS FROM
+THE FILM AND VIDEO DEPARTMENT</font>
+
+145
+00:08:08,400 --> 00:08:11,560
+<font face="Roboto Medium" size="26"><i>We're the ones being shone upon.</i></font>
+
+146
+00:08:17,020 --> 00:08:20,020
+<font face="Roboto Medium" size="26">Nope. Nope. Nope.</font>
+
+147
+00:08:21,090 --> 00:08:23,000
+<font face="Roboto Medium" size="26">Not this one either.</font>
+
+148
+00:08:23,000 --> 00:08:26,290
+<font face="Roboto Medium" size="26">Koichi, you aren't coming up 
+with enough ideas in the first place.</font>
+
+149
+00:08:26,290 --> 00:08:28,640
+<font face="Roboto Medium" size="26">Quit fixating on what you <i>want</i> to do.</font>
+
+150
+00:08:28,640 --> 00:08:31,660
+<font face="Roboto Medium" size="26">Also, stop giving me proposals 
+that are just way over budget.</font>
+
+151
+00:08:31,660 --> 00:08:32,810
+<font face="Roboto Medium" size="26">Yes, sir...</font>
+
+152
+00:08:32,810 --> 00:08:34,610
+<font face="Roboto Medium" size="26">As for yours, Micchan...</font>
+
+153
+00:08:34,610 --> 00:08:37,910
+<font face="Roboto Medium" size="26">They're all solid, but they're boring.</font>
+
+154
+00:08:38,280 --> 00:08:41,170
+<font face="Roboto Medium" size="26">I bet you don't even have a favorite 
+among them, do you?</font>
+
+155
+00:08:41,170 --> 00:08:45,300
+<font face="Roboto Medium" size="26">You guys... Why've you both been
+working independently all this time?</font>
+
+156
+00:08:46,710 --> 00:08:48,780
+<font face="Roboto Medium" size="26">Did you say we had to do it together?</font>
+
+157
+00:08:49,800 --> 00:08:51,430
+<font face="Roboto Medium" size="26">You're a team, damn it!</font>
+
+158
+00:08:51,430 --> 00:08:53,290
+<font face="Roboto Medium" size="26">S-Sorry.</font>
+
+159
+00:08:54,980 --> 00:08:56,580
+<font face="Roboto Medium" size="26">We'll have another review tomorrow.</font>
+
+160
+00:08:56,910 --> 00:08:58,690
+<font face="Roboto Medium" size="26">Put your heads together before then.</font>
+
+161
+00:09:02,890 --> 00:09:05,050
+<font face="Roboto Medium" size="26">I'm gonna hit the café for a bit.</font>
+
+162
+00:09:05,050 --> 00:09:06,940
+<font face="Roboto Medium" size="26">What? But he just told us
+ to work together.</font>
+
+163
+00:09:06,940 --> 00:09:11,330
+<font face="Roboto Medium" size="26">You've said yourself that you focus
+ better alone, right, Asakura-san?</font>
+
+164
+00:09:11,330 --> 00:09:14,070
+<font face="Roboto Medium" size="26">You think everything 
+Kamiya-san says is right?</font>
+
+165
+00:09:14,070 --> 00:09:16,660
+<font face="Roboto Medium" size="26">I-I don't, but...</font>
+
+166
+00:09:16,660 --> 00:09:19,080
+<font face="Roboto Medium" size="26">We've gotta try everything we can—</font>
+
+167
+00:09:20,120 --> 00:09:21,130
+<font face="Roboto Medium" size="26">Huh?</font>
+
+168
+00:09:27,120 --> 00:09:30,110
+<font face="Roboto Medium" size="26">You're spouting some real naïve baloney, 
+aren't you?</font>
+
+169
+00:09:31,650 --> 00:09:33,220
+<font face="Roboto Medium" size="26">You think you run a team?</font>
+
+170
+00:09:33,220 --> 00:09:35,270
+<font face="Roboto Medium" size="26">What you need are soldiers.</font>
+
+171
+00:09:35,270 --> 00:09:37,470
+<font face="Roboto Medium" size="26">You learned that under me, didn't you?</font>
+
+172
+00:09:37,470 --> 00:09:40,440
+<font face="Roboto Medium" size="26">Yeah, I know that's
+ your style, Yanagi-san.</font>
+
+173
+00:09:40,440 --> 00:09:41,720
+<font face="Roboto Medium" size="26">But the way I do things—</font>
+
+174
+00:09:41,720 --> 00:09:44,100
+<font face="Roboto Medium" size="26">You already know, don't you?</font>
+
+175
+00:09:44,620 --> 00:09:47,230
+<font face="Roboto Medium" size="26">You and I are alike.</font>
+
+176
+00:09:47,230 --> 00:09:50,890
+<font face="Roboto Medium" size="26">You couldn't possibly understand
+those who can't hack it.</font>
+
+177
+00:09:52,820 --> 00:09:54,010
+<font face="Roboto Medium" size="26">Stuff it.</font>
+
+178
+00:09:54,010 --> 00:09:55,540
+<font face="Roboto Medium" size="26">Oh, there you are!</font>
+
+179
+00:09:55,540 --> 00:09:56,670
+<font face="Roboto Medium" size="26">Kamiya-san!</font>
+
+180
+00:09:56,670 --> 00:09:58,620
+<font face="Roboto Medium" size="26">Director Furuya's looking for you.</font>
+
+181
+00:09:58,620 --> 00:10:00,510
+<font face="Roboto Medium" size="26">He says to wear a jacket.</font>
+
+182
+00:10:05,750 --> 00:10:09,630
+<font size="20">PRODUCTION HQ, SALES PROMOTION DEPT.
+DIRECTOR YUJIRO SHIRAI</font>
+
+183
+00:10:05,750 --> 00:10:08,140
+<font face="Roboto Medium" size="26">{\an8}Kamiya, you really saved me the other day.</font>
+
+184
+00:10:08,140 --> 00:10:09,630
+<font face="Roboto Medium" size="26">{\an8}Likewise, sir.</font>
+
+185
+00:10:09,630 --> 00:10:13,010
+<font size="20">MEDIA HQ, MEDIA DEPT.
+DIRECTOR TAKUYA MIYOSHI</font>
+
+186
+00:10:09,630 --> 00:10:13,010
+<font face="Roboto Medium" size="26">{\an8}So <i>you're</i> Kamiya-kun, eh?
+A real handsome fella.</font>
+
+187
+00:10:13,010 --> 00:10:18,010
+<font size="20">PRODUCTION HQ, MARKETING DEPT.
+DIRECTOR REN KUSUNOSE</font>
+
+188
+00:10:13,010 --> 00:10:15,890
+<font face="Roboto Medium" size="26">{\an8}I hear you've been taking good care 
+of Micchan over there.</font>
+
+189
+00:10:15,890 --> 00:10:18,010
+<font face="Roboto Medium" size="26">{\an8}Tell her she can come back anytime.</font>
+
+190
+00:10:18,010 --> 00:10:21,770
+<font size="20">SALES HQ, 1ST SALES DEPT.
+DIRECTOR KAORU GOURIKI</font>
+
+191
+00:10:18,010 --> 00:10:20,660
+<font face="Roboto Medium" size="26">{\an8}Hey, Kamiya, how old are ya?</font>
+
+192
+00:10:20,660 --> 00:10:21,770
+<font face="Roboto Medium" size="26">{\an8}I'm 33.</font>
+
+193
+00:10:21,770 --> 00:10:25,150
+<font size="20">SALES HQ, SALES PROMOTION DEPT.
+DIRECTOR SEIJI IORI</font>
+
+194
+00:10:21,770 --> 00:10:24,180
+<font face="Roboto Medium" size="26">{\an8}That's nice. A young man indeed.</font>
+
+195
+00:10:25,150 --> 00:10:28,520
+<font size="20">PRODUCTION HQ, CREATIVE DEPT.
+DIRECTOR SHO FURUYA</font>
+
+196
+00:10:25,530 --> 00:10:28,520
+<font face="Roboto Medium" size="26">{\an8}Sorry to pull you aside
+when you're busy, Kamiya.</font>
+
+197
+00:10:31,000 --> 00:10:34,400
+<font face="Roboto Medium" size="26"><i>Six directors in one room means...</i></font>
+
+198
+00:10:35,280 --> 00:10:38,230
+<font face="Roboto Medium" size="26">There's no point in wasting precious time.</font>
+
+199
+00:10:38,230 --> 00:10:41,040
+<font face="Roboto Medium" size="26">I'll get straight to the point
+and start with the conclusion.</font>
+
+200
+00:10:42,040 --> 00:10:46,600
+<font face="Roboto Medium" size="26">I'm temporarily disbanding Team Kamiya.</font>
+
+201
+00:10:50,170 --> 00:10:54,580
+<font face="Roboto Medium" size="26">I'm temporarily disbanding Team Kamiya.</font>
+
+202
+00:10:55,720 --> 00:10:56,720
+<font face="Roboto Medium" size="26">Why?!</font>
+
+203
+00:10:56,720 --> 00:10:57,740
+<font face="Roboto Medium" size="26">Ya listen here!</font>
+
+204
+00:10:57,740 --> 00:11:01,150
+<font face="Roboto Medium" size="26">The beverage giant, Sunny Try, has asked us
+to participate in a competition.</font>
+
+205
+00:11:01,150 --> 00:11:02,500
+<font face="Roboto Medium" size="26">They're offering 300 million!</font>
+
+206
+00:11:02,500 --> 00:11:04,120
+<font face="Roboto Medium" size="26">They specifically requested the winner</font>
+
+207
+00:11:04,120 --> 00:11:06,100
+<font face="Roboto Medium" size="26">of the JAGDA Newcomer Award, 
+Yusuke Kamiya!</font>
+
+208
+00:11:06,410 --> 00:11:10,090
+<font face="Roboto Medium" size="26">But isn't Dai-Nihon Advertisement 
+their exclusive agency?</font>
+
+209
+00:11:10,090 --> 00:11:14,530
+<font face="Roboto Medium" size="26">Apparently, the president of Sunny Try 
+is stepping down in the next few years.</font>
+
+210
+00:11:14,530 --> 00:11:18,520
+<font face="Roboto Medium" size="26">The next president won't be his son,
+but their current general manager.</font>
+
+211
+00:11:18,520 --> 00:11:20,370
+<font face="Roboto Medium" size="26">And that's who authorized this.</font>
+
+212
+00:11:21,370 --> 00:11:25,030
+<font face="Roboto Medium" size="26">It's common for a company 
+to shake up business partners</font>
+
+213
+00:11:25,030 --> 00:11:26,250
+<font face="Roboto Medium" size="26">with a leadership change.</font>
+
+214
+00:11:26,250 --> 00:11:28,660
+<font face="Roboto Medium" size="26">In other words,
+this 300-million-yen competition</font>
+
+215
+00:11:28,660 --> 00:11:30,840
+<font face="Roboto Medium" size="26">is a showcase for the incoming president.</font>
+
+216
+00:11:30,840 --> 00:11:35,130
+<font face="Roboto Medium" size="26">We speculate that they're in search
+ of their next exclusive partner.</font>
+
+217
+00:11:35,130 --> 00:11:40,010
+<font face="Roboto Medium" size="26">And Sunny Try's annual advertising
+ and promotional budget is 23 billion yen.</font>
+
+218
+00:11:40,890 --> 00:11:44,770
+<font face="Roboto Medium" size="26">Kamiya... You understand
+ the gravity of that figure, don't you?</font>
+
+219
+00:11:45,170 --> 00:11:48,150
+<font face="Roboto Medium" size="26">It will shift the power balance 
+in the advertisement industry.</font>
+
+220
+00:11:48,880 --> 00:11:51,010
+<font face="Roboto Medium" size="26">I understand. However—</font>
+
+221
+00:11:51,010 --> 00:11:53,530
+<font face="Roboto Medium" size="26">Who asked for yer damn opinion, Kamiya?!</font>
+
+222
+00:11:53,530 --> 00:11:55,530
+<font face="Roboto Medium" size="26">If we win this, we storm the industry!</font>
+
+223
+00:11:55,530 --> 00:11:57,150
+<font face="Roboto Medium" size="26">If we lose, then we fall!</font>
+
+224
+00:11:57,150 --> 00:12:00,280
+<font face="Roboto Medium" size="26">Meaning this is war, damn it!</font>
+
+225
+00:12:00,280 --> 00:12:02,340
+<font face="Roboto Medium" size="26">Now, now, Director Gouriki.</font>
+
+226
+00:12:02,340 --> 00:12:05,870
+<font face="Roboto Medium" size="26">We only have this opportunity
+thanks to Kamiya here, after all.</font>
+
+227
+00:12:06,500 --> 00:12:11,170
+<font face="Roboto Medium" size="26">We'll assemble top talent from 
+every section and create a task force.</font>
+
+228
+00:12:11,510 --> 00:12:15,050
+<font face="Roboto Medium" size="26">Kamiya, you'll focus your efforts there.</font>
+
+229
+00:12:16,580 --> 00:12:19,690
+<font face="Roboto Medium" size="26"><i>The second we get a huge project, 
+</i>this<i> happens?</i></font>
+
+230
+00:12:19,690 --> 00:12:21,330
+<font face="Roboto Medium" size="26"><i>I mean, yeah...</i></font>
+
+231
+00:12:21,330 --> 00:12:23,340
+<font face="Roboto Medium" size="26"><i>Those guys are still nowhere near ready.</i></font>
+
+232
+00:12:23,730 --> 00:12:27,680
+<font face="Roboto Medium" size="26"><i>You couldn't possibly understand
+those who can't hack it.</i></font>
+
+233
+00:12:28,810 --> 00:12:32,940
+<font face="Roboto Medium" size="26">Indeed, I suppose this competition 
+would be too much for such a young team.</font>
+
+234
+00:12:32,940 --> 00:12:36,190
+<font face="Roboto Medium" size="26">After all, there's
+ 23 billion yen at stake.</font>
+
+235
+00:12:36,720 --> 00:12:38,560
+<font face="Roboto Medium" size="26">I understand how you must feel.</font>
+
+236
+00:12:38,560 --> 00:12:42,950
+<font face="Roboto Medium" size="26">But let's be adults here, Yusuke.</font>
+
+237
+00:12:42,950 --> 00:12:47,190
+<font face="Roboto Medium" size="26">Asakura and Mitsuhashi will move
+to Terada's team for the time being.</font>
+
+238
+00:12:47,700 --> 00:12:49,910
+<font face="Roboto Medium" size="26">You will lead the task force, and—</font>
+
+239
+00:12:49,910 --> 00:12:51,210
+<font face="Roboto Medium" size="26">Please give me five minutes!</font>
+
+240
+00:12:53,320 --> 00:12:56,590
+<font face="Roboto Medium" size="26">I'll explain why we should be 
+doing this with my current team!</font>
+
+241
+00:12:59,220 --> 00:13:00,590
+<font size="20">{\an8}POSSIBILITY</font>
+
+242
+00:13:00,590 --> 00:13:02,130
+<font face="Roboto Medium" size="26">According to your speculation,</font>
+
+243
+00:13:00,590 --> 00:13:08,350
+<font size="20">{\an8}"COMPETITION TO FIND EXCLUSIVE PARTNER"
+NEW PRESIDENT, 23 BILLION ON THE TABLE</font>
+
+244
+00:13:02,130 --> 00:13:06,560
+<font face="Roboto Medium" size="26">the incoming president is doing this
+to find a new exclusive agency.</font>
+
+245
+00:13:06,900 --> 00:13:08,350
+<font face="Roboto Medium" size="26">Were there any project specs?</font>
+
+246
+00:13:08,350 --> 00:13:10,810
+<font face="Roboto Medium" size="26">We've yet to find that out.</font>
+
+247
+00:13:10,810 --> 00:13:13,050
+<font face="Roboto Medium" size="26">But you surely have a rough idea, no?</font>
+
+248
+00:13:13,050 --> 00:13:15,980
+<font face="Roboto Medium" size="26">A TV commercial or poster. 
+Perhaps an in-store POP display.</font>
+
+249
+00:13:15,980 --> 00:13:18,110
+<font face="Roboto Medium" size="26">Nine times out of ten, it's a poster.</font>
+
+250
+00:13:18,110 --> 00:13:19,620
+<font face="Roboto Medium" size="26">How are you so certain?</font>
+
+251
+00:13:19,620 --> 00:13:21,740
+<font face="Roboto Medium" size="26">You aren't just spitting BS, are ya?!</font>
+
+252
+00:13:21,740 --> 00:13:25,370
+<font size="20">{\an8}JAGDA NEWCOMER AWARD</font>
+
+253
+00:13:21,740 --> 00:13:25,370
+<font face="Roboto Medium" size="26">They reached out to us after seeing 
+the JAGDA Newcomer Awards, right?</font>
+
+254
+00:13:25,830 --> 00:13:29,850
+<font face="Roboto Medium" size="26">Which means this project will be close
+ to what I submitted for the award.</font>
+
+255
+00:13:29,850 --> 00:13:31,250
+<font face="Roboto Medium" size="26">Yes, I suppose so.</font>
+
+256
+00:13:31,250 --> 00:13:34,130
+<font face="Roboto Medium" size="26">But in that case, 
+don't you find it strange?</font>
+
+257
+00:13:34,130 --> 00:13:36,130
+<font face="Roboto Medium" size="26">300 mil for a poster is
+way too much.</font>
+
+258
+00:13:36,130 --> 00:13:39,160
+<font face="Roboto Medium" size="26">Sunny Try has 23 billion yen
+ to spend, you know?</font>
+
+259
+00:13:39,160 --> 00:13:42,380
+<font face="Roboto Medium" size="26">Whether it's 30 million or 300 million,
+it makes little difference to them.</font>
+
+260
+00:13:42,380 --> 00:13:46,410
+<font face="Roboto Medium" size="26">Director Iori, you've been in charge 
+of Sunny Try before, haven't you?</font>
+
+261
+00:13:46,410 --> 00:13:48,140
+<font face="Roboto Medium" size="26">Are they so fast and loose with money?</font>
+
+262
+00:13:48,140 --> 00:13:51,980
+<font face="Roboto Medium" size="26">No, Sunny Try is very strict 
+when it comes to money.</font>
+
+263
+00:13:51,980 --> 00:13:53,550
+<font face="Roboto Medium" size="26">In fact, they're so versed with ads,</font>
+
+264
+00:13:53,550 --> 00:13:55,520
+<font face="Roboto Medium" size="26">they know exactly 
+what a fair price is.</font>
+
+265
+00:13:55,520 --> 00:13:57,780
+<font face="Roboto Medium" size="26">Then why set it at 300 million?</font>
+
+266
+00:13:57,780 --> 00:13:59,780
+<font face="Roboto Medium" size="26">You'd better be getting at something here!</font>
+
+267
+00:14:01,130 --> 00:14:02,320
+<font face="Roboto Medium" size="26">It's an experiment.</font>
+
+268
+00:14:03,150 --> 00:14:06,810
+<font face="Roboto Medium" size="26">The incoming president of Sunny Try, 
+a peer in the same industry,</font>
+
+269
+00:14:06,810 --> 00:14:09,750
+<font face="Roboto Medium" size="26">couldn't possibly be unaware 
+of a certain experiment conducted</font>
+
+270
+00:14:09,750 --> 00:14:12,040
+<font face="Roboto Medium" size="26">by a major overseas competitor
+since January, right?</font>
+
+271
+00:14:12,440 --> 00:14:15,670
+<font face="Roboto Medium" size="26">A super-scale marketing 
+demonstration experiment...</font>
+
+272
+00:14:15,670 --> 00:14:17,040
+<font face="Roboto Medium" size="26">The heck is that?</font>
+
+273
+00:14:17,040 --> 00:14:20,060
+<font face="Roboto Medium" size="26">For many years, said company has invested</font>
+
+274
+00:14:20,060 --> 00:14:22,860
+<font face="Roboto Medium" size="26">over 70 percent of its advertising budget 
+into commercials alone.</font>
+
+275
+00:14:23,300 --> 00:14:25,700
+<font face="Roboto Medium" size="26">However, they formulated a hypothesis</font>
+
+276
+00:14:25,700 --> 00:14:28,480
+<font face="Roboto Medium" size="26">that outdoor ads throughout the city
+would be more effective</font>
+
+277
+00:14:28,480 --> 00:14:31,930
+<font face="Roboto Medium" size="26">than TV ads, since they're 
+so close to the point of sale.</font>
+
+278
+00:14:31,930 --> 00:14:34,310
+<font face="Roboto Medium" size="26">And so they proceeded to experiment.</font>
+
+279
+00:14:34,310 --> 00:14:46,570
+<font size="20">{\an8}OTHER, OUTDOOR ADS, TV COMMERCIALS</font>
+
+280
+00:14:34,310 --> 00:14:36,130
+<font face="Roboto Medium" size="26">For half of the experimental period,</font>
+
+281
+00:14:36,130 --> 00:14:38,840
+<font face="Roboto Medium" size="26">commercials were kept 
+to 40 percent or less of the budget,</font>
+
+282
+00:14:38,840 --> 00:14:40,820
+<font face="Roboto Medium" size="26">with the rest going
+to outdoor ads and such.</font>
+
+283
+00:14:40,820 --> 00:14:44,640
+<font face="Roboto Medium" size="26">For the other half, they did their usual
+and spent 70 percent on TV commercials.</font>
+
+284
+00:14:44,640 --> 00:14:46,570
+<font face="Roboto Medium" size="26">With the insights they gained from this,</font>
+
+285
+00:14:46,570 --> 00:14:50,170
+<font face="Roboto Medium" size="26">they revised their marketing strategy, 
+and the result was...</font>
+
+286
+00:14:51,980 --> 00:14:54,710
+<font face="Roboto Medium" size="26">their highest profits in 30 years!</font>
+
+287
+00:14:57,210 --> 00:14:59,730
+<font face="Roboto Medium" size="26">You're saying Sunny Try's 
+300-million-yen competition</font>
+
+288
+00:14:59,730 --> 00:15:03,090
+<font face="Roboto Medium" size="26">is an in-house experiment of its own 
+following this approach?</font>
+
+289
+00:15:03,090 --> 00:15:06,450
+<font face="Roboto Medium" size="26">That would require a ridiculous amount 
+of time and resources.</font>
+
+290
+00:15:06,450 --> 00:15:08,600
+<font face="Roboto Medium" size="26">It's far beyond a mere showcase!</font>
+
+291
+00:15:08,600 --> 00:15:09,330
+<font face="Roboto Medium" size="26">That's right!</font>
+
+292
+00:15:09,330 --> 00:15:13,480
+<font face="Roboto Medium" size="26">The incoming president isn't just looking 
+for someone to do business with.</font>
+
+293
+00:15:13,820 --> 00:15:18,390
+<font face="Roboto Medium" size="26">He's looking for a new partner
+who'll fight alongside him!</font>
+
+294
+00:15:18,390 --> 00:15:19,360
+<font face="Roboto Medium" size="26">Which is precisely why—</font>
+
+295
+00:15:20,430 --> 00:15:22,900
+<font face="Roboto Medium" size="26">Impressive insight. 
+Taking this into account,</font>
+
+296
+00:15:22,900 --> 00:15:24,860
+<font face="Roboto Medium" size="26">I absolutely want you on the task force.</font>
+
+297
+00:15:25,190 --> 00:15:29,120
+<font face="Roboto Medium" size="26">You think even the current Team Kamiya 
+can handle it if it's a poster?</font>
+
+298
+00:15:29,120 --> 00:15:31,250
+<font face="Roboto Medium" size="26">Indeed, perhaps they can.</font>
+
+299
+00:15:31,250 --> 00:15:33,640
+<font face="Roboto Medium" size="26">However, that alone isn't going to cut it.</font>
+
+300
+00:15:33,640 --> 00:15:35,120
+<font face="Roboto Medium" size="26">Let us exhaust all of our options!</font>
+
+301
+00:15:35,120 --> 00:15:38,090
+<font face="Roboto Medium" size="26">Come up with wild schemes! 
+Secret plans! Brilliant plots!</font>
+
+302
+00:15:38,090 --> 00:15:41,000
+<font face="Roboto Medium" size="26">Think of every possible plan 
+we can implement!</font>
+
+303
+00:15:42,310 --> 00:15:44,630
+<font face="Roboto Medium" size="26">And what is that going to get you?</font>
+
+304
+00:15:45,000 --> 00:15:48,390
+<font face="Roboto Medium" size="26">A whole bunch of massive meetings, 
+stacks of thick documents,</font>
+
+305
+00:15:48,390 --> 00:15:50,390
+<font face="Roboto Medium" size="26">and ass-kissing for ulterior motives.</font>
+
+306
+00:15:51,450 --> 00:15:54,180
+<font face="Roboto Medium" size="26">Director Furuya, this conference room
+is a microrepresentation</font>
+
+307
+00:15:54,180 --> 00:15:56,720
+<font face="Roboto Medium" size="26">of your traditional 
+ad agency organization!</font>
+
+308
+00:15:58,450 --> 00:16:01,910
+<font face="Roboto Medium" size="26">That's right. 
+And you're a part of that too.</font>
+
+309
+00:16:01,910 --> 00:16:04,400
+<font face="Roboto Medium" size="26">You'd try to deny that now?</font>
+
+310
+00:16:04,400 --> 00:16:06,340
+<font face="Roboto Medium" size="26">I'm not gonna completely deny it.</font>
+
+311
+00:16:06,340 --> 00:16:10,720
+<font face="Roboto Medium" size="26">But that's not what Sunny Try 
+is looking for right now!</font>
+
+312
+00:16:11,490 --> 00:16:13,910
+<font face="Roboto Medium" size="26">Then what are they looking for?</font>
+
+313
+00:16:13,910 --> 00:16:16,020
+<font face="Roboto Medium" size="26">An even fresher concept!</font>
+
+314
+00:16:16,020 --> 00:16:17,660
+<font face="Roboto Medium" size="26">Even lighter footwork!</font>
+
+315
+00:16:17,660 --> 00:16:19,790
+<font face="Roboto Medium" size="26">And passion that burns even brighter!</font>
+
+316
+00:16:21,040 --> 00:16:24,670
+<font face="Roboto Medium" size="26">That's how you described my team 
+the day we formed.</font>
+
+317
+00:16:24,960 --> 00:16:28,800
+<font face="Roboto Medium" size="26">We're a small, elite group 
+in a boutique agency!</font>
+
+318
+00:16:29,240 --> 00:16:33,370
+<font face="Roboto Medium" size="26">Even if it was just lip service, 
+you said it yourself, didn't ya?!</font>
+
+319
+00:16:40,220 --> 00:16:43,120
+<font face="Roboto Medium" size="26">The official assignment
+ is still a little ways off,</font>
+
+320
+00:16:43,120 --> 00:16:45,570
+<font face="Roboto Medium" size="26">but I'll block off time 
+for an orientation, okay?</font>
+
+321
+00:16:45,570 --> 00:16:46,320
+<font face="Roboto Medium" size="26">All right.</font>
+
+322
+00:16:46,320 --> 00:16:47,620
+<font face="Roboto Medium" size="26">Hey, Kamiya.</font>
+
+323
+00:16:47,620 --> 00:16:48,900
+<font face="Roboto Medium" size="26">What's up?</font>
+
+324
+00:16:48,900 --> 00:16:52,020
+<font face="Roboto Medium" size="26">You got pretty fresh
+with Furuya-san in there, didn't ya?</font>
+
+325
+00:16:52,020 --> 00:16:52,920
+<font face="Roboto Medium" size="26">Oh...</font>
+
+326
+00:16:52,920 --> 00:16:55,500
+<font face="Roboto Medium" size="26">Well, butting heads isn't all that bad.</font>
+
+327
+00:16:55,500 --> 00:16:58,460
+<font face="Roboto Medium" size="26">The ground hardens 
+after the rain, as they say.</font>
+
+328
+00:17:05,170 --> 00:17:07,840
+<font face="Roboto Medium" size="26">You're not capitalizing 
+on each other's strengths at all.</font>
+
+329
+00:17:08,270 --> 00:17:10,030
+<font face="Roboto Medium" size="26">You need to voice your opinions more.</font>
+
+330
+00:17:10,470 --> 00:17:13,610
+<font face="Roboto Medium" size="26">You really think we're gonna win 
+the Sunny Try competition with this?</font>
+
+331
+00:17:14,690 --> 00:17:16,730
+<font face="Roboto Medium" size="26">You wanna just go back to marketing?</font>
+
+332
+00:17:17,350 --> 00:17:20,670
+<font face="Roboto Medium" size="26">Director Kusunose said 
+you'd be welcome anytime.</font>
+
+333
+00:17:20,670 --> 00:17:23,100
+<font face="Roboto Medium" size="26">Are ya even motivated enough 
+to do creative work?</font>
+
+334
+00:17:23,100 --> 00:17:26,050
+<font face="Roboto Medium" size="26">I am. Plus, I'm learning different things!</font>
+
+335
+00:17:26,050 --> 00:17:27,990
+<font face="Roboto Medium" size="26">Don't learn on the job!</font>
+
+336
+00:17:28,610 --> 00:17:31,630
+<font face="Roboto Medium" size="26">Your job is to generate 
+good ideas with confidence.</font>
+
+337
+00:17:31,630 --> 00:17:34,120
+<font face="Roboto Medium" size="26">I bet you don't even like your own ideas.</font>
+
+338
+00:17:34,120 --> 00:17:36,970
+<font face="Roboto Medium" size="26">Who cares whether I like them or not?</font>
+
+339
+00:17:36,970 --> 00:17:39,020
+<font face="Roboto Medium" size="26">What matters is whether the client does.</font>
+
+340
+00:17:39,020 --> 00:17:40,250
+<font face="Roboto Medium" size="26">M-Micchan...</font>
+
+341
+00:17:41,540 --> 00:17:45,880
+<font face="Roboto Medium" size="26">Then which one do you think 
+the client would like most?</font>
+
+342
+00:17:46,620 --> 00:17:50,220
+<font face="Roboto Medium" size="26">That would be... the third one, I guess.</font>
+
+343
+00:17:50,880 --> 00:17:54,010
+<font face="Roboto Medium" size="26">Not bad, but it'll get buried 
+among all the other ads.</font>
+
+344
+00:17:54,010 --> 00:17:55,510
+<font size="20">{\an8}THE BODY, ENERGIZED.</font>
+
+345
+00:17:54,450 --> 00:17:55,510
+<font face="Roboto Medium" size="26">What do you think, Koichi?</font>
+
+346
+00:17:55,510 --> 00:17:58,230
+<font face="Roboto Medium" size="26">Um, well, let's see...</font>
+
+347
+00:17:58,230 --> 00:18:01,210
+<font face="Roboto Medium" size="26">This looks like it would need
+a restrained logo design.</font>
+
+348
+00:18:01,210 --> 00:18:03,390
+<font face="Roboto Medium" size="26">I'd want a crazier idea!</font>
+
+349
+00:18:03,390 --> 00:18:05,740
+<font face="Roboto Medium" size="26">What do you mean by "crazier"?</font>
+
+350
+00:18:05,740 --> 00:18:09,300
+<font face="Roboto Medium" size="26">You know. Like, an idea that
+ breaks the mold.</font>
+
+351
+00:18:09,300 --> 00:18:11,940
+<font face="Roboto Medium" size="26">You mean like thinking outside the box?</font>
+
+352
+00:18:11,940 --> 00:18:13,240
+<font face="Roboto Medium" size="26">Yeah, exactly.</font>
+
+353
+00:18:13,240 --> 00:18:18,160
+<font face="Roboto Medium" size="26">Then we need to define our box
+before I can figure out what's outside it.</font>
+
+354
+00:18:19,540 --> 00:18:21,290
+<font face="Roboto Medium" size="26"><i>Don't give me that "you're right!" look.</i></font>
+
+355
+00:18:21,810 --> 00:18:25,140
+<font face="Roboto Medium" size="26">Micchan, could you teach me 
+how to define the box?</font>
+
+356
+00:18:25,140 --> 00:18:27,720
+<font face="Roboto Medium" size="26">Excuse me? I'm the junior here, y'know.</font>
+
+357
+00:18:27,720 --> 00:18:31,770
+<font face="Roboto Medium" size="26">Yeah, but lately, I've been thinking 
+none of that matters.</font>
+
+358
+00:18:32,920 --> 00:18:34,980
+<font face="Roboto Medium" size="26">Then treat me to something, okay?</font>
+
+359
+00:18:35,450 --> 00:18:37,320
+<font face="Roboto Medium" size="26">Aw, come on. Lunch at the minimum!</font>
+
+360
+00:18:37,680 --> 00:18:42,180
+<font size="20">{\an8}GENERATE FREE & FLEXIBLE IDEAS,
+UNCONSTRAINED BY EXISTING CONVENTION</font>
+
+361
+00:18:37,680 --> 00:18:39,010
+<font face="Roboto Medium" size="26">Ya ready? Listen up.</font>
+
+362
+00:18:39,010 --> 00:18:43,070
+<font face="Roboto Medium" size="26">To begin with, your framework
+is a key point to consider.</font>
+
+363
+00:18:43,070 --> 00:18:44,690
+<font face="Roboto Medium" size="26">And you can map this all out...</font>
+
+364
+00:18:44,690 --> 00:18:46,310
+<font size="20">{\an8}GOOD MIXER, POST-WORKOUT,
+EASY TO DRINK WITH MEALS</font>
+
+365
+00:18:46,310 --> 00:18:48,060
+<font size="20">{\an8}FEATURES, USABLE SCENES,
+EMOTIONAL IMAGE, CONSUMER OPINION</font>
+
+366
+00:18:50,320 --> 00:18:52,740
+<font size="20">{\an8}NEEDS MORE THRILL. A RUSH.
+ANY OTHER TAKES? TOO CONVENTIONAL</font>
+
+367
+00:18:59,830 --> 00:19:00,960
+<font face="Roboto Medium" size="26">We won.</font>
+
+368
+00:19:03,050 --> 00:19:05,790
+<font face="Roboto Medium" size="26">That 300-million Sunny Try presentation?</font>
+
+369
+00:19:05,790 --> 00:19:06,960
+<font face="Roboto Medium" size="26">They said we got the job.</font>
+
+370
+00:19:10,990 --> 00:19:12,000
+<font face="Roboto Medium" size="26">See, you got this.</font>
+
+371
+00:19:12,000 --> 00:19:13,460
+<font face="Roboto Medium" size="26">You've got the guts, after all.</font>
+
+372
+00:19:14,730 --> 00:19:16,720
+<font face="Roboto Medium" size="26">Th-Thank you very much!</font>
+
+373
+00:19:20,500 --> 00:19:23,330
+<font face="Roboto Medium" size="26">Kamiya-san, Director Furuya is—</font>
+
+374
+00:19:23,330 --> 00:19:26,100
+<font face="Roboto Medium" size="26">Yeah, yeah, I figured you'd show up.</font>
+
+375
+00:19:26,100 --> 00:19:28,530
+<font face="Roboto Medium" size="26">You seem like you're 
+in a good mood today.</font>
+
+376
+00:19:28,530 --> 00:19:30,230
+<font face="Roboto Medium" size="26">No jacket required.</font>
+
+377
+00:19:30,230 --> 00:19:32,240
+<font face="Roboto Medium" size="26">I know.</font>
+
+378
+00:19:34,650 --> 00:19:37,740
+<font face="Roboto Medium" size="26">I thought you were on board with us.</font>
+
+379
+00:19:40,030 --> 00:19:44,370
+<font face="Roboto Medium" size="26">Changing the team could potentially leave 
+a bad impression on the client, you know?</font>
+
+380
+00:19:44,980 --> 00:19:47,570
+<font face="Roboto Medium" size="26">The company understands that.</font>
+
+381
+00:19:47,570 --> 00:19:51,750
+<font face="Roboto Medium" size="26">Which is why I want you to be the 
+creative director of the task force.</font>
+
+382
+00:19:52,180 --> 00:19:54,610
+<font face="Roboto Medium" size="26">I want to do this with my current team.</font>
+
+383
+00:19:55,280 --> 00:19:57,300
+<font face="Roboto Medium" size="26">Those guys have grown.</font>
+
+384
+00:19:57,300 --> 00:19:58,640
+<font face="Roboto Medium" size="26">More than the competition, we'll—</font>
+
+385
+00:19:58,640 --> 00:19:59,530
+<font face="Roboto Medium" size="26">Kamiya!</font>
+
+386
+00:20:00,510 --> 00:20:03,390
+<font face="Roboto Medium" size="26">"The Sunny Try project will be 
+handled by a specialized team,</font>
+
+387
+00:20:03,390 --> 00:20:05,510
+<font face="Roboto Medium" size="26">with the entire company 
+ready to back them up."</font>
+
+388
+00:20:05,920 --> 00:20:09,270
+<font face="Roboto Medium" size="26">It wasn't my decision. It came from above.</font>
+
+389
+00:20:09,270 --> 00:20:11,080
+<font face="Roboto Medium" size="26">From above you, Director?</font>
+
+390
+00:20:11,080 --> 00:20:12,390
+<font face="Roboto Medium" size="26">Did the executive in charge...</font>
+
+391
+00:20:14,030 --> 00:20:15,720
+<font face="Roboto Medium" size="26">It was the president's order.</font>
+
+392
+00:20:16,140 --> 00:20:17,780
+<font face="Roboto Medium" size="26">No one can defy that.</font>
+
+393
+00:20:20,890 --> 00:20:22,970
+<font face="Roboto Medium" size="26">That's the nature of the organization.</font>
+
+394
+00:20:22,970 --> 00:20:27,290
+<font face="Roboto Medium" size="26">Ad agencies don't change so easily.</font>
+
+395
+00:20:27,650 --> 00:20:32,920
+<font face="Roboto Medium" size="26">Kamiya, you'll stay here 
+and fight alongside me, won't you?</font>
+
+396
+00:20:36,300 --> 00:20:38,050
+<font size="20">{\an8}THE BODY, ENERGIZED.</font>
+
+397
+00:20:36,300 --> 00:20:37,770
+<font face="Roboto Medium" size="26">Man, that's bold.</font>
+
+398
+00:20:37,770 --> 00:20:39,800
+<font face="Roboto Medium" size="26">It's definitely different.</font>
+
+399
+00:20:39,800 --> 00:20:42,690
+<font face="Roboto Medium" size="26">It feels like it could use 
+some more refining...</font>
+
+400
+00:20:42,690 --> 00:20:43,810
+<font face="Roboto Medium" size="26">More than this?</font>
+
+401
+00:20:43,810 --> 00:20:46,200
+<font face="Roboto Medium" size="26">No, no, it looks perfect.</font>
+
+402
+00:20:47,180 --> 00:20:49,130
+<font face="Roboto Medium" size="26">His truly revolutionary breakthroughs</font>
+
+403
+00:20:49,130 --> 00:20:51,940
+<font face="Roboto Medium" size="26">only came when he found himself 
+the best team, don't you think?</font>
+
+404
+00:20:55,480 --> 00:20:56,900
+<font face="Roboto Medium" size="26">Excuse me for a bit.</font>
+
+405
+00:20:57,530 --> 00:20:59,570
+<font size="20">{\an8}KOU YATANI</font>
+
+406
+00:21:01,010 --> 00:21:02,700
+<font face="Roboto Medium" size="26">Yo, Koichi.</font>
+
+407
+00:21:03,080 --> 00:21:04,080
+<font face="Roboto Medium" size="26">Kamiya-san.</font>
+
+408
+00:21:04,080 --> 00:21:05,810
+<font face="Roboto Medium" size="26">You're still working at this hour?</font>
+
+409
+00:21:05,810 --> 00:21:06,960
+<font face="Roboto Medium" size="26">Something like that.</font>
+
+410
+00:21:07,580 --> 00:21:09,710
+<font face="Roboto Medium" size="26">Oh, yeah, about that Sunny Try project...</font>
+
+411
+00:21:11,290 --> 00:21:14,810
+<font face="Roboto Medium" size="26">We decided to use your logo as-is.</font>
+
+412
+00:21:15,190 --> 00:21:18,350
+<font face="Roboto Medium" size="26">I'm sure you don't know what to say
+given you're off the project.</font>
+
+413
+00:21:18,350 --> 00:21:19,590
+<font face="Roboto Medium" size="26">I'm so glad...</font>
+
+414
+00:21:20,940 --> 00:21:23,720
+<font face="Roboto Medium" size="26">I was able to help 
+in some way after all, huh?</font>
+
+415
+00:21:23,720 --> 00:21:25,140
+<font face="Roboto Medium" size="26">Koichi...</font>
+
+416
+00:21:25,140 --> 00:21:28,390
+<font face="Roboto Medium" size="26">I'm so glad I was able
+ to work with our team!</font>
+
+417
+00:21:30,790 --> 00:21:32,740
+<font face="Roboto Medium" size="26"><i>We're the people behind the scenes.</i></font>
+
+418
+00:21:33,780 --> 00:21:39,400
+<font face="Roboto Medium" size="26"><i>Most creative works in the world 
+don't get attributed to anyone specific.</i></font>
+
+419
+00:21:40,240 --> 00:21:42,530
+<font face="Roboto Medium" size="26"><i>That's especially true for advertising.</i></font>
+
+420
+00:21:43,180 --> 00:21:45,330
+<font face="Roboto Medium" size="26"><i>As long as it gets out there,
+ that's enough.</i></font>
+
+421
+00:21:50,450 --> 00:21:52,700
+<font face="Roboto Medium" size="26"><i>Even if no one knows...</i></font>
+
+422
+00:21:53,150 --> 00:21:54,670
+<font face="Roboto Medium" size="26"><i>who created it.</i></font>
+
+423
+00:21:58,300 --> 00:22:00,800
+<font size="20">{\an8}THE BODY, ENERGIZED.</font>
+
+424
+00:21:58,300 --> 00:21:59,770
+<font face="Roboto Medium" size="26">You suck.</font>
+
+425
+00:22:09,460 --> 00:22:11,680
+<font face="Roboto Medium" size="26">A man's path blurred by tears...</font>
+
+426
+00:22:11,680 --> 00:22:19,530
+<font face="Roboto Medium" size="26"><i>A man's path blurred by tears...</i></font>
+
+427
+00:22:24,530 --> 00:22:28,240
+<font size="20">{\an8}TRANSLATION: YUKARI MURASE-LOUDEN</font>
+
+428
+00:22:28,240 --> 00:22:31,940
+<font size="20">{\an8}TIMING: MARIANA MARTINEZ
+EDITING: RILEY DALTON</font>
+
+429
+00:22:31,940 --> 00:22:35,040
+<font size="20">{\an8}QUALITY CONTROL: SMR
+TRANSLATION CHECK: REI MIYASAKA</font>
+
