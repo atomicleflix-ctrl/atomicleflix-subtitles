@@ -1,0 +1,116 @@
+1
+00:00:11,490 --> 00:00:12,990
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="8"><font color="#b09b7c"><b>Tokyo Police
+<font size="10">2nd District Police Station</font></b></font></font></font></b></font>
+
+2
+00:00:17,830 --> 00:00:22,330
+<font face="Gandhi Sans" size="24"><b><font size="30">{\an8}<font face="Arial"><font color="#393944">Nao Kanzaki</font></font></font></b></font>
+
+3
+00:00:55,610 --> 00:01:07,290
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Times New Roman"><font size="16"><font color="#e1dfde"><b>Ms. Nao Kanzaki,
+ Congratulations.
+ You have beaten the 1-in-100,000 odds
+to participate in the Liar Game Tournament.</b></font></font></font></b></font>
+
+4
+00:01:25,020 --> 00:01:29,480
+<font face="Gandhi Sans" size="24"><b><font face="Arial">{\an3}<font size="14"><b><font color="#876e2d">The <font color="#a1000f">Legendary Con Artist</font></font></b></font></font></b></font>
+
+5
+00:01:53,250 --> 00:01:55,090
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><font color="#d6cfcb">100 Million Yen Battle</font></font></b></font>
+
+6
+00:04:03,470 --> 00:04:04,970
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Times New Roman"><font size="20"><b><font color="#514d49">Mitsuo Tanimura Law Office</font></b></font></font></b></font>
+
+7
+00:09:16,280 --> 00:09:23,160
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><font size="18"><font color="#a09f9f">Progress Report</font></font></font></b></font>
+
+8
+00:09:16,280 --> 00:09:23,160
+<font face="Gandhi Sans" size="24"><b>{\an1}<font face="Times New Roman"><font size="10"><font color="#a09f9f">Kazuo Fujisawa</font></font></font></b></font>
+
+9
+00:09:16,280 --> 00:09:23,160
+<font face="Gandhi Sans" size="24"><b>{\an1}<font face="Times New Roman"><font size="10"><font color="#a09f9f">Nao Kanzaki</font></font></font></b></font>
+
+10
+00:09:16,280 --> 00:09:23,160
+<font face="Gandhi Sans" size="24"><b>{\an1}<font face="Times New Roman"><font size="10"><font color="#a09f9f">You are currently losing. The game will end in 29 days.</font></font></font></b></font>
+
+11
+00:09:52,440 --> 00:09:54,730
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Arial"><font size="16"><font color="#bbb8b5"><b>Fujisawa-sensei</b></font></font></font></b></font>
+
+12
+00:10:45,330 --> 00:10:46,830
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><font size="16"><font color="#818596">Progress Report</font></font></font></b></font>
+
+13
+00:10:45,330 --> 00:10:46,830
+<font face="Gandhi Sans" size="24"><b>{\an1}<font face="Times New Roman"><font size="10"><font color="#818596">Kazuo Fujisawa</font></font></font></b></font>
+
+14
+00:10:45,330 --> 00:10:46,830
+<font face="Gandhi Sans" size="24"><b>{\an1}<font face="Times New Roman"><font size="10"><font color="#818596">Nao Kanzaki</font></font></font></b></font>
+
+15
+00:10:45,330 --> 00:10:46,830
+<font face="Gandhi Sans" size="24"><b>{\an1}<font face="Times New Roman"><font size="10"><font color="#818596">You are currently losing. The game will end in 29 days.</font></font></font></b></font>
+
+16
+00:11:47,010 --> 00:11:48,580
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Arial Black"><font size="18"><u><font color="#3000a7">The Latest on Massive Scam
+<font size="24"><font color="#e90038"></font></font></font></u>Genius Con Artist to Be Released Soon</font></font></b></font>
+
+17
+00:11:48,580 --> 00:11:50,020
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Arial Black"><font size="18"><u><font color="#3000a7">The Latest on Massive Scam
+<font size="24"><font color="#f28ea4">Genius Con Artist to Be Released Soon</font></font></font></u></font></font></b></font>
+
+18
+00:11:50,200 --> 00:11:52,250
+<font face="Gandhi Sans" size="24"><b>{\an7}<font face="Arial Black"><font size="10"><font color="#1d1d1d">Genius Con Artist to Be Released Soon</font></font></font></b></font>
+
+19
+00:12:00,530 --> 00:12:05,030
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="14"><font color="#78757e"><b>Shinichi Akiyama, soon to be released</b></font></font></font></b></font>
+
+20
+00:14:47,230 --> 00:14:51,470
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><font size="10"><font color="#a29fa5"><b>Izakaya Yocchan
+<font size="8">Japanese Sake,
+ Shochu, Craft Beer</font></b></font></font></font></b></font>
+
+21
+00:15:04,790 --> 00:15:07,000
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black">{\an8}<font color="#f5f8ca">Izakaya Yocchan</font></font></b></font>
+
+22
+00:15:26,610 --> 00:15:28,610
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="12"><font color="#423638"><b>Strawberry au Lait</b></font></font></font></b></font>
+
+23
+00:15:26,610 --> 00:15:28,610
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><font size="8"><font color="#ab696a">Umeboshi <font color="#524c4c">Rice Ball</font></font></font></font></b></font>
+
+24
+00:15:26,610 --> 00:15:28,610
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="18"><font color="#241917">Coarse Red Bean Bun</font></font></font></b></font>
+
+25
+00:20:46,930 --> 00:20:50,930
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="8">{\an8}<font color="#453b1b"><b>Game Ends</b></font></font></font></b></font>
+
+26
+00:23:45,060 --> 00:23:50,140
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><font size="16"><font color="#c3c3a8">Next Time</font></font></font></b></font>
+
+27
+00:23:45,060 --> 00:23:50,140
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman">{\an8}<b>Shockwave</b></font></b></font>
+
