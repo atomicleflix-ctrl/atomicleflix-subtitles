@@ -1,0 +1,1607 @@
+1
+00:00:01,030 --> 00:00:02,710
+<font face="Roboto Medium" size="26">Minority Rule?</font>
+
+2
+00:00:02,710 --> 00:00:03,430
+<font face="Roboto Medium" size="26">What?</font>
+
+3
+00:00:03,430 --> 00:00:04,980
+<font face="Roboto Medium" size="26">I've never heard of that before.</font>
+
+4
+00:00:06,890 --> 00:00:08,890
+<font face="Roboto Medium" size="26">Allow me to explain.</font>
+
+5
+00:00:09,310 --> 00:00:12,900
+<font face="Roboto Medium" size="26">First, you will be presented 
+with a binary question.</font>
+
+6
+00:00:13,370 --> 00:00:18,250
+<font face="Roboto Medium" size="26">Each player will cast a vote
+of either "yes" or "no" to answer.</font>
+
+7
+00:00:18,250 --> 00:00:23,100
+<font face="Roboto Medium" size="26">Once the votes are tallied, 
+the answer that receives fewer votes wins.</font>
+
+8
+00:00:23,510 --> 00:00:26,510
+<font face="Roboto Medium" size="26">The winners will move on to the next vote.</font>
+
+9
+00:00:26,510 --> 00:00:28,560
+<font face="Roboto Medium" size="26">The losers will be eliminated
+ from the game,</font>
+
+10
+00:00:28,560 --> 00:00:31,670
+<font face="Roboto Medium" size="26">at which point they must return 
+their 100 million yen and leave.</font>
+
+11
+00:00:31,670 --> 00:00:34,010
+<font face="Roboto Medium" size="26">In the event of a tie,
+ the vote will be repeated.</font>
+
+12
+00:00:34,010 --> 00:00:36,740
+<font face="Roboto Medium" size="26">Voting will then continue in this manner</font>
+
+13
+00:00:36,740 --> 00:00:39,750
+<font face="Roboto Medium" size="26">until either one or two players remain.</font>
+
+14
+00:00:40,510 --> 00:00:43,590
+<font face="Roboto Medium" size="26">At that juncture, there can 
+no longer be a minority,</font>
+
+15
+00:00:43,590 --> 00:00:45,400
+<font face="Roboto Medium" size="26">so the game will conclude.</font>
+
+16
+00:00:45,400 --> 00:00:48,220
+<font face="Roboto Medium" size="26">The prize money will be 
+paid out from the initial pool:</font>
+
+17
+00:00:48,220 --> 00:00:50,650
+<font face="Roboto Medium" size="26">2.1 billion in the event of one winner,</font>
+
+18
+00:00:51,290 --> 00:00:54,860
+<font face="Roboto Medium" size="26">and one billion each in the event of two.</font>
+
+19
+00:00:54,860 --> 00:00:56,520
+<font face="Roboto Medium" size="26">One billion each?</font>
+
+20
+00:00:57,040 --> 00:00:59,120
+<font face="Roboto Medium" size="26">It's fixed!</font>
+
+21
+00:01:00,430 --> 00:01:03,230
+<font face="Roboto Medium" size="26">There are plants from the 
+LGT Office in the crowd,</font>
+
+22
+00:01:03,230 --> 00:01:06,120
+<font face="Roboto Medium" size="26">and they're gonna rig it 
+so the rest of us can't win!</font>
+
+23
+00:01:06,120 --> 00:01:07,500
+<font face="Roboto Medium" size="26">Right?!</font>
+
+24
+00:01:08,690 --> 00:01:11,160
+<font face="Roboto Medium" size="26">How could we possibly do that?</font>
+
+25
+00:01:11,950 --> 00:01:13,690
+<font face="Roboto Medium" size="26">If this were "Majority Rule,"</font>
+
+26
+00:01:13,690 --> 00:01:17,650
+<font face="Roboto Medium" size="26">we could ensure victory by having 
+over half of the participants be plants.</font>
+
+27
+00:01:18,090 --> 00:01:20,350
+<font face="Roboto Medium" size="26">But this is "Minority Rule."</font>
+
+28
+00:01:20,350 --> 00:01:23,190
+<font face="Roboto Medium" size="26">There is no way for us to rig that.</font>
+
+29
+00:01:27,380 --> 00:01:29,190
+<font face="Roboto Medium" size="26">What are you after?</font>
+
+30
+00:01:29,190 --> 00:01:31,420
+<font face="Roboto Medium" size="26">What's the purpose of running this game?</font>
+
+31
+00:01:32,340 --> 00:01:35,130
+<font face="Roboto Medium" size="26">We wish to choose the true Liar King.</font>
+
+32
+00:01:35,130 --> 00:01:36,490
+<font face="Roboto Medium" size="26">That is all.</font>
+
+33
+00:03:09,200 --> 00:03:14,210
+<font face="Roboto Medium" size="26"><font face="Arial">{\an3}<font size="14"><b><font color="#876e2d">M<font color="#a1000f">inority Rule</font></font></b></font></font></font>
+
+34
+00:03:09,510 --> 00:03:15,960
+<font face="Roboto Medium" size="26">{\an8}In this world, some are willing to pay
+vast sums of money for "genius liars."</font>
+
+35
+00:03:15,960 --> 00:03:21,230
+<font face="Roboto Medium" size="26">The Liar Game is funded by such people.</font>
+
+36
+00:03:21,230 --> 00:03:26,790
+<font face="Roboto Medium" size="26">I cannot give their names, 
+but the LGT Office does not cheat.</font>
+
+37
+00:03:27,230 --> 00:03:29,840
+<font face="Roboto Medium" size="26">We have no reason to.</font>
+
+38
+00:03:31,830 --> 00:03:35,150
+<font face="Roboto Medium" size="26">Now, I'm sure you're all hungry.</font>
+
+39
+00:03:35,150 --> 00:03:37,600
+<font face="Roboto Medium" size="26">We have prepared dinner for you.</font>
+
+40
+00:03:42,830 --> 00:03:46,950
+<font face="Roboto Medium" size="26"><i>A sumptuous banquet 
+was rolled out before us.</i></font>
+
+41
+00:03:48,110 --> 00:03:54,090
+<font face="Roboto Medium" size="26"><i>But the game to come would leave 
+nearly all of us 100 million in debt.</i></font>
+
+42
+00:03:54,790 --> 00:03:56,990
+<font face="Roboto Medium" size="26"><i>Hardly a situation to whet the appetite.</i></font>
+
+43
+00:03:58,720 --> 00:04:01,630
+<font face="Roboto Medium" size="26"><i>The only people eating as 
+if nothing were wrong</i></font>
+
+44
+00:04:01,970 --> 00:04:04,460
+<font face="Roboto Medium" size="26"><i>were Akiyama-san and one other...</i></font>
+
+45
+00:04:04,840 --> 00:04:09,180
+<font face="Roboto Medium" size="26"><i>A man in sunglasses who 
+wore the number 15.</i></font>
+
+46
+00:04:11,600 --> 00:04:12,860
+<font face="Roboto Medium" size="26">You're not going to eat?</font>
+
+47
+00:04:12,860 --> 00:04:15,800
+<font face="Roboto Medium" size="26">I don't know how you <i>can</i> 
+in these circumstances...</font>
+
+48
+00:04:15,800 --> 00:04:18,040
+<font face="Roboto Medium" size="26">The battle ahead of us won't be easy.</font>
+
+49
+00:04:18,040 --> 00:04:19,770
+<font face="Roboto Medium" size="26">You need to keep up your strength.</font>
+
+50
+00:04:20,350 --> 00:04:22,750
+<font face="Roboto Medium" size="26">The battle ahead of us...</font>
+
+51
+00:04:25,550 --> 00:04:26,750
+<font face="Roboto Medium" size="26">That reminds me!</font>
+
+52
+00:04:26,750 --> 00:04:30,110
+<font face="Roboto Medium" size="26">How did you get in here, Akiyama-san?</font>
+
+53
+00:04:30,110 --> 00:04:32,400
+<font face="Roboto Medium" size="26">You weren't invited, were you?</font>
+
+54
+00:04:32,400 --> 00:04:34,890
+<font face="Roboto Medium" size="26">I could ask you a similar question.</font>
+
+55
+00:04:34,890 --> 00:04:37,230
+<font face="Roboto Medium" size="26">I told you to ignore this, 
+so why are you here?</font>
+
+56
+00:04:37,580 --> 00:04:39,580
+<font face="Roboto Medium" size="26">W-Well...</font>
+
+57
+00:04:41,790 --> 00:04:45,120
+<font face="Roboto Medium" size="26">I came here to stop you, 
+but I was too late.</font>
+
+58
+00:04:45,770 --> 00:04:50,520
+<font face="Roboto Medium" size="26">By the time I arrived, 
+you were already inside.</font>
+
+59
+00:04:50,930 --> 00:04:54,010
+<font face="Roboto Medium" size="26">I wandered around for a while, 
+considering my options,</font>
+
+60
+00:04:54,010 --> 00:04:56,090
+<font face="Roboto Medium" size="26">and then I ran into a woman.</font>
+
+61
+00:04:58,700 --> 00:05:00,030
+<font face="Roboto Medium" size="26">What's wrong?</font>
+
+62
+00:05:00,030 --> 00:05:04,060
+<font face="Roboto Medium" size="26">I... I don't know what to do.</font>
+
+63
+00:05:04,060 --> 00:05:06,480
+<font face="Roboto Medium" size="26">Are you a Liar Game participant?</font>
+
+64
+00:05:06,480 --> 00:05:08,100
+<font face="Roboto Medium" size="26">Y-Yes...</font>
+
+65
+00:05:08,490 --> 00:05:11,300
+<font face="Roboto Medium" size="26">She told me she'd stolen 
+the entire 100 million yen</font>
+
+66
+00:05:11,300 --> 00:05:13,880
+<font face="Roboto Medium" size="26">from her opponent in the first round.</font>
+
+67
+00:05:14,530 --> 00:05:19,700
+<font face="Roboto Medium" size="26">She didn't go into particulars, 
+but she said she was racked with guilt</font>
+
+68
+00:05:19,700 --> 00:05:24,160
+<font face="Roboto Medium" size="26">and had come to return the entire 
+sum to the tournament office.</font>
+
+69
+00:05:25,850 --> 00:05:29,670
+<font face="Roboto Medium" size="26">She's said as much to the agent 
+who came to greet her,</font>
+
+70
+00:05:29,670 --> 00:05:32,720
+<font face="Roboto Medium" size="26">before giving him a check for 
+100 million yen and dropping out...</font>
+
+71
+00:05:34,000 --> 00:05:35,390
+<font face="Roboto Medium" size="26">Or so she thought.</font>
+
+72
+00:05:35,780 --> 00:05:37,740
+<font face="Roboto Medium" size="26">"So she thought"?</font>
+
+73
+00:05:37,740 --> 00:05:40,230
+<font face="Roboto Medium" size="26">She didn't actually drop out,</font>
+
+74
+00:05:40,230 --> 00:05:43,540
+<font face="Roboto Medium" size="26">because the agent who 
+took her check was fake.</font>
+
+75
+00:05:44,250 --> 00:05:47,900
+<font face="Roboto Medium" size="26">In reality, he was another 
+participant in the game.</font>
+
+76
+00:05:48,810 --> 00:05:54,160
+<font face="Roboto Medium" size="26">She didn't realize this until a real
+ official explained the situation.</font>
+
+77
+00:05:54,510 --> 00:05:57,830
+<font face="Roboto Medium" size="26">We all wear these masks.</font>
+
+78
+00:05:57,830 --> 00:06:00,910
+<font face="Roboto Medium" size="26">Anyone who entered the 
+mansion earlier was a player.</font>
+
+79
+00:06:01,280 --> 00:06:03,490
+<font face="Roboto Medium" size="26">It was already too late.</font>
+
+80
+00:06:03,490 --> 00:06:07,210
+<font face="Roboto Medium" size="26">In the blink of an eye, 
+she'd lost her chance to drop out.</font>
+
+81
+00:06:08,230 --> 00:06:11,880
+<font face="Roboto Medium" size="26">So I offered to fight in her place</font>
+
+82
+00:06:11,880 --> 00:06:15,430
+<font face="Roboto Medium" size="26">on the condition that I would 
+take both the prize and the liability.</font>
+
+83
+00:06:15,430 --> 00:06:19,910
+<font face="Roboto Medium" size="26">The office accepts anyone as a participant
+ so long as they have an invitation.</font>
+
+84
+00:06:20,880 --> 00:06:22,310
+<font face="Roboto Medium" size="26">Hence...</font>
+
+85
+00:06:22,310 --> 00:06:24,320
+<font face="Roboto Medium" size="26"><font size="18"><font face="Arial"><b><font color="#040707">Michiko Takata</font></b></font></font></font>
+
+86
+00:06:22,960 --> 00:06:24,310
+<font face="Roboto Medium" size="26">Your name...</font>
+
+87
+00:06:24,310 --> 00:06:29,820
+<font face="Roboto Medium" size="26">So even though I came here to stop you,
+ I wound up drawn into the game myself.</font>
+
+88
+00:06:29,820 --> 00:06:32,190
+<font face="Roboto Medium" size="26">I-I'm so sorry.</font>
+
+89
+00:06:32,190 --> 00:06:35,670
+<font face="Roboto Medium" size="26">Now that we're here, 
+we'll just have to win and get out.</font>
+
+90
+00:06:36,130 --> 00:06:37,060
+<font face="Roboto Medium" size="26">You got that?</font>
+
+91
+00:06:38,660 --> 00:06:41,590
+<font face="Roboto Medium" size="26"><i>I was happy to see him,
+ but more than anything...</i></font>
+
+92
+00:06:42,640 --> 00:06:44,250
+<font face="Roboto Medium" size="26"><i>I was relieved.</i></font>
+
+93
+00:06:49,000 --> 00:06:52,240
+<font face="Roboto Medium" size="26">We will now showcase 
+a rehearsal for the game.</font>
+
+94
+00:06:52,240 --> 00:06:53,690
+<font face="Roboto Medium" size="26">Please, come this way.</font>
+
+95
+00:06:56,130 --> 00:07:00,860
+<font face="Roboto Medium" size="26">I will once again explain 
+the rules of the game.</font>
+
+96
+00:07:00,860 --> 00:07:04,100
+<font face="Roboto Medium" size="26">First, a questioner 
+will be chosen via lottery.</font>
+
+97
+00:07:04,580 --> 00:07:07,110
+<font face="Roboto Medium" size="26">Number 18, if you please.</font>
+
+98
+00:07:07,110 --> 00:07:08,980
+<font face="Roboto Medium" size="26">M-Me?</font>
+
+99
+00:07:09,390 --> 00:07:11,020
+<font face="Roboto Medium" size="26">You may ask anything at all.</font>
+
+100
+00:07:11,020 --> 00:07:13,120
+<font face="Roboto Medium" size="26">However, the question you pick</font>
+
+101
+00:07:13,120 --> 00:07:18,180
+<font face="Roboto Medium" size="26">must be answerable 
+with either "yes" or "no."</font>
+
+102
+00:07:18,650 --> 00:07:20,440
+<font face="Roboto Medium" size="26">Now, come up to the stage.</font>
+
+103
+00:07:20,440 --> 00:07:22,450
+<font face="Roboto Medium" size="26">This is but practice,
+so you've nothing to fear.</font>
+
+104
+00:07:26,710 --> 00:07:29,250
+<font face="Roboto Medium" size="26">W-Well, then...</font>
+
+105
+00:07:30,420 --> 00:07:33,400
+<font face="Roboto Medium" size="26">A-Are you a woman?</font>
+
+106
+00:07:33,400 --> 00:07:35,860
+<font face="Roboto Medium" size="26">There. We have our question.</font>
+
+107
+00:07:35,860 --> 00:07:37,800
+<font face="Roboto Medium" size="26">"Are you a woman?"</font>
+
+108
+00:07:37,800 --> 00:07:42,140
+<font face="Roboto Medium" size="26">Please submit your answers using 
+the slips we handed out earlier.</font>
+
+109
+00:07:42,140 --> 00:07:47,090
+<font face="Roboto Medium" size="26">Each slip contains your player number
+ and either "yes" or "no."</font>
+
+110
+00:07:47,090 --> 00:07:51,840
+<font face="Roboto Medium" size="26">If you wish to vote in the affirmative,
+please place your "yes" slip in the box.</font>
+
+111
+00:07:52,330 --> 00:07:55,660
+<font face="Roboto Medium" size="26">In order to prevent cheating,
+you will not be writing your answers.</font>
+
+112
+00:07:55,660 --> 00:07:58,790
+<font face="Roboto Medium" size="26">This is to stop players from voting
+in anyone else's name.</font>
+
+113
+00:07:59,140 --> 00:08:02,470
+<font face="Roboto Medium" size="26">After a question is posed, 
+you will be given time to think.</font>
+
+114
+00:08:02,470 --> 00:08:03,910
+<font face="Roboto Medium" size="26">Precisely six hours.</font>
+
+115
+00:08:03,910 --> 00:08:05,230
+<font face="Roboto Medium" size="26">Six whole hours?</font>
+
+116
+00:08:05,230 --> 00:08:06,160
+<font face="Roboto Medium" size="26">Why so long?</font>
+
+117
+00:08:06,160 --> 00:08:08,830
+<font face="Roboto Medium" size="26">You may vote immediately if you wish,</font>
+
+118
+00:08:08,830 --> 00:08:11,660
+<font face="Roboto Medium" size="26">or you may wait until 
+just before the time limit.</font>
+
+119
+00:08:11,910 --> 00:08:16,310
+<font face="Roboto Medium" size="26">Should you fail to vote within six hours,
+however, you will be disqualified.</font>
+
+120
+00:08:16,310 --> 00:08:17,860
+<font face="Roboto Medium" size="26">Caution is advised.</font>
+
+121
+00:08:18,660 --> 00:08:23,200
+<font face="Roboto Medium" size="26">This round is merely a rehearsal, 
+so the time limit will be ten minutes.</font>
+
+122
+00:08:25,180 --> 00:08:26,950
+<font face="Roboto Medium" size="26">Now, begin.</font>
+
+123
+00:08:29,070 --> 00:08:32,150
+<font face="Roboto Medium" size="26">Which should I do? I'm a woman...</font>
+
+124
+00:08:32,150 --> 00:08:34,180
+<font face="Roboto Medium" size="26">But this is Minority Rule.</font>
+
+125
+00:08:34,180 --> 00:08:35,630
+<font face="Roboto Medium" size="26">Um...</font>
+
+126
+00:08:38,600 --> 00:08:41,980
+<font face="Roboto Medium" size="26"><i>There are only six women 
+here, including me.</i></font>
+
+127
+00:08:43,280 --> 00:08:45,570
+<font face="Roboto Medium" size="26"><i>Fantastic! I'm in the minority!</i></font>
+
+128
+00:08:46,430 --> 00:08:49,310
+<font face="Roboto Medium" size="26"><i>This might be easier than I thought.</i></font>
+
+129
+00:08:55,020 --> 00:08:57,680
+<font face="Roboto Medium" size="26">Time is up. We shall now tally the votes.</font>
+
+130
+00:09:01,490 --> 00:09:03,150
+<font face="Roboto Medium" size="26">Number 5: "Yes."</font>
+
+131
+00:09:06,640 --> 00:09:08,460
+<font face="Roboto Medium" size="26">Number 11: "No."</font>
+
+132
+00:09:10,600 --> 00:09:12,520
+<font face="Roboto Medium" size="26">Number 19: "Yes."</font>
+
+133
+00:09:13,070 --> 00:09:15,740
+<font face="Roboto Medium" size="26"><i>The votes were counted monotonously...</i></font>
+
+134
+00:09:17,900 --> 00:09:21,900
+<font face="Roboto Medium" size="26"><i>But I was shocked by the result.</i></font>
+
+135
+00:09:22,630 --> 00:09:25,800
+<font face="Roboto Medium" size="26"><i>In the end, fifteen voted 
+"yes" and seven "no."</i></font>
+
+136
+00:09:26,370 --> 00:09:32,140
+<font face="Roboto Medium" size="26"><i>In other words, the answer of
+"I am a man" was the minority.</i></font>
+
+137
+00:09:32,820 --> 00:09:35,160
+<font face="Roboto Medium" size="26">How did men end up in the minority?</font>
+
+138
+00:09:36,550 --> 00:09:39,220
+<font face="Roboto Medium" size="26">You voted that you were 
+a man, didn't you?</font>
+
+139
+00:09:39,220 --> 00:09:41,600
+<font face="Roboto Medium" size="26">I voted "woman."</font>
+
+140
+00:09:41,600 --> 00:09:46,400
+<font face="Roboto Medium" size="26">I mean, there are obviously more men,
+ so I thought I'd get ahead of it...</font>
+
+141
+00:09:48,500 --> 00:09:52,790
+<font face="Roboto Medium" size="26">The object of the game is
+ to try to be in the minority.</font>
+
+142
+00:09:53,220 --> 00:09:56,170
+<font face="Roboto Medium" size="26">The accuracy of your answer is irrelevant.</font>
+
+143
+00:09:57,080 --> 00:09:59,030
+<font face="Roboto Medium" size="26">This is how the Liar Game works.</font>
+
+144
+00:09:59,030 --> 00:10:01,650
+<font face="Roboto Medium" size="26">The question posed by the asker 
+is a mere formality.</font>
+
+145
+00:10:02,130 --> 00:10:06,070
+<font face="Roboto Medium" size="26">What matters is getting 
+yourself into the minority.</font>
+
+146
+00:10:06,790 --> 00:10:10,610
+<font face="Roboto Medium" size="26">How well can you fool others 
+into joining the majority?</font>
+
+147
+00:10:11,000 --> 00:10:15,750
+<font face="Roboto Medium" size="26">Minority Rule is about strategy—about
+ feeling out your opponent's intentions.</font>
+
+148
+00:10:16,060 --> 00:10:20,320
+<font face="Roboto Medium" size="26">That is why you are given 
+six hours before the vote.</font>
+
+149
+00:10:21,380 --> 00:10:23,720
+<font face="Roboto Medium" size="26">This game has incredible depth.</font>
+
+150
+00:10:23,720 --> 00:10:28,140
+<font face="Roboto Medium" size="26">If you read others and strategize 
+perfectly, you can secure a vote of 21-1.</font>
+
+151
+00:10:28,410 --> 00:10:33,070
+<font face="Roboto Medium" size="26">It is possible to win the game 
+in a single round of voting.</font>
+
+152
+00:10:33,070 --> 00:10:36,030
+<font face="Roboto Medium" size="26">The critical factor to seizing 
+control of the game...</font>
+
+153
+00:10:36,620 --> 00:10:37,740
+<font face="Roboto Medium" size="26">is time!</font>
+
+154
+00:10:37,740 --> 00:10:40,190
+<font face="Roboto Medium" size="26">So much that it feels like too much!</font>
+
+155
+00:10:40,470 --> 00:10:44,830
+<font face="Roboto Medium" size="26">The one who can best control time
+will be the winner of Minority Rule!</font>
+
+156
+00:10:44,830 --> 00:10:45,910
+<font face="Roboto Medium" size="26">It is inevitable.</font>
+
+157
+00:10:49,680 --> 00:10:52,650
+<font face="Roboto Medium" size="26">This now concludes our rehearsal.</font>
+
+158
+00:10:52,650 --> 00:10:54,160
+<font face="Roboto Medium" size="26">E-Excuse me.</font>
+
+159
+00:10:54,160 --> 00:10:57,540
+<font face="Roboto Medium" size="26">Won't we be able to go home today?</font>
+
+160
+00:10:57,780 --> 00:11:00,140
+<font face="Roboto Medium" size="26">The real game begins tomorrow.</font>
+
+161
+00:11:00,140 --> 00:11:02,920
+<font face="Roboto Medium" size="26">Two rounds will be held per day.</font>
+
+162
+00:11:02,920 --> 00:11:06,670
+<font face="Roboto Medium" size="26">We must ask that you all stay the night.</font>
+
+163
+00:11:06,670 --> 00:11:09,870
+<font face="Roboto Medium" size="26">Your stay here will be all-expenses-paid,</font>
+
+164
+00:11:09,870 --> 00:11:12,250
+<font face="Roboto Medium" size="26">so please make yourselves comfortable.</font>
+
+165
+00:11:13,600 --> 00:11:17,460
+<font face="Roboto Medium" size="26">However, should any of you feel 
+you absolutely must leave,</font>
+
+166
+00:11:17,460 --> 00:11:19,860
+<font face="Roboto Medium" size="26">we will not stop you.</font>
+
+167
+00:11:19,860 --> 00:11:22,080
+<font face="Roboto Medium" size="26">You are free to do so.</font>
+
+168
+00:11:23,830 --> 00:11:25,960
+<font face="Roboto Medium" size="26"><i>There was no way anyone was leaving.</i></font>
+
+169
+00:11:26,590 --> 00:11:29,380
+<font face="Roboto Medium" size="26"><i>He said the game wouldn't start 
+officially until the next day,</i></font>
+
+170
+00:11:29,380 --> 00:11:33,230
+<font face="Roboto Medium" size="26"><i>but we'd already been given 
+our 100 million yen.</i></font>
+
+171
+00:11:34,090 --> 00:11:38,020
+<font face="Roboto Medium" size="26"><i>In other words, the game 
+was already in progress.</i></font>
+
+172
+00:11:38,490 --> 00:11:41,090
+<font face="Roboto Medium" size="26"><i>Anyone who left would be 
+judged as having forfeited</i></font>
+
+173
+00:11:41,530 --> 00:11:44,250
+<font face="Roboto Medium" size="26"><i>and saddled with a debt 
+of 100 million yen.</i></font>
+
+174
+00:11:47,620 --> 00:11:50,400
+<font face="Roboto Medium" size="26">Kanzaki-sama, this is your room.</font>
+
+175
+00:11:53,250 --> 00:11:54,460
+<font face="Roboto Medium" size="26">It's so fancy...</font>
+
+176
+00:11:55,450 --> 00:11:59,480
+<font face="Roboto Medium" size="26">We will fetch you one hour 
+before the game begins.</font>
+
+177
+00:11:59,480 --> 00:12:01,330
+<font face="Roboto Medium" size="26">Make yourself at home.</font>
+
+178
+00:12:05,130 --> 00:12:06,630
+<font face="Roboto Medium" size="26"><i>What do I do?</i></font>
+
+179
+00:12:07,000 --> 00:12:09,950
+<font face="Roboto Medium" size="26"><i>Is there a clear way 
+to win at Minority Rule?</i></font>
+
+180
+00:12:10,550 --> 00:12:15,000
+<font face="Roboto Medium" size="26"><i>The one who can best control time
+will be the winner of Minority Rule!</i></font>
+
+181
+00:12:16,490 --> 00:12:19,350
+<font face="Roboto Medium" size="26"><i>So it's about how we use our time?</i></font>
+
+182
+00:12:20,630 --> 00:12:27,140
+<font face="Roboto Medium" size="26"><font face="Times New Roman"><b>Spend six hours finding out whether
+ each player is voting yes or no</b></font></font>
+
+183
+00:12:21,160 --> 00:12:26,570
+<font face="Roboto Medium" size="26"><i>I could spend my six hours finding out
+whether each player's voting yes or no!</i></font>
+
+184
+00:12:28,480 --> 00:12:31,310
+<font face="Roboto Medium" size="26">No, I can't do that. 
+They'd trick me for sure.</font>
+
+185
+00:12:31,310 --> 00:12:33,350
+<font face="Roboto Medium" size="26">What should I do? What should I do?</font>
+
+186
+00:12:34,270 --> 00:12:39,520
+<font face="Roboto Medium" size="26"><font face="Times New Roman"><b>Stay by the voting box and peek at the votes</b></font></font>
+
+187
+00:12:34,790 --> 00:12:38,510
+<font face="Roboto Medium" size="26"><i>I could stay by the voting box 
+and peek at their votes!</i></font>
+
+188
+00:12:40,740 --> 00:12:44,270
+<font face="Roboto Medium" size="26">No, there's no way that would work...</font>
+
+189
+00:12:44,850 --> 00:12:46,030
+<font face="Roboto Medium" size="26">I know!</font>
+
+190
+00:12:46,030 --> 00:12:50,030
+<font face="Roboto Medium" size="26"><font face="Times New Roman"><b>Gather allies to create a majority</b></font></font>
+
+191
+00:12:46,630 --> 00:12:49,340
+<font face="Roboto Medium" size="26"><i>I can gather allies and create a majority!</i></font>
+
+192
+00:12:50,040 --> 00:12:53,040
+<font face="Roboto Medium" size="26">No, this is <i>Minority</i> Rule...</font>
+
+193
+00:12:53,040 --> 00:12:55,710
+<font face="Roboto Medium" size="26">You can't win unless 
+you're in the minority.</font>
+
+194
+00:12:56,950 --> 00:12:58,790
+<font face="Roboto Medium" size="26">I don't know what to do!</font>
+
+195
+00:12:58,790 --> 00:12:59,850
+<font face="Roboto Medium" size="26">What do I do?</font>
+
+196
+00:12:59,850 --> 00:13:02,820
+<font face="Roboto Medium" size="26">Am I... going to lose?</font>
+
+197
+00:13:03,760 --> 00:13:05,840
+<font face="Roboto Medium" size="26">No, no, no!</font>
+
+198
+00:13:05,840 --> 00:13:06,920
+<font face="Roboto Medium" size="26">Someone help me!</font>
+
+199
+00:13:06,920 --> 00:13:09,300
+<font face="Roboto Medium" size="26">Someone, help me! Akiyama-san!</font>
+
+200
+00:13:09,300 --> 00:13:10,660
+<font face="Roboto Medium" size="26">Help me!</font>
+
+201
+00:13:15,370 --> 00:13:16,690
+<font face="Roboto Medium" size="26">Akiyama-san!</font>
+
+202
+00:13:16,690 --> 00:13:18,310
+<font face="Roboto Medium" size="26">It's me! It's Nao!</font>
+
+203
+00:13:18,310 --> 00:13:20,840
+<font face="Roboto Medium" size="26">Are you there?! Akiyama-san!</font>
+
+204
+00:13:20,840 --> 00:13:21,690
+<font face="Roboto Medium" size="26">Where are you?!</font>
+
+205
+00:13:22,410 --> 00:13:26,590
+<font face="Roboto Medium" size="26"><i>I ran all through the hotel 
+looking for Akiyama-san.</i></font>
+
+206
+00:13:27,200 --> 00:13:29,690
+<font face="Roboto Medium" size="26"><i>And then, I stumbled upon...</i></font>
+
+207
+00:13:29,690 --> 00:13:32,260
+<font face="Roboto Medium" size="26"><i>where many of the players had gathered.</i></font>
+
+208
+00:13:33,040 --> 00:13:38,650
+<font face="Roboto Medium" size="26"><i>Perhaps like me, they were 
+unable to contain their anxiety.</i></font>
+
+209
+00:13:42,960 --> 00:13:44,290
+<font face="Roboto Medium" size="26">Akiyama-san!</font>
+
+210
+00:13:44,290 --> 00:13:48,530
+<font face="Roboto Medium" size="26">I can't think of a way to win this game!</font>
+
+211
+00:13:48,530 --> 00:13:50,220
+<font face="Roboto Medium" size="26">At this rate, I...</font>
+
+212
+00:13:50,460 --> 00:13:51,510
+<font face="Roboto Medium" size="26">Quit crying.</font>
+
+213
+00:13:51,510 --> 00:13:54,210
+<font face="Roboto Medium" size="26">If you want to survive, 
+the first rule is not to cry.</font>
+
+214
+00:13:54,210 --> 00:13:56,970
+<font face="Roboto Medium" size="26">The second is to know your enemy.</font>
+
+215
+00:13:57,860 --> 00:13:59,190
+<font face="Roboto Medium" size="26">Know your enemy?</font>
+
+216
+00:13:59,190 --> 00:14:02,650
+<font face="Roboto Medium" size="26">There are fourteen players 
+in this lobby right now.</font>
+
+217
+00:14:04,070 --> 00:14:06,930
+<font face="Roboto Medium" size="26">Interact with as many of them as you can.</font>
+
+218
+00:14:06,930 --> 00:14:09,970
+<font face="Roboto Medium" size="26">Learn their personalities 
+and circumstances.</font>
+
+219
+00:14:09,970 --> 00:14:11,420
+<font face="Roboto Medium" size="26">That's where you should start.</font>
+
+220
+00:14:12,490 --> 00:14:15,140
+<font face="Roboto Medium" size="26"><i>Everyone there was behaving differently.</i></font>
+
+221
+00:14:15,970 --> 00:14:22,390
+<font face="Roboto Medium" size="26"><i>Some were talking. Some stuck 
+to the wall, observing others.</i></font>
+
+222
+00:14:23,280 --> 00:14:26,120
+<font face="Roboto Medium" size="26"><i>Some ignored me when 
+I tried to talk to them,</i></font>
+
+223
+00:14:26,120 --> 00:14:28,500
+<font face="Roboto Medium" size="26"><i>while others spoke to me with abandon.</i></font>
+
+224
+00:14:30,760 --> 00:14:36,270
+<font face="Roboto Medium" size="26"><font face="Arial"><b><font size="18">{\an1}Fumio Matsubara, age 57
+ Ironworks Manager</font></b></font></font>
+
+225
+00:14:31,080 --> 00:14:34,670
+<font face="Roboto Medium" size="26">{\an8}I run a small factory. 
+It's deep in debt.</font>
+
+226
+00:14:34,670 --> 00:14:38,260
+<font face="Roboto Medium" size="26">{\an8}We were genuinely 
+considering family suicide</font>
+
+227
+00:14:38,260 --> 00:14:40,760
+<font face="Roboto Medium" size="26">when I received the Liar Game invitation.</font>
+
+228
+00:14:41,110 --> 00:14:46,900
+<font face="Roboto Medium" size="26">I won 20 million in the first round and 
+used it to pay off over half of my debt.</font>
+
+229
+00:14:47,240 --> 00:14:50,280
+<font face="Roboto Medium" size="26">But then came the second round,</font>
+
+230
+00:14:50,280 --> 00:14:53,030
+<font face="Roboto Medium" size="26">and they said I'd need to pay
+ten million to drop out...</font>
+
+231
+00:14:53,030 --> 00:14:56,490
+<font face="Roboto Medium" size="26">I'd already spent the money
+ paying back my debt!</font>
+
+232
+00:14:56,490 --> 00:14:58,740
+<font face="Roboto Medium" size="26">How was I supposed to come up with more?</font>
+
+233
+00:14:59,410 --> 00:15:04,040
+<font face="Roboto Medium" size="26"><font face="Arial"><b><font size="18">{\an1}Takayoshi Miura, age 25
+ Part-Timer</font></b></font></font>
+
+234
+00:14:59,520 --> 00:15:04,040
+<font face="Roboto Medium" size="26">{\an8}I won just by stealing two 
+of those million-yen stacks.</font>
+
+235
+00:15:04,040 --> 00:15:05,640
+<font face="Roboto Medium" size="26">You didn't want to drop out?</font>
+
+236
+00:15:05,640 --> 00:15:07,370
+<font face="Roboto Medium" size="26">Never even crossed my mind.</font>
+
+237
+00:15:07,370 --> 00:15:10,570
+<font face="Roboto Medium" size="26">I figured the second round 
+would be easy money, too.</font>
+
+238
+00:15:10,570 --> 00:15:13,300
+<font face="Roboto Medium" size="26">But can you believe this bullshit game?</font>
+
+239
+00:15:13,300 --> 00:15:15,360
+<font face="Roboto Medium" size="26">A hundred million in debt if we blow it?</font>
+
+240
+00:15:15,360 --> 00:15:17,270
+<font face="Roboto Medium" size="26">They fleeced us for sure.</font>
+
+241
+00:15:17,270 --> 00:15:20,060
+<font face="Roboto Medium" size="26">Hey, whaddya think happens 
+if we lose here?</font>
+
+242
+00:15:20,740 --> 00:15:23,560
+<font face="Roboto Medium" size="26">I mean, I don't really know...</font>
+
+243
+00:15:23,560 --> 00:15:26,380
+<font face="Roboto Medium" size="26">This org is shady as hell, man.</font>
+
+244
+00:15:26,380 --> 00:15:29,580
+<font face="Roboto Medium" size="26">You just know they've got human 
+trafficking connections.</font>
+
+245
+00:15:29,580 --> 00:15:31,540
+<font face="Roboto Medium" size="26">They're gonna sell us!</font>
+
+246
+00:15:31,540 --> 00:15:35,710
+<font face="Roboto Medium" size="26">You're young and pretty,
+ so you'd fetch good money, I bet.</font>
+
+247
+00:15:36,210 --> 00:15:38,180
+<font face="Roboto Medium" size="26">O-Oh my goodness!</font>
+
+248
+00:15:41,270 --> 00:15:42,490
+<font face="Roboto Medium" size="26">How did it go?</font>
+
+249
+00:15:42,490 --> 00:15:46,620
+<font face="Roboto Medium" size="26">Most of the people here ended up</font>
+
+250
+00:15:46,620 --> 00:15:50,280
+<font face="Roboto Medium" size="26">in the Liar Game due to money problems.</font>
+
+251
+00:15:50,280 --> 00:15:51,460
+<font face="Roboto Medium" size="26">I see.</font>
+
+252
+00:15:51,680 --> 00:15:56,570
+<font face="Roboto Medium" size="26">And most of them won 
+their first-round game with ease,</font>
+
+253
+00:15:56,570 --> 00:16:00,470
+<font face="Roboto Medium" size="26">so they thought they could win 
+the second just as easily.</font>
+
+254
+00:16:00,800 --> 00:16:05,990
+<font face="Roboto Medium" size="26">No one was expecting the second-round 
+game to leave almost all of us</font>
+
+255
+00:16:05,990 --> 00:16:08,470
+<font face="Roboto Medium" size="26">100 million yen in debt.</font>
+
+256
+00:16:09,020 --> 00:16:10,510
+<font face="Roboto Medium" size="26">Good work.</font>
+
+257
+00:16:10,510 --> 00:16:13,340
+<font face="Roboto Medium" size="26">You can get some rest 
+and prepare for tomorrow.</font>
+
+258
+00:16:15,050 --> 00:16:17,310
+<font face="Roboto Medium" size="26">Um, I...</font>
+
+259
+00:16:18,570 --> 00:16:19,990
+<font face="Roboto Medium" size="26">Am I going to be sold?</font>
+
+260
+00:16:20,460 --> 00:16:22,500
+<font face="Roboto Medium" size="26">Will I be sold to some other country,</font>
+
+261
+00:16:22,940 --> 00:16:25,910
+<font face="Roboto Medium" size="26">never to see my father again?</font>
+
+262
+00:16:26,370 --> 00:16:29,700
+<font face="Roboto Medium" size="26">Quit crying. Tears won't solve anything.</font>
+
+263
+00:16:29,700 --> 00:16:30,630
+<font face="Roboto Medium" size="26">But...</font>
+
+264
+00:16:31,310 --> 00:16:34,140
+<font face="Roboto Medium" size="26">Don't worry. You're not going to lose.</font>
+
+265
+00:16:34,910 --> 00:16:38,010
+<font face="Roboto Medium" size="26">There's a foolproof strategy 
+to win this game.</font>
+
+266
+00:16:38,520 --> 00:16:41,760
+<font face="Roboto Medium" size="26">A foolproof strategy? What is it?!</font>
+
+267
+00:16:42,100 --> 00:16:44,910
+<font face="Roboto Medium" size="26">We can't talk here. Let's go to my room.</font>
+
+268
+00:16:51,580 --> 00:16:54,660
+<font face="Roboto Medium" size="26">What would you count 
+as "winning" this game?</font>
+
+269
+00:16:54,660 --> 00:16:58,460
+<font face="Roboto Medium" size="26">You survive to the end 
+and get the 2.1 billion, right?</font>
+
+270
+00:16:58,460 --> 00:17:02,860
+<font face="Roboto Medium" size="26">But if two people remain, 
+you only win half of that.</font>
+
+271
+00:17:02,860 --> 00:17:04,210
+<font face="Roboto Medium" size="26">Would that be losing?</font>
+
+272
+00:17:04,210 --> 00:17:07,670
+<font face="Roboto Medium" size="26">That's still a huge victory! 
+You still get a billion yen!</font>
+
+273
+00:17:07,670 --> 00:17:12,180
+<font face="Roboto Medium" size="26">So what if we dropped that all 
+the way down to forty million?</font>
+
+274
+00:17:13,230 --> 00:17:17,070
+<font face="Roboto Medium" size="26">Down to forty million? 
+That's still a lot of money.</font>
+
+275
+00:17:17,070 --> 00:17:18,760
+<font face="Roboto Medium" size="26">It'd still be a big win.</font>
+
+276
+00:17:18,760 --> 00:17:23,180
+<font face="Roboto Medium" size="26">If they'd let me drop out, 
+I wouldn't even ask for a single yen.</font>
+
+277
+00:17:23,570 --> 00:17:25,070
+<font face="Roboto Medium" size="26">I'll get straight to the point.</font>
+
+278
+00:17:25,410 --> 00:17:29,900
+<font face="Roboto Medium" size="26">My foolproof strategy won't win us 
+100 million, let alone a billion.</font>
+
+279
+00:17:30,260 --> 00:17:33,060
+<font face="Roboto Medium" size="26">But 40 million, I can guarantee.</font>
+
+280
+00:17:33,060 --> 00:17:35,310
+<font face="Roboto Medium" size="26">Is that really possible?</font>
+
+281
+00:17:35,580 --> 00:17:38,340
+<font face="Roboto Medium" size="26">Yes. We'll form a team.</font>
+
+282
+00:17:38,340 --> 00:17:41,040
+<font face="Roboto Medium" size="26">I thought about that myself.</font>
+
+283
+00:17:41,040 --> 00:17:43,840
+<font face="Roboto Medium" size="26">But the minority has power in this game.</font>
+
+284
+00:17:43,840 --> 00:17:46,590
+<font face="Roboto Medium" size="26">You can't win by building a team.</font>
+
+285
+00:17:47,050 --> 00:17:49,710
+<font face="Roboto Medium" size="26">I'm not talking about forming a majority.</font>
+
+286
+00:17:50,620 --> 00:17:53,350
+<font face="Roboto Medium" size="26">I'm talking about using a team
+ to make minorities.</font>
+
+287
+00:17:53,350 --> 00:17:55,520
+<font face="Roboto Medium" size="26">A team to make minorities?</font>
+
+288
+00:17:55,520 --> 00:17:58,400
+<font face="Roboto Medium" size="26">First, we'll need a team of eight people.</font>
+
+289
+00:17:58,400 --> 00:18:02,320
+<font face="Roboto Medium" size="26">Then we'll need them all to act 
+in a prescribed manner.</font>
+
+290
+00:18:03,020 --> 00:18:06,160
+<font face="Roboto Medium" size="26">We start the Minority Rule
+ game with 22 players.</font>
+
+291
+00:18:06,570 --> 00:18:11,600
+<font face="Roboto Medium" size="26">In the first round, four from our team 
+will vote yes and four will vote no.</font>
+
+292
+00:18:12,510 --> 00:18:16,320
+<font face="Roboto Medium" size="26">There's no way to know how 
+the other fourteen will vote,</font>
+
+293
+00:18:17,200 --> 00:18:20,970
+<font face="Roboto Medium" size="26">but what would the turnout be in 
+the case of the closest possible vote?</font>
+
+294
+00:18:20,970 --> 00:18:22,750
+<font face="Roboto Medium" size="26">Um...</font>
+
+295
+00:18:23,090 --> 00:18:25,280
+<font face="Roboto Medium" size="26">If they split evenly into sevens,</font>
+
+296
+00:18:25,280 --> 00:18:27,150
+<font face="Roboto Medium" size="26">we'd have to redo the vote,</font>
+
+297
+00:18:27,580 --> 00:18:32,160
+<font face="Roboto Medium" size="26">so six against eight would be
+ the closest possible scenario.</font>
+
+298
+00:18:32,160 --> 00:18:33,260
+<font face="Roboto Medium" size="26">Correct.</font>
+
+299
+00:18:33,820 --> 00:18:38,780
+<font face="Roboto Medium" size="26">Of the ten that remain,
+ four will be members of our team.</font>
+
+300
+00:18:38,780 --> 00:18:43,520
+<font face="Roboto Medium" size="26">In the next vote, we'll once again
+ split up evenly, this time in pairs.</font>
+
+301
+00:18:44,020 --> 00:18:46,770
+<font face="Roboto Medium" size="26">What's the closest vote there?</font>
+
+302
+00:18:46,770 --> 00:18:49,010
+<font face="Roboto Medium" size="26">There'd be six people left,</font>
+
+303
+00:18:49,010 --> 00:18:50,740
+<font face="Roboto Medium" size="26">so two against four.</font>
+
+304
+00:18:50,740 --> 00:18:51,830
+<font face="Roboto Medium" size="26">Correct.</font>
+
+305
+00:18:52,320 --> 00:18:55,490
+<font face="Roboto Medium" size="26">The following round, we'll have
+ one player each vote yes and no.</font>
+
+306
+00:18:55,490 --> 00:18:56,860
+<font face="Roboto Medium" size="26">What happens then?</font>
+
+307
+00:18:56,860 --> 00:18:59,690
+<font face="Roboto Medium" size="26">If the rest split up,
+ they'd have to revote...</font>
+
+308
+00:19:00,120 --> 00:19:03,870
+<font face="Roboto Medium" size="26">So to be final, it would 
+have to be zero against two.</font>
+
+309
+00:19:05,680 --> 00:19:06,790
+<font face="Roboto Medium" size="26">We'd win!</font>
+
+310
+00:19:07,460 --> 00:19:11,040
+<font face="Roboto Medium" size="26">Someone on our team would win for sure!</font>
+
+311
+00:19:11,540 --> 00:19:17,470
+<font face="Roboto Medium" size="26">{\an8}The final winner will pay half 
+of the 2.1 billion to drop out,</font>
+
+312
+00:19:17,470 --> 00:19:19,430
+<font face="Roboto Medium" size="26">{\an8}leaving them with 1.05 billion.</font>
+
+313
+00:19:19,830 --> 00:19:22,730
+<font face="Roboto Medium" size="26">{\an8}After paying back the buy-in for 
+their seven eliminated teammates,</font>
+
+314
+00:19:22,730 --> 00:19:25,080
+<font face="Roboto Medium" size="26">{\an8}they'd have 350 million remaining.</font>
+
+315
+00:19:26,350 --> 00:19:28,690
+<font face="Roboto Medium" size="26">And if that were split 
+evenly among all eight?</font>
+
+316
+00:19:28,690 --> 00:19:35,310
+<font face="Roboto Medium" size="26">Let's see... That'd be 43.75 million each?</font>
+
+317
+00:19:35,620 --> 00:19:36,690
+<font face="Roboto Medium" size="26">What?!</font>
+
+318
+00:19:36,690 --> 00:19:40,450
+<font face="Roboto Medium" size="26">You could win forty million 
+yen and still drop out!</font>
+
+319
+00:19:40,450 --> 00:19:42,800
+<font face="Roboto Medium" size="26">That's amazing! It's just amazing!</font>
+
+320
+00:19:42,800 --> 00:19:45,800
+<font face="Roboto Medium" size="26">It really is foolproof!
+You're amazing, Akiyama-san!</font>
+
+321
+00:19:45,800 --> 00:19:46,690
+<font face="Roboto Medium" size="26">Settle down.</font>
+
+322
+00:19:47,220 --> 00:19:50,300
+<font face="Roboto Medium" size="26">The plan still isn't without its issues.</font>
+
+323
+00:19:51,290 --> 00:19:54,950
+<font face="Roboto Medium" size="26">For instance, there's how
+ I ended up here in the first place.</font>
+
+324
+00:19:55,690 --> 00:19:59,880
+<font face="Roboto Medium" size="26">The fact that a player stole 
+100 million yen from someone?</font>
+
+325
+00:19:59,880 --> 00:20:03,220
+<font face="Roboto Medium" size="26">Yes. Let's call the culprit "X."</font>
+
+326
+00:20:03,860 --> 00:20:07,230
+<font face="Roboto Medium" size="26">We must distinguish X 
+from the other players.</font>
+
+327
+00:20:07,640 --> 00:20:12,800
+<font face="Roboto Medium" size="26">What makes them a danger is that they 
+have that check for 100 million yen.</font>
+
+328
+00:20:13,250 --> 00:20:17,160
+<font face="Roboto Medium" size="26">Anyone who loses here lands 
+themselves 100 million in debt.</font>
+
+329
+00:20:18,060 --> 00:20:21,350
+<font face="Roboto Medium" size="26">But X could pay that off with their check.</font>
+
+330
+00:20:21,770 --> 00:20:26,110
+<font face="Roboto Medium" size="26">In other words, they're the one 
+who doesn't have to be afraid of losing.</font>
+
+331
+00:20:27,350 --> 00:20:30,780
+<font face="Roboto Medium" size="26">My plan requires eight people 
+who will vote in an agreed-upon way</font>
+
+332
+00:20:30,780 --> 00:20:34,470
+<font face="Roboto Medium" size="26">and who will split the prize
+ with the team if they make it.</font>
+
+333
+00:20:34,470 --> 00:20:36,870
+<font face="Roboto Medium" size="26">There is no room for betrayal.</font>
+
+334
+00:20:37,690 --> 00:20:39,350
+<font face="Roboto Medium" size="26">Therefore, no matter what happens,</font>
+
+335
+00:20:39,350 --> 00:20:42,140
+<font face="Roboto Medium" size="26">we cannot allow X to join our team.</font>
+
+336
+00:20:42,140 --> 00:20:45,430
+<font face="Roboto Medium" size="26">But what is this "X" person even like?</font>
+
+337
+00:20:45,430 --> 00:20:49,820
+<font face="Roboto Medium" size="26">The victim said it happened so fast, 
+she didn't remember a thing.</font>
+
+338
+00:20:50,460 --> 00:20:54,370
+<font face="Roboto Medium" size="26">Only that it was a young man.</font>
+
+339
+00:20:54,890 --> 00:20:58,730
+<font face="Roboto Medium" size="26">And there are so many young men here...</font>
+
+340
+00:21:00,380 --> 00:21:02,140
+<font face="Roboto Medium" size="26">Wait, but that's good!</font>
+
+341
+00:21:02,140 --> 00:21:04,960
+<font face="Roboto Medium" size="26">Akiyama-san, we <i>can</i> make a team!</font>
+
+342
+00:21:04,960 --> 00:21:07,410
+<font face="Roboto Medium" size="26">One that definitely won't have X in it!</font>
+
+343
+00:21:07,710 --> 00:21:09,960
+<font face="Roboto Medium" size="26">There are five women here besides me!</font>
+
+344
+00:21:09,960 --> 00:21:12,660
+<font face="Roboto Medium" size="26">We can form a team with them!</font>
+
+345
+00:21:12,660 --> 00:21:16,410
+<font face="Roboto Medium" size="26">That's five women,
+ plus us for a total of seven.</font>
+
+346
+00:21:16,410 --> 00:21:17,920
+<font face="Roboto Medium" size="26">We're one person short.</font>
+
+347
+00:21:17,920 --> 00:21:19,170
+<font face="Roboto Medium" size="26">That's okay!</font>
+
+348
+00:21:19,430 --> 00:21:21,290
+<font face="Roboto Medium" size="26">There's the man with the factory!</font>
+
+349
+00:21:21,670 --> 00:21:25,220
+<font face="Roboto Medium" size="26">He's obviously not a young man!</font>
+
+350
+00:21:25,220 --> 00:21:28,180
+<font face="Roboto Medium" size="26">That makes eight! We have our team!</font>
+
+351
+00:21:28,180 --> 00:21:30,100
+<font face="Roboto Medium" size="26">Well, true enough.</font>
+
+352
+00:21:30,100 --> 00:21:33,730
+<font face="Roboto Medium" size="26">I'll go back to the lobby 
+and talk to them!</font>
+
+353
+00:21:33,730 --> 00:21:34,870
+<font face="Roboto Medium" size="26">Hey, wait a minute!</font>
+
+354
+00:21:35,180 --> 00:21:37,940
+<font face="Roboto Medium" size="26"><font face="Times New Roman"><b>One Hour Later</b></font></font>
+
+355
+00:21:37,950 --> 00:21:40,360
+<font face="Roboto Medium" size="26">Akiyama-san, I've brought everyone!</font>
+
+356
+00:21:40,360 --> 00:21:42,260
+<font face="Roboto Medium" size="26">All six of them!</font>
+
+357
+00:21:44,550 --> 00:21:47,520
+<font face="Roboto Medium" size="26">Are you serious? You actually 
+got them all to come?</font>
+
+358
+00:21:47,790 --> 00:21:53,920
+<font face="Roboto Medium" size="26">Well, she did cry and grovel and whine,
+ "I'll die if you don't come!"</font>
+
+359
+00:21:54,320 --> 00:21:57,960
+<font face="Roboto Medium" size="26">You'll die? You cried and groveled?</font>
+
+360
+00:21:57,960 --> 00:22:01,410
+<font face="Roboto Medium" size="26">I mean, this is no time to worry 
+about appearances, right?</font>
+
+361
+00:22:01,710 --> 00:22:02,690
+<font face="Roboto Medium" size="26">Right.</font>
+
+362
+00:22:03,060 --> 00:22:06,390
+<font face="Roboto Medium" size="26">We don't have time to hesitate.</font>
+
+363
+00:22:06,990 --> 00:22:09,230
+<font face="Roboto Medium" size="26">We'll have to proceed with this team.</font>
+
+364
+00:22:10,700 --> 00:22:13,500
+<font face="Roboto Medium" size="26">All right. Let's execute the plan.</font>
+
+365
+00:23:44,980 --> 00:23:49,980
+<font face="Roboto Medium" size="26"><font face="Times New Roman"><font size="16"><font color="#c3c3a8">Next Time</font></font></font></font>
+
+366
+00:23:44,980 --> 00:23:49,980
+<font face="Roboto Medium" size="26"><font face="Times New Roman">{\an8}<b>Alliance</b></font></font>
+
