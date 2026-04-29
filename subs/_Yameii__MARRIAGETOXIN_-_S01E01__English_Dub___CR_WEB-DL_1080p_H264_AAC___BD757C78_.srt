@@ -1,0 +1,64 @@
+1
+00:03:00,580 --> 00:03:00,700
+<font face="Gandhi Sans" size="24"><b>{\an7}<font face="Times New Roman"><font size="6">Bug <font color="#c9c5b9">Master</font></font></font></b></font>
+
+2
+00:03:00,700 --> 00:03:00,830
+<font face="Gandhi Sans" size="24"><b>{\an7}<font face="Times New Roman"><font size="6">Bug <font color="#c9c5b9">Master</font></font></font></b></font>
+
+3
+00:03:00,830 --> 00:03:01,450
+<font face="Gandhi Sans" size="24"><b>{\an7}<font face="Times New Roman"><font size="6">Bug <font color="#c9c5b9">Master</font></font></font></b></font>
+
+4
+00:03:01,450 --> 00:03:03,320
+<font face="Gandhi Sans" size="24"><b>{\an7}<font face="Times New Roman"><font size="6">Bug <font color="#c9c5b9">Master</font></font></font></b></font>
+
+5
+00:15:54,030 --> 00:15:56,010
+<font face="Gandhi Sans" size="24"><b><font face="Georgia"><font size="22"><b>The Poison Master's Search for a Bride</b></font></font></b></font>
+
+6
+00:18:13,350 --> 00:18:13,400
+<font face="Gandhi Sans" size="24"><b><b><font size="8"><font color="#ffffff">Send a message</font></font></b></b></font>
+
+7
+00:18:13,360 --> 00:18:13,400
+<font face="Gandhi Sans" size="24"><b><font face="Comic Sans MS"><b><font size="32"><font color="#f063c5">Match!</font></font></b></font></b></font>
+
+8
+00:18:13,400 --> 00:18:13,520
+<font face="Gandhi Sans" size="24"><b><font face="Comic Sans MS"><b><font size="32"><font color="#f063c5">Match!</font></font></b></font></b></font>
+
+9
+00:18:13,400 --> 00:18:13,520
+<font face="Gandhi Sans" size="24"><b><b><font size="8"><font color="#ffffff">Send a message</font></font></b></b></font>
+
+10
+00:18:13,520 --> 00:18:13,640
+<font face="Gandhi Sans" size="24"><b><font face="Comic Sans MS"><b><font size="32"><font color="#f063c5">Match!</font></font></b></font></b></font>
+
+11
+00:18:13,520 --> 00:18:13,640
+<font face="Gandhi Sans" size="24"><b><b><font size="8"><font color="#ffffff">Send a message</font></font></b></b></font>
+
+12
+00:18:13,640 --> 00:18:17,020
+<font face="Gandhi Sans" size="24"><b><font face="Comic Sans MS"><b><font size="32"><font color="#f063c5">Match!</font></font></b></font></b></font>
+
+13
+00:18:13,640 --> 00:18:17,020
+<font face="Gandhi Sans" size="24"><b><b><font size="8"><font color="#ffffff">Send a message</font></font></b></b></font>
+
+14
+00:20:38,490 --> 00:20:40,930
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="9"><font color="#635d65">Add Friend</font></font></b></font></b></font>
+
+15
+00:23:19,500 --> 00:23:22,110
+<font face="Gandhi Sans" size="24"><b>{\an8}<b><font size="26"><font color="#343739">Friends: 1</font></font></b></b></font>
+
+16
+00:23:53,200 --> 00:23:56,250
+<font face="Gandhi Sans" size="24"><b><font face="Georgia"><font size="22"><b>What Is "Charm," Anyway?</b></font></font></b></font>
+
