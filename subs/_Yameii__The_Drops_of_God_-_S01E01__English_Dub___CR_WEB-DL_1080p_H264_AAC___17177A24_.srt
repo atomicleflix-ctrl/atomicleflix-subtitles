@@ -1,0 +1,33 @@
+1
+00:04:20,110 --> 00:04:22,490
+<font face="Gandhi Sans" size="24"><b><font size="10"><font face="Arial Black"><font color="#262224">TAIYO BEER, LTD.</font></font></font></b></font>
+
+2
+00:04:20,110 --> 00:04:22,490
+<font face="Gandhi Sans" size="24"><b><font size="8"><font face="Times New Roman"><font color="#262224">SALES DEPARTMENT</font></font></font></b></font>
+
+3
+00:04:47,140 --> 00:04:51,180
+<font face="Gandhi Sans" size="24"><b><font face="Arial Black"><font size="14"><font color="#f1ede9">KANZAKI YUTAKA (67)</font></font></font></b></font>
+
+4
+00:06:16,900 --> 00:06:21,740
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font color="#211b12">The Drops of God</font></b></font></b></font>
+
+5
+00:07:18,550 --> 00:07:25,290
+<font face="Trebuchet MS" size="24">{\an8}<font face="Times New Roman"><b><font color="#211b12">The Drops of God</font></b></font></font>
+
+6
+00:11:39,170 --> 00:11:41,630
+<font face="Gandhi Sans" size="24"><b>{\an1}<font face="Arial"><font size="14"><u><b><font color="#f8d2ca">Vegetal and Spicy Notes</font></b></u></font></font></b></font>
+
+7
+00:11:39,170 --> 00:11:41,630
+<font face="Gandhi Sans" size="24"><b>{\an1}<font face="Arial"><font size="14"><u><b><font color="#f8d2ca">Animal Notes</font></b></u></font></font></b></font>
+
+8
+00:14:16,580 --> 00:14:20,000
+<font face="Trebuchet MS" size="24">{\an8}<font size="20"><font face="Arial Black">Capital City Hotel's 50th Anniversary
+<b><font face="Times New Roman"><font color="#272825">Rising Wine Critic Tomine Issei on Wine</font></font></b></font></font></font>
+
