@@ -1,0 +1,89 @@
+1
+00:00:11,570 --> 00:00:14,860
+<font size="20" color="#000000"><b><font face="Georgia"><font size="30">Daemons of the Shadow Realm</font></font></b></font>
+
+2
+00:01:35,200 --> 00:01:36,950
+<font size="20" color="#000000"><b><font size="12"><font color="#5d0017">Clothing Store</font></font></b></font>
+
+3
+00:01:35,200 --> 00:01:36,950
+<font size="20" color="#000000"><b><font face="Verdana"><font color="#616f9b">Murashima</font></font></b></font>
+
+4
+00:02:04,430 --> 00:02:06,100
+<font size="20" color="#000000">{\an8}<b><font face="Times New Roman"><font color="#576889">New</font></font></b></font>
+
+5
+00:02:04,430 --> 00:02:06,100
+<font size="20" color="#000000"><font size="16">{\an8}<font face="Georgia"><b><font color="#000000">Fluffy Rice 
+<font size="24">Salted Rice Ball</font></font></b></font></font></font>
+
+6
+00:02:04,430 --> 00:02:06,100
+<font size="20" color="#000000"><font color="#32212d"><font face="Times New Roman"><b>100% 
+Rice</b></font></font></font>
+
+7
+00:02:04,430 --> 00:02:06,100
+<font size="20" color="#000000"><font color="#32212d"><font face="Times New Roman"><b>Coarse Salt</b></font></font></font>
+
+8
+00:02:06,110 --> 00:02:07,650
+<font size="20" color="#000000"><font size="8"><b><font color="#332841">Crispy 
+Seaweed</font></b></font></font>
+
+9
+00:02:06,110 --> 00:02:07,650
+<font size="20" color="#000000"><b><font size="8"><font color="#000000">No Millet</font></font></b></font>
+
+10
+00:02:06,110 --> 00:02:07,650
+<font size="20" color="#000000"><b><font face="Times New Roman">Pickled 
+Plum</font></b></font>
+
+11
+00:02:07,650 --> 00:02:09,400
+<font size="20" color="#000000">{\an8}<b><font face="Georgia"><font color="#5a6a89">Seaweed</font></font></b></font>
+
+12
+00:02:07,650 --> 00:02:09,400
+<font size="20" color="#000000">{\an8}<b><font face="Times New Roman"><font color="#0c111c"><font size="14">Fluffy
+Rice</font></font></font></b></font>
+
+13
+00:02:07,650 --> 00:02:09,400
+<font size="20" color="#000000"><font size="12"><b><font color="#ffffff">Crispy 
+Seaweed</font></b></font></font>
+
+14
+00:03:50,290 --> 00:03:52,790
+<font size="20" color="#000000"><b><font face="Times New Roman"><font color="#af2d1b">Episode 3
+<font size="18">Dera and Hana</font></font></font></b></font>
+
+15
+00:13:48,680 --> 00:13:49,970
+<font size="20" color="#000000">{\an2}<b><font face="Times New Roman"><font size="35"><font color="#dcdedf">Daemons of the Shadow Realm</font></font></font></b></font>
+
+16
+00:15:58,640 --> 00:16:05,060
+<font size="20" color="#000000"><b><font face="Georgia">{\an8}Break</font></b></font>
+
+17
+00:16:05,060 --> 00:16:11,570
+<font size="20" color="#000000">{\an8}<b><font face="Georgia"><font color="#fdfcf6">Seal</font></font></b></font>
+
+18
+00:18:37,090 --> 00:18:40,340
+<font size="20" color="#000000"><b><font color="#27233b"><font size="15"><font face="Times New Roman">{\an7}Help us conserve power.</font></font></font></b></font>
+
+19
+00:23:26,550 --> 00:23:27,930
+<font size="20" color="#000000"><b><font face="Times New Roman"><font size="23"><font color="#a24f43">Next Episode
+ Preview</font></font></font></b></font>
+
+20
+00:23:36,940 --> 00:23:39,940
+<font size="20" color="#000000"><b><font face="Times New Roman"><font size="19"><font color="#fbd6dd">Episode 4
+<font size="20">Jin and Yuru</font></font></font></font></b></font>
+
