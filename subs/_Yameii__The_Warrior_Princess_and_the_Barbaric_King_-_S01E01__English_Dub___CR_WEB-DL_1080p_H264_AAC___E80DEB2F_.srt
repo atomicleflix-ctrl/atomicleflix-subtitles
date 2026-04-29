@@ -1,0 +1,54 @@
+1
+00:01:00,050 --> 00:01:06,480
+<font face="Georgia" size="24" color="#8f413d">{\an7}1342 Anno Draconis
+In the east of the continent—
+
+Barbarian Territory</font>
+
+2
+00:02:05,490 --> 00:02:09,230
+<font face="Trebuchet MS" size="24">{\an5}<font color="#f4f4d9">m 10 0 l 185 0 l 195 10 l 195 50 l 185 60 l 185 60 l 10 60 l 0 50 l 0 10</font></font>
+
+3
+00:02:05,490 --> 00:02:09,230
+<font face="Trebuchet MS" size="24"><font face="Georgia"><font size="16">{\an5}<font color="#903c3e">Illdoren Kingdom
+ Eastern Expeditionary Force
+First Company Captain
+ Serafina de Lavillant</font></font></font></font>
+
+4
+00:02:57,620 --> 00:03:00,080
+<font face="Trebuchet MS" size="24">{\an5}<font color="#f7f6df">m 10 0 l 160 0 l 170 10 l 170 60 l 160 70 l 160 70 l 10 70 l 0 60 l 0 10</font></font>
+
+5
+00:02:57,620 --> 00:03:00,080
+<font face="Trebuchet MS" size="24"><font face="Georgia"><font size="20">{\an5}<font color="#903c3e">"Thundering Voice"
+<font size="28">Veor</font></font></font></font></font>
+
+6
+00:14:48,610 --> 00:14:55,120
+<font face="Georgia" size="24" color="#8f413d">{\an7}<font size="14">Seven Years Ago</font></font>
+
+7
+00:14:48,620 --> 00:14:55,120
+<font face="Trebuchet MS" size="24">{\an5}<font color="#f4f4d9">m 10 0 l 160 0 l 170 10 l 170 50 l 160 60 l 160 60 l 10 60 l 0 50 l 0 10</font></font>
+
+8
+00:14:48,620 --> 00:14:55,120
+<font face="Trebuchet MS" size="24"><font face="Georgia"><font size="14">{\an5}<font color="#903c3e">Illdoren Kingdom
+Province of Margrave Lavillant
+Eau de Marie</font></font></font></font>
+
+9
+00:15:07,140 --> 00:15:12,890
+<font face="Trebuchet MS" size="24">{\an5}<font color="#f4f4d9">m 10 0 l 150 0 l 160 10 l 160 60 l 150 70 l 150 70 l 10 70 l 0 60 l 0 10</font></font>
+
+10
+00:15:07,140 --> 00:15:12,890
+<font face="Trebuchet MS" size="24"><font face="Georgia"><font size="20">{\an5}<font color="#903c3e">Margrave
+Sidius de Lavillant</font></font></font></font>
+
+11
+00:22:08,970 --> 00:22:09,970
+<font face="Trebuchet MS" size="24">{\an8}<font face="Times New Roman"><b><font color="#fefdfa">T<font color="#fdfcf8">h<font color="#fcfbf6">e<font color="#fbfaf4"> <font color="#faf9f2">W<font color="#faf8f1">a<font color="#f9f7ef">r<font color="#f8f6ed">r<font color="#f7f5eb">i<font color="#f6f4e9">o<font color="#f5f3e7">r<font color="#f4f2e5"> <font color="#f3f1e3">P<font color="#f3f0e2">r<font color="#f2efe0">i<font color="#f1eede">n<font color="#f0eddc">c<font color="#efecda">e<font color="#eeebd8">s<font color="#edead6">s<font color="#ece9d4"> <font color="#ece7d3">a<font color="#ebe6d1">n<font color="#eae5cf">d<font color="#e9e4cd"> <font color="#e8e3cb">t<font color="#e7e2c9">h<font color="#e6e1c7">e<font color="#e5e0c5"> <font color="#e5dfc4">B<font color="#e4dec2">a<font color="#e3ddc0">r<font color="#e2dcbe">b<font color="#e1dbbc">a<font color="#e0daba">r<font color="#dfd9b8">i<font color="#ded8b6">c<font color="#ded7b5"> <font color="#ddd6b3">K<font color="#dcd5b1">i<font color="#dbd4af">n<font color="#dad3ad">g</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></b></font></font>
+
