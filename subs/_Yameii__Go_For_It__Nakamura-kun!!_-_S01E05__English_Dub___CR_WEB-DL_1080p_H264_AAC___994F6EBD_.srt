@@ -1,0 +1,327 @@
+1
+00:00:05,740 --> 00:00:05,860
+<font face="Gandhi Sans" size="24"><b><font face="Georgia"><b><font size="12"><font color="#1a1610">Top Secret</font></font></b></font></b></font>
+
+2
+00:00:05,860 --> 00:00:05,990
+<font face="Gandhi Sans" size="24"><b><font face="Georgia"><b><font size="12"><font color="#1a1610">Top Secret</font></font></b></font></b></font>
+
+3
+00:00:05,990 --> 00:00:06,110
+<font face="Gandhi Sans" size="24"><b><font face="Georgia"><b><font size="12"><font color="#1a1610">Top Secret</font></font></b></font></b></font>
+
+4
+00:00:06,110 --> 00:00:06,860
+<font face="Gandhi Sans" size="24"><b><font face="Georgia"><b><font size="12"><font color="#1a1610">Top Secret</font></font></b></font></b></font>
+
+5
+00:00:06,860 --> 00:00:06,990
+<font face="Gandhi Sans" size="24"><b><font face="Georgia"><b><font size="12"><font color="#1a1610">Top Secret</font></font></b></font></b></font>
+
+6
+00:00:06,990 --> 00:00:07,490
+<font face="Gandhi Sans" size="24"><b><font face="Georgia"><b><font size="12"><font color="#1a1610">Top Secret</font></font></b></font></b></font>
+
+7
+00:00:07,490 --> 00:00:09,490
+<font face="Gandhi Sans" size="24"><b>{\an1}<b><font face="Times New Roman"><font size="18"><font color="#504845">Me</font></font></font></b></b></font>
+
+8
+00:00:07,490 --> 00:00:09,490
+<font face="Gandhi Sans" size="24"><b>{\an1}<b><font face="Times New Roman"><font size="18"><font color="#504845">Hirose</font></font></font></b></b></font>
+
+9
+00:00:07,490 --> 00:00:09,490
+<font face="Gandhi Sans" size="24"><b>{\an1}<b><font face="Times New Roman"><font size="18"><font color="#504845">Plan to Become Hirose's Friend!</font></font></font></b></b></font>
+
+10
+00:00:07,490 --> 00:00:09,490
+<font face="Gandhi Sans" size="24"><b>{\an1}<b><font face="Times New Roman"><font size="15"><font color="#504845">Walk home after school together</font></font></font></b></b></font>
+
+11
+00:00:07,490 --> 00:00:09,490
+<font face="Gandhi Sans" size="24"><b>{\an1}<b><font face="Times New Roman"><font size="15"><font color="#504845">Walk to school in the morning together</font></font></font></b></b></font>
+
+12
+00:00:07,490 --> 00:00:09,490
+<font face="Gandhi Sans" size="24"><b>{\an1}<b><font face="Times New Roman"><font size="15"><font color="#504845">Eat lunch together</font></font></font></b></b></font>
+
+13
+00:00:07,490 --> 00:00:09,490
+<font face="Gandhi Sans" size="24"><b>{\an1}<b><font face="Times New Roman"><font size="15"><font color="#504845">Listen to our favorite songs together</font></font></font></b></b></font>
+
+14
+00:00:07,490 --> 00:00:09,490
+<font face="Gandhi Sans" size="24"><b>{\an1}<b><font face="Times New Roman"><font size="15"><font color="#504845">Help each other study</font></font></font></b></b></font>
+
+15
+00:00:07,490 --> 00:00:09,490
+<font face="Gandhi Sans" size="24"><b>{\an1}<b><font face="Times New Roman"><font size="15"><font color="#504845">Exchange contact information</font></font></font></b></b></font>
+
+16
+00:00:07,490 --> 00:00:09,490
+<font face="Gandhi Sans" size="24"><b>{\an1}<b><font face="Times New Roman"><font size="15"><font color="#504845">Hang out after school</font></font></font></b></b></font>
+
+17
+00:00:07,490 --> 00:00:09,490
+<font face="Gandhi Sans" size="24"><b>{\an1}<b><font face="Times New Roman"><font size="15"><font color="#504845">Hang out on the weekend</font></font></font></b></b></font>
+
+18
+00:00:07,490 --> 00:00:09,490
+<font face="Gandhi Sans" size="24"><b>{\an1}<b><font face="Times New Roman"><font size="15"><font color="#504845">Call each other by our given names</font></font></font></b></b></font>
+
+19
+00:00:09,490 --> 00:00:11,990
+<font face="Gandhi Sans" size="24"><b>{\an1}<b><font face="Times New Roman"><font size="44"><font color="#03030b">Plan to Become Hirose's Friend!</font></font></font></b></b></font>
+
+20
+00:00:09,490 --> 00:00:11,990
+<font face="Gandhi Sans" size="24"><b>{\an1}<b><font face="Times New Roman"><font size="32"><font color="#03030b">Walk home after school together</font></font></font></b></b></font>
+
+21
+00:00:09,490 --> 00:00:11,990
+<font face="Gandhi Sans" size="24"><b>{\an1}<b><font face="Times New Roman"><font size="32"><font color="#03030b">Walk to school in the morning together</font></font></font></b></b></font>
+
+22
+00:00:21,330 --> 00:00:21,460
+<font face="Gandhi Sans" size="24"><b><font face="Georgia"><b><font size="18"><font color="#1a1610">Top Secret</font></font></b></font></b></font>
+
+23
+00:00:21,460 --> 00:00:21,580
+<font face="Gandhi Sans" size="24"><b><font face="Georgia"><b><font size="18"><font color="#1a1610">Top Secret</font></font></b></font></b></font>
+
+24
+00:00:21,580 --> 00:00:22,590
+<font face="Gandhi Sans" size="24"><b><font face="Georgia"><b><font size="18"><font color="#1a1610">Top Secret</font></font></b></font></b></font>
+
+25
+00:00:22,590 --> 00:00:26,840
+<font face="Gandhi Sans" size="24"><b>{\an1}<b><font face="Times New Roman"><font size="26"><font color="#03030b">Plan to Become Hirose's Friend!</font></font></font></b></b></font>
+
+26
+00:00:22,590 --> 00:00:26,840
+<font face="Gandhi Sans" size="24"><b>{\an1}<b><font face="Times New Roman"><font size="20"><font color="#03030b">Walk home after school together</font></font></font></b></b></font>
+
+27
+00:00:22,590 --> 00:00:26,840
+<font face="Gandhi Sans" size="24"><b>{\an1}<b><font face="Times New Roman"><font size="20"><font color="#2c2c2d">Walk to school in the morning together</font></font></font></b></b></font>
+
+28
+00:00:22,590 --> 00:00:26,840
+<font face="Gandhi Sans" size="24"><b>{\an1}<b><font face="Times New Roman"><font size="20"><font color="#2c2c2d">Eat lunch together</font></font></font></b></b></font>
+
+29
+00:00:22,590 --> 00:00:26,840
+<font face="Gandhi Sans" size="24"><b>{\an1}<b><font face="Times New Roman"><font size="20"><font color="#2c2c2d">Listen to our favorite songs together</font></font></font></b></b></font>
+
+30
+00:00:22,590 --> 00:00:26,840
+<font face="Gandhi Sans" size="24"><b>{\an1}<b><font face="Times New Roman"><font size="20"><font color="#2c2c2d">Help each other study</font></font></font></b></b></font>
+
+31
+00:00:22,590 --> 00:00:26,840
+<font face="Gandhi Sans" size="24"><b>{\an1}<b><font face="Times New Roman"><font size="20"><font color="#2c2c2d">Exchange contact information</font></font></font></b></b></font>
+
+32
+00:00:22,590 --> 00:00:26,840
+<font face="Gandhi Sans" size="24"><b>{\an1}<b><font face="Times New Roman"><font size="20"><font color="#2c2c2d">Hang out after school</font></font></font></b></b></font>
+
+33
+00:00:26,840 --> 00:00:31,340
+<font face="Gandhi Sans" size="24"><b><b><font face="Times New Roman"><font size="14"><font color="#2c2c2d">Call each other by our given names</font></font></font></b></b></font>
+
+34
+00:00:26,840 --> 00:00:31,340
+<font face="Gandhi Sans" size="24"><b><b><font face="Times New Roman"><font size="14"><font color="#2c2c2d">Hang out on the weekend</font></font></font></b></b></font>
+
+35
+00:00:26,840 --> 00:00:31,340
+<font face="Gandhi Sans" size="24"><b><b><font face="Times New Roman"><font size="14"><font color="#2c2c2d">Hang out after school</font></font></font></b></b></font>
+
+36
+00:00:26,840 --> 00:00:31,340
+<font face="Gandhi Sans" size="24"><b><b><font face="Times New Roman"><font size="14"><font color="#2c2c2d">Exchange contact information</font></font></font></b></b></font>
+
+37
+00:00:26,840 --> 00:00:31,340
+<font face="Gandhi Sans" size="24"><b><b><font face="Times New Roman"><font size="14"><font color="#2c2c2d">Help each other study</font></font></font></b></b></font>
+
+38
+00:00:26,840 --> 00:00:31,340
+<font face="Gandhi Sans" size="24"><b><b><font face="Times New Roman"><font size="14"><font color="#2c2c2d">Listen to our favorite songs together</font></font></font></b></b></font>
+
+39
+00:00:26,840 --> 00:00:31,340
+<font face="Gandhi Sans" size="24"><b><b><font face="Times New Roman"><font size="14"><font color="#2c2c2d">Eat lunch
+together</font></font></font></b></b></font>
+
+40
+00:01:05,250 --> 00:01:05,380
+<font face="Gandhi Sans" size="24"><b><font face="Georgia"><b><font size="18"><font color="#1a1610">Top Secret</font></font></b></font></b></font>
+
+41
+00:01:05,380 --> 00:01:13,260
+<font face="Gandhi Sans" size="24"><b><font face="Georgia"><b><font size="18"><font color="#1a1610">Top Secret</font></font></b></font></b></font>
+
+42
+00:02:55,070 --> 00:02:59,530
+<font face="Gandhi Sans" size="24"><b><font face="Comic Sans MS"><b><font size="30">Vexing! Are They an Item?!</font></b></font></b></font>
+
+43
+00:03:13,300 --> 00:03:13,340
+<font face="Gandhi Sans" size="24"><b><font face="Impact"><font size="70"><font color="#909cdc">RIP</font></font></font></b></font>
+
+44
+00:03:13,340 --> 00:03:13,380
+<font face="Gandhi Sans" size="24"><b><font face="Impact"><font size="70"><font color="#909cdc">RIP</font></font></font></b></font>
+
+45
+00:03:13,380 --> 00:03:13,420
+<font face="Gandhi Sans" size="24"><b><font face="Impact"><font size="70"><font color="#909cdc">RIP</font></font></font></b></font>
+
+46
+00:03:13,420 --> 00:03:13,460
+<font face="Gandhi Sans" size="24"><b><font face="Impact"><font size="70"><font color="#909cdc">RIP</font></font></font></b></font>
+
+47
+00:03:13,460 --> 00:03:13,800
+<font face="Gandhi Sans" size="24"><b><font face="Impact"><font size="70"><font color="#909cdc">RIP</font></font></font></b></font>
+
+48
+00:05:58,000 --> 00:06:02,720
+<font face="Gandhi Sans" size="24"><b><b><font size="8">{\an8}<font color="#6e1a29">Friend</font></font></b></b></font>
+
+49
+00:05:58,000 --> 00:06:03,050
+<font face="Gandhi Sans" size="24"><b><b><font size="8">{\an8}<font color="#6e1a29">Friend</font></font></b></b></font>
+
+50
+00:05:58,000 --> 00:06:03,180
+<font face="Gandhi Sans" size="24"><b><b><font size="8">{\an8}<font color="#6e1a29">Friend</font></font></b></b></font>
+
+51
+00:06:01,420 --> 00:06:04,680
+<font face="Gandhi Sans" size="24"><b><b><font size="12">{\an8}<font color="#6e1a29"><font size="120">Friend</font></font></font></b></b></font>
+
+52
+00:06:17,650 --> 00:06:17,770
+<font face="Gandhi Sans" size="24"><b><b><font size="80">{\an8}<font color="#6e1a29">Friend</font></font></b></b></font>
+
+53
+00:06:17,770 --> 00:06:17,900
+<font face="Gandhi Sans" size="24"><b><b><font size="80">{\an8}<font color="#6e1a29">Friend</font></font></b></b></font>
+
+54
+00:06:17,900 --> 00:06:18,020
+<font face="Gandhi Sans" size="24"><b><b><font size="80">{\an8}<font color="#6e1a29">Friend</font></font></b></b></font>
+
+55
+00:06:18,020 --> 00:06:18,150
+<font face="Gandhi Sans" size="24"><b><b><font size="80">{\an8}<font color="#6e1a29">Friend</font></font></b></b></font>
+
+56
+00:06:18,150 --> 00:06:18,270
+<font face="Gandhi Sans" size="24"><b><b><font size="80">{\an8}<font color="#6e1a29">Friend</font></font></b></b></font>
+
+57
+00:08:51,340 --> 00:08:55,350
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="20"><font color="#9f79ef">SEETHE</font></font></b></font></b></font>
+
+58
+00:08:51,340 --> 00:08:55,350
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="20"><font color="#9f79ef">SEETHE</font></font></b></font></b></font>
+
+59
+00:08:57,850 --> 00:08:59,850
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="30"><font color="#9f79ef">SEETHE</font></font></b></font></b></font>
+
+60
+00:08:57,850 --> 00:08:59,850
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="31"><font color="#9f79ef">SEETHE</font></font></b></font></b></font>
+
+61
+00:08:57,850 --> 00:08:59,850
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="30"><font color="#9f79ef">SEETHE</font></font></b></font></b></font>
+
+62
+00:08:57,850 --> 00:08:59,850
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="30"><font color="#9f79ef">SEETHE</font></font></b></font></b></font>
+
+63
+00:09:01,850 --> 00:09:03,360
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="40"><font color="#9f79ef">SEETHE</font></font></b></font></b></font>
+
+64
+00:09:01,850 --> 00:09:03,360
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="40"><font color="#9f79ef">SEETHE</font></font></b></font></b></font>
+
+65
+00:09:01,850 --> 00:09:03,360
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="40"><font color="#9f79ef">SEETHE</font></font></b></font></b></font>
+
+66
+00:09:01,850 --> 00:09:03,360
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="40"><font color="#9f79ef">SEETHE</font></font></b></font></b></font>
+
+67
+00:09:01,850 --> 00:09:03,360
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="40"><font color="#9f79ef">SEETHE</font></font></b></font></b></font>
+
+68
+00:09:01,850 --> 00:09:03,360
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="40"><font color="#9f79ef">SEETHE</font></font></b></font></b></font>
+
+69
+00:12:36,990 --> 00:12:40,450
+<font face="Gandhi Sans" size="24"><b>{\an9}<b><font face="Georgia"><font size="50"><font color="#361b3f">Sentenced 
+to Baldness</font></font></font></b></b></font>
+
+70
+00:16:14,540 --> 00:16:18,920
+<font face="Gandhi Sans" size="24"><b><b>{\an8}<font size="11"><font face="Arial">Easy to Drink!</font></font></b></b></font>
+
+71
+00:16:14,540 --> 00:16:18,920
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="26">{\an8}<font color="#cb212b">Gigant Protein</font></font></b></font></b></font>
+
+72
+00:16:14,540 --> 00:16:18,920
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="26">{\an8}<font color="#cb212b">Gigant Protein</font></font></b></font></b></font>
+
+73
+00:16:14,540 --> 00:16:18,920
+<font face="Gandhi Sans" size="24"><b>{\an8}<font size="9"><font color="#0f0802">For a Healthy Body and Mind</font></font></b></font>
+
+74
+00:16:14,540 --> 00:16:18,920
+<font face="Gandhi Sans" size="24"><b><b><font size="10"><font color="#ca6172">Gigant Balance!</font></font></b></b></font>
+
+75
+00:16:14,540 --> 00:16:18,920
+<font face="Gandhi Sans" size="24"><b><b><font size="10"><font color="#ca6172">Gigant Balance!</font></font></b></b></font>
+
+76
+00:16:14,540 --> 00:16:18,920
+<font face="Gandhi Sans" size="24"><b><b><font size="10"><font color="#1f1717">Avocado Flavor</font></font></b></b></font>
+
+77
+00:16:14,660 --> 00:16:18,920
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="36">{\an8}<font color="#cb212b">Gigant Protein</font></font></b></font></b></font>
+
+78
+00:16:14,660 --> 00:16:18,920
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><b><font size="36">{\an8}<font color="#cb212b">Gigant Protein</font></font></b></font></b></font>
+
+79
+00:16:53,200 --> 00:16:54,700
+<font face="Gandhi Sans" size="24"><b><font face="Arial"><font size="38"><b><font color="#5e1824">*Follow the recommended serving size</font></b></font></font></b></font>
+
+80
+00:18:42,680 --> 00:18:45,690
+<font face="Gandhi Sans" size="24"><b><b>{\an1}<font face="Arial Black"><font size="12"><font color="#425062">Nurse's Office</font></font></font></b></b></font>
+
+81
+00:22:13,600 --> 00:22:17,570
+<font face="Gandhi Sans" size="24"><b><font face="Georgia"><font size="30"><b><font color="#694301">At the extracurricular lesson
+ in Yokohama...</font></b></font></font></b></font>
+
