@@ -1,0 +1,30 @@
+1
+00:01:48,670 --> 00:01:57,430
+<font face="Gandhi Sans" size="24"><b>{\an8}<font color="#f8f1f1">m 0 0 l 230 0 l 230 215 l 0 215</font></b></font>
+
+2
+00:01:48,670 --> 00:01:57,430
+<font face="Gandhi Sans" size="24"><b>{\an8}<font size="25"><font face="Times New Roman"><font color="#1e1e1e"><b>Agents
+of
+the
+Four
+Seasons:
+
+
+<font size="15"><font color="#b09f5c">Dance
+of
+Spring</font></font></b></font></font></font></b></font>
+
+3
+00:05:28,390 --> 00:05:31,390
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Times New Roman"><font size="16"><font color="#b09f5c"><b>Episode 3: <font size="23"><font color="#1e1e1e"><b>A Glimpse</b></font></font></b></font></font></font></b></font>
+
+4
+00:21:38,400 --> 00:21:40,400
+<font face="Gandhi Sans" size="24"><b><font size="10"><b>{\an7}<font face="Arial"><font color="#000000">Network Service
+No Internet Connection</font></font></b></font></b></font>
+
+5
+00:23:35,020 --> 00:23:40,020
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Times New Roman"><font size="16"><font color="#b09f5c"><b>Next Time: <font size="23"><font color="#1e1e1e"><b>Mo<font color="#e15b89">r<font color="#000000">ning Calm</font></font></b></font></font></b></font></font></font></b></font>
+
