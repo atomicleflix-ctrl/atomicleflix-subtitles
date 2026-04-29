@@ -1,0 +1,170 @@
+1
+00:01:51,010 --> 00:01:55,720
+<font face="Gandhi Sans" size="24"><b><font face="Georgia"><font size="12"><font color="#2d2925">Episode 13
+Barrier Day</font></font></font></b></font>
+
+2
+00:03:06,460 --> 00:03:08,920
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="20">Rigarden Magical Academy</font></b></font></b></font>
+
+3
+00:03:08,920 --> 00:03:10,550
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="20">The Day Before the Final Day of Graduation Exams
+Rigarden Magical Academy, Faculty Room</font></b></font></b></font>
+
+4
+00:03:27,900 --> 00:03:31,610
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="14">Rigarden Magical Academy Professor
+<font size="22">Edward Serfence</font></font></b></font></b></font>
+
+5
+00:03:35,700 --> 00:03:38,080
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="20">Written Magizoology
+Will Serfort: Perfect Score</font></b></font></b></font>
+
+6
+00:03:38,490 --> 00:03:41,000
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="14">Rigarden Magical Academy Professor
+<font size="22">Workner Norgram</font></font></b></font></b></font>
+
+7
+00:03:44,750 --> 00:03:48,580
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="14">Rigarden Magical Academy Professor
+<font size="22">Eliza Nosferat</font></font></b></font></b></font>
+
+8
+00:04:02,140 --> 00:04:05,520
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="14">Rigarden Magical Academy 
+<font size="22">Study Room</font></font></b></font></b></font>
+
+9
+00:04:14,610 --> 00:04:18,660
+<font face="Gandhi Sans" size="24"><b>{\an8}<font face="Times New Roman"><b><font size="14">Familiar
+<font size="22"> Kiki</font></font></b></font></b></font>
+
+10
+00:04:14,610 --> 00:04:18,660
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="14">Rigarden Magical Academy, Sixth Year
+<font size="22">Will Serfort</font></font></b></font></b></font>
+
+11
+00:04:20,490 --> 00:04:25,460
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="14">Rigarden Magical Academy, Sixth Year
+<font size="22">Colette Loire</font></font></b></font></b></font>
+
+12
+00:04:40,220 --> 00:04:44,810
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="14">Rigarden Magical Academy, Sixth Year
+<font size="22">Rosty Nowman</font></font></b></font></b></font>
+
+13
+00:05:21,010 --> 00:05:25,940
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="14">Rigarden Magical Academy 
+<font size="22">Headmistress's Office</font></font></b></font></b></font>
+
+14
+00:05:34,320 --> 00:05:39,200
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="14">Rigarden Magical Academy 
+<font size="22">Julius Reinberg</font></font></b></font></b></font>
+
+15
+00:05:42,160 --> 00:05:47,040
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="14">Rigarden Magical Academy 
+<font size="22">Sion Ulster</font></font></b></font></b></font>
+
+16
+00:06:01,640 --> 00:06:06,060
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="14">Rigarden Magical Academy Headmistress
+<font size="22">Caldron Anouve</font></font></b></font></b></font>
+
+17
+00:06:08,390 --> 00:06:13,320
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="14">Rigarden Magical Academy 
+<font size="22">Breezeway</font></font></b></font></b></font>
+
+18
+00:06:19,570 --> 00:06:24,580
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="14">Rigarden Magical Academy, Sixth Year
+<font size="22">Wignall Lindor</font></font></b></font></b></font>
+
+19
+00:06:19,570 --> 00:06:24,580
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="14">Rigarden Magical Academy, Sixth Year
+<font size="22">Lihanna Owenzaus</font></font></b></font></b></font>
+
+20
+00:09:13,160 --> 00:09:16,660
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="22">Elfaria Albis Serfort</font></b></font></b></font>
+
+21
+00:09:16,740 --> 00:09:19,290
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="14">Ice Faction Aide-de-Camp 
+<font size="22">Sarissa Alfeld</font></font></b></font></b></font>
+
+22
+00:09:33,720 --> 00:09:37,180
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="22">Ellenor Ljos Alf</font></b></font></b></font>
+
+23
+00:09:55,740 --> 00:09:58,580
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="22">Zeo Thorzeus Reinbolt</font></b></font></b></font>
+
+24
+00:10:32,070 --> 00:10:33,740
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="22">History of Magic Final Exam</font></b></font></b></font>
+
+25
+00:14:03,070 --> 00:14:07,740
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="22">The List of Failed Students</font></b></font></b></font>
+
+26
+00:14:08,030 --> 00:14:11,200
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="22">Will Serfort</font></b></font></b></font>
+
+27
+00:14:24,680 --> 00:14:27,970
+<font face="Gandhi Sans" size="24"><b>{\an1}<font face="Times New Roman"><font size="10"><b><u><font color="#5f2f0c">Rigarden</font></u>
+<font size="8">Officially Urbus Rigarden, the capital of magic. It is the capital city of the Rhizanth,
+the inhabitants of paradise. A great metropolis that stands at the center of the world of magic.
+
+Mercedes Caulis, the Wizard's Tower, welcomes the five most powerful wizards, the Magia Vander.
+Rigarden Magical Academy boasts the world's best magic education program.
+The Abyss Gate is the first gate leading into the dungeon.
+
+The city's many important facilities bring in talented fledgling mages from all over the world.
+The city is also called the Land of Legend, or the Land of Beginning, for driving off the Celestial Host.</font></b></font></font></b></font>
+
+28
+00:14:29,680 --> 00:14:32,980
+<font face="Gandhi Sans" size="24"><b>{\an1}<font face="Times New Roman"><font size="10"><b><u><font color="#5f2f0c">Terminalia, The Barrier Festival</font></u>
+
+Do not ever leave this undone. It must always be built.
+ Whatever it may take, send the barrier to the edge of the sky.
+ That is why the Magia Vander exist.
+
+-The words of a certain mage queen.</b></font></font></b></font>
+
+29
+00:17:39,370 --> 00:17:44,250
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="22">Clairie Serah</font></b></font></b></font>
+
+30
+00:19:35,570 --> 00:19:40,370
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="14">The Wizard's Tower Watcher
+<font size="22">Iris Churchill</font></font></b></font></b></font>
+
+31
+00:19:41,780 --> 00:19:44,200
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="14">Fire Faction
+<font size="22">Rodge Holland</font></font></b></font></b></font>
+
+32
+00:21:29,730 --> 00:21:35,650
+<font face="Gandhi Sans" size="24"><b><font face="Times New Roman"><b><font size="14">Vandes Terminalia
+<font size="18"> Supreme Spell: The Five Wands' Great Barrier Partitioning Paradise</font></font></b></font></b></font>
+
+33
+00:23:40,940 --> 00:23:45,950
+<font face="Gandhi Sans" size="24"><b><font face="Georgia"><font size="12">{\an8}Episode 14 
+The Party from Hell Begins</font></font></b></font>
+
